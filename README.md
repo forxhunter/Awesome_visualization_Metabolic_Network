@@ -10,7 +10,12 @@ metabolic network the way a curator would rather than the way a force-directed a
 
 ---
 
-## Citation
+## Licence and citation
+
+These maps are licensed under
+**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. You are free to share and adapt
+them, including commercially, **on the condition that you give attribution** — attribution is a
+term of the licence, not a courtesy.
 
 **If you use or modify these maps — in a paper, a figure, a talk, a poster, a database, or
 derived software — you must cite this repository.**
@@ -137,10 +142,14 @@ Corrections and improved layouts are welcome — open an issue or a pull request
 
 ---
 
-## License
+## Licence
 
-MIT (see [LICENSE](LICENSE)). The licence governs reuse of the files; the citation requirement
-above is the condition for using them in scholarly or published work.
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+(CC BY 4.0) — full legal code in [LICENSE](LICENSE), summary in [NOTICE](NOTICE).
+
+You may share and adapt these maps for any purpose, including commercially. You must give
+appropriate credit, link to the licence, and indicate if you made changes. See
+**Licence and citation** above for the form that credit should take.
 
 *Created by Tianyu Wu (GitHub: [forxhunter](https://github.com/forxhunter)), University of
 Illinois Urbana-Champaign.*
