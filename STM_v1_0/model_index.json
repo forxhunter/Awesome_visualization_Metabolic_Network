@@ -7,7 +7,7 @@
    "file": "Other_metabolism__1_.json",
    "path": "STM_v1_0/Other_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 881,
+   "nodes": 785,
    "combined": false
   },
   {
@@ -15,15 +15,7 @@
    "file": "Other_metabolism__2_.json",
    "path": "STM_v1_0/Other_metabolism__2_.json",
    "reactions": 120,
-   "nodes": 780,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (5)",
-   "file": "Other_metabolism__5_.json",
-   "path": "STM_v1_0/Other_metabolism__5_.json",
-   "reactions": 120,
-   "nodes": 865,
+   "nodes": 707,
    "combined": false
   },
   {
@@ -31,7 +23,15 @@
    "file": "Other_metabolism__7_.json",
    "path": "STM_v1_0/Other_metabolism__7_.json",
    "reactions": 120,
-   "nodes": 998,
+   "nodes": 870,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "STM_v1_0/Other_metabolism__9_.json",
+   "reactions": 120,
+   "nodes": 889,
    "combined": false
   },
   {
@@ -55,7 +55,15 @@
    "file": "Other_metabolism__3_.json",
    "path": "STM_v1_0/Other_metabolism__3_.json",
    "reactions": 119,
-   "nodes": 876,
+   "nodes": 747,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "STM_v1_0/Other_metabolism__4_.json",
+   "reactions": 119,
+   "nodes": 754,
    "combined": false
   },
   {
@@ -63,7 +71,7 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "STM_v1_0/Transport_and_exchange__4_.json",
    "reactions": 119,
-   "nodes": 851,
+   "nodes": 737,
    "combined": false
   },
   {
@@ -71,15 +79,15 @@
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "STM_v1_0/Carbohydrate_metabolism__1_.json",
    "reactions": 118,
-   "nodes": 907,
+   "nodes": 817,
    "combined": false
   },
   {
-   "name": "Other metabolism (4)",
-   "file": "Other_metabolism__4_.json",
-   "path": "STM_v1_0/Other_metabolism__4_.json",
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "STM_v1_0/Lipid_metabolism__1_.json",
    "reactions": 118,
-   "nodes": 909,
+   "nodes": 768,
    "combined": false
   },
   {
@@ -87,7 +95,7 @@
    "file": "Transport_and_exchange__5_.json",
    "path": "STM_v1_0/Transport_and_exchange__5_.json",
    "reactions": 118,
-   "nodes": 625,
+   "nodes": 567,
    "combined": false
   },
   {
@@ -95,7 +103,15 @@
    "file": "Transport_and_exchange__6_.json",
    "path": "STM_v1_0/Transport_and_exchange__6_.json",
    "reactions": 118,
-   "nodes": 844,
+   "nodes": 718,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "STM_v1_0/Other_metabolism__5_.json",
+   "reactions": 117,
+   "nodes": 809,
    "combined": false
   },
   {
@@ -103,7 +119,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "STM_v1_0/Transport_and_exchange__3_.json",
    "reactions": 117,
-   "nodes": 858,
+   "nodes": 741,
    "combined": false
   },
   {
@@ -111,39 +127,23 @@
    "file": "Other_metabolism__8_.json",
    "path": "STM_v1_0/Other_metabolism__8_.json",
    "reactions": 116,
-   "nodes": 873,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (9)",
-   "file": "Other_metabolism__9_.json",
-   "path": "STM_v1_0/Other_metabolism__9_.json",
-   "reactions": 116,
-   "nodes": 1006,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (1)",
-   "file": "Lipid_metabolism__1_.json",
-   "path": "STM_v1_0/Lipid_metabolism__1_.json",
-   "reactions": 113,
-   "nodes": 896,
+   "nodes": 799,
    "combined": false
   },
   {
    "name": "Other metabolism (6)",
    "file": "Other_metabolism__6_.json",
    "path": "STM_v1_0/Other_metabolism__6_.json",
-   "reactions": 112,
-   "nodes": 925,
+   "reactions": 113,
+   "nodes": 768,
    "combined": false
   },
   {
    "name": "Amino acid metabolism",
    "file": "Amino_acid_metabolism.json",
    "path": "STM_v1_0/Amino_acid_metabolism.json",
-   "reactions": 111,
-   "nodes": 817,
+   "reactions": 110,
+   "nodes": 692,
    "combined": false
   },
   {
@@ -151,7 +151,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "STM_v1_0/Cofactor_and_vitamin_metabolism.json",
    "reactions": 90,
-   "nodes": 661,
+   "nodes": 563,
    "combined": false
   },
   {
@@ -159,15 +159,7 @@
    "file": "Transport_and_exchange__7_.json",
    "path": "STM_v1_0/Transport_and_exchange__7_.json",
    "reactions": 83,
-   "nodes": 798,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (2)",
-   "file": "Lipid_metabolism__2_.json",
-   "path": "STM_v1_0/Lipid_metabolism__2_.json",
-   "reactions": 80,
-   "nodes": 552,
+   "nodes": 751,
    "combined": false
   },
   {
@@ -175,7 +167,23 @@
    "file": "Nucleotide_metabolism.json",
    "path": "STM_v1_0/Nucleotide_metabolism.json",
    "reactions": 73,
-   "nodes": 579,
+   "nodes": 504,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "STM_v1_0/Lipid_metabolism__2_.json",
+   "reactions": 66,
+   "nodes": 422,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "STM_v1_0/Other_metabolism__10_.json",
+   "reactions": 45,
+   "nodes": 317,
    "combined": false
   },
   {
@@ -183,15 +191,7 @@
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "STM_v1_0/Carbohydrate_metabolism__2_.json",
    "reactions": 39,
-   "nodes": 288,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (10)",
-   "file": "Other_metabolism__10_.json",
-   "path": "STM_v1_0/Other_metabolism__10_.json",
-   "reactions": 38,
-   "nodes": 298,
+   "nodes": 246,
    "combined": false
   },
   {
@@ -199,7 +199,7 @@
    "file": "Glycan_metabolism.json",
    "path": "STM_v1_0/Glycan_metabolism.json",
    "reactions": 9,
-   "nodes": 62,
+   "nodes": 58,
    "combined": false
   },
   {

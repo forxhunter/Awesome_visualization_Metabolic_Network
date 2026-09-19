@@ -7,7 +7,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iNJ661/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 930,
+   "nodes": 807,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iNJ661/Amino_acid_metabolism__1_.json",
    "reactions": 119,
-   "nodes": 805,
+   "nodes": 720,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iNJ661/Carbohydrate_metabolism__1_.json",
    "reactions": 119,
-   "nodes": 944,
+   "nodes": 818,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iNJ661/Transport_and_exchange__2_.json",
    "reactions": 118,
-   "nodes": 708,
+   "nodes": 626,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iNJ661/Transport_and_exchange__3_.json",
    "reactions": 117,
-   "nodes": 977,
+   "nodes": 861,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Amino_acid_metabolism__2_.json",
    "path": "iNJ661/Amino_acid_metabolism__2_.json",
    "reactions": 114,
-   "nodes": 902,
+   "nodes": 768,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iNJ661/Cofactor_and_vitamin_metabolism.json",
    "reactions": 85,
-   "nodes": 640,
+   "nodes": 570,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "iNJ661/Carbohydrate_metabolism__2_.json",
    "reactions": 55,
-   "nodes": 404,
+   "nodes": 358,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iNJ661/Nucleotide_metabolism.json",
    "reactions": 54,
-   "nodes": 431,
+   "nodes": 387,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "iNJ661/Transport_and_exchange__4_.json",
    "reactions": 54,
-   "nodes": 564,
+   "nodes": 519,
    "combined": false
   },
   {
@@ -87,7 +87,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iNJ661/Lipid_metabolism.json",
    "reactions": 27,
-   "nodes": 227,
+   "nodes": 203,
    "combined": false
   },
   {
@@ -95,7 +95,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iNJ661/Glycan_metabolism.json",
    "reactions": 13,
-   "nodes": 100,
+   "nodes": 104,
    "combined": false
   },
   {
@@ -103,7 +103,7 @@
    "file": "Other_metabolism.json",
    "path": "iNJ661/Other_metabolism.json",
    "reactions": 13,
-   "nodes": 74,
+   "nodes": 72,
    "combined": false
   },
   {
@@ -111,7 +111,7 @@
    "file": "Terpenoid_and_polyketide_metabolism.json",
    "path": "iNJ661/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 9,
-   "nodes": 55,
+   "nodes": 57,
    "combined": false
   },
   {
@@ -119,7 +119,7 @@
    "file": "Amino_acid_metabolism__3_.json",
    "path": "iNJ661/Amino_acid_metabolism__3_.json",
    "reactions": 7,
-   "nodes": 50,
+   "nodes": 48,
    "combined": false
   }
  ]

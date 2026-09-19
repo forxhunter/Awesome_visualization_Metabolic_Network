@@ -7,7 +7,7 @@
    "file": "Transport_and_exchange.json",
    "path": "e_coli_core/Transport_and_exchange.json",
    "reactions": 45,
-   "nodes": 220,
+   "nodes": 194,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "e_coli_core/Carbohydrate_metabolism.json",
    "reactions": 38,
-   "nodes": 334,
+   "nodes": 294,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Amino_acid_metabolism.json",
    "path": "e_coli_core/Amino_acid_metabolism.json",
    "reactions": 12,
-   "nodes": 93,
+   "nodes": 91,
    "combined": false
   }
  ]

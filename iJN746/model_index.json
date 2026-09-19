@@ -7,7 +7,7 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iJN746/Amino_acid_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 934,
+   "nodes": 808,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iJN746/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 843,
+   "nodes": 744,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iJN746/Transport_and_exchange__2_.json",
    "reactions": 120,
-   "nodes": 654,
+   "nodes": 612,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Other_metabolism__1_.json",
    "path": "iJN746/Other_metabolism__1_.json",
    "reactions": 116,
-   "nodes": 866,
+   "nodes": 743,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iJN746/Lipid_metabolism.json",
    "reactions": 108,
-   "nodes": 761,
+   "nodes": 677,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iJN746/Transport_and_exchange__3_.json",
    "reactions": 98,
-   "nodes": 750,
+   "nodes": 632,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iJN746/Cofactor_and_vitamin_metabolism.json",
    "reactions": 63,
-   "nodes": 472,
+   "nodes": 427,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iJN746/Carbohydrate_metabolism.json",
    "reactions": 59,
-   "nodes": 458,
+   "nodes": 411,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Other_metabolism__2_.json",
    "path": "iJN746/Other_metabolism__2_.json",
    "reactions": 55,
-   "nodes": 464,
+   "nodes": 420,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Amino_acid_metabolism__2_.json",
    "path": "iJN746/Amino_acid_metabolism__2_.json",
    "reactions": 52,
-   "nodes": 472,
+   "nodes": 411,
    "combined": false
   },
   {
@@ -87,7 +87,7 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "iJN746/Transport_and_exchange__4_.json",
    "reactions": 52,
-   "nodes": 397,
+   "nodes": 389,
    "combined": false
   },
   {
@@ -95,7 +95,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iJN746/Nucleotide_metabolism.json",
    "reactions": 44,
-   "nodes": 321,
+   "nodes": 291,
    "combined": false
   },
   {
@@ -103,7 +103,7 @@
    "file": "Xenobiotic_degradation.json",
    "path": "iJN746/Xenobiotic_degradation.json",
    "reactions": 31,
-   "nodes": 228,
+   "nodes": 199,
    "combined": false
   },
   {
@@ -119,7 +119,7 @@
    "file": "Unassigned_clusters.json",
    "path": "iJN746/Unassigned_clusters.json",
    "reactions": 6,
-   "nodes": 50,
+   "nodes": 44,
    "combined": false
   }
  ]

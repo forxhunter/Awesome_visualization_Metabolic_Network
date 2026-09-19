@@ -7,7 +7,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iAF692/Transport_and_exchange__1_.json",
    "reactions": 115,
-   "nodes": 808,
+   "nodes": 677,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iAF692/Transport_and_exchange__2_.json",
    "reactions": 112,
-   "nodes": 780,
+   "nodes": 734,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Xenobiotic_degradation.json",
    "path": "iAF692/Xenobiotic_degradation.json",
    "reactions": 105,
-   "nodes": 823,
+   "nodes": 707,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Amino_acid_metabolism.json",
    "path": "iAF692/Amino_acid_metabolism.json",
    "reactions": 81,
-   "nodes": 612,
+   "nodes": 528,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iAF692/Transport_and_exchange__3_.json",
    "reactions": 73,
-   "nodes": 558,
+   "nodes": 462,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iAF692/Carbohydrate_metabolism.json",
    "reactions": 59,
-   "nodes": 469,
+   "nodes": 456,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iAF692/Cofactor_and_vitamin_metabolism.json",
    "reactions": 48,
-   "nodes": 344,
+   "nodes": 314,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Other_metabolism.json",
    "path": "iAF692/Other_metabolism.json",
    "reactions": 43,
-   "nodes": 360,
+   "nodes": 314,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iAF692/Nucleotide_metabolism.json",
    "reactions": 32,
-   "nodes": 259,
+   "nodes": 221,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Energy_metabolism.json",
    "path": "iAF692/Energy_metabolism.json",
    "reactions": 14,
-   "nodes": 101,
+   "nodes": 91,
    "combined": false
   },
   {

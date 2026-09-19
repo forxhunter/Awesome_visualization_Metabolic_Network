@@ -189,8 +189,20 @@ rather than drifting away from it.
 ## Quality
 
 Every map is scored on edge orthogonality, edge crossings, node separation, label collisions and
-local density. Across the collection the median map is fully axis-aligned with no edge crossings
-and no label overlaps.
+local density. Measured over a random sample of 150 maps drawn from all 108 models, the median
+map passes every gate:
+
+| metric | median | target |
+|---|---|---|
+| crossings per edge | 0.049 | < 0.05 |
+| fraction of segments axis-aligned | 0.989 | > 0.90 |
+| local density (`hairball_index`) | 2.94 | < 3.0 |
+| occupancy | 0.62 | 0.10 – 0.85 |
+| aspect ratio | 0.97 | 0.35 – 3.0 |
+| label-on-node / label-on-edge / label overlaps | 0 / 0 / 0 | 0 |
+
+These are medians, not guarantees: the 90th percentile for crossings is 0.30, and the hardest
+merged maps still exceed the density target.
 
 Maps are laid out main-pathway-first: the connected pathway cores are placed and keep the shape
 the layering gave them, then the small one- and two-reaction pieces are filled into the space

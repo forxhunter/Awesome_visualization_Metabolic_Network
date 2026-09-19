@@ -7,7 +7,7 @@
    "file": "Cofactor_and_vitamin_metabolism__1_.json",
    "path": "iAM_Pk459/Cofactor_and_vitamin_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 900,
+   "nodes": 785,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iAM_Pk459/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 656,
+   "nodes": 598,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Other_metabolism__1_.json",
    "path": "iAM_Pk459/Other_metabolism__1_.json",
    "reactions": 118,
-   "nodes": 884,
+   "nodes": 848,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Cofactor_and_vitamin_metabolism__2_.json",
    "path": "iAM_Pk459/Cofactor_and_vitamin_metabolism__2_.json",
    "reactions": 116,
-   "nodes": 838,
+   "nodes": 745,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iAM_Pk459/Transport_and_exchange__2_.json",
    "reactions": 112,
-   "nodes": 799,
+   "nodes": 785,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Other_metabolism__2_.json",
    "path": "iAM_Pk459/Other_metabolism__2_.json",
    "reactions": 101,
-   "nodes": 747,
+   "nodes": 636,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iAM_Pk459/Transport_and_exchange__3_.json",
    "reactions": 93,
-   "nodes": 735,
+   "nodes": 650,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "iAM_Pk459/Transport_and_exchange__4_.json",
    "reactions": 88,
-   "nodes": 642,
+   "nodes": 516,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Cofactor_and_vitamin_metabolism__3_.json",
    "path": "iAM_Pk459/Cofactor_and_vitamin_metabolism__3_.json",
    "reactions": 58,
-   "nodes": 405,
+   "nodes": 376,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iAM_Pk459/Carbohydrate_metabolism.json",
    "reactions": 47,
-   "nodes": 379,
+   "nodes": 342,
    "combined": false
   },
   {
@@ -87,7 +87,7 @@
    "file": "Amino_acid_metabolism.json",
    "path": "iAM_Pk459/Amino_acid_metabolism.json",
    "reactions": 37,
-   "nodes": 279,
+   "nodes": 243,
    "combined": false
   },
   {
@@ -95,7 +95,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iAM_Pk459/Lipid_metabolism.json",
    "reactions": 30,
-   "nodes": 245,
+   "nodes": 199,
    "combined": false
   },
   {
@@ -103,7 +103,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iAM_Pk459/Nucleotide_metabolism.json",
    "reactions": 27,
-   "nodes": 217,
+   "nodes": 185,
    "combined": false
   },
   {
@@ -111,7 +111,7 @@
    "file": "Terpenoid_and_polyketide_metabolism.json",
    "path": "iAM_Pk459/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 8,
-   "nodes": 50,
+   "nodes": 48,
    "combined": false
   }
  ]

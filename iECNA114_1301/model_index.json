@@ -3,19 +3,11 @@
  "id": "iECNA114_1301",
  "maps": [
   {
-   "name": "Amino acid metabolism (1)",
-   "file": "Amino_acid_metabolism__1_.json",
-   "path": "iECNA114_1301/Amino_acid_metabolism__1_.json",
-   "reactions": 120,
-   "nodes": 920,
-   "combined": false
-  },
-  {
    "name": "Carbohydrate metabolism (1)",
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iECNA114_1301/Carbohydrate_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 532,
+   "nodes": 520,
    "combined": false
   },
   {
@@ -23,7 +15,7 @@
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "iECNA114_1301/Carbohydrate_metabolism__2_.json",
    "reactions": 120,
-   "nodes": 944,
+   "nodes": 901,
    "combined": false
   },
   {
@@ -31,7 +23,7 @@
    "file": "Other_metabolism__2_.json",
    "path": "iECNA114_1301/Other_metabolism__2_.json",
    "reactions": 120,
-   "nodes": 727,
+   "nodes": 627,
    "combined": false
   },
   {
@@ -39,7 +31,7 @@
    "file": "Other_metabolism__3_.json",
    "path": "iECNA114_1301/Other_metabolism__3_.json",
    "reactions": 120,
-   "nodes": 856,
+   "nodes": 740,
    "combined": false
   },
   {
@@ -47,7 +39,7 @@
    "file": "Other_metabolism__4_.json",
    "path": "iECNA114_1301/Other_metabolism__4_.json",
    "reactions": 120,
-   "nodes": 840,
+   "nodes": 766,
    "combined": false
   },
   {
@@ -55,15 +47,15 @@
    "file": "Other_metabolism__5_.json",
    "path": "iECNA114_1301/Other_metabolism__5_.json",
    "reactions": 120,
-   "nodes": 892,
+   "nodes": 755,
    "combined": false
   },
   {
-   "name": "Other metabolism (6)",
-   "file": "Other_metabolism__6_.json",
-   "path": "iECNA114_1301/Other_metabolism__6_.json",
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iECNA114_1301/Other_metabolism__9_.json",
    "reactions": 120,
-   "nodes": 874,
+   "nodes": 864,
    "combined": false
   },
   {
@@ -87,15 +79,7 @@
    "file": "Other_metabolism__1_.json",
    "path": "iECNA114_1301/Other_metabolism__1_.json",
    "reactions": 119,
-   "nodes": 898,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (7)",
-   "file": "Other_metabolism__7_.json",
-   "path": "iECNA114_1301/Other_metabolism__7_.json",
-   "reactions": 119,
-   "nodes": 869,
+   "nodes": 810,
    "combined": false
   },
   {
@@ -103,7 +87,31 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iECNA114_1301/Transport_and_exchange__1_.json",
    "reactions": 119,
-   "nodes": 831,
+   "nodes": 736,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iECNA114_1301/Lipid_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 750,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iECNA114_1301/Other_metabolism__6_.json",
+   "reactions": 118,
+   "nodes": 744,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iECNA114_1301/Other_metabolism__7_.json",
+   "reactions": 118,
+   "nodes": 901,
    "combined": false
   },
   {
@@ -111,15 +119,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iECNA114_1301/Cofactor_and_vitamin_metabolism.json",
    "reactions": 117,
-   "nodes": 915,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (10)",
-   "file": "Other_metabolism__10_.json",
-   "path": "iECNA114_1301/Other_metabolism__10_.json",
-   "reactions": 117,
-   "nodes": 1059,
+   "nodes": 767,
    "combined": false
   },
   {
@@ -127,7 +127,7 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "iECNA114_1301/Transport_and_exchange__4_.json",
    "reactions": 117,
-   "nodes": 866,
+   "nodes": 733,
    "combined": false
   },
   {
@@ -135,31 +135,39 @@
    "file": "Transport_and_exchange__5_.json",
    "path": "iECNA114_1301/Transport_and_exchange__5_.json",
    "reactions": 117,
-   "nodes": 878,
+   "nodes": 794,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iECNA114_1301/Amino_acid_metabolism__1_.json",
+   "reactions": 116,
+   "nodes": 723,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "iECNA114_1301/Other_metabolism__10_.json",
+   "reactions": 116,
+   "nodes": 918,
    "combined": false
   },
   {
    "name": "Other metabolism (8)",
    "file": "Other_metabolism__8_.json",
    "path": "iECNA114_1301/Other_metabolism__8_.json",
-   "reactions": 115,
-   "nodes": 1001,
+   "reactions": 116,
+   "nodes": 835,
    "combined": false
   },
   {
-   "name": "Other metabolism (9)",
-   "file": "Other_metabolism__9_.json",
-   "path": "iECNA114_1301/Other_metabolism__9_.json",
-   "reactions": 115,
-   "nodes": 923,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (1)",
-   "file": "Lipid_metabolism__1_.json",
-   "path": "iECNA114_1301/Lipid_metabolism__1_.json",
-   "reactions": 114,
-   "nodes": 903,
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iECNA114_1301/Lipid_metabolism__2_.json",
+   "reactions": 85,
+   "nodes": 619,
    "combined": false
   },
   {
@@ -167,23 +175,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iECNA114_1301/Nucleotide_metabolism.json",
    "reactions": 82,
-   "nodes": 619,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (2)",
-   "file": "Lipid_metabolism__2_.json",
-   "path": "iECNA114_1301/Lipid_metabolism__2_.json",
-   "reactions": 79,
-   "nodes": 532,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (11)",
-   "file": "Other_metabolism__11_.json",
-   "path": "iECNA114_1301/Other_metabolism__11_.json",
-   "reactions": 57,
-   "nodes": 407,
+   "nodes": 576,
    "combined": false
   },
   {
@@ -191,7 +183,7 @@
    "file": "Transport_and_exchange__6_.json",
    "path": "iECNA114_1301/Transport_and_exchange__6_.json",
    "reactions": 50,
-   "nodes": 537,
+   "nodes": 512,
    "combined": false
   },
   {
@@ -199,7 +191,23 @@
    "file": "Carbohydrate_metabolism__3_.json",
    "path": "iECNA114_1301/Carbohydrate_metabolism__3_.json",
    "reactions": 45,
-   "nodes": 341,
+   "nodes": 313,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iECNA114_1301/Other_metabolism__11_.json",
+   "reactions": 43,
+   "nodes": 282,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iECNA114_1301/Amino_acid_metabolism__2_.json",
+   "reactions": 13,
+   "nodes": 68,
    "combined": false
   },
   {
@@ -207,7 +215,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iECNA114_1301/Glycan_metabolism.json",
    "reactions": 9,
-   "nodes": 62,
+   "nodes": 58,
    "combined": false
   },
   {
@@ -216,14 +224,6 @@
    "path": "iECNA114_1301/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 8,
    "nodes": 47,
-   "combined": false
-  },
-  {
-   "name": "Amino acid metabolism (2)",
-   "file": "Amino_acid_metabolism__2_.json",
-   "path": "iECNA114_1301/Amino_acid_metabolism__2_.json",
-   "reactions": 7,
-   "nodes": 34,
    "combined": false
   },
   {

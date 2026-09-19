@@ -7,7 +7,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iSB619/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 805,
+   "nodes": 677,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iSB619/Transport_and_exchange__2_.json",
    "reactions": 118,
-   "nodes": 725,
+   "nodes": 625,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iSB619/Amino_acid_metabolism__1_.json",
    "reactions": 116,
-   "nodes": 904,
+   "nodes": 779,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iSB619/Transport_and_exchange__3_.json",
    "reactions": 116,
-   "nodes": 1534,
+   "nodes": 1416,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Amino_acid_metabolism__2_.json",
    "path": "iSB619/Amino_acid_metabolism__2_.json",
    "reactions": 68,
-   "nodes": 496,
+   "nodes": 452,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iSB619/Carbohydrate_metabolism.json",
    "reactions": 56,
-   "nodes": 433,
+   "nodes": 427,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iSB619/Cofactor_and_vitamin_metabolism.json",
    "reactions": 54,
-   "nodes": 386,
+   "nodes": 345,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iSB619/Lipid_metabolism.json",
    "reactions": 39,
-   "nodes": 326,
+   "nodes": 322,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iSB619/Nucleotide_metabolism.json",
    "reactions": 32,
-   "nodes": 247,
+   "nodes": 229,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Terpenoid_and_polyketide_metabolism.json",
    "path": "iSB619/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 12,
-   "nodes": 80,
+   "nodes": 72,
    "combined": false
   },
   {
@@ -87,7 +87,7 @@
    "file": "Other_metabolism.json",
    "path": "iSB619/Other_metabolism.json",
    "reactions": 11,
-   "nodes": 111,
+   "nodes": 99,
    "combined": false
   }
  ]

@@ -7,7 +7,7 @@
    "file": "Other_metabolism__1_.json",
    "path": "iLB1027_lipid/Other_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 1146,
+   "nodes": 1138,
    "combined": false
   },
   {
@@ -15,15 +15,15 @@
    "file": "Other_metabolism__2_.json",
    "path": "iLB1027_lipid/Other_metabolism__2_.json",
    "reactions": 120,
-   "nodes": 879,
+   "nodes": 811,
    "combined": false
   },
   {
-   "name": "Other metabolism (23)",
-   "file": "Other_metabolism__23_.json",
-   "path": "iLB1027_lipid/Other_metabolism__23_.json",
+   "name": "Other metabolism (22)",
+   "file": "Other_metabolism__22_.json",
+   "path": "iLB1027_lipid/Other_metabolism__22_.json",
    "reactions": 120,
-   "nodes": 1070,
+   "nodes": 1056,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Other_metabolism__29_.json",
    "path": "iLB1027_lipid/Other_metabolism__29_.json",
    "reactions": 120,
-   "nodes": 987,
+   "nodes": 895,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Other_metabolism__3_.json",
    "path": "iLB1027_lipid/Other_metabolism__3_.json",
    "reactions": 120,
-   "nodes": 943,
+   "nodes": 938,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iLB1027_lipid/Transport_and_exchange__2_.json",
    "reactions": 120,
-   "nodes": 911,
+   "nodes": 802,
    "combined": false
   },
   {
@@ -63,39 +63,23 @@
    "file": "Other_metabolism__6_.json",
    "path": "iLB1027_lipid/Other_metabolism__6_.json",
    "reactions": 119,
-   "nodes": 852,
+   "nodes": 757,
    "combined": false
   },
   {
-   "name": "Other metabolism (7)",
-   "file": "Other_metabolism__7_.json",
-   "path": "iLB1027_lipid/Other_metabolism__7_.json",
-   "reactions": 119,
-   "nodes": 1108,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (8)",
-   "file": "Other_metabolism__8_.json",
-   "path": "iLB1027_lipid/Other_metabolism__8_.json",
-   "reactions": 119,
-   "nodes": 900,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (21)",
-   "file": "Other_metabolism__21_.json",
-   "path": "iLB1027_lipid/Other_metabolism__21_.json",
+   "name": "Other metabolism (20)",
+   "file": "Other_metabolism__20_.json",
+   "path": "iLB1027_lipid/Other_metabolism__20_.json",
    "reactions": 118,
    "nodes": 1220,
    "combined": false
   },
   {
-   "name": "Other metabolism (25)",
-   "file": "Other_metabolism__25_.json",
-   "path": "iLB1027_lipid/Other_metabolism__25_.json",
+   "name": "Other metabolism (24)",
+   "file": "Other_metabolism__24_.json",
+   "path": "iLB1027_lipid/Other_metabolism__24_.json",
    "reactions": 118,
-   "nodes": 967,
+   "nodes": 1121,
    "combined": false
   },
   {
@@ -103,15 +87,15 @@
    "file": "Other_metabolism__4_.json",
    "path": "iLB1027_lipid/Other_metabolism__4_.json",
    "reactions": 117,
-   "nodes": 898,
+   "nodes": 816,
    "combined": false
   },
   {
-   "name": "Other metabolism (9)",
-   "file": "Other_metabolism__9_.json",
-   "path": "iLB1027_lipid/Other_metabolism__9_.json",
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iLB1027_lipid/Other_metabolism__7_.json",
    "reactions": 117,
-   "nodes": 954,
+   "nodes": 956,
    "combined": false
   },
   {
@@ -119,7 +103,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iLB1027_lipid/Transport_and_exchange__1_.json",
    "reactions": 117,
-   "nodes": 810,
+   "nodes": 675,
    "combined": false
   },
   {
@@ -127,7 +111,7 @@
    "file": "Cofactor_and_vitamin_metabolism__1_.json",
    "path": "iLB1027_lipid/Cofactor_and_vitamin_metabolism__1_.json",
    "reactions": 116,
-   "nodes": 852,
+   "nodes": 732,
    "combined": false
   },
   {
@@ -135,15 +119,7 @@
    "file": "Other_metabolism__10_.json",
    "path": "iLB1027_lipid/Other_metabolism__10_.json",
    "reactions": 116,
-   "nodes": 937,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (11)",
-   "file": "Other_metabolism__11_.json",
-   "path": "iLB1027_lipid/Other_metabolism__11_.json",
-   "reactions": 116,
-   "nodes": 929,
+   "nodes": 1105,
    "combined": false
   },
   {
@@ -151,7 +127,31 @@
    "file": "Other_metabolism__28_.json",
    "path": "iLB1027_lipid/Other_metabolism__28_.json",
    "reactions": 116,
-   "nodes": 1173,
+   "nodes": 1168,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iLB1027_lipid/Other_metabolism__8_.json",
+   "reactions": 116,
+   "nodes": 924,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iLB1027_lipid/Other_metabolism__9_.json",
+   "reactions": 116,
+   "nodes": 932,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iLB1027_lipid/Other_metabolism__11_.json",
+   "reactions": 115,
+   "nodes": 721,
    "combined": false
   },
   {
@@ -159,7 +159,7 @@
    "file": "Other_metabolism__12_.json",
    "path": "iLB1027_lipid/Other_metabolism__12_.json",
    "reactions": 115,
-   "nodes": 827,
+   "nodes": 892,
    "combined": false
   },
   {
@@ -167,23 +167,7 @@
    "file": "Other_metabolism__13_.json",
    "path": "iLB1027_lipid/Other_metabolism__13_.json",
    "reactions": 115,
-   "nodes": 888,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (14)",
-   "file": "Other_metabolism__14_.json",
-   "path": "iLB1027_lipid/Other_metabolism__14_.json",
-   "reactions": 115,
-   "nodes": 906,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (30)",
-   "file": "Other_metabolism__30_.json",
-   "path": "iLB1027_lipid/Other_metabolism__30_.json",
-   "reactions": 115,
-   "nodes": 980,
+   "nodes": 908,
    "combined": false
   },
   {
@@ -191,7 +175,15 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iLB1027_lipid/Amino_acid_metabolism__1_.json",
    "reactions": 114,
-   "nodes": 972,
+   "nodes": 835,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (14)",
+   "file": "Other_metabolism__14_.json",
+   "path": "iLB1027_lipid/Other_metabolism__14_.json",
+   "reactions": 114,
+   "nodes": 834,
    "combined": false
   },
   {
@@ -199,7 +191,7 @@
    "file": "Other_metabolism__15_.json",
    "path": "iLB1027_lipid/Other_metabolism__15_.json",
    "reactions": 114,
-   "nodes": 890,
+   "nodes": 1053,
    "combined": false
   },
   {
@@ -207,15 +199,15 @@
    "file": "Other_metabolism__16_.json",
    "path": "iLB1027_lipid/Other_metabolism__16_.json",
    "reactions": 114,
-   "nodes": 1066,
+   "nodes": 894,
    "combined": false
   },
   {
    "name": "Other metabolism (17)",
    "file": "Other_metabolism__17_.json",
    "path": "iLB1027_lipid/Other_metabolism__17_.json",
-   "reactions": 114,
-   "nodes": 892,
+   "reactions": 113,
+   "nodes": 895,
    "combined": false
   },
   {
@@ -223,15 +215,7 @@
    "file": "Other_metabolism__18_.json",
    "path": "iLB1027_lipid/Other_metabolism__18_.json",
    "reactions": 113,
-   "nodes": 901,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (19)",
-   "file": "Other_metabolism__19_.json",
-   "path": "iLB1027_lipid/Other_metabolism__19_.json",
-   "reactions": 113,
-   "nodes": 910,
+   "nodes": 863,
    "combined": false
   },
   {
@@ -239,31 +223,55 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iLB1027_lipid/Carbohydrate_metabolism.json",
    "reactions": 111,
-   "nodes": 850,
+   "nodes": 743,
    "combined": false
   },
   {
-   "name": "Other metabolism (20)",
-   "file": "Other_metabolism__20_.json",
-   "path": "iLB1027_lipid/Other_metabolism__20_.json",
+   "name": "Other metabolism (19)",
+   "file": "Other_metabolism__19_.json",
+   "path": "iLB1027_lipid/Other_metabolism__19_.json",
    "reactions": 111,
-   "nodes": 913,
+   "nodes": 759,
    "combined": false
   },
   {
-   "name": "Other metabolism (22)",
-   "file": "Other_metabolism__22_.json",
-   "path": "iLB1027_lipid/Other_metabolism__22_.json",
+   "name": "Other metabolism (30)",
+   "file": "Other_metabolism__30_.json",
+   "path": "iLB1027_lipid/Other_metabolism__30_.json",
+   "reactions": 109,
+   "nodes": 931,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (21)",
+   "file": "Other_metabolism__21_.json",
+   "path": "iLB1027_lipid/Other_metabolism__21_.json",
    "reactions": 108,
-   "nodes": 775,
+   "nodes": 785,
    "combined": false
   },
   {
-   "name": "Other metabolism (24)",
-   "file": "Other_metabolism__24_.json",
-   "path": "iLB1027_lipid/Other_metabolism__24_.json",
+   "name": "Other metabolism (23)",
+   "file": "Other_metabolism__23_.json",
+   "path": "iLB1027_lipid/Other_metabolism__23_.json",
    "reactions": 106,
-   "nodes": 992,
+   "nodes": 979,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (25)",
+   "file": "Other_metabolism__25_.json",
+   "path": "iLB1027_lipid/Other_metabolism__25_.json",
+   "reactions": 100,
+   "nodes": 873,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (26)",
+   "file": "Other_metabolism__26_.json",
+   "path": "iLB1027_lipid/Other_metabolism__26_.json",
+   "reactions": 100,
+   "nodes": 761,
    "combined": false
   },
   {
@@ -271,15 +279,7 @@
    "file": "Other_metabolism__31_.json",
    "path": "iLB1027_lipid/Other_metabolism__31_.json",
    "reactions": 100,
-   "nodes": 839,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (26)",
-   "file": "Other_metabolism__26_.json",
-   "path": "iLB1027_lipid/Other_metabolism__26_.json",
-   "reactions": 99,
-   "nodes": 818,
+   "nodes": 636,
    "combined": false
   },
   {
@@ -287,7 +287,7 @@
    "file": "Other_metabolism__27_.json",
    "path": "iLB1027_lipid/Other_metabolism__27_.json",
    "reactions": 99,
-   "nodes": 739,
+   "nodes": 633,
    "combined": false
   },
   {
@@ -295,7 +295,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iLB1027_lipid/Lipid_metabolism.json",
    "reactions": 94,
-   "nodes": 732,
+   "nodes": 618,
    "combined": false
   },
   {
@@ -303,7 +303,15 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iLB1027_lipid/Transport_and_exchange__3_.json",
    "reactions": 70,
-   "nodes": 507,
+   "nodes": 443,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (32)",
+   "file": "Other_metabolism__32_.json",
+   "path": "iLB1027_lipid/Other_metabolism__32_.json",
+   "reactions": 54,
+   "nodes": 400,
    "combined": false
   },
   {
@@ -311,7 +319,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iLB1027_lipid/Nucleotide_metabolism.json",
    "reactions": 52,
-   "nodes": 391,
+   "nodes": 377,
    "combined": false
   },
   {
@@ -319,15 +327,7 @@
    "file": "Cofactor_and_vitamin_metabolism__2_.json",
    "path": "iLB1027_lipid/Cofactor_and_vitamin_metabolism__2_.json",
    "reactions": 49,
-   "nodes": 405,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (32)",
-   "file": "Other_metabolism__32_.json",
-   "path": "iLB1027_lipid/Other_metabolism__32_.json",
-   "reactions": 27,
-   "nodes": 157,
+   "nodes": 339,
    "combined": false
   },
   {
@@ -335,7 +335,7 @@
    "file": "Amino_acid_metabolism__2_.json",
    "path": "iLB1027_lipid/Amino_acid_metabolism__2_.json",
    "reactions": 18,
-   "nodes": 114,
+   "nodes": 98,
    "combined": false
   },
   {
@@ -343,7 +343,7 @@
    "file": "Terpenoid_and_polyketide_metabolism.json",
    "path": "iLB1027_lipid/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 12,
-   "nodes": 89,
+   "nodes": 81,
    "combined": false
   },
   {

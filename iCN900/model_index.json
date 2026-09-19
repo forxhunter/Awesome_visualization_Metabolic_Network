@@ -7,7 +7,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iCN900/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 859,
+   "nodes": 796,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iCN900/Transport_and_exchange__3_.json",
    "reactions": 120,
-   "nodes": 985,
+   "nodes": 858,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Unassigned_clusters__1_.json",
    "path": "iCN900/Unassigned_clusters__1_.json",
    "reactions": 120,
-   "nodes": 498,
+   "nodes": 490,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iCN900/Transport_and_exchange__2_.json",
    "reactions": 118,
-   "nodes": 895,
+   "nodes": 835,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "iCN900/Transport_and_exchange__4_.json",
    "reactions": 117,
-   "nodes": 988,
+   "nodes": 881,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Amino_acid_metabolism.json",
    "path": "iCN900/Amino_acid_metabolism.json",
    "reactions": 106,
-   "nodes": 846,
+   "nodes": 751,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iCN900/Carbohydrate_metabolism.json",
    "reactions": 106,
-   "nodes": 985,
+   "nodes": 960,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Xenobiotic_degradation.json",
    "path": "iCN900/Xenobiotic_degradation.json",
    "reactions": 100,
-   "nodes": 796,
+   "nodes": 718,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Unassigned_clusters__2_.json",
    "path": "iCN900/Unassigned_clusters__2_.json",
    "reactions": 72,
-   "nodes": 570,
+   "nodes": 579,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iCN900/Nucleotide_metabolism.json",
    "reactions": 68,
-   "nodes": 568,
+   "nodes": 558,
    "combined": false
   },
   {
@@ -87,7 +87,7 @@
    "file": "Other_metabolism.json",
    "path": "iCN900/Other_metabolism.json",
    "reactions": 66,
-   "nodes": 568,
+   "nodes": 505,
    "combined": false
   },
   {
@@ -95,7 +95,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iCN900/Cofactor_and_vitamin_metabolism.json",
    "reactions": 62,
-   "nodes": 464,
+   "nodes": 422,
    "combined": false
   },
   {
@@ -103,7 +103,7 @@
    "file": "Transport_and_exchange__5_.json",
    "path": "iCN900/Transport_and_exchange__5_.json",
    "reactions": 33,
-   "nodes": 229,
+   "nodes": 205,
    "combined": false
   },
   {
@@ -111,7 +111,7 @@
    "file": "Terpenoid_and_polyketide_metabolism.json",
    "path": "iCN900/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 9,
-   "nodes": 63,
+   "nodes": 59,
    "combined": false
   }
  ]

@@ -7,7 +7,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iHN637/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 783,
+   "nodes": 680,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iHN637/Transport_and_exchange__2_.json",
    "reactions": 119,
-   "nodes": 744,
+   "nodes": 656,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Amino_acid_metabolism.json",
    "path": "iHN637/Amino_acid_metabolism.json",
    "reactions": 110,
-   "nodes": 805,
+   "nodes": 700,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Other_metabolism.json",
    "path": "iHN637/Other_metabolism.json",
    "reactions": 102,
-   "nodes": 840,
+   "nodes": 713,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iHN637/Lipid_metabolism.json",
    "reactions": 84,
-   "nodes": 645,
+   "nodes": 553,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iHN637/Transport_and_exchange__3_.json",
    "reactions": 69,
-   "nodes": 628,
+   "nodes": 512,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iHN637/Carbohydrate_metabolism.json",
    "reactions": 63,
-   "nodes": 482,
+   "nodes": 475,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iHN637/Cofactor_and_vitamin_metabolism.json",
    "reactions": 55,
-   "nodes": 422,
+   "nodes": 367,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iHN637/Nucleotide_metabolism.json",
    "reactions": 45,
-   "nodes": 366,
+   "nodes": 329,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iHN637/Glycan_metabolism.json",
    "reactions": 9,
-   "nodes": 62,
+   "nodes": 58,
    "combined": false
   },
   {
@@ -87,7 +87,7 @@
    "file": "Terpenoid_and_polyketide_metabolism.json",
    "path": "iHN637/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 8,
-   "nodes": 51,
+   "nodes": 53,
    "combined": false
   }
  ]

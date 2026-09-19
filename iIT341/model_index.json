@@ -7,7 +7,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iIT341/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 713,
+   "nodes": 693,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iIT341/Amino_acid_metabolism__1_.json",
    "reactions": 118,
-   "nodes": 848,
+   "nodes": 779,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iIT341/Transport_and_exchange__2_.json",
    "reactions": 117,
-   "nodes": 849,
+   "nodes": 712,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iIT341/Cofactor_and_vitamin_metabolism.json",
    "reactions": 44,
-   "nodes": 313,
+   "nodes": 265,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iIT341/Transport_and_exchange__3_.json",
    "reactions": 41,
-   "nodes": 352,
+   "nodes": 292,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iIT341/Carbohydrate_metabolism.json",
    "reactions": 40,
-   "nodes": 241,
+   "nodes": 237,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iIT341/Nucleotide_metabolism.json",
    "reactions": 37,
-   "nodes": 297,
+   "nodes": 267,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Terpenoid_and_polyketide_metabolism.json",
    "path": "iIT341/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 7,
-   "nodes": 45,
+   "nodes": 43,
    "combined": false
   }
  ]

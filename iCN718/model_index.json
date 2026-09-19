@@ -15,7 +15,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iCN718/Transport_and_exchange__1_.json",
    "reactions": 24,
-   "nodes": 126,
+   "nodes": 118,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Xenobiotic_degradation.json",
    "path": "iCN718/Xenobiotic_degradation.json",
    "reactions": 22,
-   "nodes": 260,
+   "nodes": 246,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iCN718/Amino_acid_metabolism__1_.json",
    "reactions": 17,
-   "nodes": 129,
+   "nodes": 111,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iCN718/Transport_and_exchange__3_.json",
    "reactions": 11,
-   "nodes": 52,
+   "nodes": 50,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "iCN718/Transport_and_exchange__4_.json",
    "reactions": 10,
-   "nodes": 72,
+   "nodes": 68,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iCN718/Transport_and_exchange__2_.json",
    "reactions": 7,
-   "nodes": 50,
+   "nodes": 46,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "iCN718/Carbohydrate_metabolism__2_.json",
    "reactions": 3,
-   "nodes": 19,
+   "nodes": 17,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Other_metabolism.json",
    "path": "iCN718/Other_metabolism.json",
    "reactions": 3,
-   "nodes": 22,
+   "nodes": 24,
    "combined": false
   }
  ]
