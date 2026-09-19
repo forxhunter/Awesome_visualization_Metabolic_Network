@@ -3,11 +3,11 @@
  "id": "iND750",
  "maps": [
   {
-   "name": "Carbohydrate metabolism (1)",
-   "file": "Carbohydrate_metabolism__1_.json",
-   "path": "iND750/Carbohydrate_metabolism__1_.json",
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iND750/Amino_acid_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 755,
+   "nodes": 830,
    "combined": false
   },
   {
@@ -19,11 +19,11 @@
    "combined": false
   },
   {
-   "name": "Amino acid metabolism (1)",
-   "file": "Amino_acid_metabolism__1_.json",
-   "path": "iND750/Amino_acid_metabolism__1_.json",
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iND750/Carbohydrate_metabolism__1_.json",
    "reactions": 119,
-   "nodes": 815,
+   "nodes": 757,
    "combined": false
   },
   {
@@ -31,15 +31,15 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iND750/Transport_and_exchange__2_.json",
    "reactions": 118,
-   "nodes": 785,
+   "nodes": 760,
    "combined": false
   },
   {
    "name": "Transport and exchange (3)",
    "file": "Transport_and_exchange__3_.json",
    "path": "iND750/Transport_and_exchange__3_.json",
-   "reactions": 118,
-   "nodes": 773,
+   "reactions": 117,
+   "nodes": 730,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Other_metabolism__1_.json",
    "path": "iND750/Other_metabolism__1_.json",
    "reactions": 116,
-   "nodes": 849,
+   "nodes": 847,
    "combined": false
   },
   {
@@ -55,7 +55,7 @@
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "iND750/Carbohydrate_metabolism__2_.json",
    "reactions": 106,
-   "nodes": 726,
+   "nodes": 758,
    "combined": false
   },
   {
@@ -63,15 +63,23 @@
    "file": "Other_metabolism__2_.json",
    "path": "iND750/Other_metabolism__2_.json",
    "reactions": 106,
-   "nodes": 768,
+   "nodes": 764,
    "combined": false
   },
   {
    "name": "Transport and exchange (4)",
    "file": "Transport_and_exchange__4_.json",
    "path": "iND750/Transport_and_exchange__4_.json",
-   "reactions": 96,
-   "nodes": 657,
+   "reactions": 82,
+   "nodes": 566,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iND750/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 77,
+   "nodes": 541,
    "combined": false
   },
   {
@@ -80,14 +88,6 @@
    "path": "iND750/Lipid_metabolism.json",
    "reactions": 76,
    "nodes": 623,
-   "combined": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism",
-   "file": "Cofactor_and_vitamin_metabolism.json",
-   "path": "iND750/Cofactor_and_vitamin_metabolism.json",
-   "reactions": 60,
-   "nodes": 426,
    "combined": false
   },
   {
@@ -102,8 +102,8 @@
    "name": "Amino acid metabolism (2)",
    "file": "Amino_acid_metabolism__2_.json",
    "path": "iND750/Amino_acid_metabolism__2_.json",
-   "reactions": 38,
-   "nodes": 244,
+   "reactions": 36,
+   "nodes": 226,
    "combined": false
   },
   {

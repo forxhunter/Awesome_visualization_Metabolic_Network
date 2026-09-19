@@ -3,43 +3,43 @@
  "id": "iAM_Pf480",
  "maps": [
   {
-   "name": "Cofactor and vitamin metabolism (1)",
-   "file": "Cofactor_and_vitamin_metabolism__1_.json",
-   "path": "iAM_Pf480/Cofactor_and_vitamin_metabolism__1_.json",
-   "reactions": 120,
-   "nodes": 798,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (1)",
-   "file": "Other_metabolism__1_.json",
-   "path": "iAM_Pf480/Other_metabolism__1_.json",
-   "reactions": 120,
-   "nodes": 895,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (2)",
-   "file": "Other_metabolism__2_.json",
-   "path": "iAM_Pf480/Other_metabolism__2_.json",
-   "reactions": 120,
-   "nodes": 712,
-   "combined": false
-  },
-  {
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "iAM_Pf480/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 588,
+   "nodes": 578,
    "combined": false
   },
   {
    "name": "Cofactor and vitamin metabolism (2)",
    "file": "Cofactor_and_vitamin_metabolism__2_.json",
    "path": "iAM_Pf480/Cofactor_and_vitamin_metabolism__2_.json",
+   "reactions": 119,
+   "nodes": 794,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iAM_Pf480/Other_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 792,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism (1)",
+   "file": "Cofactor_and_vitamin_metabolism__1_.json",
+   "path": "iAM_Pf480/Cofactor_and_vitamin_metabolism__1_.json",
    "reactions": 116,
-   "nodes": 744,
+   "nodes": 762,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iAM_Pf480/Other_metabolism__2_.json",
+   "reactions": 116,
+   "nodes": 684,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iAM_Pf480/Transport_and_exchange__2_.json",
    "reactions": 114,
-   "nodes": 803,
+   "nodes": 833,
    "combined": false
   },
   {
@@ -55,15 +55,15 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iAM_Pf480/Transport_and_exchange__3_.json",
    "reactions": 96,
-   "nodes": 667,
+   "nodes": 649,
    "combined": false
   },
   {
    "name": "Other metabolism (3)",
    "file": "Other_metabolism__3_.json",
    "path": "iAM_Pf480/Other_metabolism__3_.json",
-   "reactions": 72,
-   "nodes": 454,
+   "reactions": 79,
+   "nodes": 506,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Cofactor_and_vitamin_metabolism__3_.json",
    "path": "iAM_Pf480/Cofactor_and_vitamin_metabolism__3_.json",
    "reactions": 58,
-   "nodes": 376,
+   "nodes": 375,
    "combined": false
   },
   {
@@ -94,8 +94,8 @@
    "name": "Lipid metabolism",
    "file": "Lipid_metabolism.json",
    "path": "iAM_Pf480/Lipid_metabolism.json",
-   "reactions": 30,
-   "nodes": 199,
+   "reactions": 29,
+   "nodes": 187,
    "combined": false
   },
   {

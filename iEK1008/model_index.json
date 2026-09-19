@@ -3,19 +3,35 @@
  "id": "iEK1008",
  "maps": [
   {
-   "name": "Transport and exchange (1)",
-   "file": "Transport_and_exchange__1_.json",
-   "path": "iEK1008/Transport_and_exchange__1_.json",
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iEK1008/Transport_and_exchange__4_.json",
+   "reactions": 120,
+   "nodes": 830,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iEK1008/Amino_acid_metabolism__1_.json",
    "reactions": 119,
-   "nodes": 779,
+   "nodes": 915,
    "combined": false
   },
   {
    "name": "Carbohydrate metabolism (1)",
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iEK1008/Carbohydrate_metabolism__1_.json",
-   "reactions": 118,
-   "nodes": 512,
+   "reactions": 119,
+   "nodes": 519,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iEK1008/Transport_and_exchange__1_.json",
+   "reactions": 119,
+   "nodes": 786,
    "combined": false
   },
   {
@@ -23,31 +39,15 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iEK1008/Transport_and_exchange__2_.json",
    "reactions": 118,
-   "nodes": 789,
-   "combined": false
-  },
-  {
-   "name": "Amino acid metabolism (1)",
-   "file": "Amino_acid_metabolism__1_.json",
-   "path": "iEK1008/Amino_acid_metabolism__1_.json",
-   "reactions": 117,
-   "nodes": 885,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (4)",
-   "file": "Transport_and_exchange__4_.json",
-   "path": "iEK1008/Transport_and_exchange__4_.json",
-   "reactions": 114,
-   "nodes": 795,
+   "nodes": 803,
    "combined": false
   },
   {
    "name": "Transport and exchange (3)",
    "file": "Transport_and_exchange__3_.json",
    "path": "iEK1008/Transport_and_exchange__3_.json",
-   "reactions": 113,
-   "nodes": 832,
+   "reactions": 116,
+   "nodes": 979,
    "combined": false
   },
   {
@@ -55,15 +55,15 @@
    "file": "Other_metabolism.json",
    "path": "iEK1008/Other_metabolism.json",
    "reactions": 106,
-   "nodes": 827,
+   "nodes": 819,
    "combined": false
   },
   {
    "name": "Cofactor and vitamin metabolism",
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iEK1008/Cofactor_and_vitamin_metabolism.json",
-   "reactions": 85,
-   "nodes": 566,
+   "reactions": 79,
+   "nodes": 526,
    "combined": false
   },
   {
@@ -78,8 +78,8 @@
    "name": "Transport and exchange (5)",
    "file": "Transport_and_exchange__5_.json",
    "path": "iEK1008/Transport_and_exchange__5_.json",
-   "reactions": 69,
-   "nodes": 476,
+   "reactions": 76,
+   "nodes": 510,
    "combined": false
   },
   {
@@ -91,19 +91,19 @@
    "combined": false
   },
   {
-   "name": "Lipid metabolism",
-   "file": "Lipid_metabolism.json",
-   "path": "iEK1008/Lipid_metabolism.json",
-   "reactions": 53,
-   "nodes": 562,
-   "combined": false
-  },
-  {
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "iEK1008/Nucleotide_metabolism.json",
-   "reactions": 47,
-   "nodes": 344,
+   "reactions": 53,
+   "nodes": 378,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iEK1008/Lipid_metabolism.json",
+   "reactions": 34,
+   "nodes": 252,
    "combined": false
   },
   {

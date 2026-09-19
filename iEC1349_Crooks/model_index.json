@@ -3,6 +3,14 @@
  "id": "iEC1349_Crooks",
  "maps": [
   {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iEC1349_Crooks/Carbohydrate_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 873,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (1)",
    "file": "Other_metabolism__1_.json",
    "path": "iEC1349_Crooks/Other_metabolism__1_.json",
@@ -15,7 +23,15 @@
    "file": "Other_metabolism__10_.json",
    "path": "iEC1349_Crooks/Other_metabolism__10_.json",
    "reactions": 120,
-   "nodes": 813,
+   "nodes": 876,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iEC1349_Crooks/Other_metabolism__11_.json",
+   "reactions": 120,
+   "nodes": 834,
    "combined": false
   },
   {
@@ -23,15 +39,7 @@
    "file": "Other_metabolism__2_.json",
    "path": "iEC1349_Crooks/Other_metabolism__2_.json",
    "reactions": 120,
-   "nodes": 611,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (4)",
-   "file": "Other_metabolism__4_.json",
-   "path": "iEC1349_Crooks/Other_metabolism__4_.json",
-   "reactions": 120,
-   "nodes": 736,
+   "nodes": 746,
    "combined": false
   },
   {
@@ -55,39 +63,23 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iEC1349_Crooks/Transport_and_exchange__3_.json",
    "reactions": 120,
-   "nodes": 801,
+   "nodes": 782,
    "combined": false
   },
   {
    "name": "Amino acid metabolism (1)",
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iEC1349_Crooks/Amino_acid_metabolism__1_.json",
-   "reactions": 119,
-   "nodes": 789,
+   "reactions": 118,
+   "nodes": 782,
    "combined": false
   },
   {
-   "name": "Carbohydrate metabolism (1)",
-   "file": "Carbohydrate_metabolism__1_.json",
-   "path": "iEC1349_Crooks/Carbohydrate_metabolism__1_.json",
-   "reactions": 119,
-   "nodes": 856,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (11)",
-   "file": "Other_metabolism__11_.json",
-   "path": "iEC1349_Crooks/Other_metabolism__11_.json",
-   "reactions": 119,
-   "nodes": 842,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (6)",
-   "file": "Other_metabolism__6_.json",
-   "path": "iEC1349_Crooks/Other_metabolism__6_.json",
-   "reactions": 119,
-   "nodes": 714,
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iEC1349_Crooks/Lipid_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 764,
    "combined": false
   },
   {
@@ -95,7 +87,15 @@
    "file": "Other_metabolism__12_.json",
    "path": "iEC1349_Crooks/Other_metabolism__12_.json",
    "reactions": 118,
-   "nodes": 928,
+   "nodes": 932,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (13)",
+   "file": "Other_metabolism__13_.json",
+   "path": "iEC1349_Crooks/Other_metabolism__13_.json",
+   "reactions": 118,
+   "nodes": 851,
    "combined": false
   },
   {
@@ -103,23 +103,23 @@
    "file": "Other_metabolism__3_.json",
    "path": "iEC1349_Crooks/Other_metabolism__3_.json",
    "reactions": 118,
-   "nodes": 790,
+   "nodes": 769,
    "combined": false
   },
   {
-   "name": "Other metabolism (5)",
-   "file": "Other_metabolism__5_.json",
-   "path": "iEC1349_Crooks/Other_metabolism__5_.json",
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iEC1349_Crooks/Other_metabolism__4_.json",
    "reactions": 118,
-   "nodes": 795,
+   "nodes": 623,
    "combined": false
   },
   {
-   "name": "Other metabolism (7)",
-   "file": "Other_metabolism__7_.json",
-   "path": "iEC1349_Crooks/Other_metabolism__7_.json",
-   "reactions": 118,
-   "nodes": 758,
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iEC1349_Crooks/Other_metabolism__6_.json",
+   "reactions": 117,
+   "nodes": 698,
    "combined": false
   },
   {
@@ -127,7 +127,23 @@
    "file": "Other_metabolism__8_.json",
    "path": "iEC1349_Crooks/Other_metabolism__8_.json",
    "reactions": 117,
-   "nodes": 745,
+   "nodes": 748,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iEC1349_Crooks/Other_metabolism__5_.json",
+   "reactions": 116,
+   "nodes": 774,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iEC1349_Crooks/Other_metabolism__7_.json",
+   "reactions": 116,
+   "nodes": 731,
    "combined": false
   },
   {
@@ -135,15 +151,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iEC1349_Crooks/Cofactor_and_vitamin_metabolism.json",
    "reactions": 115,
-   "nodes": 751,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (13)",
-   "file": "Other_metabolism__13_.json",
-   "path": "iEC1349_Crooks/Other_metabolism__13_.json",
-   "reactions": 115,
-   "nodes": 818,
+   "nodes": 752,
    "combined": false
   },
   {
@@ -151,23 +159,15 @@
    "file": "Other_metabolism__9_.json",
    "path": "iEC1349_Crooks/Other_metabolism__9_.json",
    "reactions": 115,
-   "nodes": 844,
+   "nodes": 845,
    "combined": false
   },
   {
-   "name": "Lipid metabolism (1)",
-   "file": "Lipid_metabolism__1_.json",
-   "path": "iEC1349_Crooks/Lipid_metabolism__1_.json",
-   "reactions": 113,
-   "nodes": 701,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (2)",
-   "file": "Lipid_metabolism__2_.json",
-   "path": "iEC1349_Crooks/Lipid_metabolism__2_.json",
-   "reactions": 94,
-   "nodes": 686,
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iEC1349_Crooks/Transport_and_exchange__4_.json",
+   "reactions": 91,
+   "nodes": 759,
    "combined": false
   },
   {
@@ -179,19 +179,27 @@
    "combined": false
   },
   {
-   "name": "Transport and exchange (4)",
-   "file": "Transport_and_exchange__4_.json",
-   "path": "iEC1349_Crooks/Transport_and_exchange__4_.json",
-   "reactions": 84,
-   "nodes": 738,
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iEC1349_Crooks/Lipid_metabolism__2_.json",
+   "reactions": 78,
+   "nodes": 488,
    "combined": false
   },
   {
    "name": "Carbohydrate metabolism (2)",
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "iEC1349_Crooks/Carbohydrate_metabolism__2_.json",
-   "reactions": 46,
-   "nodes": 299,
+   "reactions": 47,
+   "nodes": 319,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (14)",
+   "file": "Other_metabolism__14_.json",
+   "path": "iEC1349_Crooks/Other_metabolism__14_.json",
+   "reactions": 34,
+   "nodes": 220,
    "combined": false
   },
   {
@@ -200,14 +208,6 @@
    "path": "iEC1349_Crooks/Amino_acid_metabolism__2_.json",
    "reactions": 29,
    "nodes": 194,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (14)",
-   "file": "Other_metabolism__14_.json",
-   "path": "iEC1349_Crooks/Other_metabolism__14_.json",
-   "reactions": 27,
-   "nodes": 189,
    "combined": false
   },
   {

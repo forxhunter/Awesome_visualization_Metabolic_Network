@@ -3,35 +3,27 @@
  "id": "iAF987",
  "maps": [
   {
-   "name": "Other metabolism (2)",
-   "file": "Other_metabolism__2_.json",
-   "path": "iAF987/Other_metabolism__2_.json",
-   "reactions": 120,
-   "nodes": 887,
-   "combined": false
-  },
-  {
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "iAF987/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 570,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (3)",
-   "file": "Other_metabolism__3_.json",
-   "path": "iAF987/Other_metabolism__3_.json",
-   "reactions": 119,
-   "nodes": 846,
+   "nodes": 569,
    "combined": false
   },
   {
    "name": "Other metabolism (1)",
    "file": "Other_metabolism__1_.json",
    "path": "iAF987/Other_metabolism__1_.json",
-   "reactions": 117,
-   "nodes": 785,
+   "reactions": 119,
+   "nodes": 802,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iAF987/Other_metabolism__3_.json",
+   "reactions": 118,
+   "nodes": 854,
    "combined": false
   },
   {
@@ -39,7 +31,15 @@
    "file": "Other_metabolism__4_.json",
    "path": "iAF987/Other_metabolism__4_.json",
    "reactions": 117,
-   "nodes": 825,
+   "nodes": 829,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iAF987/Other_metabolism__2_.json",
+   "reactions": 116,
+   "nodes": 787,
    "combined": false
   },
   {
@@ -55,14 +55,14 @@
    "file": "Other_metabolism__5_.json",
    "path": "iAF987/Other_metabolism__5_.json",
    "reactions": 113,
-   "nodes": 768,
+   "nodes": 760,
    "combined": false
   },
   {
    "name": "Other metabolism (6)",
    "file": "Other_metabolism__6_.json",
    "path": "iAF987/Other_metabolism__6_.json",
-   "reactions": 107,
+   "reactions": 106,
    "nodes": 804,
    "combined": false
   },
@@ -70,16 +70,16 @@
    "name": "Carbohydrate metabolism",
    "file": "Carbohydrate_metabolism.json",
    "path": "iAF987/Carbohydrate_metabolism.json",
-   "reactions": 92,
-   "nodes": 576,
+   "reactions": 95,
+   "nodes": 635,
    "combined": false
   },
   {
    "name": "Amino acid metabolism",
    "file": "Amino_acid_metabolism.json",
    "path": "iAF987/Amino_acid_metabolism.json",
-   "reactions": 84,
-   "nodes": 517,
+   "reactions": 85,
+   "nodes": 524,
    "combined": false
   },
   {
@@ -87,7 +87,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iAF987/Cofactor_and_vitamin_metabolism.json",
    "reactions": 71,
-   "nodes": 465,
+   "nodes": 467,
    "combined": false
   },
   {
@@ -111,7 +111,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iAF987/Transport_and_exchange__2_.json",
    "reactions": 21,
-   "nodes": 307,
+   "nodes": 305,
    "combined": false
   },
   {
@@ -119,7 +119,7 @@
    "file": "Xenobiotic_degradation.json",
    "path": "iAF987/Xenobiotic_degradation.json",
    "reactions": 13,
-   "nodes": 88,
+   "nodes": 85,
    "combined": false
   },
   {

@@ -7,23 +7,23 @@
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iEC1372_W3110/Carbohydrate_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 861,
+   "nodes": 882,
    "combined": false
   },
   {
-   "name": "Other metabolism (1)",
-   "file": "Other_metabolism__1_.json",
-   "path": "iEC1372_W3110/Other_metabolism__1_.json",
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "iEC1372_W3110/Other_metabolism__10_.json",
    "reactions": 120,
-   "nodes": 631,
+   "nodes": 889,
    "combined": false
   },
   {
-   "name": "Other metabolism (3)",
-   "file": "Other_metabolism__3_.json",
-   "path": "iEC1372_W3110/Other_metabolism__3_.json",
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iEC1372_W3110/Other_metabolism__9_.json",
    "reactions": 120,
-   "nodes": 764,
+   "nodes": 868,
    "combined": false
   },
   {
@@ -51,11 +51,19 @@
    "combined": false
   },
   {
-   "name": "Other metabolism (10)",
-   "file": "Other_metabolism__10_.json",
-   "path": "iEC1372_W3110/Other_metabolism__10_.json",
+   "name": "Other metabolism (12)",
+   "file": "Other_metabolism__12_.json",
+   "path": "iEC1372_W3110/Other_metabolism__12_.json",
    "reactions": 119,
-   "nodes": 837,
+   "nodes": 831,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iEC1372_W3110/Other_metabolism__2_.json",
+   "reactions": 119,
+   "nodes": 770,
    "combined": false
   },
   {
@@ -63,15 +71,23 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "iEC1372_W3110/Transport_and_exchange__4_.json",
    "reactions": 119,
-   "nodes": 775,
+   "nodes": 780,
    "combined": false
   },
   {
-   "name": "Other metabolism (11)",
-   "file": "Other_metabolism__11_.json",
-   "path": "iEC1372_W3110/Other_metabolism__11_.json",
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iEC1372_W3110/Other_metabolism__1_.json",
    "reactions": 118,
-   "nodes": 802,
+   "nodes": 777,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iEC1372_W3110/Other_metabolism__3_.json",
+   "reactions": 118,
+   "nodes": 643,
    "combined": false
   },
   {
@@ -79,31 +95,7 @@
    "file": "Other_metabolism__4_.json",
    "path": "iEC1372_W3110/Other_metabolism__4_.json",
    "reactions": 118,
-   "nodes": 759,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (5)",
-   "file": "Other_metabolism__5_.json",
-   "path": "iEC1372_W3110/Other_metabolism__5_.json",
-   "reactions": 118,
-   "nodes": 751,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (6)",
-   "file": "Other_metabolism__6_.json",
-   "path": "iEC1372_W3110/Other_metabolism__6_.json",
-   "reactions": 118,
-   "nodes": 745,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (7)",
-   "file": "Other_metabolism__7_.json",
-   "path": "iEC1372_W3110/Other_metabolism__7_.json",
-   "reactions": 118,
-   "nodes": 727,
+   "nodes": 748,
    "combined": false
   },
   {
@@ -111,31 +103,31 @@
    "file": "Other_metabolism__8_.json",
    "path": "iEC1372_W3110/Other_metabolism__8_.json",
    "reactions": 118,
-   "nodes": 829,
+   "nodes": 815,
    "combined": false
   },
   {
-   "name": "Other metabolism (9)",
-   "file": "Other_metabolism__9_.json",
-   "path": "iEC1372_W3110/Other_metabolism__9_.json",
-   "reactions": 118,
-   "nodes": 804,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (2)",
-   "file": "Other_metabolism__2_.json",
-   "path": "iEC1372_W3110/Other_metabolism__2_.json",
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iEC1372_W3110/Other_metabolism__5_.json",
    "reactions": 117,
-   "nodes": 772,
+   "nodes": 707,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iEC1372_W3110/Other_metabolism__7_.json",
+   "reactions": 117,
+   "nodes": 701,
    "combined": false
   },
   {
    "name": "Amino acid metabolism (1)",
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iEC1372_W3110/Amino_acid_metabolism__1_.json",
-   "reactions": 116,
-   "nodes": 775,
+   "reactions": 115,
+   "nodes": 768,
    "combined": false
   },
   {
@@ -143,23 +135,31 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iEC1372_W3110/Cofactor_and_vitamin_metabolism.json",
    "reactions": 115,
-   "nodes": 751,
+   "nodes": 752,
    "combined": false
   },
   {
-   "name": "Other metabolism (12)",
-   "file": "Other_metabolism__12_.json",
-   "path": "iEC1372_W3110/Other_metabolism__12_.json",
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iEC1372_W3110/Other_metabolism__11_.json",
    "reactions": 115,
-   "nodes": 844,
+   "nodes": 750,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iEC1372_W3110/Other_metabolism__6_.json",
+   "reactions": 114,
+   "nodes": 758,
    "combined": false
   },
   {
    "name": "Lipid metabolism (1)",
    "file": "Lipid_metabolism__1_.json",
    "path": "iEC1372_W3110/Lipid_metabolism__1_.json",
-   "reactions": 111,
-   "nodes": 684,
+   "reactions": 112,
+   "nodes": 698,
    "combined": false
   },
   {
@@ -182,8 +182,8 @@
    "name": "Other metabolism (13)",
    "file": "Other_metabolism__13_.json",
    "path": "iEC1372_W3110/Other_metabolism__13_.json",
-   "reactions": 60,
-   "nodes": 455,
+   "reactions": 62,
+   "nodes": 424,
    "combined": false
   },
   {
@@ -191,15 +191,15 @@
    "file": "Transport_and_exchange__5_.json",
    "path": "iEC1372_W3110/Transport_and_exchange__5_.json",
    "reactions": 53,
-   "nodes": 523,
+   "nodes": 540,
    "combined": false
   },
   {
    "name": "Carbohydrate metabolism (2)",
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "iEC1372_W3110/Carbohydrate_metabolism__2_.json",
-   "reactions": 46,
-   "nodes": 297,
+   "reactions": 48,
+   "nodes": 322,
    "combined": false
   },
   {

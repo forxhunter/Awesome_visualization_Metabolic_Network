@@ -194,12 +194,18 @@ map passes every gate:
 
 | metric | median | target |
 |---|---|---|
-| crossings per edge | 0.049 | < 0.05 |
+| crossings per edge | 0.047 | < 0.05 |
 | fraction of segments axis-aligned | 0.989 | > 0.90 |
-| local density (`hairball_index`) | 2.94 | < 3.0 |
-| occupancy | 0.62 | 0.10 – 0.85 |
-| aspect ratio | 0.97 | 0.35 – 3.0 |
+| local density (`hairball_index`) | 2.95 | < 3.0 |
+| occupancy | 0.64 | 0.10 – 0.85 |
+| aspect ratio | 0.96 | 0.35 – 3.0 |
 | label-on-node / label-on-edge / label overlaps | 0 / 0 / 0 | 0 |
+
+Separately from how tidy a map is, there is the question of whether it draws the
+*right* connection. Each reaction is reduced to one substrate/product pair, and
+that choice can be checked against the pair KEGG's curators drew for the same
+reaction. Agreement is **95.1%** on iJO1366 (673 reactions with a KEGG
+reaction id and a KEGG drawing), **96.1%** on iMM904 and **94.7%** on iYO844.
 
 These are medians, not guarantees: the 90th percentile for crossings is 0.30, and the hardest
 merged maps still exceed the density target.

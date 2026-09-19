@@ -6,8 +6,8 @@
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "iSB619/Transport_and_exchange__1_.json",
-   "reactions": 120,
-   "nodes": 677,
+   "reactions": 119,
+   "nodes": 674,
    "combined": false
   },
   {
@@ -15,23 +15,23 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iSB619/Transport_and_exchange__2_.json",
    "reactions": 118,
-   "nodes": 625,
+   "nodes": 627,
    "combined": false
   },
   {
    "name": "Amino acid metabolism (1)",
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iSB619/Amino_acid_metabolism__1_.json",
-   "reactions": 116,
-   "nodes": 779,
+   "reactions": 114,
+   "nodes": 773,
    "combined": false
   },
   {
    "name": "Transport and exchange (3)",
    "file": "Transport_and_exchange__3_.json",
    "path": "iSB619/Transport_and_exchange__3_.json",
-   "reactions": 116,
-   "nodes": 1416,
+   "reactions": 92,
+   "nodes": 632,
    "combined": false
   },
   {
@@ -46,8 +46,8 @@
    "name": "Carbohydrate metabolism",
    "file": "Carbohydrate_metabolism.json",
    "path": "iSB619/Carbohydrate_metabolism.json",
-   "reactions": 56,
-   "nodes": 427,
+   "reactions": 54,
+   "nodes": 391,
    "combined": false
   },
   {
@@ -72,6 +72,14 @@
    "path": "iSB619/Nucleotide_metabolism.json",
    "reactions": 32,
    "nodes": 229,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iSB619/Transport_and_exchange__4_.json",
+   "reactions": 29,
+   "nodes": 790,
    "combined": false
   },
   {

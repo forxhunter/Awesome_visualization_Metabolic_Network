@@ -3,19 +3,11 @@
  "id": "iJN746",
  "maps": [
   {
-   "name": "Amino acid metabolism (1)",
-   "file": "Amino_acid_metabolism__1_.json",
-   "path": "iJN746/Amino_acid_metabolism__1_.json",
-   "reactions": 120,
-   "nodes": 808,
-   "combined": false
-  },
-  {
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "iJN746/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 744,
+   "nodes": 729,
    "combined": false
   },
   {
@@ -23,7 +15,15 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iJN746/Transport_and_exchange__2_.json",
    "reactions": 120,
-   "nodes": 612,
+   "nodes": 609,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iJN746/Amino_acid_metabolism__1_.json",
+   "reactions": 116,
+   "nodes": 812,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Other_metabolism__1_.json",
    "path": "iJN746/Other_metabolism__1_.json",
    "reactions": 116,
-   "nodes": 743,
+   "nodes": 762,
    "combined": false
   },
   {
@@ -46,8 +46,8 @@
    "name": "Transport and exchange (3)",
    "file": "Transport_and_exchange__3_.json",
    "path": "iJN746/Transport_and_exchange__3_.json",
-   "reactions": 98,
-   "nodes": 632,
+   "reactions": 100,
+   "nodes": 688,
    "combined": false
   },
   {
@@ -62,8 +62,8 @@
    "name": "Carbohydrate metabolism",
    "file": "Carbohydrate_metabolism.json",
    "path": "iJN746/Carbohydrate_metabolism.json",
-   "reactions": 59,
-   "nodes": 411,
+   "reactions": 61,
+   "nodes": 419,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Other_metabolism__2_.json",
    "path": "iJN746/Other_metabolism__2_.json",
    "reactions": 55,
-   "nodes": 420,
+   "nodes": 436,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Amino_acid_metabolism__2_.json",
    "path": "iJN746/Amino_acid_metabolism__2_.json",
    "reactions": 52,
-   "nodes": 411,
+   "nodes": 407,
    "combined": false
   },
   {

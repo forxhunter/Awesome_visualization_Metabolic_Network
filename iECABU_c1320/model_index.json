@@ -7,7 +7,7 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iECABU_c1320/Amino_acid_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 793,
+   "nodes": 792,
    "combined": false
   },
   {
@@ -15,15 +15,7 @@
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iECABU_c1320/Carbohydrate_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 533,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (1)",
-   "file": "Other_metabolism__1_.json",
-   "path": "iECABU_c1320/Other_metabolism__1_.json",
-   "reactions": 120,
-   "nodes": 785,
+   "nodes": 541,
    "combined": false
   },
   {
@@ -31,7 +23,7 @@
    "file": "Other_metabolism__2_.json",
    "path": "iECABU_c1320/Other_metabolism__2_.json",
    "reactions": 120,
-   "nodes": 708,
+   "nodes": 739,
    "combined": false
   },
   {
@@ -39,7 +31,7 @@
    "file": "Other_metabolism__5_.json",
    "path": "iECABU_c1320/Other_metabolism__5_.json",
    "reactions": 120,
-   "nodes": 872,
+   "nodes": 880,
    "combined": false
   },
   {
@@ -47,7 +39,7 @@
    "file": "Other_metabolism__6_.json",
    "path": "iECABU_c1320/Other_metabolism__6_.json",
    "reactions": 120,
-   "nodes": 902,
+   "nodes": 887,
    "combined": false
   },
   {
@@ -75,19 +67,35 @@
    "combined": false
   },
   {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iECABU_c1320/Transport_and_exchange__6_.json",
+   "reactions": 120,
+   "nodes": 734,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (7)",
+   "file": "Transport_and_exchange__7_.json",
+   "path": "iECABU_c1320/Transport_and_exchange__7_.json",
+   "reactions": 120,
+   "nodes": 992,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iECABU_c1320/Other_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 778,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (8)",
    "file": "Other_metabolism__8_.json",
    "path": "iECABU_c1320/Other_metabolism__8_.json",
    "reactions": 119,
-   "nodes": 901,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (4)",
-   "file": "Other_metabolism__4_.json",
-   "path": "iECABU_c1320/Other_metabolism__4_.json",
-   "reactions": 118,
-   "nodes": 770,
+   "nodes": 895,
    "combined": false
   },
   {
@@ -95,15 +103,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "iECABU_c1320/Other_metabolism__7_.json",
    "reactions": 118,
-   "nodes": 837,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (7)",
-   "file": "Transport_and_exchange__7_.json",
-   "path": "iECABU_c1320/Transport_and_exchange__7_.json",
-   "reactions": 118,
-   "nodes": 965,
+   "nodes": 833,
    "combined": false
   },
   {
@@ -111,7 +111,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iECABU_c1320/Cofactor_and_vitamin_metabolism.json",
    "reactions": 117,
-   "nodes": 761,
+   "nodes": 764,
    "combined": false
   },
   {
@@ -119,31 +119,23 @@
    "file": "Other_metabolism__3_.json",
    "path": "iECABU_c1320/Other_metabolism__3_.json",
    "reactions": 117,
-   "nodes": 746,
+   "nodes": 770,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iECABU_c1320/Other_metabolism__4_.json",
+   "reactions": 117,
+   "nodes": 759,
    "combined": false
   },
   {
    "name": "Transport and exchange (4)",
    "file": "Transport_and_exchange__4_.json",
    "path": "iECABU_c1320/Transport_and_exchange__4_.json",
-   "reactions": 117,
-   "nodes": 740,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (6)",
-   "file": "Transport_and_exchange__6_.json",
-   "path": "iECABU_c1320/Transport_and_exchange__6_.json",
-   "reactions": 117,
-   "nodes": 707,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (5)",
-   "file": "Transport_and_exchange__5_.json",
-   "path": "iECABU_c1320/Transport_and_exchange__5_.json",
    "reactions": 116,
-   "nodes": 696,
+   "nodes": 733,
    "combined": false
   },
   {
@@ -151,7 +143,15 @@
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "iECABU_c1320/Carbohydrate_metabolism__2_.json",
    "reactions": 115,
-   "nodes": 859,
+   "nodes": 869,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iECABU_c1320/Transport_and_exchange__5_.json",
+   "reactions": 115,
+   "nodes": 700,
    "combined": false
   },
   {
@@ -183,23 +183,23 @@
    "file": "Other_metabolism__9_.json",
    "path": "iECABU_c1320/Other_metabolism__9_.json",
    "reactions": 65,
-   "nodes": 508,
+   "nodes": 493,
    "combined": false
   },
   {
    "name": "Carbohydrate metabolism (3)",
    "file": "Carbohydrate_metabolism__3_.json",
    "path": "iECABU_c1320/Carbohydrate_metabolism__3_.json",
-   "reactions": 58,
-   "nodes": 404,
+   "reactions": 60,
+   "nodes": 401,
    "combined": false
   },
   {
    "name": "Transport and exchange (8)",
    "file": "Transport_and_exchange__8_.json",
    "path": "iECABU_c1320/Transport_and_exchange__8_.json",
-   "reactions": 22,
-   "nodes": 153,
+   "reactions": 19,
+   "nodes": 126,
    "combined": false
   },
   {

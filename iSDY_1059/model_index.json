@@ -7,7 +7,7 @@
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iSDY_1059/Carbohydrate_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 555,
+   "nodes": 572,
    "combined": false
   },
   {
@@ -16,14 +16,6 @@
    "path": "iSDY_1059/Other_metabolism__1_.json",
    "reactions": 120,
    "nodes": 598,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (2)",
-   "file": "Other_metabolism__2_.json",
-   "path": "iSDY_1059/Other_metabolism__2_.json",
-   "reactions": 120,
-   "nodes": 757,
    "combined": false
   },
   {
@@ -47,7 +39,7 @@
    "file": "Transport_and_exchange__7_.json",
    "path": "iSDY_1059/Transport_and_exchange__7_.json",
    "reactions": 120,
-   "nodes": 764,
+   "nodes": 771,
    "combined": false
   },
   {
@@ -59,11 +51,19 @@
    "combined": false
   },
   {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iSDY_1059/Other_metabolism__2_.json",
+   "reactions": 119,
+   "nodes": 910,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (3)",
    "file": "Other_metabolism__3_.json",
    "path": "iSDY_1059/Other_metabolism__3_.json",
    "reactions": 119,
-   "nodes": 896,
+   "nodes": 754,
    "combined": false
   },
   {
@@ -71,15 +71,15 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iSDY_1059/Transport_and_exchange__1_.json",
    "reactions": 119,
-   "nodes": 719,
+   "nodes": 718,
    "combined": false
   },
   {
-   "name": "Other metabolism (4)",
-   "file": "Other_metabolism__4_.json",
-   "path": "iSDY_1059/Other_metabolism__4_.json",
-   "reactions": 118,
-   "nodes": 707,
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iSDY_1059/Transport_and_exchange__5_.json",
+   "reactions": 119,
+   "nodes": 736,
    "combined": false
   },
   {
@@ -87,31 +87,31 @@
    "file": "Other_metabolism__6_.json",
    "path": "iSDY_1059/Other_metabolism__6_.json",
    "reactions": 118,
-   "nodes": 911,
+   "nodes": 913,
    "combined": false
   },
   {
    "name": "Transport and exchange (4)",
    "file": "Transport_and_exchange__4_.json",
    "path": "iSDY_1059/Transport_and_exchange__4_.json",
-   "reactions": 117,
-   "nodes": 747,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (5)",
-   "file": "Transport_and_exchange__5_.json",
-   "path": "iSDY_1059/Transport_and_exchange__5_.json",
-   "reactions": 117,
-   "nodes": 704,
+   "reactions": 118,
+   "nodes": 735,
    "combined": false
   },
   {
    "name": "Transport and exchange (6)",
    "file": "Transport_and_exchange__6_.json",
    "path": "iSDY_1059/Transport_and_exchange__6_.json",
+   "reactions": 118,
+   "nodes": 713,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iSDY_1059/Other_metabolism__4_.json",
    "reactions": 117,
-   "nodes": 721,
+   "nodes": 709,
    "combined": false
   },
   {
@@ -127,7 +127,7 @@
    "file": "Other_metabolism__5_.json",
    "path": "iSDY_1059/Other_metabolism__5_.json",
    "reactions": 115,
-   "nodes": 819,
+   "nodes": 809,
    "combined": false
   },
   {
@@ -135,7 +135,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "iSDY_1059/Other_metabolism__7_.json",
    "reactions": 115,
-   "nodes": 839,
+   "nodes": 852,
    "combined": false
   },
   {
@@ -143,23 +143,23 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iSDY_1059/Cofactor_and_vitamin_metabolism.json",
    "reactions": 112,
-   "nodes": 739,
+   "nodes": 731,
    "combined": false
   },
   {
    "name": "Amino acid metabolism",
    "file": "Amino_acid_metabolism.json",
    "path": "iSDY_1059/Amino_acid_metabolism.json",
-   "reactions": 108,
-   "nodes": 715,
+   "reactions": 111,
+   "nodes": 746,
    "combined": false
   },
   {
    "name": "Transport and exchange (8)",
    "file": "Transport_and_exchange__8_.json",
    "path": "iSDY_1059/Transport_and_exchange__8_.json",
-   "reactions": 101,
-   "nodes": 884,
+   "reactions": 95,
+   "nodes": 796,
    "combined": false
   },
   {
@@ -190,8 +190,8 @@
    "name": "Carbohydrate metabolism (3)",
    "file": "Carbohydrate_metabolism__3_.json",
    "path": "iSDY_1059/Carbohydrate_metabolism__3_.json",
-   "reactions": 18,
-   "nodes": 125,
+   "reactions": 19,
+   "nodes": 133,
    "combined": false
   },
   {

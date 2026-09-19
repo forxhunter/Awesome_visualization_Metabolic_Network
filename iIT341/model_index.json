@@ -6,8 +6,8 @@
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "iIT341/Transport_and_exchange__1_.json",
-   "reactions": 120,
-   "nodes": 693,
+   "reactions": 119,
+   "nodes": 723,
    "combined": false
   },
   {
@@ -15,31 +15,31 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "iIT341/Amino_acid_metabolism__1_.json",
    "reactions": 118,
-   "nodes": 779,
+   "nodes": 733,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism (1)",
+   "file": "Cofactor_and_vitamin_metabolism__1_.json",
+   "path": "iIT341/Cofactor_and_vitamin_metabolism__1_.json",
+   "reactions": 117,
+   "nodes": 699,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism (2)",
+   "file": "Cofactor_and_vitamin_metabolism__2_.json",
+   "path": "iIT341/Cofactor_and_vitamin_metabolism__2_.json",
+   "reactions": 44,
+   "nodes": 276,
    "combined": false
   },
   {
    "name": "Transport and exchange (2)",
    "file": "Transport_and_exchange__2_.json",
    "path": "iIT341/Transport_and_exchange__2_.json",
-   "reactions": 117,
-   "nodes": 712,
-   "combined": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism",
-   "file": "Cofactor_and_vitamin_metabolism.json",
-   "path": "iIT341/Cofactor_and_vitamin_metabolism.json",
-   "reactions": 44,
-   "nodes": 265,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (3)",
-   "file": "Transport_and_exchange__3_.json",
-   "path": "iIT341/Transport_and_exchange__3_.json",
-   "reactions": 41,
-   "nodes": 292,
+   "reactions": 42,
+   "nodes": 300,
    "combined": false
   },
   {

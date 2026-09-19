@@ -7,7 +7,7 @@
    "file": "Amino_acid_metabolism__1_.json",
    "path": "Recon3D/Amino_acid_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 664,
+   "nodes": 658,
    "combined": false
   },
   {
@@ -15,7 +15,7 @@
    "file": "Amino_acid_metabolism__2_.json",
    "path": "Recon3D/Amino_acid_metabolism__2_.json",
    "reactions": 120,
-   "nodes": 771,
+   "nodes": 728,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Amino_acid_metabolism__3_.json",
    "path": "Recon3D/Amino_acid_metabolism__3_.json",
    "reactions": 120,
-   "nodes": 857,
+   "nodes": 844,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "Recon3D/Cofactor_and_vitamin_metabolism.json",
    "reactions": 120,
-   "nodes": 807,
+   "nodes": 805,
    "combined": false
   },
   {
@@ -39,7 +39,23 @@
    "file": "Lipid_metabolism__2_.json",
    "path": "Recon3D/Lipid_metabolism__2_.json",
    "reactions": 120,
-   "nodes": 1130,
+   "nodes": 1137,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (4)",
+   "file": "Lipid_metabolism__4_.json",
+   "path": "Recon3D/Lipid_metabolism__4_.json",
+   "reactions": 120,
+   "nodes": 1057,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (7)",
+   "file": "Lipid_metabolism__7_.json",
+   "path": "Recon3D/Lipid_metabolism__7_.json",
+   "reactions": 120,
+   "nodes": 1083,
    "combined": false
   },
   {
@@ -47,7 +63,7 @@
    "file": "Other_metabolism__10_.json",
    "path": "Recon3D/Other_metabolism__10_.json",
    "reactions": 120,
-   "nodes": 786,
+   "nodes": 804,
    "combined": false
   },
   {
@@ -55,7 +71,7 @@
    "file": "Other_metabolism__11_.json",
    "path": "Recon3D/Other_metabolism__11_.json",
    "reactions": 120,
-   "nodes": 925,
+   "nodes": 930,
    "combined": false
   },
   {
@@ -63,39 +79,23 @@
    "file": "Other_metabolism__12_.json",
    "path": "Recon3D/Other_metabolism__12_.json",
    "reactions": 120,
-   "nodes": 901,
+   "nodes": 915,
    "combined": false
   },
   {
-   "name": "Other metabolism (14)",
-   "file": "Other_metabolism__14_.json",
-   "path": "Recon3D/Other_metabolism__14_.json",
+   "name": "Other metabolism (18)",
+   "file": "Other_metabolism__18_.json",
+   "path": "Recon3D/Other_metabolism__18_.json",
    "reactions": 120,
-   "nodes": 876,
+   "nodes": 848,
    "combined": false
   },
   {
-   "name": "Other metabolism (17)",
-   "file": "Other_metabolism__17_.json",
-   "path": "Recon3D/Other_metabolism__17_.json",
+   "name": "Other metabolism (19)",
+   "file": "Other_metabolism__19_.json",
+   "path": "Recon3D/Other_metabolism__19_.json",
    "reactions": 120,
-   "nodes": 749,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (2)",
-   "file": "Other_metabolism__2_.json",
-   "path": "Recon3D/Other_metabolism__2_.json",
-   "reactions": 120,
-   "nodes": 734,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (20)",
-   "file": "Other_metabolism__20_.json",
-   "path": "Recon3D/Other_metabolism__20_.json",
-   "reactions": 120,
-   "nodes": 819,
+   "nodes": 940,
    "combined": false
   },
   {
@@ -103,7 +103,7 @@
    "file": "Other_metabolism__3_.json",
    "path": "Recon3D/Other_metabolism__3_.json",
    "reactions": 120,
-   "nodes": 808,
+   "nodes": 912,
    "combined": false
   },
   {
@@ -111,7 +111,7 @@
    "file": "Other_metabolism__4_.json",
    "path": "Recon3D/Other_metabolism__4_.json",
    "reactions": 120,
-   "nodes": 1140,
+   "nodes": 1015,
    "combined": false
   },
   {
@@ -119,7 +119,7 @@
    "file": "Other_metabolism__5_.json",
    "path": "Recon3D/Other_metabolism__5_.json",
    "reactions": 120,
-   "nodes": 1016,
+   "nodes": 906,
    "combined": false
   },
   {
@@ -127,7 +127,7 @@
    "file": "Other_metabolism__9_.json",
    "path": "Recon3D/Other_metabolism__9_.json",
    "reactions": 120,
-   "nodes": 754,
+   "nodes": 744,
    "combined": false
   },
   {
@@ -135,7 +135,7 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "Recon3D/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 706,
+   "nodes": 707,
    "combined": false
   },
   {
@@ -199,7 +199,7 @@
    "file": "Transport_and_exchange__17_.json",
    "path": "Recon3D/Transport_and_exchange__17_.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 668,
    "combined": false
   },
   {
@@ -207,7 +207,7 @@
    "file": "Transport_and_exchange__18_.json",
    "path": "Recon3D/Transport_and_exchange__18_.json",
    "reactions": 120,
-   "nodes": 630,
+   "nodes": 790,
    "combined": false
   },
   {
@@ -215,7 +215,7 @@
    "file": "Transport_and_exchange__19_.json",
    "path": "Recon3D/Transport_and_exchange__19_.json",
    "reactions": 120,
-   "nodes": 823,
+   "nodes": 762,
    "combined": false
   },
   {
@@ -223,7 +223,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "Recon3D/Transport_and_exchange__2_.json",
    "reactions": 120,
-   "nodes": 839,
+   "nodes": 792,
    "combined": false
   },
   {
@@ -231,7 +231,7 @@
    "file": "Transport_and_exchange__20_.json",
    "path": "Recon3D/Transport_and_exchange__20_.json",
    "reactions": 120,
-   "nodes": 773,
+   "nodes": 832,
    "combined": false
   },
   {
@@ -239,15 +239,15 @@
    "file": "Transport_and_exchange__21_.json",
    "path": "Recon3D/Transport_and_exchange__21_.json",
    "reactions": 120,
-   "nodes": 824,
+   "nodes": 765,
    "combined": false
   },
   {
-   "name": "Transport and exchange (23)",
-   "file": "Transport_and_exchange__23_.json",
-   "path": "Recon3D/Transport_and_exchange__23_.json",
+   "name": "Transport and exchange (22)",
+   "file": "Transport_and_exchange__22_.json",
+   "path": "Recon3D/Transport_and_exchange__22_.json",
    "reactions": 120,
-   "nodes": 775,
+   "nodes": 797,
    "combined": false
   },
   {
@@ -255,7 +255,7 @@
    "file": "Transport_and_exchange__24_.json",
    "path": "Recon3D/Transport_and_exchange__24_.json",
    "reactions": 120,
-   "nodes": 564,
+   "nodes": 758,
    "combined": false
   },
   {
@@ -263,7 +263,7 @@
    "file": "Transport_and_exchange__25_.json",
    "path": "Recon3D/Transport_and_exchange__25_.json",
    "reactions": 120,
-   "nodes": 800,
+   "nodes": 583,
    "combined": false
   },
   {
@@ -271,7 +271,7 @@
    "file": "Transport_and_exchange__26_.json",
    "path": "Recon3D/Transport_and_exchange__26_.json",
    "reactions": 120,
-   "nodes": 869,
+   "nodes": 736,
    "combined": false
   },
   {
@@ -279,7 +279,15 @@
    "file": "Transport_and_exchange__27_.json",
    "path": "Recon3D/Transport_and_exchange__27_.json",
    "reactions": 120,
-   "nodes": 920,
+   "nodes": 893,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (28)",
+   "file": "Transport_and_exchange__28_.json",
+   "path": "Recon3D/Transport_and_exchange__28_.json",
+   "reactions": 120,
+   "nodes": 948,
    "combined": false
   },
   {
@@ -287,23 +295,15 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "Recon3D/Transport_and_exchange__3_.json",
    "reactions": 120,
-   "nodes": 799,
+   "nodes": 802,
    "combined": false
   },
   {
-   "name": "Transport and exchange (35)",
-   "file": "Transport_and_exchange__35_.json",
-   "path": "Recon3D/Transport_and_exchange__35_.json",
+   "name": "Transport and exchange (36)",
+   "file": "Transport_and_exchange__36_.json",
+   "path": "Recon3D/Transport_and_exchange__36_.json",
    "reactions": 120,
-   "nodes": 924,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (37)",
-   "file": "Transport_and_exchange__37_.json",
-   "path": "Recon3D/Transport_and_exchange__37_.json",
-   "reactions": 120,
-   "nodes": 908,
+   "nodes": 922,
    "combined": false
   },
   {
@@ -311,15 +311,7 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "Recon3D/Transport_and_exchange__4_.json",
    "reactions": 120,
-   "nodes": 751,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (40)",
-   "file": "Transport_and_exchange__40_.json",
-   "path": "Recon3D/Transport_and_exchange__40_.json",
-   "reactions": 120,
-   "nodes": 784,
+   "nodes": 744,
    "combined": false
   },
   {
@@ -327,7 +319,7 @@
    "file": "Transport_and_exchange__45_.json",
    "path": "Recon3D/Transport_and_exchange__45_.json",
    "reactions": 120,
-   "nodes": 970,
+   "nodes": 976,
    "combined": false
   },
   {
@@ -335,7 +327,7 @@
    "file": "Transport_and_exchange__47_.json",
    "path": "Recon3D/Transport_and_exchange__47_.json",
    "reactions": 120,
-   "nodes": 928,
+   "nodes": 921,
    "combined": false
   },
   {
@@ -343,7 +335,7 @@
    "file": "Transport_and_exchange__48_.json",
    "path": "Recon3D/Transport_and_exchange__48_.json",
    "reactions": 120,
-   "nodes": 860,
+   "nodes": 851,
    "combined": false
   },
   {
@@ -351,7 +343,7 @@
    "file": "Transport_and_exchange__5_.json",
    "path": "Recon3D/Transport_and_exchange__5_.json",
    "reactions": 120,
-   "nodes": 579,
+   "nodes": 480,
    "combined": false
   },
   {
@@ -359,7 +351,7 @@
    "file": "Transport_and_exchange__50_.json",
    "path": "Recon3D/Transport_and_exchange__50_.json",
    "reactions": 120,
-   "nodes": 805,
+   "nodes": 815,
    "combined": false
   },
   {
@@ -395,11 +387,11 @@
    "combined": false
   },
   {
-   "name": "Amino acid metabolism (4)",
-   "file": "Amino_acid_metabolism__4_.json",
-   "path": "Recon3D/Amino_acid_metabolism__4_.json",
+   "name": "Amino acid metabolism (5)",
+   "file": "Amino_acid_metabolism__5_.json",
+   "path": "Recon3D/Amino_acid_metabolism__5_.json",
    "reactions": 119,
-   "nodes": 817,
+   "nodes": 859,
    "combined": false
   },
   {
@@ -407,15 +399,7 @@
    "file": "Lipid_metabolism__1_.json",
    "path": "Recon3D/Lipid_metabolism__1_.json",
    "reactions": 119,
-   "nodes": 1022,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (4)",
-   "file": "Lipid_metabolism__4_.json",
-   "path": "Recon3D/Lipid_metabolism__4_.json",
-   "reactions": 119,
-   "nodes": 1057,
+   "nodes": 1035,
    "combined": false
   },
   {
@@ -423,7 +407,7 @@
    "file": "Lipid_metabolism__6_.json",
    "path": "Recon3D/Lipid_metabolism__6_.json",
    "reactions": 119,
-   "nodes": 1236,
+   "nodes": 1214,
    "combined": false
   },
   {
@@ -431,23 +415,23 @@
    "file": "Other_metabolism__1_.json",
    "path": "Recon3D/Other_metabolism__1_.json",
    "reactions": 119,
-   "nodes": 984,
+   "nodes": 986,
    "combined": false
   },
   {
-   "name": "Other metabolism (18)",
-   "file": "Other_metabolism__18_.json",
-   "path": "Recon3D/Other_metabolism__18_.json",
+   "name": "Other metabolism (17)",
+   "file": "Other_metabolism__17_.json",
+   "path": "Recon3D/Other_metabolism__17_.json",
    "reactions": 119,
-   "nodes": 957,
+   "nodes": 766,
    "combined": false
   },
   {
-   "name": "Other metabolism (19)",
-   "file": "Other_metabolism__19_.json",
-   "path": "Recon3D/Other_metabolism__19_.json",
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "Recon3D/Other_metabolism__2_.json",
    "reactions": 119,
-   "nodes": 922,
+   "nodes": 722,
    "combined": false
   },
   {
@@ -455,7 +439,7 @@
    "file": "Other_metabolism__6_.json",
    "path": "Recon3D/Other_metabolism__6_.json",
    "reactions": 119,
-   "nodes": 856,
+   "nodes": 862,
    "combined": false
   },
   {
@@ -463,15 +447,15 @@
    "file": "Other_metabolism__7_.json",
    "path": "Recon3D/Other_metabolism__7_.json",
    "reactions": 119,
-   "nodes": 845,
+   "nodes": 842,
    "combined": false
   },
   {
-   "name": "Transport and exchange (22)",
-   "file": "Transport_and_exchange__22_.json",
-   "path": "Recon3D/Transport_and_exchange__22_.json",
+   "name": "Transport and exchange (23)",
+   "file": "Transport_and_exchange__23_.json",
+   "path": "Recon3D/Transport_and_exchange__23_.json",
    "reactions": 119,
-   "nodes": 719,
+   "nodes": 711,
    "combined": false
   },
   {
@@ -479,7 +463,7 @@
    "file": "Transport_and_exchange__29_.json",
    "path": "Recon3D/Transport_and_exchange__29_.json",
    "reactions": 119,
-   "nodes": 789,
+   "nodes": 553,
    "combined": false
   },
   {
@@ -487,7 +471,7 @@
    "file": "Transport_and_exchange__30_.json",
    "path": "Recon3D/Transport_and_exchange__30_.json",
    "reactions": 119,
-   "nodes": 778,
+   "nodes": 751,
    "combined": false
   },
   {
@@ -495,15 +479,15 @@
    "file": "Transport_and_exchange__31_.json",
    "path": "Recon3D/Transport_and_exchange__31_.json",
    "reactions": 119,
-   "nodes": 716,
+   "nodes": 724,
    "combined": false
   },
   {
-   "name": "Transport and exchange (36)",
-   "file": "Transport_and_exchange__36_.json",
-   "path": "Recon3D/Transport_and_exchange__36_.json",
+   "name": "Transport and exchange (37)",
+   "file": "Transport_and_exchange__37_.json",
+   "path": "Recon3D/Transport_and_exchange__37_.json",
    "reactions": 119,
-   "nodes": 931,
+   "nodes": 971,
    "combined": false
   },
   {
@@ -511,13 +495,29 @@
    "file": "Transport_and_exchange__38_.json",
    "path": "Recon3D/Transport_and_exchange__38_.json",
    "reactions": 119,
-   "nodes": 893,
+   "nodes": 963,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (39)",
+   "file": "Transport_and_exchange__39_.json",
+   "path": "Recon3D/Transport_and_exchange__39_.json",
+   "reactions": 119,
+   "nodes": 903,
    "combined": false
   },
   {
    "name": "Transport and exchange (41)",
    "file": "Transport_and_exchange__41_.json",
    "path": "Recon3D/Transport_and_exchange__41_.json",
+   "reactions": 119,
+   "nodes": 755,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (42)",
+   "file": "Transport_and_exchange__42_.json",
+   "path": "Recon3D/Transport_and_exchange__42_.json",
    "reactions": 119,
    "nodes": 768,
    "combined": false
@@ -535,15 +535,23 @@
    "file": "Transport_and_exchange__44_.json",
    "path": "Recon3D/Transport_and_exchange__44_.json",
    "reactions": 119,
-   "nodes": 996,
+   "nodes": 962,
    "combined": false
   },
   {
-   "name": "Amino acid metabolism (5)",
-   "file": "Amino_acid_metabolism__5_.json",
-   "path": "Recon3D/Amino_acid_metabolism__5_.json",
+   "name": "Transport and exchange (51)",
+   "file": "Transport_and_exchange__51_.json",
+   "path": "Recon3D/Transport_and_exchange__51_.json",
+   "reactions": 119,
+   "nodes": 782,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "Recon3D/Carbohydrate_metabolism__1_.json",
    "reactions": 118,
-   "nodes": 886,
+   "nodes": 817,
    "combined": false
   },
   {
@@ -551,7 +559,15 @@
    "file": "Lipid_metabolism__3_.json",
    "path": "Recon3D/Lipid_metabolism__3_.json",
    "reactions": 118,
-   "nodes": 1360,
+   "nodes": 1306,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (14)",
+   "file": "Other_metabolism__14_.json",
+   "path": "Recon3D/Other_metabolism__14_.json",
+   "reactions": 118,
+   "nodes": 1490,
    "combined": false
   },
   {
@@ -559,7 +575,15 @@
    "file": "Other_metabolism__15_.json",
    "path": "Recon3D/Other_metabolism__15_.json",
    "reactions": 118,
-   "nodes": 1543,
+   "nodes": 834,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (20)",
+   "file": "Other_metabolism__20_.json",
+   "path": "Recon3D/Other_metabolism__20_.json",
+   "reactions": 118,
+   "nodes": 911,
    "combined": false
   },
   {
@@ -567,15 +591,15 @@
    "file": "Transport_and_exchange__32_.json",
    "path": "Recon3D/Transport_and_exchange__32_.json",
    "reactions": 118,
-   "nodes": 507,
+   "nodes": 497,
    "combined": false
   },
   {
-   "name": "Transport and exchange (33)",
-   "file": "Transport_and_exchange__33_.json",
-   "path": "Recon3D/Transport_and_exchange__33_.json",
+   "name": "Transport and exchange (34)",
+   "file": "Transport_and_exchange__34_.json",
+   "path": "Recon3D/Transport_and_exchange__34_.json",
    "reactions": 118,
-   "nodes": 724,
+   "nodes": 746,
    "combined": false
   },
   {
@@ -583,7 +607,7 @@
    "file": "Transport_and_exchange__46_.json",
    "path": "Recon3D/Transport_and_exchange__46_.json",
    "reactions": 118,
-   "nodes": 921,
+   "nodes": 923,
    "combined": false
   },
   {
@@ -591,31 +615,15 @@
    "file": "Other_metabolism__16_.json",
    "path": "Recon3D/Other_metabolism__16_.json",
    "reactions": 117,
-   "nodes": 833,
+   "nodes": 809,
    "combined": false
   },
   {
-   "name": "Other metabolism (21)",
-   "file": "Other_metabolism__21_.json",
-   "path": "Recon3D/Other_metabolism__21_.json",
+   "name": "Transport and exchange (35)",
+   "file": "Transport_and_exchange__35_.json",
+   "path": "Recon3D/Transport_and_exchange__35_.json",
    "reactions": 117,
-   "nodes": 785,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (34)",
-   "file": "Transport_and_exchange__34_.json",
-   "path": "Recon3D/Transport_and_exchange__34_.json",
-   "reactions": 117,
-   "nodes": 791,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (39)",
-   "file": "Transport_and_exchange__39_.json",
-   "path": "Recon3D/Transport_and_exchange__39_.json",
-   "reactions": 117,
-   "nodes": 1094,
+   "nodes": 812,
    "combined": false
   },
   {
@@ -623,23 +631,15 @@
    "file": "Transport_and_exchange__49_.json",
    "path": "Recon3D/Transport_and_exchange__49_.json",
    "reactions": 117,
-   "nodes": 783,
+   "nodes": 782,
    "combined": false
   },
   {
-   "name": "Carbohydrate metabolism (1)",
-   "file": "Carbohydrate_metabolism__1_.json",
-   "path": "Recon3D/Carbohydrate_metabolism__1_.json",
+   "name": "Amino acid metabolism (4)",
+   "file": "Amino_acid_metabolism__4_.json",
+   "path": "Recon3D/Amino_acid_metabolism__4_.json",
    "reactions": 116,
-   "nodes": 731,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (13)",
-   "file": "Other_metabolism__13_.json",
-   "path": "Recon3D/Other_metabolism__13_.json",
-   "reactions": 116,
-   "nodes": 1029,
+   "nodes": 836,
    "combined": false
   },
   {
@@ -647,15 +647,15 @@
    "file": "Other_metabolism__8_.json",
    "path": "Recon3D/Other_metabolism__8_.json",
    "reactions": 116,
-   "nodes": 994,
+   "nodes": 993,
    "combined": false
   },
   {
-   "name": "Carbohydrate metabolism (2)",
-   "file": "Carbohydrate_metabolism__2_.json",
-   "path": "Recon3D/Carbohydrate_metabolism__2_.json",
-   "reactions": 115,
-   "nodes": 798,
+   "name": "Transport and exchange (40)",
+   "file": "Transport_and_exchange__40_.json",
+   "path": "Recon3D/Transport_and_exchange__40_.json",
+   "reactions": 116,
+   "nodes": 1023,
    "combined": false
   },
   {
@@ -663,63 +663,71 @@
    "file": "Lipid_metabolism__5_.json",
    "path": "Recon3D/Lipid_metabolism__5_.json",
    "reactions": 115,
-   "nodes": 1111,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (42)",
-   "file": "Transport_and_exchange__42_.json",
-   "path": "Recon3D/Transport_and_exchange__42_.json",
-   "reactions": 115,
-   "nodes": 882,
+   "nodes": 1105,
    "combined": false
   },
   {
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "Recon3D/Nucleotide_metabolism.json",
-   "reactions": 114,
-   "nodes": 862,
+   "reactions": 115,
+   "nodes": 865,
    "combined": false
   },
   {
-   "name": "Transport and exchange (28)",
-   "file": "Transport_and_exchange__28_.json",
-   "path": "Recon3D/Transport_and_exchange__28_.json",
-   "reactions": 114,
-   "nodes": 702,
+   "name": "Other metabolism (13)",
+   "file": "Other_metabolism__13_.json",
+   "path": "Recon3D/Other_metabolism__13_.json",
+   "reactions": 115,
+   "nodes": 875,
    "combined": false
   },
   {
-   "name": "Transport and exchange (51)",
-   "file": "Transport_and_exchange__51_.json",
-   "path": "Recon3D/Transport_and_exchange__51_.json",
-   "reactions": 103,
-   "nodes": 621,
+   "name": "Transport and exchange (33)",
+   "file": "Transport_and_exchange__33_.json",
+   "path": "Recon3D/Transport_and_exchange__33_.json",
+   "reactions": 113,
+   "nodes": 718,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "Recon3D/Carbohydrate_metabolism__2_.json",
+   "reactions": 107,
+   "nodes": 741,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (21)",
+   "file": "Other_metabolism__21_.json",
+   "path": "Recon3D/Other_metabolism__21_.json",
+   "reactions": 106,
+   "nodes": 681,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (52)",
+   "file": "Transport_and_exchange__52_.json",
+   "path": "Recon3D/Transport_and_exchange__52_.json",
+   "reactions": 53,
+   "nodes": 302,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (8)",
+   "file": "Lipid_metabolism__8_.json",
+   "path": "Recon3D/Lipid_metabolism__8_.json",
+   "reactions": 30,
+   "nodes": 206,
    "combined": false
   },
   {
    "name": "Amino acid metabolism (6)",
    "file": "Amino_acid_metabolism__6_.json",
    "path": "Recon3D/Amino_acid_metabolism__6_.json",
-   "reactions": 91,
-   "nodes": 628,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (7)",
-   "file": "Lipid_metabolism__7_.json",
-   "path": "Recon3D/Lipid_metabolism__7_.json",
-   "reactions": 74,
-   "nodes": 559,
-   "combined": false
-  },
-  {
-   "name": "Carbohydrate metabolism (3)",
-   "file": "Carbohydrate_metabolism__3_.json",
-   "path": "Recon3D/Carbohydrate_metabolism__3_.json",
-   "reactions": 51,
-   "nodes": 323,
+   "reactions": 24,
+   "nodes": 163,
    "combined": false
   },
   {
@@ -736,14 +744,6 @@
    "path": "Recon3D/Xenobiotic_degradation.json",
    "reactions": 15,
    "nodes": 92,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (22)",
-   "file": "Other_metabolism__22_.json",
-   "path": "Recon3D/Other_metabolism__22_.json",
-   "reactions": 6,
-   "nodes": 39,
    "combined": false
   }
  ]

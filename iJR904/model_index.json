@@ -3,14 +3,6 @@
  "id": "iJR904",
  "maps": [
   {
-   "name": "Amino acid metabolism (2)",
-   "file": "Amino_acid_metabolism__2_.json",
-   "path": "iJR904/Amino_acid_metabolism__2_.json",
-   "reactions": 120,
-   "nodes": 849,
-   "combined": false
-  },
-  {
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "iJR904/Transport_and_exchange__1_.json",
@@ -19,19 +11,19 @@
    "combined": false
   },
   {
-   "name": "Amino acid metabolism (1)",
-   "file": "Amino_acid_metabolism__1_.json",
-   "path": "iJR904/Amino_acid_metabolism__1_.json",
-   "reactions": 119,
-   "nodes": 907,
-   "combined": false
-  },
-  {
    "name": "Transport and exchange (3)",
    "file": "Transport_and_exchange__3_.json",
    "path": "iJR904/Transport_and_exchange__3_.json",
-   "reactions": 119,
-   "nodes": 774,
+   "reactions": 120,
+   "nodes": 804,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iJR904/Amino_acid_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 832,
    "combined": false
   },
   {
@@ -43,51 +35,59 @@
    "combined": false
   },
   {
-   "name": "Transport and exchange (2)",
-   "file": "Transport_and_exchange__2_.json",
-   "path": "iJR904/Transport_and_exchange__2_.json",
-   "reactions": 118,
-   "nodes": 709,
-   "combined": false
-  },
-  {
    "name": "Carbohydrate metabolism (1)",
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iJR904/Carbohydrate_metabolism__1_.json",
-   "reactions": 117,
-   "nodes": 738,
+   "reactions": 116,
+   "nodes": 760,
    "combined": false
   },
   {
-   "name": "Cofactor and vitamin metabolism",
-   "file": "Cofactor_and_vitamin_metabolism.json",
-   "path": "iJR904/Cofactor_and_vitamin_metabolism.json",
-   "reactions": 77,
-   "nodes": 494,
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iJR904/Transport_and_exchange__2_.json",
+   "reactions": 116,
+   "nodes": 689,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iJR904/Amino_acid_metabolism__2_.json",
+   "reactions": 97,
+   "nodes": 630,
    "combined": false
   },
   {
    "name": "Transport and exchange (4)",
    "file": "Transport_and_exchange__4_.json",
    "path": "iJR904/Transport_and_exchange__4_.json",
-   "reactions": 64,
-   "nodes": 397,
+   "reactions": 87,
+   "nodes": 620,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iJR904/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 80,
+   "nodes": 525,
    "combined": false
   },
   {
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "iJR904/Nucleotide_metabolism.json",
-   "reactions": 51,
-   "nodes": 387,
+   "reactions": 55,
+   "nodes": 412,
    "combined": false
   },
   {
    "name": "Carbohydrate metabolism (3)",
    "file": "Carbohydrate_metabolism__3_.json",
    "path": "iJR904/Carbohydrate_metabolism__3_.json",
-   "reactions": 21,
-   "nodes": 133,
+   "reactions": 23,
+   "nodes": 147,
    "combined": false
   },
   {
@@ -104,14 +104,6 @@
    "path": "iJR904/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 8,
    "nodes": 47,
-   "combined": false
-  },
-  {
-   "name": "Amino acid metabolism (3)",
-   "file": "Amino_acid_metabolism__3_.json",
-   "path": "iJR904/Amino_acid_metabolism__3_.json",
-   "reactions": 6,
-   "nodes": 46,
    "combined": false
   }
  ]

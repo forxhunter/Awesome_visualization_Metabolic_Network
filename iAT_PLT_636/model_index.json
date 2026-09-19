@@ -7,7 +7,7 @@
    "file": "Lipid_metabolism__1_.json",
    "path": "iAT_PLT_636/Lipid_metabolism__1_.json",
    "reactions": 120,
-   "nodes": 597,
+   "nodes": 601,
    "combined": false
   },
   {
@@ -23,7 +23,7 @@
    "file": "Other_metabolism__1_.json",
    "path": "iAT_PLT_636/Other_metabolism__1_.json",
    "reactions": 118,
-   "nodes": 759,
+   "nodes": 746,
    "combined": false
   },
   {
@@ -31,7 +31,7 @@
    "file": "Unassigned_clusters.json",
    "path": "iAT_PLT_636/Unassigned_clusters.json",
    "reactions": 118,
-   "nodes": 697,
+   "nodes": 719,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Transport_and_exchange__2_.json",
    "path": "iAT_PLT_636/Transport_and_exchange__2_.json",
    "reactions": 115,
-   "nodes": 763,
+   "nodes": 757,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Transport_and_exchange__3_.json",
    "path": "iAT_PLT_636/Transport_and_exchange__3_.json",
    "reactions": 114,
-   "nodes": 794,
+   "nodes": 802,
    "combined": false
   },
   {
@@ -103,7 +103,7 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iAT_PLT_636/Cofactor_and_vitamin_metabolism.json",
    "reactions": 15,
-   "nodes": 90,
+   "nodes": 92,
    "combined": false
   }
  ]

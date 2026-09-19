@@ -15,23 +15,23 @@
    "file": "Transport_and_exchange__1_.json",
    "path": "iYS854/Transport_and_exchange__1_.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 742,
    "combined": false
   },
   {
    "name": "Transport and exchange (2)",
    "file": "Transport_and_exchange__2_.json",
    "path": "iYS854/Transport_and_exchange__2_.json",
-   "reactions": 119,
-   "nodes": 842,
+   "reactions": 120,
+   "nodes": 480,
    "combined": false
   },
   {
-   "name": "Transport and exchange (4)",
-   "file": "Transport_and_exchange__4_.json",
-   "path": "iYS854/Transport_and_exchange__4_.json",
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iYS854/Transport_and_exchange__3_.json",
    "reactions": 119,
-   "nodes": 680,
+   "nodes": 830,
    "combined": false
   },
   {
@@ -39,7 +39,7 @@
    "file": "Other_metabolism__3_.json",
    "path": "iYS854/Other_metabolism__3_.json",
    "reactions": 118,
-   "nodes": 860,
+   "nodes": 847,
    "combined": false
   },
   {
@@ -47,7 +47,7 @@
    "file": "Transport_and_exchange__5_.json",
    "path": "iYS854/Transport_and_exchange__5_.json",
    "reactions": 117,
-   "nodes": 758,
+   "nodes": 775,
    "combined": false
   },
   {
@@ -55,31 +55,31 @@
    "file": "Other_metabolism__2_.json",
    "path": "iYS854/Other_metabolism__2_.json",
    "reactions": 116,
-   "nodes": 743,
+   "nodes": 729,
    "combined": false
   },
   {
-   "name": "Transport and exchange (3)",
-   "file": "Transport_and_exchange__3_.json",
-   "path": "iYS854/Transport_and_exchange__3_.json",
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iYS854/Transport_and_exchange__4_.json",
    "reactions": 116,
-   "nodes": 837,
+   "nodes": 825,
    "combined": false
   },
   {
    "name": "Transport and exchange (7)",
    "file": "Transport_and_exchange__7_.json",
    "path": "iYS854/Transport_and_exchange__7_.json",
-   "reactions": 111,
-   "nodes": 817,
+   "reactions": 113,
+   "nodes": 848,
    "combined": false
   },
   {
    "name": "Transport and exchange (6)",
    "file": "Transport_and_exchange__6_.json",
    "path": "iYS854/Transport_and_exchange__6_.json",
-   "reactions": 108,
-   "nodes": 1004,
+   "reactions": 110,
+   "nodes": 1023,
    "combined": false
   },
   {
@@ -95,15 +95,15 @@
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iYS854/Cofactor_and_vitamin_metabolism.json",
    "reactions": 43,
-   "nodes": 262,
+   "nodes": 269,
    "combined": false
   },
   {
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "iYS854/Nucleotide_metabolism.json",
-   "reactions": 43,
-   "nodes": 302,
+   "reactions": 38,
+   "nodes": 260,
    "combined": false
   },
   {
@@ -135,7 +135,7 @@
    "file": "Other_metabolism__4_.json",
    "path": "iYS854/Other_metabolism__4_.json",
    "reactions": 15,
-   "nodes": 98,
+   "nodes": 90,
    "combined": false
   },
   {

@@ -3,19 +3,27 @@
  "id": "iYO844",
  "maps": [
   {
-   "name": "Transport and exchange (3)",
-   "file": "Transport_and_exchange__3_.json",
-   "path": "iYO844/Transport_and_exchange__3_.json",
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iYO844/Transport_and_exchange__2_.json",
    "reactions": 120,
    "nodes": 480,
    "combined": false
   },
   {
-   "name": "Transport and exchange (2)",
-   "file": "Transport_and_exchange__2_.json",
-   "path": "iYO844/Transport_and_exchange__2_.json",
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iYO844/Transport_and_exchange__1_.json",
    "reactions": 119,
-   "nodes": 677,
+   "nodes": 660,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iYO844/Transport_and_exchange__3_.json",
+   "reactions": 119,
+   "nodes": 633,
    "combined": false
   },
   {
@@ -23,39 +31,31 @@
    "file": "Transport_and_exchange__4_.json",
    "path": "iYO844/Transport_and_exchange__4_.json",
    "reactions": 119,
-   "nodes": 631,
-   "combined": false
-  },
-  {
-   "name": "Transport and exchange (5)",
-   "file": "Transport_and_exchange__5_.json",
-   "path": "iYO844/Transport_and_exchange__5_.json",
-   "reactions": 119,
-   "nodes": 803,
+   "nodes": 793,
    "combined": false
   },
   {
    "name": "Carbohydrate metabolism (1)",
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iYO844/Carbohydrate_metabolism__1_.json",
-   "reactions": 115,
-   "nodes": 828,
+   "reactions": 116,
+   "nodes": 865,
    "combined": false
   },
   {
-   "name": "Transport and exchange (1)",
-   "file": "Transport_and_exchange__1_.json",
-   "path": "iYO844/Transport_and_exchange__1_.json",
-   "reactions": 115,
-   "nodes": 829,
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iYO844/Transport_and_exchange__5_.json",
+   "reactions": 114,
+   "nodes": 815,
    "combined": false
   },
   {
    "name": "Carbohydrate metabolism (2)",
    "file": "Carbohydrate_metabolism__2_.json",
    "path": "iYO844/Carbohydrate_metabolism__2_.json",
-   "reactions": 107,
-   "nodes": 709,
+   "reactions": 109,
+   "nodes": 732,
    "combined": false
   },
   {
@@ -63,7 +63,7 @@
    "file": "Amino_acid_metabolism.json",
    "path": "iYO844/Amino_acid_metabolism.json",
    "reactions": 106,
-   "nodes": 699,
+   "nodes": 693,
    "combined": false
   },
   {
@@ -71,15 +71,15 @@
    "file": "Other_metabolism.json",
    "path": "iYO844/Other_metabolism.json",
    "reactions": 104,
-   "nodes": 816,
+   "nodes": 828,
    "combined": false
   },
   {
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "iYO844/Nucleotide_metabolism.json",
-   "reactions": 67,
-   "nodes": 470,
+   "reactions": 65,
+   "nodes": 457,
    "combined": false
   },
   {
@@ -95,7 +95,7 @@
    "file": "Transport_and_exchange__6_.json",
    "path": "iYO844/Transport_and_exchange__6_.json",
    "reactions": 48,
-   "nodes": 322,
+   "nodes": 326,
    "combined": false
   },
   {
