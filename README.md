@@ -10,6 +10,51 @@ metabolic network the way a curator would rather than the way a force-directed a
 
 ---
 
+## What the maps look like
+
+Four maps from **Recon3D**, the largest human reconstruction in the collection (10,600
+reactions, 93 maps). Click any image for full resolution.
+
+### Terpenoid and polyketide metabolism
+
+[![Terpenoid and polyketide metabolism](previews/Recon3D_Terpenoid_and_polyketide_metabolism.png)](previews/Recon3D_Terpenoid_and_polyketide_metabolism.png)
+
+The mevalonate pathway, 15 reactions. The same route runs in two compartments — peroxisomal
+(`[x]`, left) and cytosolic (`[c]`, right) — and each is drawn as one straight backbone from
+HMG-CoA down to farnesyl and decaprenyl diphosphate. ATP, ADP, NADPH, CoA, PPi and CO₂ leave the
+backbone as paired curved stubs, so the carbon route reads without the cofactors interrupting
+it. [Map JSON](Recon3D/Terpenoid_and_polyketide_metabolism.json)
+
+### Carbohydrate metabolism (1)
+
+[![Carbohydrate metabolism](previews/Recon3D_Carbohydrate_metabolism__1_.png)](previews/Recon3D_Carbohydrate_metabolism__1_.png)
+
+116 reactions. Glycolysis forms the long vertical spine on the left; the TCA cycle is drawn as
+an actual ring in the centre, rotated so its entry arc faces the pathway feeding it. The small
+pieces around them are reactions sharing no primary compound with the rest — they are packed
+into the space around the pathways rather than each given a row of its own.
+[Map JSON](Recon3D/Carbohydrate_metabolism__1_.json)
+
+### Amino acid metabolism (2)
+
+[![Amino acid metabolism](previews/Recon3D_Amino_acid_metabolism__2_.png)](previews/Recon3D_Amino_acid_metabolism__2_.png)
+
+120 reactions, 939 nodes — among the best-scoring large maps in the collection
+(`hairball_index` 3.2, 0.21 crossings per edge).
+[Map JSON](Recon3D/Amino_acid_metabolism__2_.json)
+
+### Lipid metabolism (5)
+
+[![Lipid metabolism](previews/Recon3D_Lipid_metabolism__5_.png)](previews/Recon3D_Lipid_metabolism__5_.png)
+
+115 reactions, 1,137 nodes. Fatty-acid chains give long unbranched runs, which is the case a
+layered drawing handles best. [Map JSON](Recon3D/Lipid_metabolism__5_.json)
+
+These images are rendered from the map files themselves, by the same geometry Escher draws from
+— they are not mock-ups. Opening any of them in the viewer gives exactly this layout.
+
+---
+
 ## Licence and citation
 
 These maps are licensed under
