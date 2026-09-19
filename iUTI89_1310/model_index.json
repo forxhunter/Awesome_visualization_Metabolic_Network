@@ -63,7 +63,7 @@
    "file": "Transport_and_exchange__8_.json",
    "path": "iUTI89_1310/Transport_and_exchange__8_.json",
    "reactions": 120,
-   "nodes": 998,
+   "nodes": 983,
    "combined": false
   },
   {
@@ -71,7 +71,7 @@
    "file": "Other_metabolism__8_.json",
    "path": "iUTI89_1310/Other_metabolism__8_.json",
    "reactions": 119,
-   "nodes": 895,
+   "nodes": 907,
    "combined": false
   },
   {
@@ -79,7 +79,7 @@
    "file": "Transport_and_exchange__7_.json",
    "path": "iUTI89_1310/Transport_and_exchange__7_.json",
    "reactions": 119,
-   "nodes": 700,
+   "nodes": 684,
    "combined": false
   },
   {
@@ -95,7 +95,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "iUTI89_1310/Other_metabolism__7_.json",
    "reactions": 118,
-   "nodes": 852,
+   "nodes": 848,
    "combined": false
   },
   {
@@ -107,6 +107,14 @@
    "combined": false
   },
   {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iUTI89_1310/Other_metabolism__5_.json",
+   "reactions": 117,
+   "nodes": 868,
+   "combined": false
+  },
+  {
    "name": "Carbohydrate metabolism (1)",
    "file": "Carbohydrate_metabolism__1_.json",
    "path": "iUTI89_1310/Carbohydrate_metabolism__1_.json",
@@ -115,19 +123,11 @@
    "combined": false
   },
   {
-   "name": "Other metabolism (5)",
-   "file": "Other_metabolism__5_.json",
-   "path": "iUTI89_1310/Other_metabolism__5_.json",
-   "reactions": 116,
-   "nodes": 867,
-   "combined": false
-  },
-  {
    "name": "Other metabolism (6)",
    "file": "Other_metabolism__6_.json",
    "path": "iUTI89_1310/Other_metabolism__6_.json",
    "reactions": 116,
-   "nodes": 865,
+   "nodes": 852,
    "combined": false
   },
   {
@@ -158,8 +158,8 @@
    "name": "Lipid metabolism (1)",
    "file": "Lipid_metabolism__1_.json",
    "path": "iUTI89_1310/Lipid_metabolism__1_.json",
-   "reactions": 112,
-   "nodes": 693,
+   "reactions": 111,
+   "nodes": 664,
    "combined": false
   },
   {
@@ -183,7 +183,7 @@
    "file": "Other_metabolism__9_.json",
    "path": "iUTI89_1310/Other_metabolism__9_.json",
    "reactions": 79,
-   "nodes": 565,
+   "nodes": 577,
    "combined": false
   },
   {

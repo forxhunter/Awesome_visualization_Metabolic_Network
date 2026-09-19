@@ -7,650 +7,1082 @@
    "id": "RECON1",
    "index": "RECON1/model_index.json",
    "map_count": 35,
-   "reactions": 3738
+   "reactions": 3738,
+   "organism": "Homo sapiens",
+   "species": "Homo sapiens",
+   "common_name": "human",
+   "search": "recon1 homo sapiens homo sapiens human"
   },
   {
    "id": "Recon3D",
    "index": "Recon3D/model_index.json",
    "map_count": 93,
-   "reactions": 10591
+   "reactions": 10591,
+   "organism": "Homo sapiens",
+   "species": "Homo sapiens",
+   "common_name": "human",
+   "search": "recon3d homo sapiens homo sapiens human"
   },
   {
    "id": "STM_v1_0",
    "index": "STM_v1_0/model_index.json",
    "map_count": 26,
-   "reactions": 2535
+   "reactions": 2535,
+   "organism": "Salmonella enterica subsp. enterica serovar Typhimurium str. LT2",
+   "species": "Salmonella enterica",
+   "common_name": "Salmonella",
+   "search": "stm_v1_0 salmonella enterica subsp. enterica serovar typhimurium str. lt2 salmonella enterica salmonella"
   },
   {
    "id": "e_coli_core",
    "index": "e_coli_core/model_index.json",
    "map_count": 3,
-   "reactions": 95
+   "reactions": 95,
+   "organism": "Escherichia coli str. K-12 substr. MG1655",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "e_coli_core escherichia coli str. k-12 substr. mg1655 escherichia coli e. coli"
   },
   {
    "id": "iAB_RBC_283",
    "index": "iAB_RBC_283/model_index.json",
    "map_count": 7,
-   "reactions": 456
+   "reactions": 456,
+   "organism": "Homo sapiens",
+   "species": "Homo sapiens",
+   "common_name": "human",
+   "search": "iab_rbc_283 homo sapiens homo sapiens human"
   },
   {
    "id": "iAF1260",
    "index": "iAF1260/model_index.json",
    "map_count": 26,
-   "reactions": 2379
+   "reactions": 2379,
+   "organism": "Escherichia coli str. K-12 substr. MG1655",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iaf1260 escherichia coli str. k-12 substr. mg1655 escherichia coli e. coli"
   },
   {
    "id": "iAF1260b",
    "index": "iAF1260b/model_index.json",
    "map_count": 26,
-   "reactions": 2385
+   "reactions": 2385,
+   "organism": "Escherichia coli str. K-12 substr. MG1655",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iaf1260b escherichia coli str. k-12 substr. mg1655 escherichia coli e. coli"
   },
   {
    "id": "iAF692",
    "index": "iAF692/model_index.json",
    "map_count": 11,
-   "reactions": 689
+   "reactions": 689,
+   "organism": "Methanosarcina barkeri str. Fusaro",
+   "species": "Methanosarcina barkeri",
+   "common_name": "methanogen",
+   "search": "iaf692 methanosarcina barkeri str. fusaro methanosarcina barkeri methanogen"
   },
   {
    "id": "iAF987",
    "index": "iAF987/model_index.json",
    "map_count": 17,
-   "reactions": 1282
+   "reactions": 1282,
+   "organism": "Geobacter metallireducens GS-15",
+   "species": "Geobacter metallireducens",
+   "common_name": "Geobacter",
+   "search": "iaf987 geobacter metallireducens gs-15 geobacter metallireducens geobacter"
   },
   {
    "id": "iAM_Pb448",
    "index": "iAM_Pb448/model_index.json",
    "map_count": 14,
-   "reactions": 1063
+   "reactions": 1063,
+   "organism": "Plasmodium berghei",
+   "species": "Plasmodium berghei",
+   "common_name": "malaria parasite",
+   "search": "iam_pb448 plasmodium berghei plasmodium berghei malaria parasite"
   },
   {
    "id": "iAM_Pc455",
    "index": "iAM_Pc455/model_index.json",
    "map_count": 14,
-   "reactions": 1070
+   "reactions": 1070,
+   "organism": "Plasmodium cynomolgi strain B",
+   "species": "Plasmodium cynomolgi",
+   "common_name": "malaria parasite",
+   "search": "iam_pc455 plasmodium cynomolgi strain b plasmodium cynomolgi malaria parasite"
   },
   {
    "id": "iAM_Pf480",
    "index": "iAM_Pf480/model_index.json",
    "map_count": 14,
-   "reactions": 1079
+   "reactions": 1079,
+   "organism": "Plasmodium falciparum 3D7",
+   "species": "Plasmodium falciparum",
+   "common_name": "malaria parasite",
+   "search": "iam_pf480 plasmodium falciparum 3d7 plasmodium falciparum malaria parasite"
   },
   {
    "id": "iAM_Pk459",
    "index": "iAM_Pk459/model_index.json",
    "map_count": 14,
-   "reactions": 1075
+   "reactions": 1075,
+   "organism": "Plasmodium knowlesi strain H",
+   "species": "Plasmodium knowlesi",
+   "common_name": "malaria parasite",
+   "search": "iam_pk459 plasmodium knowlesi strain h plasmodium knowlesi malaria parasite"
   },
   {
    "id": "iAM_Pv461",
    "index": "iAM_Pv461/model_index.json",
    "map_count": 14,
-   "reactions": 1074
+   "reactions": 1074,
+   "organism": "Plasmodium vivax Sal-1",
+   "species": "Plasmodium vivax",
+   "common_name": "malaria parasite",
+   "search": "iam_pv461 plasmodium vivax sal-1 plasmodium vivax malaria parasite"
   },
   {
    "id": "iAPECO1_1312",
    "index": "iAPECO1_1312/model_index.json",
    "map_count": 29,
-   "reactions": 2729
+   "reactions": 2729,
+   "organism": "Escherichia coli APEC O1",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iapeco1_1312 escherichia coli apec o1 escherichia coli e. coli"
   },
   {
    "id": "iAT_PLT_636",
    "index": "iAT_PLT_636/model_index.json",
    "map_count": 13,
-   "reactions": 1002
+   "reactions": 1002,
+   "organism": "Homo sapiens",
+   "species": "Homo sapiens",
+   "common_name": "human",
+   "search": "iat_plt_636 homo sapiens homo sapiens human"
   },
   {
    "id": "iB21_1397",
    "index": "iB21_1397/model_index.json",
    "map_count": 29,
-   "reactions": 2737
+   "reactions": 2737,
+   "organism": "Escherichia coli BL21(DE3)",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ib21_1397 escherichia coli bl21(de3) escherichia coli e. coli"
   },
   {
    "id": "iBWG_1329",
    "index": "iBWG_1329/model_index.json",
    "map_count": 29,
-   "reactions": 2735
+   "reactions": 2735,
+   "organism": "Escherichia coli BW2952",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ibwg_1329 escherichia coli bw2952 escherichia coli e. coli"
   },
   {
    "id": "iCHOv1",
    "index": "iCHOv1/model_index.json",
    "map_count": 62,
-   "reactions": 6645
+   "reactions": 6645,
+   "organism": "Cricetulus griseus",
+   "species": "Cricetulus griseus",
+   "common_name": "Chinese hamster, CHO",
+   "search": "ichov1 cricetulus griseus cricetulus griseus chinese hamster, cho"
   },
   {
    "id": "iCHOv1_DG44",
    "index": "iCHOv1_DG44/model_index.json",
    "map_count": 38,
-   "reactions": 3935
+   "reactions": 3935,
+   "organism": "Cricetulus griseus",
+   "species": "Cricetulus griseus",
+   "common_name": "Chinese hamster, CHO",
+   "search": "ichov1_dg44 cricetulus griseus cricetulus griseus chinese hamster, cho"
   },
   {
    "id": "iCN718",
    "index": "iCN718/model_index.json",
    "map_count": 10,
-   "reactions": 206
+   "reactions": 206,
+   "organism": "Acinetobacter baumannii AYE",
+   "species": "Acinetobacter baumannii",
+   "common_name": "Acinetobacter",
+   "search": "icn718 acinetobacter baumannii aye acinetobacter baumannii acinetobacter"
   },
   {
    "id": "iCN900",
    "index": "iCN900/model_index.json",
    "map_count": 14,
-   "reactions": 1217
+   "reactions": 1217,
+   "organism": "Clostridioides difficile 630",
+   "species": "Clostridioides difficile",
+   "common_name": "C. diff",
+   "search": "icn900 clostridioides difficile 630 clostridioides difficile c. diff"
   },
   {
    "id": "iE2348C_1286",
    "index": "iE2348C_1286/model_index.json",
    "map_count": 28,
-   "reactions": 2692
+   "reactions": 2692,
+   "organism": "Escherichia coli O127:H6 str. E2348/69",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ie2348c_1286 escherichia coli o127:h6 str. e2348/69 escherichia coli e. coli"
   },
   {
    "id": "iEC042_1314",
    "index": "iEC042_1314/model_index.json",
    "map_count": 29,
-   "reactions": 2709
+   "reactions": 2709,
+   "organism": "Escherichia coli 042",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iec042_1314 escherichia coli 042 escherichia coli e. coli"
   },
   {
    "id": "iEC1344_C",
    "index": "iEC1344_C/model_index.json",
    "map_count": 29,
-   "reactions": 2721
+   "reactions": 2721,
+   "organism": "Escherichia coli C",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iec1344_c escherichia coli c escherichia coli e. coli"
   },
   {
    "id": "iEC1349_Crooks",
    "index": "iEC1349_Crooks/model_index.json",
    "map_count": 29,
-   "reactions": 2751
+   "reactions": 2751,
+   "organism": "Escherichia coli ATCC 8739",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iec1349_crooks escherichia coli atcc 8739 escherichia coli e. coli"
   },
   {
    "id": "iEC1356_Bl21DE3",
    "index": "iEC1356_Bl21DE3/model_index.json",
    "map_count": 29,
-   "reactions": 2735
+   "reactions": 2735,
+   "organism": "Escherichia coli BL21(DE3)",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iec1356_bl21de3 escherichia coli bl21(de3) escherichia coli e. coli"
   },
   {
    "id": "iEC1364_W",
    "index": "iEC1364_W/model_index.json",
    "map_count": 29,
-   "reactions": 2759
+   "reactions": 2759,
+   "organism": "Escherichia coli W",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iec1364_w escherichia coli w escherichia coli e. coli"
   },
   {
    "id": "iEC1368_DH5a",
    "index": "iEC1368_DH5a/model_index.json",
-   "map_count": 30,
-   "reactions": 2774
+   "map_count": 29,
+   "reactions": 2774,
+   "organism": "Escherichia coli DH5[alpha]",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iec1368_dh5a escherichia coli dh5[alpha] escherichia coli e. coli"
   },
   {
    "id": "iEC1372_W3110",
    "index": "iEC1372_W3110/model_index.json",
    "map_count": 29,
-   "reactions": 2753
+   "reactions": 2753,
+   "organism": "Escherichia coli str. K-12 substr. W3110",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iec1372_w3110 escherichia coli str. k-12 substr. w3110 escherichia coli e. coli"
   },
   {
    "id": "iEC55989_1330",
    "index": "iEC55989_1330/model_index.json",
    "map_count": 29,
-   "reactions": 2748
+   "reactions": 2748,
+   "organism": "Escherichia coli 55989",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iec55989_1330 escherichia coli 55989 escherichia coli e. coli"
   },
   {
    "id": "iECABU_c1320",
    "index": "iECABU_c1320/model_index.json",
    "map_count": 29,
-   "reactions": 2725
+   "reactions": 2725,
+   "organism": "Escherichia coli ABU 83972",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecabu_c1320 escherichia coli abu 83972 escherichia coli e. coli"
   },
   {
    "id": "iECBD_1354",
    "index": "iECBD_1354/model_index.json",
    "map_count": 29,
-   "reactions": 2744
+   "reactions": 2744,
+   "organism": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecbd_1354 escherichia coli 'bl21-gold(de3)plyss ag' escherichia coli e. coli"
   },
   {
    "id": "iECB_1328",
    "index": "iECB_1328/model_index.json",
    "map_count": 29,
-   "reactions": 2744
+   "reactions": 2744,
+   "organism": "Escherichia coli B str. REL606",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecb_1328 escherichia coli b str. rel606 escherichia coli e. coli"
   },
   {
    "id": "iECDH10B_1368",
    "index": "iECDH10B_1368/model_index.json",
    "map_count": 29,
-   "reactions": 2736
+   "reactions": 2736,
+   "organism": "Escherichia coli str. K-12 substr. DH10B",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecdh10b_1368 escherichia coli str. k-12 substr. dh10b escherichia coli e. coli"
   },
   {
    "id": "iECDH1ME8569_1439",
    "index": "iECDH1ME8569_1439/model_index.json",
    "map_count": 29,
-   "reactions": 2749
+   "reactions": 2749,
+   "organism": "Escherichia coli DH1",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecdh1me8569_1439 escherichia coli dh1 escherichia coli e. coli"
   },
   {
    "id": "iECD_1391",
    "index": "iECD_1391/model_index.json",
    "map_count": 29,
-   "reactions": 2737
+   "reactions": 2737,
+   "organism": "Escherichia coli BL21(DE3)",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecd_1391 escherichia coli bl21(de3) escherichia coli e. coli"
   },
   {
    "id": "iECED1_1282",
    "index": "iECED1_1282/model_index.json",
    "map_count": 29,
-   "reactions": 2696
+   "reactions": 2696,
+   "organism": "Escherichia coli ED1a",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ieced1_1282 escherichia coli ed1a escherichia coli e. coli"
   },
   {
    "id": "iECH74115_1262",
    "index": "iECH74115_1262/model_index.json",
    "map_count": 29,
-   "reactions": 2687
+   "reactions": 2687,
+   "organism": "Escherichia coli O157:H7 str. EC4115",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iech74115_1262 escherichia coli o157:h7 str. ec4115 escherichia coli e. coli"
   },
   {
    "id": "iECIAI1_1343",
    "index": "iECIAI1_1343/model_index.json",
    "map_count": 5,
-   "reactions": 391
+   "reactions": 391,
+   "organism": "Escherichia coli IAI1",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ieciai1_1343 escherichia coli iai1 escherichia coli e. coli"
   },
   {
    "id": "iECIAI39_1322",
    "index": "iECIAI39_1322/model_index.json",
    "map_count": 29,
-   "reactions": 2714
+   "reactions": 2714,
+   "organism": "Escherichia coli IAI39",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ieciai39_1322 escherichia coli iai39 escherichia coli e. coli"
   },
   {
    "id": "iECNA114_1301",
    "index": "iECNA114_1301/model_index.json",
    "map_count": 29,
-   "reactions": 2713
+   "reactions": 2713,
+   "organism": "Escherichia coli NA114",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecna114_1301 escherichia coli na114 escherichia coli e. coli"
   },
   {
    "id": "iECO103_1326",
    "index": "iECO103_1326/model_index.json",
    "map_count": 29,
-   "reactions": 2752
+   "reactions": 2752,
+   "organism": "Escherichia coli O103:H2 str. 12009",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ieco103_1326 escherichia coli o103:h2 str. 12009 escherichia coli e. coli"
   },
   {
    "id": "iECO111_1330",
    "index": "iECO111_1330/model_index.json",
    "map_count": 29,
-   "reactions": 2754
+   "reactions": 2754,
+   "organism": "Escherichia coli O111:H- str. 11128",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ieco111_1330 escherichia coli o111:h- str. 11128 escherichia coli e. coli"
   },
   {
    "id": "iECO26_1355",
    "index": "iECO26_1355/model_index.json",
    "map_count": 29,
-   "reactions": 2775
+   "reactions": 2775,
+   "organism": "Escherichia coli O26:H11 str. 11368",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ieco26_1355 escherichia coli o26:h11 str. 11368 escherichia coli e. coli"
   },
   {
    "id": "iECOK1_1307",
    "index": "iECOK1_1307/model_index.json",
    "map_count": 29,
-   "reactions": 2723
+   "reactions": 2723,
+   "organism": "Escherichia coli IHE3034",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecok1_1307 escherichia coli ihe3034 escherichia coli e. coli"
   },
   {
    "id": "iECP_1309",
    "index": "iECP_1309/model_index.json",
    "map_count": 29,
-   "reactions": 2733
+   "reactions": 2733,
+   "organism": "Escherichia coli 536",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecp_1309 escherichia coli 536 escherichia coli e. coli"
   },
   {
    "id": "iECS88_1305",
    "index": "iECS88_1305/model_index.json",
    "map_count": 29,
-   "reactions": 2722
+   "reactions": 2722,
+   "organism": "Escherichia coli S88",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecs88_1305 escherichia coli s88 escherichia coli e. coli"
   },
   {
    "id": "iECSE_1348",
    "index": "iECSE_1348/model_index.json",
    "map_count": 29,
-   "reactions": 2763
+   "reactions": 2763,
+   "organism": "Escherichia coli SE11",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecse_1348 escherichia coli se11 escherichia coli e. coli"
   },
   {
    "id": "iECSF_1327",
    "index": "iECSF_1327/model_index.json",
    "map_count": 28,
-   "reactions": 2736
+   "reactions": 2736,
+   "organism": "Escherichia coli SE15",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecsf_1327 escherichia coli se15 escherichia coli e. coli"
   },
   {
    "id": "iECSP_1301",
    "index": "iECSP_1301/model_index.json",
    "map_count": 29,
-   "reactions": 2705
+   "reactions": 2705,
+   "organism": "Escherichia coli O157:H7 str. TW14359",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecsp_1301 escherichia coli o157:h7 str. tw14359 escherichia coli e. coli"
   },
   {
    "id": "iECUMN_1333",
    "index": "iECUMN_1333/model_index.json",
    "map_count": 29,
-   "reactions": 2734
+   "reactions": 2734,
+   "organism": "Escherichia coli UMN026",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecumn_1333 escherichia coli umn026 escherichia coli e. coli"
   },
   {
    "id": "iECW_1372",
    "index": "iECW_1372/model_index.json",
    "map_count": 29,
-   "reactions": 2776
+   "reactions": 2776,
+   "organism": "Escherichia coli W",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecw_1372 escherichia coli w escherichia coli e. coli"
   },
   {
    "id": "iECs_1301",
    "index": "iECs_1301/model_index.json",
    "map_count": 29,
-   "reactions": 2714
+   "reactions": 2714,
+   "organism": "Escherichia coli O157:H7 str. Sakai",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecs_1301 escherichia coli o157:h7 str. sakai escherichia coli e. coli"
   },
   {
    "id": "iEK1008",
    "index": "iEK1008/model_index.json",
    "map_count": 16,
-   "reactions": 1225
+   "reactions": 1225,
+   "organism": "Mycobacterium tuberculosis H37Rv",
+   "species": "Mycobacterium tuberculosis",
+   "common_name": "tuberculosis",
+   "search": "iek1008 mycobacterium tuberculosis h37rv mycobacterium tuberculosis tuberculosis"
   },
   {
    "id": "iEKO11_1354",
    "index": "iEKO11_1354/model_index.json",
    "map_count": 29,
-   "reactions": 2773
+   "reactions": 2773,
+   "organism": "Escherichia coli KO11FL",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ieko11_1354 escherichia coli ko11fl escherichia coli e. coli"
   },
   {
    "id": "iETEC_1333",
    "index": "iETEC_1333/model_index.json",
    "map_count": 29,
-   "reactions": 2747
+   "reactions": 2747,
+   "organism": "Escherichia coli ETEC H10407",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ietec_1333 escherichia coli etec h10407 escherichia coli e. coli"
   },
   {
    "id": "iEcDH1_1363",
    "index": "iEcDH1_1363/model_index.json",
    "map_count": 29,
-   "reactions": 2744
+   "reactions": 2744,
+   "organism": "Escherichia coli DH1",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecdh1_1363 escherichia coli dh1 escherichia coli e. coli"
   },
   {
    "id": "iEcE24377_1341",
    "index": "iEcE24377_1341/model_index.json",
    "map_count": 29,
-   "reactions": 2756
+   "reactions": 2756,
+   "organism": "Escherichia coli O139:H28 str. E24377A",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iece24377_1341 escherichia coli o139:h28 str. e24377a escherichia coli e. coli"
   },
   {
    "id": "iEcHS_1320",
    "index": "iEcHS_1320/model_index.json",
    "map_count": 29,
-   "reactions": 2748
+   "reactions": 2748,
+   "organism": "Escherichia coli HS",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iechs_1320 escherichia coli hs escherichia coli e. coli"
   },
   {
    "id": "iEcSMS35_1347",
    "index": "iEcSMS35_1347/model_index.json",
    "map_count": 29,
-   "reactions": 2740
+   "reactions": 2740,
+   "organism": "Escherichia coli SMS-3-5",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecsms35_1347 escherichia coli sms-3-5 escherichia coli e. coli"
   },
   {
    "id": "iEcolC_1368",
    "index": "iEcolC_1368/model_index.json",
    "map_count": 29,
-   "reactions": 2760
+   "reactions": 2760,
+   "organism": "Escherichia coli ATCC 8739",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iecolc_1368 escherichia coli atcc 8739 escherichia coli e. coli"
   },
   {
    "id": "iG2583_1286",
    "index": "iG2583_1286/model_index.json",
    "map_count": 29,
-   "reactions": 2694
+   "reactions": 2694,
+   "organism": "Escherichia coli O55:H7 str. CB9615",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ig2583_1286 escherichia coli o55:h7 str. cb9615 escherichia coli e. coli"
   },
   {
    "id": "iHN637",
    "index": "iHN637/model_index.json",
    "map_count": 11,
-   "reactions": 784
+   "reactions": 784,
+   "organism": "Clostridium ljungdahlii DSM 13528",
+   "species": "Clostridium ljungdahlii",
+   "common_name": "acetogen",
+   "search": "ihn637 clostridium ljungdahlii dsm 13528 clostridium ljungdahlii acetogen"
   },
   {
    "id": "iIS312",
    "index": "iIS312/model_index.json",
    "map_count": 9,
-   "reactions": 291
+   "reactions": 291,
+   "organism": "Trypanosoma cruzi Dm28c",
+   "species": "Trypanosoma cruzi",
+   "common_name": "Chagas parasite",
+   "search": "iis312 trypanosoma cruzi dm28c trypanosoma cruzi chagas parasite"
   },
   {
    "id": "iIS312_Amastigote",
    "index": "iIS312_Amastigote/model_index.json",
    "map_count": 9,
-   "reactions": 291
+   "reactions": 291,
+   "organism": "Trypanosoma cruzi Dm28c",
+   "species": "Trypanosoma cruzi",
+   "common_name": "Chagas parasite",
+   "search": "iis312_amastigote trypanosoma cruzi dm28c trypanosoma cruzi chagas parasite"
   },
   {
    "id": "iIS312_Epimastigote",
    "index": "iIS312_Epimastigote/model_index.json",
    "map_count": 9,
-   "reactions": 291
+   "reactions": 291,
+   "organism": "Trypanosoma cruzi Dm28c",
+   "species": "Trypanosoma cruzi",
+   "common_name": "Chagas parasite",
+   "search": "iis312_epimastigote trypanosoma cruzi dm28c trypanosoma cruzi chagas parasite"
   },
   {
    "id": "iIS312_Trypomastigote",
    "index": "iIS312_Trypomastigote/model_index.json",
    "map_count": 9,
-   "reactions": 291
+   "reactions": 291,
+   "organism": "Trypanosoma cruzi Dm28c",
+   "species": "Trypanosoma cruzi",
+   "common_name": "Chagas parasite",
+   "search": "iis312_trypomastigote trypanosoma cruzi dm28c trypanosoma cruzi chagas parasite"
   },
   {
    "id": "iIT341",
    "index": "iIT341/model_index.json",
    "map_count": 10,
-   "reactions": 554
+   "reactions": 554,
+   "organism": "Helicobacter pylori 26695",
+   "species": "Helicobacter pylori",
+   "common_name": "H. pylori",
+   "search": "iit341 helicobacter pylori 26695 helicobacter pylori h. pylori"
   },
   {
    "id": "iJB785",
    "index": "iJB785/model_index.json",
    "map_count": 13,
-   "reactions": 840
+   "reactions": 840,
+   "organism": "Synechococcus elongatus PCC 7942",
+   "species": "Synechococcus elongatus",
+   "common_name": "cyanobacterium",
+   "search": "ijb785 synechococcus elongatus pcc 7942 synechococcus elongatus cyanobacterium"
   },
   {
    "id": "iJN1463",
    "index": "iJN1463/model_index.json",
    "map_count": 31,
-   "reactions": 2926
+   "reactions": 2926,
+   "organism": "Pseudomonas putida KT2440",
+   "species": "Pseudomonas putida",
+   "common_name": "Pseudomonas",
+   "search": "ijn1463 pseudomonas putida kt2440 pseudomonas putida pseudomonas"
   },
   {
    "id": "iJN678",
    "index": "iJN678/model_index.json",
    "map_count": 12,
-   "reactions": 860
+   "reactions": 860,
+   "organism": "Synechocystis sp. PCC 6803",
+   "species": "Synechocystis sp.",
+   "common_name": "cyanobacterium",
+   "search": "ijn678 synechocystis sp. pcc 6803 synechocystis sp. cyanobacterium"
   },
   {
    "id": "iJN746",
    "index": "iJN746/model_index.json",
    "map_count": 15,
-   "reactions": 1051
+   "reactions": 1051,
+   "organism": "Pseudomonas putida KT2440",
+   "species": "Pseudomonas putida",
+   "common_name": "Pseudomonas",
+   "search": "ijn746 pseudomonas putida kt2440 pseudomonas putida pseudomonas"
   },
   {
    "id": "iJO1366",
    "index": "iJO1366/model_index.json",
    "map_count": 28,
-   "reactions": 2580
+   "reactions": 2580,
+   "organism": "Escherichia coli str. K-12 substr. MG1655",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ijo1366 escherichia coli str. k-12 substr. mg1655 escherichia coli e. coli"
   },
   {
    "id": "iJR904",
    "index": "iJR904/model_index.json",
    "map_count": 13,
-   "reactions": 1075
+   "reactions": 1075,
+   "organism": "Escherichia coli str. K-12 substr. MG1655",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ijr904 escherichia coli str. k-12 substr. mg1655 escherichia coli e. coli"
   },
   {
    "id": "iLB1027_lipid",
    "index": "iLB1027_lipid/model_index.json",
    "map_count": 44,
-   "reactions": 4451
+   "reactions": 4451,
+   "organism": "Phaeodactylum tricornutum CCAP 1055/1",
+   "species": "Phaeodactylum tricornutum",
+   "common_name": "diatom",
+   "search": "ilb1027_lipid phaeodactylum tricornutum ccap 1055/1 phaeodactylum tricornutum diatom"
   },
   {
    "id": "iLF82_1304",
    "index": "iLF82_1304/model_index.json",
    "map_count": 27,
-   "reactions": 2719
+   "reactions": 2719,
+   "organism": "Escherichia coli LF82",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ilf82_1304 escherichia coli lf82 escherichia coli e. coli"
   },
   {
    "id": "iLJ478",
    "index": "iLJ478/model_index.json",
    "map_count": 10,
-   "reactions": 651
+   "reactions": 651,
+   "organism": "Thermotoga maritima MSB8",
+   "species": "Thermotoga maritima",
+   "common_name": "thermophile",
+   "search": "ilj478 thermotoga maritima msb8 thermotoga maritima thermophile"
   },
   {
    "id": "iML1515",
    "index": "iML1515/model_index.json",
    "map_count": 29,
-   "reactions": 2709
+   "reactions": 2709,
+   "organism": "Escherichia coli str. K-12 substr. MG1655",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iml1515 escherichia coli str. k-12 substr. mg1655 escherichia coli e. coli"
   },
   {
    "id": "iMM1415",
    "index": "iMM1415/model_index.json",
    "map_count": 8,
-   "reactions": 454
+   "reactions": 454,
+   "organism": "Mus musculus",
+   "species": "Mus musculus",
+   "common_name": "mouse",
+   "search": "imm1415 mus musculus mus musculus mouse"
   },
   {
    "id": "iMM904",
    "index": "iMM904/model_index.json",
    "map_count": 19,
-   "reactions": 1571
+   "reactions": 1571,
+   "organism": "Saccharomyces cerevisiae S288C",
+   "species": "Saccharomyces cerevisiae",
+   "common_name": "baker's yeast",
+   "search": "imm904 saccharomyces cerevisiae s288c saccharomyces cerevisiae baker's yeast"
   },
   {
    "id": "iND750",
    "index": "iND750/model_index.json",
    "map_count": 15,
-   "reactions": 1266
+   "reactions": 1266,
+   "organism": "Saccharomyces cerevisiae S288C",
+   "species": "Saccharomyces cerevisiae",
+   "common_name": "baker's yeast",
+   "search": "ind750 saccharomyces cerevisiae s288c saccharomyces cerevisiae baker's yeast"
   },
   {
    "id": "iNF517",
    "index": "iNF517/model_index.json",
    "map_count": 11,
-   "reactions": 754
+   "reactions": 754,
+   "organism": "Lactococcus lactis subsp. cremoris MG1363",
+   "species": "Lactococcus lactis",
+   "common_name": "lactic acid bacterium",
+   "search": "inf517 lactococcus lactis subsp. cremoris mg1363 lactococcus lactis lactic acid bacterium"
   },
   {
    "id": "iNJ661",
    "index": "iNJ661/model_index.json",
    "map_count": 15,
-   "reactions": 1024
+   "reactions": 1024,
+   "organism": "Mycobacterium tuberculosis H37Rv",
+   "species": "Mycobacterium tuberculosis",
+   "common_name": "tuberculosis",
+   "search": "inj661 mycobacterium tuberculosis h37rv mycobacterium tuberculosis tuberculosis"
   },
   {
    "id": "iNRG857_1313",
    "index": "iNRG857_1313/model_index.json",
    "map_count": 29,
-   "reactions": 2728
+   "reactions": 2728,
+   "organism": "Escherichia coli O83:H1 str. NRG 857C",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "inrg857_1313 escherichia coli o83:h1 str. nrg 857c escherichia coli e. coli"
   },
   {
    "id": "iPC815",
    "index": "iPC815/model_index.json",
    "map_count": 22,
-   "reactions": 1958
+   "reactions": 1958,
+   "organism": "Yersinia pestis CO92",
+   "species": "Yersinia pestis",
+   "common_name": "plague bacterium",
+   "search": "ipc815 yersinia pestis co92 yersinia pestis plague bacterium"
   },
   {
    "id": "iRC1080",
    "index": "iRC1080/model_index.json",
    "map_count": 24,
-   "reactions": 2031
+   "reactions": 2031,
+   "organism": "Chlamydomonas reinhardtii",
+   "species": "Chlamydomonas reinhardtii",
+   "common_name": "green alga",
+   "search": "irc1080 chlamydomonas reinhardtii chlamydomonas reinhardtii green alga"
   },
   {
    "id": "iSB619",
    "index": "iSB619/model_index.json",
    "map_count": 12,
-   "reactions": 742
+   "reactions": 742,
+   "organism": "Staphylococcus aureus subsp. aureus N315",
+   "species": "Staphylococcus aureus",
+   "common_name": "staph",
+   "search": "isb619 staphylococcus aureus subsp. aureus n315 staphylococcus aureus staph"
   },
   {
    "id": "iSBO_1134",
    "index": "iSBO_1134/model_index.json",
    "map_count": 28,
-   "reactions": 2587
+   "reactions": 2587,
+   "organism": "Shigella boydii Sb227",
+   "species": "Shigella boydii",
+   "common_name": "Shigella",
+   "search": "isbo_1134 shigella boydii sb227 shigella boydii shigella"
   },
   {
    "id": "iSDY_1059",
    "index": "iSDY_1059/model_index.json",
-   "map_count": 27,
-   "reactions": 2534
+   "map_count": 26,
+   "reactions": 2534,
+   "organism": "Shigella dysenteriae Sd197",
+   "species": "Shigella dysenteriae",
+   "common_name": "Shigella",
+   "search": "isdy_1059 shigella dysenteriae sd197 shigella dysenteriae shigella"
   },
   {
    "id": "iSFV_1184",
    "index": "iSFV_1184/model_index.json",
    "map_count": 28,
-   "reactions": 2617
+   "reactions": 2617,
+   "organism": "Shigella flexneri 5 str. 8401",
+   "species": "Shigella flexneri",
+   "common_name": "Shigella",
+   "search": "isfv_1184 shigella flexneri 5 str. 8401 shigella flexneri shigella"
   },
   {
    "id": "iSF_1195",
    "index": "iSF_1195/model_index.json",
    "map_count": 28,
-   "reactions": 2626
+   "reactions": 2626,
+   "organism": "Shigella flexneri 2a str. 301",
+   "species": "Shigella flexneri",
+   "common_name": "Shigella",
+   "search": "isf_1195 shigella flexneri 2a str. 301 shigella flexneri shigella"
   },
   {
    "id": "iSFxv_1172",
    "index": "iSFxv_1172/model_index.json",
-   "map_count": 28,
-   "reactions": 2634
+   "map_count": 27,
+   "reactions": 2634,
+   "organism": "Shigella flexneri 2002017",
+   "species": "Shigella flexneri",
+   "common_name": "Shigella",
+   "search": "isfxv_1172 shigella flexneri 2002017 shigella flexneri shigella"
   },
   {
    "id": "iSSON_1240",
    "index": "iSSON_1240/model_index.json",
    "map_count": 29,
-   "reactions": 2689
+   "reactions": 2689,
+   "organism": "Shigella sonnei Ss046",
+   "species": "Shigella sonnei",
+   "common_name": "Shigella",
+   "search": "isson_1240 shigella sonnei ss046 shigella sonnei shigella"
   },
   {
    "id": "iS_1188",
    "index": "iS_1188/model_index.json",
    "map_count": 28,
-   "reactions": 2614
+   "reactions": 2614,
+   "organism": "Shigella flexneri 2a str. 2457T",
+   "species": "Shigella flexneri",
+   "common_name": "Shigella",
+   "search": "is_1188 shigella flexneri 2a str. 2457t shigella flexneri shigella"
   },
   {
    "id": "iSbBS512_1146",
    "index": "iSbBS512_1146/model_index.json",
    "map_count": 27,
-   "reactions": 2585
+   "reactions": 2585,
+   "organism": "Shigella boydii CDC 3083-94",
+   "species": "Shigella boydii",
+   "common_name": "Shigella",
+   "search": "isbbs512_1146 shigella boydii cdc 3083-94 shigella boydii shigella"
   },
   {
    "id": "iSynCJ816",
    "index": "iSynCJ816/model_index.json",
    "map_count": 6,
-   "reactions": 67
+   "reactions": 67,
+   "organism": "Synechocystis sp. PCC 6803",
+   "species": "Synechocystis sp.",
+   "common_name": "cyanobacterium",
+   "search": "isyncj816 synechocystis sp. pcc 6803 synechocystis sp. cyanobacterium"
   },
   {
    "id": "iUMN146_1321",
    "index": "iUMN146_1321/model_index.json",
    "map_count": 29,
-   "reactions": 2729
+   "reactions": 2729,
+   "organism": "Escherichia coli UM146",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iumn146_1321 escherichia coli um146 escherichia coli e. coli"
   },
   {
    "id": "iUMNK88_1353",
    "index": "iUMNK88_1353/model_index.json",
    "map_count": 30,
-   "reactions": 2768
+   "reactions": 2768,
+   "organism": "Escherichia coli UMNK88",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iumnk88_1353 escherichia coli umnk88 escherichia coli e. coli"
   },
   {
    "id": "iUTI89_1310",
    "index": "iUTI89_1310/model_index.json",
    "map_count": 29,
-   "reactions": 2719
+   "reactions": 2719,
+   "organism": "Escherichia coli UTI89",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iuti89_1310 escherichia coli uti89 escherichia coli e. coli"
   },
   {
    "id": "iWFL_1372",
    "index": "iWFL_1372/model_index.json",
    "map_count": 29,
-   "reactions": 2776
+   "reactions": 2776,
+   "organism": "Escherichia coli W",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iwfl_1372 escherichia coli w escherichia coli e. coli"
   },
   {
    "id": "iY75_1357",
    "index": "iY75_1357/model_index.json",
    "map_count": 29,
-   "reactions": 2752
+   "reactions": 2752,
+   "organism": "Escherichia coli str. K-12 substr. W3110",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iy75_1357 escherichia coli str. k-12 substr. w3110 escherichia coli e. coli"
   },
   {
    "id": "iYL1228",
    "index": "iYL1228/model_index.json",
    "map_count": 4,
-   "reactions": 291
+   "reactions": 291,
+   "organism": "Klebsiella pneumoniae subsp. pneumoniae MGH 78578",
+   "species": "Klebsiella pneumoniae",
+   "common_name": "Klebsiella",
+   "search": "iyl1228 klebsiella pneumoniae subsp. pneumoniae mgh 78578 klebsiella pneumoniae klebsiella"
   },
   {
    "id": "iYO844",
    "index": "iYO844/model_index.json",
    "map_count": 14,
-   "reactions": 1234
+   "reactions": 1234,
+   "organism": "Bacillus subtilis subsp. subtilis str. 168",
+   "species": "Bacillus subtilis",
+   "common_name": "hay bacillus",
+   "search": "iyo844 bacillus subtilis subsp. subtilis str. 168 bacillus subtilis hay bacillus"
   },
   {
    "id": "iYS1720",
    "index": "iYS1720/model_index.json",
    "map_count": 32,
-   "reactions": 3343
+   "reactions": 3343,
+   "organism": "Salmonella pan-reactome",
+   "species": "Salmonella pan-reactome",
+   "common_name": "Salmonella",
+   "search": "iys1720 salmonella pan-reactome salmonella pan-reactome salmonella"
   },
   {
    "id": "iYS854",
    "index": "iYS854/model_index.json",
    "map_count": 18,
-   "reactions": 1437
+   "reactions": 1437,
+   "organism": "Staphylococcus aureus subsp. aureus USA300_TCH1516",
+   "species": "Staphylococcus aureus",
+   "common_name": "staph",
+   "search": "iys854 staphylococcus aureus subsp. aureus usa300_tch1516 staphylococcus aureus staph"
   },
   {
    "id": "iZ_1308",
    "index": "iZ_1308/model_index.json",
    "map_count": 29,
-   "reactions": 2715
+   "reactions": 2715,
+   "organism": "Escherichia coli O157:H7 str. EDL933",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "iz_1308 escherichia coli o157:h7 str. edl933 escherichia coli e. coli"
   },
   {
    "id": "ic_1306",
    "index": "ic_1306/model_index.json",
    "map_count": 29,
-   "reactions": 2720
+   "reactions": 2720,
+   "organism": "Escherichia coli CFT073",
+   "species": "Escherichia coli",
+   "common_name": "E. coli",
+   "search": "ic_1306 escherichia coli cft073 escherichia coli e. coli"
   }
  ],
- "map_count": 2624
+ "map_count": 2621
 }

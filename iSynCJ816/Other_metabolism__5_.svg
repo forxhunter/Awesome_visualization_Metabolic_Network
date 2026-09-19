@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40.0 -96.2 1204.8 1616.2" width="1205" height="1616">
+<rect x="40.0" y="-96.2" width="1204.8" height="1616.2" fill="#ffffff"/>
+<g stroke-linecap="round" fill="none">
+<line x1="300.0" y1="200.0" x2="300.0" y2="245.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="300.0" y1="245.0" x2="300.0" y2="275.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="300.0" y1="275.0" x2="300.0" y2="305.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="280.0" y1="520.0" x2="280.0" y2="565.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="280.0" y1="565.0" x2="280.0" y2="595.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="280.0" y1="595.0" x2="280.0" y2="625.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="360.0" y1="840.0" x2="360.0" y2="885.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="360.0" y1="885.0" x2="360.0" y2="915.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="360.0" y1="915.0" x2="360.0" y2="945.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="280.0" y1="1160.0" x2="280.0" y2="1205.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="280.0" y1="1205.0" x2="280.0" y2="1235.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="280.0" y1="1235.0" x2="280.0" y2="1265.0" stroke="#2f3b47" stroke-width="6.0"/>
+</g><g>
+<circle cx="300.0" cy="200.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="280.0" cy="520.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="360.0" cy="840.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="280.0" cy="1160.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="300.0" cy="275.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="300.0" cy="245.0" r="6.0" fill="#7f8c99"/>
+<circle cx="300.0" cy="305.0" r="6.0" fill="#7f8c99"/>
+<circle cx="280.0" cy="595.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="280.0" cy="565.0" r="6.0" fill="#7f8c99"/>
+<circle cx="280.0" cy="625.0" r="6.0" fill="#7f8c99"/>
+<circle cx="360.0" cy="915.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="360.0" cy="885.0" r="6.0" fill="#7f8c99"/>
+<circle cx="360.0" cy="945.0" r="6.0" fill="#7f8c99"/>
+<circle cx="280.0" cy="1235.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="280.0" cy="1205.0" r="6.0" fill="#7f8c99"/>
+<circle cx="280.0" cy="1265.0" r="6.0" fill="#7f8c99"/>
+</g>
+<g font-family="Helvetica,Arial,sans-serif">
+<text x="334.7" y="200.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">dna5mtc</text>
+<text x="314.7" y="520.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">phb</text>
+<text x="394.7" y="840.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">precyanphy</text>
+<text x="314.7" y="1160.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">rdmbzi</text>
+<text x="337.8" y="275.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">SK_dna5mtc_c</text>
+<text x="317.8" y="595.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">SK_phb_c</text>
+<text x="397.8" y="915.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">SK_precyanphy_c</text>
+<text x="317.8" y="1235.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">SK_rdmbzi_c</text>
+<text x="190.0" y="102.5" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Other metabolism (5)</text>
+<text x="190.0" y="1355.0" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
+</g>
+</svg>

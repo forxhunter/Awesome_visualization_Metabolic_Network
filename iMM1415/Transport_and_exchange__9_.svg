@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-240.0 -361.2 1476.2 668.6" width="1476" height="669">
+<rect x="-240.0" y="-361.2" width="1476.2" height="668.6" fill="#ffffff"/>
+<g stroke-linecap="round" fill="none">
+<line x1="0.0" y1="40.0" x2="0.0" y2="-5.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="0.0" y1="-5.0" x2="0.0" y2="-35.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="0.0" y1="-35.0" x2="0.0" y2="-65.0" stroke="#2f3b47" stroke-width="6.0"/>
+</g><g>
+<circle cx="0.0" cy="40.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="0.0" cy="-35.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="0.0" cy="-5.0" r="6.0" fill="#7f8c99"/>
+<circle cx="0.0" cy="-65.0" r="6.0" fill="#7f8c99"/>
+</g>
+<g font-family="Helvetica,Arial,sans-serif">
+<text x="34.7" y="40.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">T-antigen</text>
+<text x="37.8" y="-35.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">SK_T_antigen_g</text>
+<text x="-90.0" y="-162.5" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Transport and exchange (9)</text>
+<text x="-90.0" y="142.4" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
+</g>
+</svg>

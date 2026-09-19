@@ -15,7 +15,7 @@
    "file": "Other_metabolism__6_.json",
    "path": "iSFxv_1172/Other_metabolism__6_.json",
    "reactions": 120,
-   "nodes": 885,
+   "nodes": 883,
    "combined": false
   },
   {
@@ -23,7 +23,15 @@
    "file": "Other_metabolism__7_.json",
    "path": "iSFxv_1172/Other_metabolism__7_.json",
    "reactions": 120,
-   "nodes": 872,
+   "nodes": 870,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iSFxv_1172/Other_metabolism__9_.json",
+   "reactions": 120,
+   "nodes": 904,
    "combined": false
   },
   {
@@ -67,6 +75,14 @@
    "combined": false
   },
   {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iSFxv_1172/Lipid_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 744,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (2)",
    "file": "Other_metabolism__2_.json",
    "path": "iSFxv_1172/Other_metabolism__2_.json",
@@ -79,7 +95,7 @@
    "file": "Transport_and_exchange__6_.json",
    "path": "iSFxv_1172/Transport_and_exchange__6_.json",
    "reactions": 119,
-   "nodes": 764,
+   "nodes": 771,
    "combined": false
   },
   {
@@ -119,31 +135,15 @@
    "file": "Other_metabolism__8_.json",
    "path": "iSFxv_1172/Other_metabolism__8_.json",
    "reactions": 118,
-   "nodes": 815,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (9)",
-   "file": "Other_metabolism__9_.json",
-   "path": "iSFxv_1172/Other_metabolism__9_.json",
-   "reactions": 118,
-   "nodes": 875,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (1)",
-   "file": "Lipid_metabolism__1_.json",
-   "path": "iSFxv_1172/Lipid_metabolism__1_.json",
-   "reactions": 117,
-   "nodes": 780,
+   "nodes": 821,
    "combined": false
   },
   {
    "name": "Transport and exchange (5)",
    "file": "Transport_and_exchange__5_.json",
    "path": "iSFxv_1172/Transport_and_exchange__5_.json",
-   "reactions": 117,
-   "nodes": 729,
+   "reactions": 116,
+   "nodes": 725,
    "combined": false
   },
   {
@@ -166,8 +166,8 @@
    "name": "Lipid metabolism (2)",
    "file": "Lipid_metabolism__2_.json",
    "path": "iSFxv_1172/Lipid_metabolism__2_.json",
-   "reactions": 76,
-   "nodes": 473,
+   "reactions": 85,
+   "nodes": 619,
    "combined": false
   },
   {
@@ -183,7 +183,7 @@
    "file": "Transport_and_exchange__7_.json",
    "path": "iSFxv_1172/Transport_and_exchange__7_.json",
    "reactions": 57,
-   "nodes": 535,
+   "nodes": 534,
    "combined": false
   },
   {
@@ -192,14 +192,6 @@
    "path": "iSFxv_1172/Carbohydrate_metabolism__3_.json",
    "reactions": 28,
    "nodes": 175,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (10)",
-   "file": "Other_metabolism__10_.json",
-   "path": "iSFxv_1172/Other_metabolism__10_.json",
-   "reactions": 12,
-   "nodes": 80,
    "combined": false
   },
   {

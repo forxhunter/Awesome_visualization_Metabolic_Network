@@ -19,6 +19,22 @@
    "combined": false
   },
   {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iML1515/Other_metabolism__8_.json",
+   "reactions": 120,
+   "nodes": 754,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iML1515/Other_metabolism__9_.json",
+   "reactions": 120,
+   "nodes": 860,
+   "combined": false
+  },
+  {
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "iML1515/Transport_and_exchange__1_.json",
@@ -43,11 +59,19 @@
    "combined": false
   },
   {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iML1515/Lipid_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 760,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (10)",
    "file": "Other_metabolism__10_.json",
    "path": "iML1515/Other_metabolism__10_.json",
    "reactions": 119,
-   "nodes": 780,
+   "nodes": 811,
    "combined": false
   },
   {
@@ -59,19 +83,11 @@
    "combined": false
   },
   {
-   "name": "Other metabolism (8)",
-   "file": "Other_metabolism__8_.json",
-   "path": "iML1515/Other_metabolism__8_.json",
-   "reactions": 119,
-   "nodes": 757,
-   "combined": false
-  },
-  {
    "name": "Transport and exchange (4)",
    "file": "Transport_and_exchange__4_.json",
    "path": "iML1515/Transport_and_exchange__4_.json",
    "reactions": 119,
-   "nodes": 919,
+   "nodes": 929,
    "combined": false
   },
   {
@@ -87,15 +103,15 @@
    "file": "Other_metabolism__11_.json",
    "path": "iML1515/Other_metabolism__11_.json",
    "reactions": 118,
-   "nodes": 914,
+   "nodes": 919,
    "combined": false
   },
   {
-   "name": "Other metabolism (12)",
-   "file": "Other_metabolism__12_.json",
-   "path": "iML1515/Other_metabolism__12_.json",
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iML1515/Amino_acid_metabolism__1_.json",
    "reactions": 117,
-   "nodes": 849,
+   "nodes": 784,
    "combined": false
   },
   {
@@ -103,7 +119,7 @@
    "file": "Other_metabolism__4_.json",
    "path": "iML1515/Other_metabolism__4_.json",
    "reactions": 117,
-   "nodes": 698,
+   "nodes": 880,
    "combined": false
   },
   {
@@ -111,7 +127,7 @@
    "file": "Other_metabolism__5_.json",
    "path": "iML1515/Other_metabolism__5_.json",
    "reactions": 117,
-   "nodes": 733,
+   "nodes": 698,
    "combined": false
   },
   {
@@ -126,24 +142,8 @@
    "name": "Other metabolism (6)",
    "file": "Other_metabolism__6_.json",
    "path": "iML1515/Other_metabolism__6_.json",
-   "reactions": 116,
-   "nodes": 853,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (9)",
-   "file": "Other_metabolism__9_.json",
-   "path": "iML1515/Other_metabolism__9_.json",
-   "reactions": 116,
-   "nodes": 815,
-   "combined": false
-  },
-  {
-   "name": "Amino acid metabolism (1)",
-   "file": "Amino_acid_metabolism__1_.json",
-   "path": "iML1515/Amino_acid_metabolism__1_.json",
    "reactions": 115,
-   "nodes": 770,
+   "nodes": 705,
    "combined": false
   },
   {
@@ -151,15 +151,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "iML1515/Other_metabolism__7_.json",
    "reactions": 115,
-   "nodes": 705,
-   "combined": false
-  },
-  {
-   "name": "Lipid metabolism (1)",
-   "file": "Lipid_metabolism__1_.json",
-   "path": "iML1515/Lipid_metabolism__1_.json",
-   "reactions": 114,
-   "nodes": 796,
+   "nodes": 751,
    "combined": false
   },
   {
@@ -168,6 +160,14 @@
    "path": "iML1515/Cofactor_and_vitamin_metabolism.json",
    "reactions": 108,
    "nodes": 699,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (12)",
+   "file": "Other_metabolism__12_.json",
+   "path": "iML1515/Other_metabolism__12_.json",
+   "reactions": 101,
+   "nodes": 743,
    "combined": false
   },
   {
@@ -182,8 +182,8 @@
    "name": "Lipid metabolism (2)",
    "file": "Lipid_metabolism__2_.json",
    "path": "iML1515/Lipid_metabolism__2_.json",
-   "reactions": 65,
-   "nodes": 446,
+   "reactions": 70,
+   "nodes": 519,
    "combined": false
   },
   {

@@ -39,15 +39,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "iUMNK88_1353/Other_metabolism__7_.json",
    "reactions": 120,
-   "nodes": 883,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (8)",
-   "file": "Other_metabolism__8_.json",
-   "path": "iUMNK88_1353/Other_metabolism__8_.json",
-   "reactions": 120,
-   "nodes": 868,
+   "nodes": 893,
    "combined": false
   },
   {
@@ -95,15 +87,7 @@
    "file": "Other_metabolism__9_.json",
    "path": "iUMNK88_1353/Other_metabolism__9_.json",
    "reactions": 119,
-   "nodes": 861,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (10)",
-   "file": "Other_metabolism__10_.json",
-   "path": "iUMNK88_1353/Other_metabolism__10_.json",
-   "reactions": 118,
-   "nodes": 810,
+   "nodes": 856,
    "combined": false
   },
   {
@@ -119,7 +103,7 @@
    "file": "Transport_and_exchange__5_.json",
    "path": "iUMNK88_1353/Transport_and_exchange__5_.json",
    "reactions": 118,
-   "nodes": 944,
+   "nodes": 955,
    "combined": false
   },
   {
@@ -139,11 +123,27 @@
    "combined": false
   },
   {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iUMNK88_1353/Other_metabolism__11_.json",
+   "reactions": 115,
+   "nodes": 919,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (6)",
    "file": "Other_metabolism__6_.json",
    "path": "iUMNK88_1353/Other_metabolism__6_.json",
    "reactions": 115,
    "nodes": 744,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iUMNK88_1353/Other_metabolism__8_.json",
+   "reactions": 115,
+   "nodes": 831,
    "combined": false
   },
   {
@@ -158,8 +158,16 @@
    "name": "Lipid metabolism (1)",
    "file": "Lipid_metabolism__1_.json",
    "path": "iUMNK88_1353/Lipid_metabolism__1_.json",
-   "reactions": 112,
-   "nodes": 693,
+   "reactions": 111,
+   "nodes": 682,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "iUMNK88_1353/Other_metabolism__10_.json",
+   "reactions": 106,
+   "nodes": 714,
    "combined": false
   },
   {
@@ -168,14 +176,6 @@
    "path": "iUMNK88_1353/Lipid_metabolism__2_.json",
    "reactions": 103,
    "nodes": 748,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (11)",
-   "file": "Other_metabolism__11_.json",
-   "path": "iUMNK88_1353/Other_metabolism__11_.json",
-   "reactions": 97,
-   "nodes": 786,
    "combined": false
   },
   {
@@ -199,7 +199,7 @@
    "file": "Other_metabolism__12_.json",
    "path": "iUMNK88_1353/Other_metabolism__12_.json",
    "reactions": 28,
-   "nodes": 191,
+   "nodes": 190,
    "combined": false
   },
   {

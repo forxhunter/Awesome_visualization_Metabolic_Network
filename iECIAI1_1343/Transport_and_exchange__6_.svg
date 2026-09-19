@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40.0 -96.2 1476.2 976.2" width="1476" height="976">
+<rect x="40.0" y="-96.2" width="1476.2" height="976.2" fill="#ffffff"/>
+<g stroke-linecap="round" fill="none">
+<line x1="280.0" y1="200.0" x2="280.0" y2="245.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="280.0" y1="245.0" x2="280.0" y2="275.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="280.0" y1="275.0" x2="280.0" y2="305.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="360.0" y1="520.0" x2="360.0" y2="565.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="360.0" y1="565.0" x2="360.0" y2="595.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="360.0" y1="595.0" x2="360.0" y2="625.0" stroke="#2f3b47" stroke-width="6.0"/>
+</g><g>
+<circle cx="280.0" cy="200.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="360.0" cy="520.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="280.0" cy="275.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="280.0" cy="245.0" r="6.0" fill="#7f8c99"/>
+<circle cx="280.0" cy="305.0" r="6.0" fill="#7f8c99"/>
+<circle cx="360.0" cy="595.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="360.0" cy="565.0" r="6.0" fill="#7f8c99"/>
+<circle cx="360.0" cy="625.0" r="6.0" fill="#7f8c99"/>
+</g>
+<g font-family="Helvetica,Arial,sans-serif">
+<text x="314.7" y="200.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">colipa</text>
+<text x="394.7" y="520.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">kdo2lipid4</text>
+<text x="317.8" y="275.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">EX_colipa_e</text>
+<text x="397.8" y="595.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">EX_kdo2lipid4_e</text>
+<text x="190.0" y="102.5" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Transport and exchange (6)</text>
+<text x="190.0" y="715.0" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
+</g>
+</svg>

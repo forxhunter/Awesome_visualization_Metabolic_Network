@@ -11,6 +11,14 @@
    "combined": false
   },
   {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iECH74115_1262/Lipid_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 725,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (2)",
    "file": "Other_metabolism__2_.json",
    "path": "iECH74115_1262/Other_metabolism__2_.json",
@@ -31,7 +39,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "iECH74115_1262/Other_metabolism__7_.json",
    "reactions": 120,
-   "nodes": 923,
+   "nodes": 851,
    "combined": false
   },
   {
@@ -87,7 +95,7 @@
    "file": "Other_metabolism__6_.json",
    "path": "iECH74115_1262/Other_metabolism__6_.json",
    "reactions": 119,
-   "nodes": 849,
+   "nodes": 842,
    "combined": false
   },
   {
@@ -107,27 +115,19 @@
    "combined": false
   },
   {
-   "name": "Lipid metabolism (1)",
-   "file": "Lipid_metabolism__1_.json",
-   "path": "iECH74115_1262/Lipid_metabolism__1_.json",
-   "reactions": 117,
-   "nodes": 740,
-   "combined": false
-  },
-  {
    "name": "Other metabolism (5)",
    "file": "Other_metabolism__5_.json",
    "path": "iECH74115_1262/Other_metabolism__5_.json",
    "reactions": 117,
-   "nodes": 891,
+   "nodes": 866,
    "combined": false
   },
   {
    "name": "Other metabolism (8)",
    "file": "Other_metabolism__8_.json",
    "path": "iECH74115_1262/Other_metabolism__8_.json",
-   "reactions": 116,
-   "nodes": 795,
+   "reactions": 117,
+   "nodes": 922,
    "combined": false
   },
   {
@@ -143,7 +143,7 @@
    "file": "Transport_and_exchange__6_.json",
    "path": "iECH74115_1262/Transport_and_exchange__6_.json",
    "reactions": 116,
-   "nodes": 904,
+   "nodes": 874,
    "combined": false
   },
   {
@@ -151,7 +151,7 @@
    "file": "Transport_and_exchange__7_.json",
    "path": "iECH74115_1262/Transport_and_exchange__7_.json",
    "reactions": 116,
-   "nodes": 815,
+   "nodes": 803,
    "combined": false
   },
   {
@@ -166,8 +166,8 @@
    "name": "Lipid metabolism (2)",
    "file": "Lipid_metabolism__2_.json",
    "path": "iECH74115_1262/Lipid_metabolism__2_.json",
-   "reactions": 85,
-   "nodes": 624,
+   "reactions": 81,
+   "nodes": 603,
    "combined": false
   },
   {
@@ -183,7 +183,7 @@
    "file": "Other_metabolism__9_.json",
    "path": "iECH74115_1262/Other_metabolism__9_.json",
    "reactions": 67,
-   "nodes": 448,
+   "nodes": 446,
    "combined": false
   },
   {

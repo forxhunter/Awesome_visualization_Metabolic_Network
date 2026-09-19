@@ -11,6 +11,14 @@
    "combined": false
   },
   {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iJO1366/Lipid_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 777,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (1)",
    "file": "Other_metabolism__1_.json",
    "path": "iJO1366/Other_metabolism__1_.json",
@@ -43,11 +51,19 @@
    "combined": false
   },
   {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iJO1366/Other_metabolism__8_.json",
+   "reactions": 120,
+   "nodes": 811,
+   "combined": false
+  },
+  {
    "name": "Other metabolism (9)",
    "file": "Other_metabolism__9_.json",
    "path": "iJO1366/Other_metabolism__9_.json",
    "reactions": 120,
-   "nodes": 953,
+   "nodes": 965,
    "combined": false
   },
   {
@@ -83,19 +99,11 @@
    "combined": false
   },
   {
-   "name": "Other metabolism (6)",
-   "file": "Other_metabolism__6_.json",
-   "path": "iJO1366/Other_metabolism__6_.json",
-   "reactions": 119,
-   "nodes": 775,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (8)",
-   "file": "Other_metabolism__8_.json",
-   "path": "iJO1366/Other_metabolism__8_.json",
-   "reactions": 119,
-   "nodes": 815,
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iJO1366/Amino_acid_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 799,
    "combined": false
   },
   {
@@ -103,7 +111,15 @@
    "file": "Other_metabolism__10_.json",
    "path": "iJO1366/Other_metabolism__10_.json",
    "reactions": 118,
-   "nodes": 788,
+   "nodes": 819,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iJO1366/Other_metabolism__6_.json",
+   "reactions": 118,
+   "nodes": 767,
    "combined": false
   },
   {
@@ -111,15 +127,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "iJO1366/Other_metabolism__7_.json",
    "reactions": 118,
-   "nodes": 899,
-   "combined": false
-  },
-  {
-   "name": "Amino acid metabolism (1)",
-   "file": "Amino_acid_metabolism__1_.json",
-   "path": "iJO1366/Amino_acid_metabolism__1_.json",
-   "reactions": 117,
-   "nodes": 792,
+   "nodes": 903,
    "combined": false
   },
   {
@@ -139,19 +147,19 @@
    "combined": false
   },
   {
-   "name": "Lipid metabolism (1)",
-   "file": "Lipid_metabolism__1_.json",
-   "path": "iJO1366/Lipid_metabolism__1_.json",
-   "reactions": 111,
-   "nodes": 693,
-   "combined": false
-  },
-  {
    "name": "Cofactor and vitamin metabolism",
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iJO1366/Cofactor_and_vitamin_metabolism.json",
    "reactions": 110,
    "nodes": 708,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iJO1366/Lipid_metabolism__2_.json",
+   "reactions": 82,
+   "nodes": 609,
    "combined": false
   },
   {
@@ -163,19 +171,11 @@
    "combined": false
   },
   {
-   "name": "Lipid metabolism (2)",
-   "file": "Lipid_metabolism__2_.json",
-   "path": "iJO1366/Lipid_metabolism__2_.json",
-   "reactions": 80,
-   "nodes": 597,
-   "combined": false
-  },
-  {
    "name": "Other metabolism (11)",
    "file": "Other_metabolism__11_.json",
    "path": "iJO1366/Other_metabolism__11_.json",
-   "reactions": 76,
-   "nodes": 583,
+   "reactions": 64,
+   "nodes": 492,
    "combined": false
   },
   {

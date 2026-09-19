@@ -19,9 +19,9 @@
    "combined": false
   },
   {
-   "name": "Other metabolism (4)",
-   "file": "Other_metabolism__4_.json",
-   "path": "iSBO_1134/Other_metabolism__4_.json",
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iSBO_1134/Other_metabolism__3_.json",
    "reactions": 120,
    "nodes": 721,
    "combined": false
@@ -31,7 +31,7 @@
    "file": "Other_metabolism__9_.json",
    "path": "iSBO_1134/Other_metabolism__9_.json",
    "reactions": 120,
-   "nodes": 879,
+   "nodes": 868,
    "combined": false
   },
   {
@@ -99,19 +99,19 @@
    "combined": false
   },
   {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iSBO_1134/Other_metabolism__7_.json",
+   "reactions": 119,
+   "nodes": 898,
+   "combined": false
+  },
+  {
    "name": "Transport and exchange (6)",
    "file": "Transport_and_exchange__6_.json",
    "path": "iSBO_1134/Transport_and_exchange__6_.json",
    "reactions": 119,
-   "nodes": 1023,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (7)",
-   "file": "Other_metabolism__7_.json",
-   "path": "iSBO_1134/Other_metabolism__7_.json",
-   "reactions": 118,
-   "nodes": 865,
+   "nodes": 1002,
    "combined": false
   },
   {
@@ -119,7 +119,7 @@
    "file": "Other_metabolism__8_.json",
    "path": "iSBO_1134/Other_metabolism__8_.json",
    "reactions": 118,
-   "nodes": 828,
+   "nodes": 813,
    "combined": false
   },
   {
@@ -131,27 +131,27 @@
    "combined": false
   },
   {
-   "name": "Lipid metabolism (1)",
-   "file": "Lipid_metabolism__1_.json",
-   "path": "iSBO_1134/Lipid_metabolism__1_.json",
-   "reactions": 117,
-   "nodes": 727,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (3)",
-   "file": "Other_metabolism__3_.json",
-   "path": "iSBO_1134/Other_metabolism__3_.json",
-   "reactions": 117,
-   "nodes": 711,
-   "combined": false
-  },
-  {
    "name": "Other metabolism (6)",
    "file": "Other_metabolism__6_.json",
    "path": "iSBO_1134/Other_metabolism__6_.json",
+   "reactions": 117,
+   "nodes": 839,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iSBO_1134/Lipid_metabolism__1_.json",
    "reactions": 116,
-   "nodes": 862,
+   "nodes": 722,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iSBO_1134/Other_metabolism__4_.json",
+   "reactions": 116,
+   "nodes": 707,
    "combined": false
   },
   {

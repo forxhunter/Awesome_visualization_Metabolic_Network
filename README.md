@@ -82,8 +82,18 @@ Plain text:
 > https://github.com/forxhunter/escher_maps_BiGG (generated with MetaCarto).
 
 This applies to modified maps as well: if you edit a map in Escher and publish the result, the
-layout is still derived from this work. A MetaCarto citation will be added here on release —
-please use both from that point on.
+layout is still derived from this work.
+
+Please cite the software that drew them alongside the collection itself:
+
+```bibtex
+@software{Wu_MetaCarto_constructive_layout,
+  author  = {Wu, Tianyu},
+  license = {CC-BY-4.0},
+  title   = {{MetaCarto: constructive layout synthesis for genome-scale metabolic networks}},
+  url     = {https://github.com/forxhunter/MetaCarto}
+}
+```
 
 Please also cite the underlying model from
 [BiGG Models](http://bigg.ucsd.edu/) and, where the maps are displayed,

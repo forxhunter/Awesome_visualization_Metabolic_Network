@@ -27,14 +27,6 @@
    "combined": false
   },
   {
-   "name": "Other metabolism (8)",
-   "file": "Other_metabolism__8_.json",
-   "path": "ic_1306/Other_metabolism__8_.json",
-   "reactions": 120,
-   "nodes": 818,
-   "combined": false
-  },
-  {
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "ic_1306/Transport_and_exchange__1_.json",
@@ -63,7 +55,23 @@
    "file": "Other_metabolism__6_.json",
    "path": "ic_1306/Other_metabolism__6_.json",
    "reactions": 119,
-   "nodes": 866,
+   "nodes": 868,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "ic_1306/Other_metabolism__8_.json",
+   "reactions": 119,
+   "nodes": 839,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "ic_1306/Other_metabolism__9_.json",
+   "reactions": 119,
+   "nodes": 968,
    "combined": false
   },
   {
@@ -71,7 +79,7 @@
    "file": "Transport_and_exchange__5_.json",
    "path": "ic_1306/Transport_and_exchange__5_.json",
    "reactions": 119,
-   "nodes": 701,
+   "nodes": 697,
    "combined": false
   },
   {
@@ -79,7 +87,7 @@
    "file": "Transport_and_exchange__6_.json",
    "path": "ic_1306/Transport_and_exchange__6_.json",
    "reactions": 119,
-   "nodes": 787,
+   "nodes": 794,
    "combined": false
   },
   {
@@ -95,7 +103,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "ic_1306/Other_metabolism__7_.json",
    "reactions": 118,
-   "nodes": 861,
+   "nodes": 834,
    "combined": false
   },
   {
@@ -120,14 +128,6 @@
    "path": "ic_1306/Other_metabolism__5_.json",
    "reactions": 117,
    "nodes": 758,
-   "combined": false
-  },
-  {
-   "name": "Other metabolism (9)",
-   "file": "Other_metabolism__9_.json",
-   "path": "ic_1306/Other_metabolism__9_.json",
-   "reactions": 117,
-   "nodes": 904,
    "combined": false
   },
   {
@@ -158,8 +158,8 @@
    "name": "Lipid metabolism (1)",
    "file": "Lipid_metabolism__1_.json",
    "path": "ic_1306/Lipid_metabolism__1_.json",
-   "reactions": 112,
-   "nodes": 693,
+   "reactions": 111,
+   "nodes": 676,
    "combined": false
   },
   {
@@ -191,7 +191,7 @@
    "file": "Other_metabolism__10_.json",
    "path": "ic_1306/Other_metabolism__10_.json",
    "reactions": 43,
-   "nodes": 290,
+   "nodes": 284,
    "combined": false
   },
   {

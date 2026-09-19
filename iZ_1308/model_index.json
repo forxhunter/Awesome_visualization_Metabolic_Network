@@ -31,7 +31,7 @@
    "file": "Other_metabolism__5_.json",
    "path": "iZ_1308/Other_metabolism__5_.json",
    "reactions": 120,
-   "nodes": 876,
+   "nodes": 871,
    "combined": false
   },
   {
@@ -67,6 +67,14 @@
    "combined": false
   },
   {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iZ_1308/Other_metabolism__6_.json",
+   "reactions": 119,
+   "nodes": 883,
+   "combined": false
+  },
+  {
    "name": "Transport and exchange (1)",
    "file": "Transport_and_exchange__1_.json",
    "path": "iZ_1308/Transport_and_exchange__1_.json",
@@ -99,14 +107,6 @@
    "combined": false
   },
   {
-   "name": "Other metabolism (6)",
-   "file": "Other_metabolism__6_.json",
-   "path": "iZ_1308/Other_metabolism__6_.json",
-   "reactions": 118,
-   "nodes": 897,
-   "combined": false
-  },
-  {
    "name": "Transport and exchange (5)",
    "file": "Transport_and_exchange__5_.json",
    "path": "iZ_1308/Transport_and_exchange__5_.json",
@@ -119,7 +119,7 @@
    "file": "Other_metabolism__7_.json",
    "path": "iZ_1308/Other_metabolism__7_.json",
    "reactions": 116,
-   "nodes": 846,
+   "nodes": 841,
    "combined": false
   },
   {
@@ -127,7 +127,7 @@
    "file": "Other_metabolism__9_.json",
    "path": "iZ_1308/Other_metabolism__9_.json",
    "reactions": 116,
-   "nodes": 940,
+   "nodes": 946,
    "combined": false
   },
   {
@@ -135,7 +135,7 @@
    "file": "Other_metabolism__8_.json",
    "path": "iZ_1308/Other_metabolism__8_.json",
    "reactions": 115,
-   "nodes": 773,
+   "nodes": 774,
    "combined": false
   },
   {
@@ -158,8 +158,8 @@
    "name": "Lipid metabolism (1)",
    "file": "Lipid_metabolism__1_.json",
    "path": "iZ_1308/Lipid_metabolism__1_.json",
-   "reactions": 112,
-   "nodes": 687,
+   "reactions": 111,
+   "nodes": 668,
    "combined": false
   },
   {
@@ -183,7 +183,7 @@
    "file": "Transport_and_exchange__7_.json",
    "path": "iZ_1308/Transport_and_exchange__7_.json",
    "reactions": 65,
-   "nodes": 603,
+   "nodes": 614,
    "combined": false
   },
   {
@@ -199,7 +199,7 @@
    "file": "Other_metabolism__10_.json",
    "path": "iZ_1308/Other_metabolism__10_.json",
    "reactions": 28,
-   "nodes": 181,
+   "nodes": 178,
    "combined": false
   },
   {
