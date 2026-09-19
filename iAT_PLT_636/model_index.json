@@ -1,0 +1,110 @@
+{
+ "schema": 1,
+ "id": "iAT_PLT_636",
+ "maps": [
+  {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iAT_PLT_636/Lipid_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 639,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iAT_PLT_636/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 802,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iAT_PLT_636/Other_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 845,
+   "combined": false
+  },
+  {
+   "name": "Unassigned clusters",
+   "file": "Unassigned_clusters.json",
+   "path": "iAT_PLT_636/Unassigned_clusters.json",
+   "reactions": 118,
+   "nodes": 721,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iAT_PLT_636/Transport_and_exchange__2_.json",
+   "reactions": 115,
+   "nodes": 867,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iAT_PLT_636/Transport_and_exchange__3_.json",
+   "reactions": 114,
+   "nodes": 825,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iAT_PLT_636/Transport_and_exchange__4_.json",
+   "reactions": 82,
+   "nodes": 515,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iAT_PLT_636/Amino_acid_metabolism.json",
+   "reactions": 67,
+   "nodes": 507,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iAT_PLT_636/Carbohydrate_metabolism.json",
+   "reactions": 65,
+   "nodes": 535,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iAT_PLT_636/Nucleotide_metabolism.json",
+   "reactions": 25,
+   "nodes": 219,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iAT_PLT_636/Other_metabolism__2_.json",
+   "reactions": 24,
+   "nodes": 172,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iAT_PLT_636/Lipid_metabolism__2_.json",
+   "reactions": 19,
+   "nodes": 172,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iAT_PLT_636/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 15,
+   "nodes": 92,
+   "combined": false
+  }
+ ]
+}

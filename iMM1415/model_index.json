@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "id": "iMM1415",
+ "maps": [
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iMM1415/Transport_and_exchange__4_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iMM1415/Transport_and_exchange__5_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iMM1415/Transport_and_exchange__6_.json",
+   "reactions": 120,
+   "nodes": 479,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iMM1415/Transport_and_exchange__3_.json",
+   "reactions": 52,
+   "nodes": 208,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (7)",
+   "file": "Transport_and_exchange__7_.json",
+   "path": "iMM1415/Transport_and_exchange__7_.json",
+   "reactions": 38,
+   "nodes": 152,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (11)",
+   "file": "Transport_and_exchange__11_.json",
+   "path": "iMM1415/Transport_and_exchange__11_.json",
+   "reactions": 2,
+   "nodes": 8,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (3)",
+   "file": "Amino_acid_metabolism__3_.json",
+   "path": "iMM1415/Amino_acid_metabolism__3_.json",
+   "reactions": 1,
+   "nodes": 4,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (9)",
+   "file": "Transport_and_exchange__9_.json",
+   "path": "iMM1415/Transport_and_exchange__9_.json",
+   "reactions": 1,
+   "nodes": 4,
+   "combined": false
+  }
+ ]
+}

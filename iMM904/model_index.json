@@ -1,0 +1,158 @@
+{
+ "schema": 1,
+ "id": "iMM904",
+ "maps": [
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iMM904/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 826,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iMM904/Transport_and_exchange__2_.json",
+   "reactions": 120,
+   "nodes": 520,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iMM904/Amino_acid_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 903,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iMM904/Other_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 1123,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iMM904/Transport_and_exchange__5_.json",
+   "reactions": 118,
+   "nodes": 875,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iMM904/Transport_and_exchange__4_.json",
+   "reactions": 117,
+   "nodes": 677,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iMM904/Transport_and_exchange__3_.json",
+   "reactions": 116,
+   "nodes": 910,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism (1)",
+   "file": "Cofactor_and_vitamin_metabolism__1_.json",
+   "path": "iMM904/Cofactor_and_vitamin_metabolism__1_.json",
+   "reactions": 115,
+   "nodes": 818,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iMM904/Carbohydrate_metabolism__1_.json",
+   "reactions": 113,
+   "nodes": 857,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iMM904/Other_metabolism__2_.json",
+   "reactions": 111,
+   "nodes": 908,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iMM904/Other_metabolism__3_.json",
+   "reactions": 106,
+   "nodes": 886,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iMM904/Lipid_metabolism.json",
+   "reactions": 76,
+   "nodes": 632,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism (2)",
+   "file": "Cofactor_and_vitamin_metabolism__2_.json",
+   "path": "iMM904/Cofactor_and_vitamin_metabolism__2_.json",
+   "reactions": 69,
+   "nodes": 581,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iMM904/Amino_acid_metabolism__2_.json",
+   "reactions": 57,
+   "nodes": 414,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iMM904/Nucleotide_metabolism.json",
+   "reactions": 55,
+   "nodes": 454,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iMM904/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 12,
+   "nodes": 71,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iMM904/Transport_and_exchange__6_.json",
+   "reactions": 12,
+   "nodes": 125,
+   "combined": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iMM904/Xenobiotic_degradation.json",
+   "reactions": 10,
+   "nodes": 60,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iMM904/Carbohydrate_metabolism__2_.json",
+   "reactions": 8,
+   "nodes": 56,
+   "combined": false
+  }
+ ]
+}

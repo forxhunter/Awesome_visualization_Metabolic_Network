@@ -1,8 +1,8 @@
 # Escher Maps for BiGG Models
 
 Automatically generated, Escher-compatible metabolic maps for the models in the
-[BiGG Models database](http://bigg.ucsd.edu/) — one map per functional cluster, plus a
-whole-model map for each reconstruction.
+[BiGG Models database](http://bigg.ucsd.edu/) — **2,623 maps across all 108 models**, one per
+functional pathway group.
 
 Every map in this repository was produced by **MetaCarto**, a layout engine that draws a
 metabolic network the way a curator would rather than the way a force-directed algorithm does.
@@ -65,7 +65,7 @@ the Python package, the Jupyter widget, or an embedded `escher.Builder`.
 import escher, json, urllib.request
 
 url = ('https://raw.githubusercontent.com/forxhunter/escher_maps_BiGG/main/'
-       'e_coli_core/Glycolysis_Gluconeogenesis.json')
+       'e_coli_core/Carbohydrate_metabolism.json')
 with urllib.request.urlopen(url) as response:
     map_json = json.load(response)
 
@@ -80,17 +80,33 @@ escher.Builder(map_json=json.dumps(map_json)).display_in_notebook()
 map_index.json                     every model, with map counts
 {Model_ID}/
     model_index.json               every map in this model, with sizes
-    {Model_ID}_Combined.json       whole model, pathways tiled and captioned
-    {Cluster}.json                 one functional cluster
+    {Pathway_group}.json           one functional pathway group
 ```
 
-Cluster names come from the model's own `subsystem` annotation where it has one
-(`Glycolysis_Gluconeogenesis`, `Citric_Acid_Cycle`, …). Many BiGG reconstructions carry no
-subsystem annotation at all; for those, clusters are inferred from network structure and named
-`Cluster_N`.
+Maps are named for the metabolic function they cover — `Carbohydrate_metabolism`,
+`Amino_acid_metabolism`, `Lipid_metabolism`, `Nucleotide_metabolism`,
+`Energy_metabolism`, `Transport_and_exchange` and so on, following the
+[KEGG BRITE](https://www.genome.jp/kegg/brite.html) top-level categories. A group too large to
+draw on one page is split and numbered (`Carbohydrate_metabolism__1_`,
+`Carbohydrate_metabolism__2_`); the split is made along the network, so each part is still a
+connected piece of chemistry rather than an arbitrary slice.
 
-The two index files exist so applications can list the collection without cloning it. They are
-regenerated together with the maps.
+Reactions are assigned to a group from the model's own `subsystem` annotation where it has one,
+then from a KEGG pathway lookup, and only failing both from network structure. Earlier releases
+of this collection published thousands of tiny `Cluster_N` maps of a handful of reactions each;
+those are gone, replaced by fewer and larger maps that correspond to something a biologist would
+name. The median model now has 29 maps rather than several hundred.
+
+The index files exist so applications can list the collection without cloning it — the root
+index is 13 KB. They are regenerated together with the maps.
+
+The map JSON is minified. It is read by software, not by people, and indenting it costs 43% of
+the download for nothing.
+
+**Whole-model maps are not included in this release.** Tiling an entire genome-scale
+reconstruction onto one canvas gives every reaction so little area that the labels fall below
+readable size — Recon3D comes out at 0.14 pt — so the file is large without being useful. The
+per-pathway maps are the readable artifact.
 
 ---
 
@@ -130,6 +146,11 @@ rather than drifting away from it.
 Every map is scored on edge orthogonality, edge crossings, node separation, label collisions and
 local density. Across the collection the median map is fully axis-aligned with no edge crossings
 and no label overlaps.
+
+Maps are laid out main-pathway-first: the connected pathway cores are placed and keep the shape
+the layering gave them, then the small one- and two-reaction pieces are filled into the space
+around them, nearest first. The alternative — giving every disconnected piece its own row — is
+what makes an automatic map read as mostly white.
 
 These are automatic layouts, and they are not uniformly perfect. Known limits:
 

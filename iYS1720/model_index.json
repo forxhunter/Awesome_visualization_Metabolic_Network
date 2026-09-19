@@ -1,0 +1,262 @@
+{
+ "schema": 1,
+ "id": "iYS1720",
+ "maps": [
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iYS1720/Carbohydrate_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 591,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism (4)",
+   "file": "Glycan_metabolism__4_.json",
+   "path": "iYS1720/Glycan_metabolism__4_.json",
+   "reactions": 120,
+   "nodes": 802,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iYS1720/Lipid_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (12)",
+   "file": "Other_metabolism__12_.json",
+   "path": "iYS1720/Other_metabolism__12_.json",
+   "reactions": 120,
+   "nodes": 1040,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iYS1720/Other_metabolism__2_.json",
+   "reactions": 120,
+   "nodes": 903,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iYS1720/Other_metabolism__4_.json",
+   "reactions": 120,
+   "nodes": 857,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iYS1720/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iYS1720/Transport_and_exchange__2_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iYS1720/Carbohydrate_metabolism__2_.json",
+   "reactions": 119,
+   "nodes": 922,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iYS1720/Lipid_metabolism__2_.json",
+   "reactions": 119,
+   "nodes": 911,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iYS1720/Other_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 902,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iYS1720/Other_metabolism__5_.json",
+   "reactions": 119,
+   "nodes": 861,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iYS1720/Other_metabolism__6_.json",
+   "reactions": 119,
+   "nodes": 856,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iYS1720/Other_metabolism__7_.json",
+   "reactions": 118,
+   "nodes": 746,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism (1)",
+   "file": "Glycan_metabolism__1_.json",
+   "path": "iYS1720/Glycan_metabolism__1_.json",
+   "reactions": 117,
+   "nodes": 841,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "iYS1720/Other_metabolism__10_.json",
+   "reactions": 117,
+   "nodes": 966,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (13)",
+   "file": "Other_metabolism__13_.json",
+   "path": "iYS1720/Other_metabolism__13_.json",
+   "reactions": 117,
+   "nodes": 966,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iYS1720/Other_metabolism__3_.json",
+   "reactions": 116,
+   "nodes": 870,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iYS1720/Other_metabolism__8_.json",
+   "reactions": 116,
+   "nodes": 909,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iYS1720/Other_metabolism__9_.json",
+   "reactions": 115,
+   "nodes": 895,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism (3)",
+   "file": "Glycan_metabolism__3_.json",
+   "path": "iYS1720/Glycan_metabolism__3_.json",
+   "reactions": 114,
+   "nodes": 777,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iYS1720/Other_metabolism__11_.json",
+   "reactions": 113,
+   "nodes": 828,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism (2)",
+   "file": "Glycan_metabolism__2_.json",
+   "path": "iYS1720/Glycan_metabolism__2_.json",
+   "reactions": 112,
+   "nodes": 738,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iYS1720/Amino_acid_metabolism.json",
+   "reactions": 110,
+   "nodes": 771,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iYS1720/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 95,
+   "nodes": 680,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism (5)",
+   "file": "Glycan_metabolism__5_.json",
+   "path": "iYS1720/Glycan_metabolism__5_.json",
+   "reactions": 89,
+   "nodes": 548,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (14)",
+   "file": "Other_metabolism__14_.json",
+   "path": "iYS1720/Other_metabolism__14_.json",
+   "reactions": 86,
+   "nodes": 705,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (3)",
+   "file": "Lipid_metabolism__3_.json",
+   "path": "iYS1720/Lipid_metabolism__3_.json",
+   "reactions": 81,
+   "nodes": 624,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iYS1720/Nucleotide_metabolism.json",
+   "reactions": 71,
+   "nodes": 556,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iYS1720/Transport_and_exchange__3_.json",
+   "reactions": 66,
+   "nodes": 687,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (3)",
+   "file": "Carbohydrate_metabolism__3_.json",
+   "path": "iYS1720/Carbohydrate_metabolism__3_.json",
+   "reactions": 27,
+   "nodes": 183,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iYS1720/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 8,
+   "nodes": 47,
+   "combined": false
+  }
+ ]
+}

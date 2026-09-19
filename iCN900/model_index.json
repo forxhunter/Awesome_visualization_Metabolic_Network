@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "id": "iCN900",
+ "maps": [
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iCN900/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 859,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iCN900/Transport_and_exchange__3_.json",
+   "reactions": 120,
+   "nodes": 985,
+   "combined": false
+  },
+  {
+   "name": "Unassigned clusters (1)",
+   "file": "Unassigned_clusters__1_.json",
+   "path": "iCN900/Unassigned_clusters__1_.json",
+   "reactions": 120,
+   "nodes": 498,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iCN900/Transport_and_exchange__2_.json",
+   "reactions": 118,
+   "nodes": 895,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iCN900/Transport_and_exchange__4_.json",
+   "reactions": 117,
+   "nodes": 988,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iCN900/Amino_acid_metabolism.json",
+   "reactions": 106,
+   "nodes": 846,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iCN900/Carbohydrate_metabolism.json",
+   "reactions": 106,
+   "nodes": 985,
+   "combined": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iCN900/Xenobiotic_degradation.json",
+   "reactions": 100,
+   "nodes": 796,
+   "combined": false
+  },
+  {
+   "name": "Unassigned clusters (2)",
+   "file": "Unassigned_clusters__2_.json",
+   "path": "iCN900/Unassigned_clusters__2_.json",
+   "reactions": 72,
+   "nodes": 570,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iCN900/Nucleotide_metabolism.json",
+   "reactions": 68,
+   "nodes": 568,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iCN900/Other_metabolism.json",
+   "reactions": 66,
+   "nodes": 568,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iCN900/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 62,
+   "nodes": 464,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iCN900/Transport_and_exchange__5_.json",
+   "reactions": 33,
+   "nodes": 229,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iCN900/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 9,
+   "nodes": 63,
+   "combined": false
+  }
+ ]
+}

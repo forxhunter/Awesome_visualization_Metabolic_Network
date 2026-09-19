@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "id": "iYL1228",
+ "maps": [
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iYL1228/Transport_and_exchange__2_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iYL1228/Carbohydrate_metabolism__1_.json",
+   "reactions": 113,
+   "nodes": 452,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iYL1228/Transport_and_exchange__1_.json",
+   "reactions": 56,
+   "nodes": 224,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iYL1228/Transport_and_exchange__3_.json",
+   "reactions": 2,
+   "nodes": 8,
+   "combined": false
+  }
+ ]
+}

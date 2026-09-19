@@ -1,0 +1,238 @@
+{
+ "schema": 1,
+ "id": "iECDH10B_1368",
+ "maps": [
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iECDH10B_1368/Other_metabolism__2_.json",
+   "reactions": 120,
+   "nodes": 762,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iECDH10B_1368/Other_metabolism__3_.json",
+   "reactions": 120,
+   "nodes": 897,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iECDH10B_1368/Other_metabolism__4_.json",
+   "reactions": 120,
+   "nodes": 868,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iECDH10B_1368/Other_metabolism__5_.json",
+   "reactions": 120,
+   "nodes": 858,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iECDH10B_1368/Other_metabolism__7_.json",
+   "reactions": 120,
+   "nodes": 930,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iECDH10B_1368/Transport_and_exchange__2_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iECDH10B_1368/Transport_and_exchange__3_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iECDH10B_1368/Transport_and_exchange__4_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iECDH10B_1368/Transport_and_exchange__6_.json",
+   "reactions": 120,
+   "nodes": 894,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iECDH10B_1368/Other_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 881,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iECDH10B_1368/Transport_and_exchange__1_.json",
+   "reactions": 119,
+   "nodes": 869,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iECDH10B_1368/Lipid_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 820,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iECDH10B_1368/Other_metabolism__9_.json",
+   "reactions": 118,
+   "nodes": 992,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iECDH10B_1368/Carbohydrate_metabolism__1_.json",
+   "reactions": 117,
+   "nodes": 927,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iECDH10B_1368/Other_metabolism__6_.json",
+   "reactions": 117,
+   "nodes": 878,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iECDH10B_1368/Transport_and_exchange__5_.json",
+   "reactions": 117,
+   "nodes": 863,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iECDH10B_1368/Other_metabolism__8_.json",
+   "reactions": 116,
+   "nodes": 944,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iECDH10B_1368/Amino_acid_metabolism__1_.json",
+   "reactions": 114,
+   "nodes": 880,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iECDH10B_1368/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 114,
+   "nodes": 873,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "iECDH10B_1368/Other_metabolism__10_.json",
+   "reactions": 104,
+   "nodes": 903,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iECDH10B_1368/Lipid_metabolism__2_.json",
+   "reactions": 92,
+   "nodes": 740,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iECDH10B_1368/Other_metabolism__11_.json",
+   "reactions": 83,
+   "nodes": 668,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iECDH10B_1368/Nucleotide_metabolism.json",
+   "reactions": 80,
+   "nodes": 608,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (7)",
+   "file": "Transport_and_exchange__7_.json",
+   "path": "iECDH10B_1368/Transport_and_exchange__7_.json",
+   "reactions": 53,
+   "nodes": 554,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iECDH10B_1368/Carbohydrate_metabolism__2_.json",
+   "reactions": 37,
+   "nodes": 268,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iECDH10B_1368/Amino_acid_metabolism__2_.json",
+   "reactions": 14,
+   "nodes": 78,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iECDH10B_1368/Glycan_metabolism.json",
+   "reactions": 9,
+   "nodes": 62,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iECDH10B_1368/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 8,
+   "nodes": 47,
+   "combined": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iECDH10B_1368/Energy_metabolism.json",
+   "reactions": 7,
+   "nodes": 55,
+   "combined": false
+  }
+ ]
+}

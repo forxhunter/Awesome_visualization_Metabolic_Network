@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "id": "iYO844",
+ "maps": [
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iYO844/Transport_and_exchange__3_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iYO844/Transport_and_exchange__2_.json",
+   "reactions": 119,
+   "nodes": 765,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iYO844/Transport_and_exchange__4_.json",
+   "reactions": 119,
+   "nodes": 713,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iYO844/Transport_and_exchange__5_.json",
+   "reactions": 119,
+   "nodes": 936,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iYO844/Carbohydrate_metabolism__1_.json",
+   "reactions": 115,
+   "nodes": 922,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iYO844/Transport_and_exchange__1_.json",
+   "reactions": 115,
+   "nodes": 936,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iYO844/Carbohydrate_metabolism__2_.json",
+   "reactions": 107,
+   "nodes": 813,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iYO844/Amino_acid_metabolism.json",
+   "reactions": 106,
+   "nodes": 805,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iYO844/Other_metabolism.json",
+   "reactions": 104,
+   "nodes": 912,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iYO844/Nucleotide_metabolism.json",
+   "reactions": 67,
+   "nodes": 540,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iYO844/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 53,
+   "nodes": 395,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iYO844/Transport_and_exchange__6_.json",
+   "reactions": 48,
+   "nodes": 394,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iYO844/Lipid_metabolism.json",
+   "reactions": 33,
+   "nodes": 257,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iYO844/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 9,
+   "nodes": 55,
+   "combined": false
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "schema": 1,
+ "id": "iECSE_1348",
+ "maps": [
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iECSE_1348/Carbohydrate_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 905,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iECSE_1348/Other_metabolism__2_.json",
+   "reactions": 120,
+   "nodes": 788,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iECSE_1348/Other_metabolism__3_.json",
+   "reactions": 120,
+   "nodes": 897,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iECSE_1348/Other_metabolism__5_.json",
+   "reactions": 120,
+   "nodes": 870,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iECSE_1348/Other_metabolism__6_.json",
+   "reactions": 120,
+   "nodes": 868,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iECSE_1348/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 865,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iECSE_1348/Transport_and_exchange__2_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iECSE_1348/Transport_and_exchange__3_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iECSE_1348/Transport_and_exchange__4_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iECSE_1348/Other_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 888,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iECSE_1348/Other_metabolism__8_.json",
+   "reactions": 119,
+   "nodes": 1013,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iECSE_1348/Other_metabolism__9_.json",
+   "reactions": 119,
+   "nodes": 908,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iECSE_1348/Other_metabolism__11_.json",
+   "reactions": 118,
+   "nodes": 1022,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iECSE_1348/Lipid_metabolism__1_.json",
+   "reactions": 117,
+   "nodes": 808,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iECSE_1348/Other_metabolism__4_.json",
+   "reactions": 117,
+   "nodes": 854,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iECSE_1348/Other_metabolism__7_.json",
+   "reactions": 117,
+   "nodes": 871,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iECSE_1348/Transport_and_exchange__5_.json",
+   "reactions": 117,
+   "nodes": 997,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "iECSE_1348/Other_metabolism__10_.json",
+   "reactions": 116,
+   "nodes": 995,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iECSE_1348/Amino_acid_metabolism__1_.json",
+   "reactions": 114,
+   "nodes": 847,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iECSE_1348/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 113,
+   "nodes": 890,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iECSE_1348/Lipid_metabolism__2_.json",
+   "reactions": 92,
+   "nodes": 739,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iECSE_1348/Transport_and_exchange__6_.json",
+   "reactions": 91,
+   "nodes": 708,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iECSE_1348/Nucleotide_metabolism.json",
+   "reactions": 81,
+   "nodes": 610,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iECSE_1348/Carbohydrate_metabolism__2_.json",
+   "reactions": 50,
+   "nodes": 354,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iECSE_1348/Amino_acid_metabolism__2_.json",
+   "reactions": 31,
+   "nodes": 188,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (12)",
+   "file": "Other_metabolism__12_.json",
+   "path": "iECSE_1348/Other_metabolism__12_.json",
+   "reactions": 28,
+   "nodes": 193,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iECSE_1348/Glycan_metabolism.json",
+   "reactions": 9,
+   "nodes": 62,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iECSE_1348/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 8,
+   "nodes": 47,
+   "combined": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iECSE_1348/Energy_metabolism.json",
+   "reactions": 7,
+   "nodes": 55,
+   "combined": false
+  }
+ ]
+}

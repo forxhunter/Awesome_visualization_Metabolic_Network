@@ -1,0 +1,238 @@
+{
+ "schema": 1,
+ "id": "iEKO11_1354",
+ "maps": [
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iEKO11_1354/Carbohydrate_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 489,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iEKO11_1354/Carbohydrate_metabolism__2_.json",
+   "reactions": 120,
+   "nodes": 915,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iEKO11_1354/Other_metabolism__2_.json",
+   "reactions": 120,
+   "nodes": 752,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iEKO11_1354/Other_metabolism__3_.json",
+   "reactions": 120,
+   "nodes": 873,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iEKO11_1354/Other_metabolism__4_.json",
+   "reactions": 120,
+   "nodes": 848,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iEKO11_1354/Other_metabolism__5_.json",
+   "reactions": 120,
+   "nodes": 886,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iEKO11_1354/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 842,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iEKO11_1354/Transport_and_exchange__2_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iEKO11_1354/Transport_and_exchange__3_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iEKO11_1354/Other_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 889,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iEKO11_1354/Other_metabolism__7_.json",
+   "reactions": 119,
+   "nodes": 986,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iEKO11_1354/Other_metabolism__9_.json",
+   "reactions": 119,
+   "nodes": 897,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iEKO11_1354/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 118,
+   "nodes": 917,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "iEKO11_1354/Other_metabolism__10_.json",
+   "reactions": 118,
+   "nodes": 1061,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iEKO11_1354/Other_metabolism__8_.json",
+   "reactions": 118,
+   "nodes": 980,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iEKO11_1354/Other_metabolism__6_.json",
+   "reactions": 117,
+   "nodes": 865,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iEKO11_1354/Transport_and_exchange__4_.json",
+   "reactions": 117,
+   "nodes": 864,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iEKO11_1354/Transport_and_exchange__5_.json",
+   "reactions": 117,
+   "nodes": 1084,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iEKO11_1354/Amino_acid_metabolism__1_.json",
+   "reactions": 115,
+   "nodes": 863,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iEKO11_1354/Lipid_metabolism__1_.json",
+   "reactions": 112,
+   "nodes": 769,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iEKO11_1354/Lipid_metabolism__2_.json",
+   "reactions": 102,
+   "nodes": 811,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iEKO11_1354/Nucleotide_metabolism.json",
+   "reactions": 82,
+   "nodes": 619,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iEKO11_1354/Other_metabolism__11_.json",
+   "reactions": 70,
+   "nodes": 531,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (3)",
+   "file": "Carbohydrate_metabolism__3_.json",
+   "path": "iEKO11_1354/Carbohydrate_metabolism__3_.json",
+   "reactions": 56,
+   "nodes": 382,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iEKO11_1354/Amino_acid_metabolism__2_.json",
+   "reactions": 38,
+   "nodes": 255,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iEKO11_1354/Transport_and_exchange__6_.json",
+   "reactions": 32,
+   "nodes": 234,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iEKO11_1354/Glycan_metabolism.json",
+   "reactions": 9,
+   "nodes": 62,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iEKO11_1354/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 8,
+   "nodes": 47,
+   "combined": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iEKO11_1354/Energy_metabolism.json",
+   "reactions": 7,
+   "nodes": 55,
+   "combined": false
+  }
+ ]
+}

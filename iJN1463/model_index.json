@@ -1,0 +1,254 @@
+{
+ "schema": 1,
+ "id": "iJN1463",
+ "maps": [
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iJN1463/Other_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 898,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (11)",
+   "file": "Other_metabolism__11_.json",
+   "path": "iJN1463/Other_metabolism__11_.json",
+   "reactions": 120,
+   "nodes": 1055,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iJN1463/Other_metabolism__2_.json",
+   "reactions": 120,
+   "nodes": 806,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iJN1463/Other_metabolism__3_.json",
+   "reactions": 120,
+   "nodes": 882,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iJN1463/Other_metabolism__5_.json",
+   "reactions": 120,
+   "nodes": 869,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (6)",
+   "file": "Other_metabolism__6_.json",
+   "path": "iJN1463/Other_metabolism__6_.json",
+   "reactions": 120,
+   "nodes": 938,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (9)",
+   "file": "Other_metabolism__9_.json",
+   "path": "iJN1463/Other_metabolism__9_.json",
+   "reactions": 120,
+   "nodes": 1035,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iJN1463/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 894,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iJN1463/Transport_and_exchange__2_.json",
+   "reactions": 120,
+   "nodes": 559,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iJN1463/Transport_and_exchange__3_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iJN1463/Transport_and_exchange__4_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iJN1463/Transport_and_exchange__5_.json",
+   "reactions": 120,
+   "nodes": 933,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (7)",
+   "file": "Transport_and_exchange__7_.json",
+   "path": "iJN1463/Transport_and_exchange__7_.json",
+   "reactions": 120,
+   "nodes": 1046,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iJN1463/Other_metabolism__4_.json",
+   "reactions": 119,
+   "nodes": 880,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (7)",
+   "file": "Other_metabolism__7_.json",
+   "path": "iJN1463/Other_metabolism__7_.json",
+   "reactions": 119,
+   "nodes": 902,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iJN1463/Transport_and_exchange__6_.json",
+   "reactions": 119,
+   "nodes": 954,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (10)",
+   "file": "Other_metabolism__10_.json",
+   "path": "iJN1463/Other_metabolism__10_.json",
+   "reactions": 118,
+   "nodes": 949,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (8)",
+   "file": "Other_metabolism__8_.json",
+   "path": "iJN1463/Other_metabolism__8_.json",
+   "reactions": 117,
+   "nodes": 923,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iJN1463/Amino_acid_metabolism__1_.json",
+   "reactions": 115,
+   "nodes": 862,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (12)",
+   "file": "Other_metabolism__12_.json",
+   "path": "iJN1463/Other_metabolism__12_.json",
+   "reactions": 110,
+   "nodes": 883,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (1)",
+   "file": "Lipid_metabolism__1_.json",
+   "path": "iJN1463/Lipid_metabolism__1_.json",
+   "reactions": 109,
+   "nodes": 816,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iJN1463/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 102,
+   "nodes": 795,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iJN1463/Carbohydrate_metabolism.json",
+   "reactions": 75,
+   "nodes": 548,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iJN1463/Nucleotide_metabolism.json",
+   "reactions": 65,
+   "nodes": 496,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iJN1463/Amino_acid_metabolism__2_.json",
+   "reactions": 59,
+   "nodes": 437,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (8)",
+   "file": "Transport_and_exchange__8_.json",
+   "path": "iJN1463/Transport_and_exchange__8_.json",
+   "reactions": 49,
+   "nodes": 559,
+   "combined": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iJN1463/Xenobiotic_degradation.json",
+   "reactions": 36,
+   "nodes": 248,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism (2)",
+   "file": "Lipid_metabolism__2_.json",
+   "path": "iJN1463/Lipid_metabolism__2_.json",
+   "reactions": 30,
+   "nodes": 235,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iJN1463/Glycan_metabolism.json",
+   "reactions": 9,
+   "nodes": 62,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iJN1463/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 9,
+   "nodes": 55,
+   "combined": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iJN1463/Energy_metabolism.json",
+   "reactions": 6,
+   "nodes": 46,
+   "combined": false
+  }
+ ]
+}

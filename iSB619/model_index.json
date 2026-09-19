@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "id": "iSB619",
+ "maps": [
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iSB619/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 805,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iSB619/Transport_and_exchange__2_.json",
+   "reactions": 118,
+   "nodes": 725,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iSB619/Amino_acid_metabolism__1_.json",
+   "reactions": 116,
+   "nodes": 904,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iSB619/Transport_and_exchange__3_.json",
+   "reactions": 116,
+   "nodes": 1534,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iSB619/Amino_acid_metabolism__2_.json",
+   "reactions": 68,
+   "nodes": 496,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iSB619/Carbohydrate_metabolism.json",
+   "reactions": 56,
+   "nodes": 433,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iSB619/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 54,
+   "nodes": 386,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iSB619/Lipid_metabolism.json",
+   "reactions": 39,
+   "nodes": 326,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iSB619/Nucleotide_metabolism.json",
+   "reactions": 32,
+   "nodes": 247,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iSB619/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 12,
+   "nodes": 80,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iSB619/Other_metabolism.json",
+   "reactions": 11,
+   "nodes": 111,
+   "combined": false
+  }
+ ]
+}

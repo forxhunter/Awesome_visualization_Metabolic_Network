@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "iSynCJ816",
+ "maps": [
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iSynCJ816/Other_metabolism__2_.json",
+   "reactions": 34,
+   "nodes": 140,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iSynCJ816/Other_metabolism__1_.json",
+   "reactions": 19,
+   "nodes": 81,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iSynCJ816/Other_metabolism__4_.json",
+   "reactions": 6,
+   "nodes": 34,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (5)",
+   "file": "Other_metabolism__5_.json",
+   "path": "iSynCJ816/Other_metabolism__5_.json",
+   "reactions": 4,
+   "nodes": 16,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iSynCJ816/Amino_acid_metabolism.json",
+   "reactions": 3,
+   "nodes": 23,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange",
+   "file": "Transport_and_exchange.json",
+   "path": "iSynCJ816/Transport_and_exchange.json",
+   "reactions": 1,
+   "nodes": 4,
+   "combined": false
+  }
+ ]
+}

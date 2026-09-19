@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "id": "iIS312_Trypomastigote",
+ "maps": [
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iIS312_Trypomastigote/Transport_and_exchange__1_.json",
+   "reactions": 83,
+   "nodes": 632,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iIS312_Trypomastigote/Transport_and_exchange__3_.json",
+   "reactions": 61,
+   "nodes": 371,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iIS312_Trypomastigote/Other_metabolism.json",
+   "reactions": 45,
+   "nodes": 359,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iIS312_Trypomastigote/Lipid_metabolism.json",
+   "reactions": 37,
+   "nodes": 335,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iIS312_Trypomastigote/Transport_and_exchange__4_.json",
+   "reactions": 27,
+   "nodes": 187,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iIS312_Trypomastigote/Nucleotide_metabolism.json",
+   "reactions": 18,
+   "nodes": 144,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iIS312_Trypomastigote/Transport_and_exchange__2_.json",
+   "reactions": 13,
+   "nodes": 91,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iIS312_Trypomastigote/Amino_acid_metabolism.json",
+   "reactions": 5,
+   "nodes": 33,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iIS312_Trypomastigote/Carbohydrate_metabolism.json",
+   "reactions": 2,
+   "nodes": 16,
+   "combined": false
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "iECIAI1_1343",
+ "maps": [
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iECIAI1_1343/Transport_and_exchange__2_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iECIAI1_1343/Transport_and_exchange__3_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iECIAI1_1343/Carbohydrate_metabolism__1_.json",
+   "reactions": 110,
+   "nodes": 440,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iECIAI1_1343/Other_metabolism__2_.json",
+   "reactions": 39,
+   "nodes": 156,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iECIAI1_1343/Transport_and_exchange__6_.json",
+   "reactions": 2,
+   "nodes": 8,
+   "combined": false
+  }
+ ]
+}

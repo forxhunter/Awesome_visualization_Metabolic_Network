@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "id": "iIT341",
+ "maps": [
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iIT341/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 713,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iIT341/Amino_acid_metabolism__1_.json",
+   "reactions": 118,
+   "nodes": 848,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iIT341/Transport_and_exchange__2_.json",
+   "reactions": 117,
+   "nodes": 849,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iIT341/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 44,
+   "nodes": 313,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iIT341/Transport_and_exchange__3_.json",
+   "reactions": 41,
+   "nodes": 352,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iIT341/Carbohydrate_metabolism.json",
+   "reactions": 40,
+   "nodes": 241,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iIT341/Nucleotide_metabolism.json",
+   "reactions": 37,
+   "nodes": 297,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iIT341/Amino_acid_metabolism__2_.json",
+   "reactions": 19,
+   "nodes": 132,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iIT341/Lipid_metabolism.json",
+   "reactions": 11,
+   "nodes": 68,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iIT341/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 7,
+   "nodes": 45,
+   "combined": false
+  }
+ ]
+}

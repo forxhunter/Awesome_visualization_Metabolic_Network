@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "id": "iAB_RBC_283",
+ "maps": [
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iAB_RBC_283/Carbohydrate_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 877,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism (1)",
+   "file": "Cofactor_and_vitamin_metabolism__1_.json",
+   "path": "iAB_RBC_283/Cofactor_and_vitamin_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 602,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange",
+   "file": "Transport_and_exchange.json",
+   "path": "iAB_RBC_283/Transport_and_exchange.json",
+   "reactions": 110,
+   "nodes": 774,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iAB_RBC_283/Amino_acid_metabolism.json",
+   "reactions": 45,
+   "nodes": 325,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iAB_RBC_283/Other_metabolism.json",
+   "reactions": 24,
+   "nodes": 150,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iAB_RBC_283/Carbohydrate_metabolism__2_.json",
+   "reactions": 22,
+   "nodes": 157,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism (2)",
+   "file": "Cofactor_and_vitamin_metabolism__2_.json",
+   "path": "iAB_RBC_283/Cofactor_and_vitamin_metabolism__2_.json",
+   "reactions": 16,
+   "nodes": 122,
+   "combined": false
+  }
+ ]
+}

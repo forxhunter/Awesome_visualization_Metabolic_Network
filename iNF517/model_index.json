@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "id": "iNF517",
+ "maps": [
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iNF517/Carbohydrate_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 650,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iNF517/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 875,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iNF517/Transport_and_exchange__3_.json",
+   "reactions": 120,
+   "nodes": 1046,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iNF517/Transport_and_exchange__2_.json",
+   "reactions": 118,
+   "nodes": 923,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iNF517/Amino_acid_metabolism.json",
+   "reactions": 71,
+   "nodes": 624,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iNF517/Carbohydrate_metabolism__2_.json",
+   "reactions": 71,
+   "nodes": 504,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iNF517/Other_metabolism.json",
+   "reactions": 52,
+   "nodes": 362,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iNF517/Nucleotide_metabolism.json",
+   "reactions": 44,
+   "nodes": 379,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iNF517/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 23,
+   "nodes": 182,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iNF517/Lipid_metabolism.json",
+   "reactions": 8,
+   "nodes": 56,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iNF517/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 7,
+   "nodes": 44,
+   "combined": false
+  }
+ ]
+}

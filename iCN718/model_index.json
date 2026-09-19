@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "id": "iCN718",
+ "maps": [
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iCN718/Carbohydrate_metabolism__1_.json",
+   "reactions": 106,
+   "nodes": 428,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iCN718/Transport_and_exchange__1_.json",
+   "reactions": 24,
+   "nodes": 126,
+   "combined": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iCN718/Xenobiotic_degradation.json",
+   "reactions": 22,
+   "nodes": 260,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iCN718/Amino_acid_metabolism__1_.json",
+   "reactions": 17,
+   "nodes": 129,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iCN718/Transport_and_exchange__3_.json",
+   "reactions": 11,
+   "nodes": 52,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iCN718/Transport_and_exchange__4_.json",
+   "reactions": 10,
+   "nodes": 72,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iCN718/Transport_and_exchange__2_.json",
+   "reactions": 7,
+   "nodes": 50,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iCN718/Carbohydrate_metabolism__2_.json",
+   "reactions": 3,
+   "nodes": 19,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iCN718/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 3,
+   "nodes": 19,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iCN718/Other_metabolism.json",
+   "reactions": 3,
+   "nodes": 22,
+   "combined": false
+  }
+ ]
+}

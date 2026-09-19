@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "iYS854",
+ "maps": [
+  {
+   "name": "Other metabolism (1)",
+   "file": "Other_metabolism__1_.json",
+   "path": "iYS854/Other_metabolism__1_.json",
+   "reactions": 120,
+   "nodes": 672,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iYS854/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iYS854/Transport_and_exchange__2_.json",
+   "reactions": 119,
+   "nodes": 918,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iYS854/Transport_and_exchange__4_.json",
+   "reactions": 119,
+   "nodes": 751,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (3)",
+   "file": "Other_metabolism__3_.json",
+   "path": "iYS854/Other_metabolism__3_.json",
+   "reactions": 118,
+   "nodes": 962,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (5)",
+   "file": "Transport_and_exchange__5_.json",
+   "path": "iYS854/Transport_and_exchange__5_.json",
+   "reactions": 117,
+   "nodes": 816,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (2)",
+   "file": "Other_metabolism__2_.json",
+   "path": "iYS854/Other_metabolism__2_.json",
+   "reactions": 116,
+   "nodes": 770,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iYS854/Transport_and_exchange__3_.json",
+   "reactions": 116,
+   "nodes": 945,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (7)",
+   "file": "Transport_and_exchange__7_.json",
+   "path": "iYS854/Transport_and_exchange__7_.json",
+   "reactions": 111,
+   "nodes": 893,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (6)",
+   "file": "Transport_and_exchange__6_.json",
+   "path": "iYS854/Transport_and_exchange__6_.json",
+   "reactions": 108,
+   "nodes": 1131,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iYS854/Amino_acid_metabolism.json",
+   "reactions": 85,
+   "nodes": 609,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iYS854/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 43,
+   "nodes": 318,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iYS854/Nucleotide_metabolism.json",
+   "reactions": 43,
+   "nodes": 320,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iYS854/Carbohydrate_metabolism.json",
+   "reactions": 37,
+   "nodes": 281,
+   "combined": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iYS854/Glycan_metabolism.json",
+   "reactions": 20,
+   "nodes": 136,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iYS854/Lipid_metabolism.json",
+   "reactions": 19,
+   "nodes": 129,
+   "combined": false
+  },
+  {
+   "name": "Other metabolism (4)",
+   "file": "Other_metabolism__4_.json",
+   "path": "iYS854/Other_metabolism__4_.json",
+   "reactions": 15,
+   "nodes": 102,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iYS854/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 11,
+   "nodes": 66,
+   "combined": false
+  }
+ ]
+}

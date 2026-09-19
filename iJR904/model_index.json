@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "id": "iJR904",
+ "maps": [
+  {
+   "name": "Amino acid metabolism (2)",
+   "file": "Amino_acid_metabolism__2_.json",
+   "path": "iJR904/Amino_acid_metabolism__2_.json",
+   "reactions": 120,
+   "nodes": 989,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (1)",
+   "file": "Transport_and_exchange__1_.json",
+   "path": "iJR904/Transport_and_exchange__1_.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (1)",
+   "file": "Amino_acid_metabolism__1_.json",
+   "path": "iJR904/Amino_acid_metabolism__1_.json",
+   "reactions": 119,
+   "nodes": 1057,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (3)",
+   "file": "Transport_and_exchange__3_.json",
+   "path": "iJR904/Transport_and_exchange__3_.json",
+   "reactions": 119,
+   "nodes": 906,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (2)",
+   "file": "Carbohydrate_metabolism__2_.json",
+   "path": "iJR904/Carbohydrate_metabolism__2_.json",
+   "reactions": 118,
+   "nodes": 1056,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (2)",
+   "file": "Transport_and_exchange__2_.json",
+   "path": "iJR904/Transport_and_exchange__2_.json",
+   "reactions": 118,
+   "nodes": 854,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (1)",
+   "file": "Carbohydrate_metabolism__1_.json",
+   "path": "iJR904/Carbohydrate_metabolism__1_.json",
+   "reactions": 117,
+   "nodes": 853,
+   "combined": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iJR904/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 77,
+   "nodes": 576,
+   "combined": false
+  },
+  {
+   "name": "Transport and exchange (4)",
+   "file": "Transport_and_exchange__4_.json",
+   "path": "iJR904/Transport_and_exchange__4_.json",
+   "reactions": 64,
+   "nodes": 478,
+   "combined": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iJR904/Nucleotide_metabolism.json",
+   "reactions": 51,
+   "nodes": 413,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism (3)",
+   "file": "Carbohydrate_metabolism__3_.json",
+   "path": "iJR904/Carbohydrate_metabolism__3_.json",
+   "reactions": 21,
+   "nodes": 145,
+   "combined": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iJR904/Lipid_metabolism.json",
+   "reactions": 17,
+   "nodes": 111,
+   "combined": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iJR904/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 8,
+   "nodes": 47,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism (3)",
+   "file": "Amino_acid_metabolism__3_.json",
+   "path": "iJR904/Amino_acid_metabolism__3_.json",
+   "reactions": 6,
+   "nodes": 44,
+   "combined": false
+  }
+ ]
+}

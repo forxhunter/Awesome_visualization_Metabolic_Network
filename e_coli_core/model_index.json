@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "id": "e_coli_core",
+ "maps": [
+  {
+   "name": "Transport and exchange",
+   "file": "Transport_and_exchange.json",
+   "path": "e_coli_core/Transport_and_exchange.json",
+   "reactions": 45,
+   "nodes": 220,
+   "combined": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "e_coli_core/Carbohydrate_metabolism.json",
+   "reactions": 38,
+   "nodes": 334,
+   "combined": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "e_coli_core/Amino_acid_metabolism.json",
+   "reactions": 12,
+   "nodes": 93,
+   "combined": false
+  }
+ ]
+}
