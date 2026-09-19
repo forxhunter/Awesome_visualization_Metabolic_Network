@@ -71,7 +71,7 @@ derived software — you must cite this repository.**
   title        = {Escher Maps for BiGG Models: automatically generated metabolic
                   pathway maps},
   year         = {2026},
-  howpublished = {\url{https://github.com/forxhunter/escher_maps_BiGG}},
+  howpublished = {\url{https://github.com/forxhunter/Awesome_visualization_Metabolic_Network}},
   note         = {Generated with MetaCarto}
 }
 ```
@@ -79,7 +79,7 @@ derived software — you must cite this repository.**
 Plain text:
 
 > Wu, T. *Escher Maps for BiGG Models: automatically generated metabolic pathway maps.*
-> https://github.com/forxhunter/escher_maps_BiGG (generated with MetaCarto).
+> https://github.com/forxhunter/Awesome_visualization_Metabolic_Network (generated with MetaCarto).
 
 This applies to modified maps as well: if you edit a map in Escher and publish the result, the
 layout is still derived from this work.
@@ -119,7 +119,7 @@ the Python package, the Jupyter widget, or an embedded `escher.Builder`.
 ```python
 import escher, json, urllib.request
 
-url = ('https://raw.githubusercontent.com/forxhunter/escher_maps_BiGG/main/'
+url = ('https://raw.githubusercontent.com/forxhunter/Awesome_visualization_Metabolic_Network/main/'
        'e_coli_core/Carbohydrate_metabolism.json')
 with urllib.request.urlopen(url) as response:
     map_json = json.load(response)
