@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "id": "iAB_RBC_283",
+ "maps": [
+  {
+   "name": "iAB_RBC_283 - Homo sapiens (human)",
+   "file": "iAB_RBC_283_Canvas.json",
+   "path": "iAB_RBC_283/iAB_RBC_283_Canvas.json",
+   "reactions": 468,
+   "nodes": 3268,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Carbohydrate metabolism: Ascorbate and Aldarate; Pentose Phosphate Pathway; Other carbohydrate",
+   "file": "Carbohydrate_metabolism_Ascorbate_and_Aldarate_Pentos_be38c1.json",
+   "path": "iAB_RBC_283/Carbohydrate_metabolism_Ascorbate_and_Aldarate_Pentos_be38c1.json",
+   "reactions": 119,
+   "nodes": 737,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange",
+   "file": "Transport_and_exchange.json",
+   "path": "iAB_RBC_283/Transport_and_exchange.json",
+   "reactions": 118,
+   "nodes": 523,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iAB_RBC_283/Lipid_metabolism.json",
+   "reactions": 93,
+   "nodes": 1028,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Inositol Phosphate; Glycolysis/Gluconeogenesis; Aminosugar; Fructose and Mannose; +2 more",
+   "file": "Carbohydrate_metabolism_Inositol_Phosphate_Glycolysis_7044ef.json",
+   "path": "iAB_RBC_283/Carbohydrate_metabolism_Inositol_Phosphate_Glycolysis_7044ef.json",
+   "reactions": 85,
+   "nodes": 700,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iAB_RBC_283/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 28,
+   "nodes": 205,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iAB_RBC_283/Amino_acid_metabolism.json",
+   "reactions": 12,
+   "nodes": 81,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iAB_RBC_283/Nucleotide_metabolism.json",
+   "reactions": 11,
+   "nodes": 80,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iAB_RBC_283/Energy_metabolism.json",
+   "reactions": 2,
+   "nodes": 11,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

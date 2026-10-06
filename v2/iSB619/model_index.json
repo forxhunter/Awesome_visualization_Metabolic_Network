@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "iSB619",
+ "maps": [
+  {
+   "name": "iSB619 - Staphylococcus aureus (staph)",
+   "file": "iSB619_Canvas.json",
+   "path": "iSB619/iSB619_Canvas.json",
+   "reactions": 742,
+   "nodes": 5628,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Amino Acid; Tyrosine, Tryptophan, and Phenylalanine; +7 more",
+   "file": "Amino_acid_metabolism_Amino_Acid_Tyrosine_Tryptophan_811d8b.json",
+   "path": "iSB619/Amino_acid_metabolism_Amino_Acid_Tyrosine_Tryptophan_811d8b.json",
+   "reactions": 116,
+   "nodes": 806,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport; Biomass and exchange; Other transport and exchange",
+   "file": "Transport_and_exchange_Transport_Biomass_and_exchange_184637.json",
+   "path": "iSB619/Transport_and_exchange_Transport_Biomass_and_exchange_184637.json",
+   "reactions": 116,
+   "nodes": 731,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Biomass and maintenance functions",
+   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_1f6a06.json",
+   "path": "iSB619/Transport_and_exchange_Extracellular_exchange_Biomass_1f6a06.json",
+   "reactions": 100,
+   "nodes": 1050,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iSB619/Carbohydrate_metabolism.json",
+   "reactions": 96,
+   "nodes": 1005,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iSB619/Lipid_metabolism.json",
+   "reactions": 82,
+   "nodes": 630,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iSB619/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 63,
+   "nodes": 416,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iSB619/Nucleotide_metabolism.json",
+   "reactions": 60,
+   "nodes": 455,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: D-gluconate transport",
+   "file": "Transport_and_exchange_D-gluconate_transport.json",
+   "path": "iSB619/Transport_and_exchange_D-gluconate_transport.json",
+   "reactions": 53,
+   "nodes": 367,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iSB619/Glycan_metabolism.json",
+   "reactions": 25,
+   "nodes": 178,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iSB619/Energy_metabolism.json",
+   "reactions": 19,
+   "nodes": 119,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Cysteine and methionine; Valine, leucine and isoleucine degradation",
+   "file": "Amino_acid_metabolism_Cysteine_and_methionine_Valine_6f3985.json",
+   "path": "iSB619/Amino_acid_metabolism_Cysteine_and_methionine_Valine_6f3985.json",
+   "reactions": 12,
+   "nodes": 84,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

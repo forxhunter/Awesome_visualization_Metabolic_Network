@@ -1,0 +1,258 @@
+{
+ "schema": 1,
+ "id": "iJO1366",
+ "maps": [
+  {
+   "name": "iJO1366 - Escherichia coli (E. coli)",
+   "file": "iJO1366_Canvas.json",
+   "path": "iJO1366/iJO1366_Canvas.json",
+   "reactions": 2580,
+   "nodes": 17941,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Tyrosine, Tryptophan, and Phenylalanine; +2 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_793660.json",
+   "path": "iJO1366/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_793660.json",
+   "reactions": 120,
+   "nodes": 891,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
+   "path": "iJO1366/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
+   "reactions": 120,
+   "nodes": 887,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; CDP-1,2-didodecanoylglycerol)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_CDP-1_2_804e78.json",
+   "path": "iJO1366/Lipid_metabolism_Glycerophospholipid_Glycerol_CDP-1_2_804e78.json",
+   "reactions": 120,
+   "nodes": 890,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotide Salvage Pathway",
+   "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
+   "path": "iJO1366/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
+   "reactions": 120,
+   "nodes": 939,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Xanthosine)",
+   "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
+   "path": "iJO1366/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "path": "iJO1366/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Inorganic Ion Transport and Metabolism",
+   "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
+   "path": "iJO1366/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
+   "reactions": 120,
+   "nodes": 725,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
+   "path": "iJO1366/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
+   "reactions": 119,
+   "nodes": 911,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (nucleotides and nucleosides; +1)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_nucleotides_cd4c35.json",
+   "path": "iJO1366/Carbohydrate_metabolism_Alternate_Carbon_nucleotides_cd4c35.json",
+   "reactions": 118,
+   "nodes": 914,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids); Glycolysis/Gluconeogenesis; +3 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_ea4956.json",
+   "path": "iJO1366/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_ea4956.json",
+   "reactions": 117,
+   "nodes": 972,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: tRNA Charging; Threonine and Lysine; Valine, Leucine, and Isoleucine; Methionine; +1 more",
+   "file": "Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_b8cea2.json",
+   "path": "iJO1366/Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_b8cea2.json",
+   "reactions": 116,
+   "nodes": 918,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (Inosine; sugars and organic acids)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
+   "path": "iJO1366/Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
+   "reactions": 116,
+   "nodes": 687,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Cell Envelope Biosynthesis (Acyl-carrier-protein reductase; +3)",
+   "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_597602.json",
+   "path": "iJO1366/Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_597602.json",
+   "reactions": 116,
+   "nodes": 1203,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Zinc); Transport, Inner Membrane (Transport symport); +1 more",
+   "file": "Transport_and_exchange_Extracellular_exchange_Zinc_Tr_0c60fc.json",
+   "path": "iJO1366/Transport_and_exchange_Extracellular_exchange_Zinc_Tr_0c60fc.json",
+   "reactions": 116,
+   "nodes": 562,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Phosphatidylglycerophosphate; Myo-Inositol; +1)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Phosphatidylglyc_e6d58d.json",
+   "path": "iJO1366/Lipid_metabolism_Glycerophospholipid_Phosphatidylglyc_e6d58d.json",
+   "reactions": 115,
+   "nodes": 883,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Inner Membrane (Glycine betaine; Transport symport Succinate; +3); +1 more",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Glyci_6ba894.json",
+   "path": "iJO1366/Transport_and_exchange_Transport_Inner_Membrane_Glyci_6ba894.json",
+   "reactions": 104,
+   "nodes": 708,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Outer Membrane Porin",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin.json",
+   "path": "iJO1366/Transport_and_exchange_Transport_Outer_Membrane_Porin.json",
+   "reactions": 101,
+   "nodes": 604,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Isochorismate; L-aspartate oxidase Nmn; +2); +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_b54c78.json",
+   "path": "iJO1366/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_b54c78.json",
+   "reactions": 98,
+   "nodes": 690,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Lipopolysaccharide Biosynthesis / Recycling; Murein Biosynthesis; +1 more",
+   "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_d47453.json",
+   "path": "iJO1366/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_d47453.json",
+   "reactions": 96,
+   "nodes": 618,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Octadecanoyl-phosphate; Tetradecanoyl-phosphate)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Octadecanoyl-pho_45a5ff.json",
+   "path": "iJO1366/Lipid_metabolism_Glycerophospholipid_Octadecanoyl-pho_45a5ff.json",
+   "reactions": 84,
+   "nodes": 674,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iJO1366/Energy_metabolism.json",
+   "reactions": 72,
+   "nodes": 466,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange",
+   "file": "Transport_and_exchange_Biomass_and_exchange.json",
+   "path": "iJO1366/Transport_and_exchange_Biomass_and_exchange.json",
+   "reactions": 70,
+   "nodes": 672,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Membrane Lipid",
+   "file": "Lipid_metabolism_Membrane_Lipid.json",
+   "path": "iJO1366/Lipid_metabolism_Membrane_Lipid.json",
+   "reactions": 53,
+   "nodes": 374,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Murein Recycling",
+   "file": "Glycan_metabolism_Murein_Recycling.json",
+   "path": "iJO1366/Glycan_metabolism_Murein_Recycling.json",
+   "reactions": 47,
+   "nodes": 408,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Cysteine; Alanine and Aspartate",
+   "file": "Amino_acid_metabolism_Cysteine_Alanine_and_Aspartate.json",
+   "path": "iJO1366/Amino_acid_metabolism_Cysteine_Alanine_and_Aspartate.json",
+   "reactions": 31,
+   "nodes": 236,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Pentose Phosphate Pathway; Anaplerotic Reactions; Glyoxylate",
+   "file": "Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Ana_848340.json",
+   "path": "iJO1366/Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Ana_848340.json",
+   "reactions": 26,
+   "nodes": 179,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Purine and Pyrimidine Biosynthesis",
+   "file": "Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthesis.json",
+   "path": "iJO1366/Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthesis.json",
+   "reactions": 25,
+   "nodes": 182,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

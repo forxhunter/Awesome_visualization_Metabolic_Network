@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "id": "iIS312_Amastigote",
+ "maps": [
+  {
+   "name": "iIS312_Amastigote - Trypanosoma cruzi (Chagas parasite)",
+   "file": "iIS312_Amastigote_Canvas.json",
+   "path": "iIS312_Amastigote/iIS312_Amastigote_Canvas.json",
+   "reactions": 519,
+   "nodes": 3338,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Transport, Mitochondrial; Transport, Extracellular; +3 more",
+   "file": "Transport_and_exchange_Extracellular_exchange_Transpo_0fff17.json",
+   "path": "iIS312_Amastigote/Transport_and_exchange_Extracellular_exchange_Transpo_0fff17.json",
+   "reactions": 118,
+   "nodes": 573,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Pentose Phosphate Pathway; +3 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Pe_898f6e.json",
+   "path": "iIS312_Amastigote/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Pe_898f6e.json",
+   "reactions": 113,
+   "nodes": 766,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iIS312_Amastigote/Amino_acid_metabolism.json",
+   "reactions": 94,
+   "nodes": 669,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iIS312_Amastigote/Lipid_metabolism.json",
+   "reactions": 79,
+   "nodes": 612,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iIS312_Amastigote/Nucleotide_metabolism.json",
+   "reactions": 59,
+   "nodes": 429,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Glycosomal; Biomass and exchange",
+   "file": "Transport_and_exchange_Transport_Glycosomal_Biomass_a_2bae95.json",
+   "path": "iIS312_Amastigote/Transport_and_exchange_Transport_Glycosomal_Biomass_a_2bae95.json",
+   "reactions": 26,
+   "nodes": 189,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Citric Acid Cycle; S_*Inositol Phosphate",
+   "file": "Carbohydrate_metabolism_Citric_Acid_Cycle_S_Inositol_14af98.json",
+   "path": "iIS312_Amastigote/Carbohydrate_metabolism_Citric_Acid_Cycle_S_Inositol_14af98.json",
+   "reactions": 20,
+   "nodes": 138,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iIS312_Amastigote/Energy_metabolism.json",
+   "reactions": 10,
+   "nodes": 60,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

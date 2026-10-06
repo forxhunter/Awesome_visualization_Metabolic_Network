@@ -1,0 +1,276 @@
+{
+ "schema": 1,
+ "id": "iEcHS_1320",
+ "maps": [
+  {
+   "name": "iEcHS_1320 - Escherichia coli (E. coli)",
+   "file": "iEcHS_1320_Canvas.json",
+   "path": "iEcHS_1320/iEcHS_1320_Canvas.json",
+   "reactions": 2750,
+   "nodes": 18781,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (D-Mannose 6-phosphate; Phenylpropanoate; +5)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_D-Mannose_6-_517119.json",
+   "path": "iEcHS_1320/Carbohydrate_metabolism_Alternate_Carbon_D-Mannose_6-_517119.json",
+   "reactions": 120,
+   "nodes": 839,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (Guanine; Maltodextrin; +1)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Guanine_Malt_422a85.json",
+   "path": "iEcHS_1320/Carbohydrate_metabolism_Alternate_Carbon_Guanine_Malt_422a85.json",
+   "reactions": 120,
+   "nodes": 734,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Lipopolysaccharide Biosynthesis / Recycling; Murein Recycling; +1 more",
+   "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_330d87.json",
+   "path": "iEcHS_1320/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_330d87.json",
+   "reactions": 120,
+   "nodes": 874,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (lipids, Glycerophosphoglycerol; +1)",
+   "file": "Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_cc78f9.json",
+   "path": "iEcHS_1320/Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_cc78f9.json",
+   "reactions": 120,
+   "nodes": 937,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotide Salvage Pathway",
+   "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
+   "path": "iEcHS_1320/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
+   "reactions": 120,
+   "nodes": 1188,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Xanthosine)",
+   "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
+   "path": "iEcHS_1320/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Zinc)",
+   "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
+   "path": "iEcHS_1320/Transport_and_exchange_Extracellular_exchange_Zinc.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "path": "iEcHS_1320/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Inorganic Ion Transport and Metabolism",
+   "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
+   "path": "iEcHS_1320/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
+   "reactions": 120,
+   "nodes": 786,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (L-Rhamnose; Glycerol; +3); Glycolysis/Gluconeogenesis; +3 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_L-Rhamnose_G_b06d2e.json",
+   "path": "iEcHS_1320/Carbohydrate_metabolism_Alternate_Carbon_L-Rhamnose_G_b06d2e.json",
+   "reactions": 119,
+   "nodes": 947,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Cell Envelope Biosynthesis",
+   "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis.json",
+   "path": "iEcHS_1320/Glycan_metabolism_Cell_Envelope_Biosynthesis.json",
+   "reactions": 119,
+   "nodes": 1177,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: tRNA Charging; Threonine and Lysine; Methionine; Cysteine; +2 more",
+   "file": "Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_8c76a3.json",
+   "path": "iEcHS_1320/Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_8c76a3.json",
+   "reactions": 118,
+   "nodes": 913,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; +1 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
+   "path": "iEcHS_1320/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
+   "reactions": 116,
+   "nodes": 1020,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; +2 more",
+   "file": "Transport_and_exchange_Biomass_and_exchange_2_more.json",
+   "path": "iEcHS_1320/Transport_and_exchange_Biomass_and_exchange_2_more.json",
+   "reactions": 116,
+   "nodes": 957,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (D Arabinose C5H10O5; Transport symport Succinate; +2)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_D_Arabinose_851fc6.json",
+   "path": "iEcHS_1320/Carbohydrate_metabolism_Alternate_Carbon_D_Arabinose_851fc6.json",
+   "reactions": 115,
+   "nodes": 939,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Isopentenyl diphosphate; Nmn Phosphate)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_4846f6.json",
+   "path": "iEcHS_1320/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_4846f6.json",
+   "reactions": 114,
+   "nodes": 778,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Outer Membrane Porin (Thymidine C10H14N2O5); +2 more",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_d50808.json",
+   "path": "iEcHS_1320/Transport_and_exchange_Transport_Outer_Membrane_Porin_d50808.json",
+   "reactions": 114,
+   "nodes": 616,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate; FMN C17H19N4O9P)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_ee4199.json",
+   "path": "iEcHS_1320/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_ee4199.json",
+   "reactions": 113,
+   "nodes": 871,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (lipids; Hydrogen peroxide)",
+   "file": "Lipid_metabolism_Glycerophospholipid_lipids_Hydrogen_fa5b78.json",
+   "path": "iEcHS_1320/Lipid_metabolism_Glycerophospholipid_lipids_Hydrogen_fa5b78.json",
+   "reactions": 109,
+   "nodes": 859,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (lipids, CMP C9H12N3O8P 4; +3)",
+   "file": "Lipid_metabolism_Glycerophospholipid_lipids_CMP_C9H12_ed95db.json",
+   "path": "iEcHS_1320/Lipid_metabolism_Glycerophospholipid_lipids_CMP_C9H12_ed95db.json",
+   "reactions": 108,
+   "nodes": 915,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Inner Membrane (amino acids and peptides; +1); Transport; +5 more",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_amino_6ef82b.json",
+   "path": "iEcHS_1320/Transport_and_exchange_Transport_Inner_Membrane_amino_6ef82b.json",
+   "reactions": 105,
+   "nodes": 669,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iEcHS_1320/Energy_metabolism.json",
+   "reactions": 69,
+   "nodes": 451,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Membrane Lipid",
+   "file": "Lipid_metabolism_Membrane_Lipid.json",
+   "path": "iEcHS_1320/Lipid_metabolism_Membrane_Lipid.json",
+   "reactions": 64,
+   "nodes": 440,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Alanine and Aspartate; 4 hydroxyphenylacetate catabolism; Histidine; Glutamate",
+   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_4_hydroxy_aba030.json",
+   "path": "iEcHS_1320/Amino_acid_metabolism_Alanine_and_Aspartate_4_hydroxy_aba030.json",
+   "reactions": 52,
+   "nodes": 381,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Methylglyoxal; Pentose Phosphate Pathway; Alternate Carbon source; +1 more",
+   "file": "Carbohydrate_metabolism_Methylglyoxal_Pentose_Phospha_4518fa.json",
+   "path": "iEcHS_1320/Carbohydrate_metabolism_Methylglyoxal_Pentose_Phospha_4518fa.json",
+   "reactions": 43,
+   "nodes": 295,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Purine and Pyrimidine Biosynthesis; Other nucleotide",
+   "file": "Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthe_ff2c4f.json",
+   "path": "iEcHS_1320/Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthe_ff2c4f.json",
+   "reactions": 27,
+   "nodes": 196,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iEcHS_1320/Xenobiotic_degradation.json",
+   "reactions": 21,
+   "nodes": 146,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Riboflavin C17H20N4O6); Folate",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_4d0d68.json",
+   "path": "iEcHS_1320/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_4d0d68.json",
+   "reactions": 18,
+   "nodes": 120,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Lipopolysaccharide Biosynthesis Recycling",
+   "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Recycling.json",
+   "path": "iEcHS_1320/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Recycling.json",
+   "reactions": 10,
+   "nodes": 65,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

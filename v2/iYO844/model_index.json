@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "iYO844",
+ "maps": [
+  {
+   "name": "iYO844 - Bacillus subtilis (hay bacillus)",
+   "file": "iYO844_Canvas.json",
+   "path": "iYO844/iYO844_Canvas.json",
+   "reactions": 1250,
+   "nodes": 8675,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Amino acids and related molecules (Amino acid ligase; L-Arginine; +1)",
+   "file": "Amino_acid_metabolism_Amino_acids_and_related_molecul_c3cd9a.json",
+   "path": "iYO844/Amino_acid_metabolism_Amino_acids_and_related_molecul_c3cd9a.json",
+   "reactions": 120,
+   "nodes": 966,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Carbohydrates and related molecules (Phosphate Symport)",
+   "file": "Carbohydrate_metabolism_Carbohydrates_and_related_mol_cd3c24.json",
+   "path": "iYO844/Carbohydrate_metabolism_Carbohydrates_and_related_mol_cd3c24.json",
+   "reactions": 120,
+   "nodes": 1194,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iYO844/Nucleotide_metabolism.json",
+   "reactions": 120,
+   "nodes": 1112,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "path": "iYO844/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Carbohydrates and related molecules (Aldehyde dehydrogenase; Symport; +4)",
+   "file": "Carbohydrate_metabolism_Carbohydrates_and_related_mol_ef6375.json",
+   "path": "iYO844/Carbohydrate_metabolism_Carbohydrates_and_related_mol_ef6375.json",
+   "reactions": 118,
+   "nodes": 971,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport; Membrane bioenergetics",
+   "file": "Transport_and_exchange_Transport_Membrane_bioenergetics.json",
+   "path": "iYO844/Transport_and_exchange_Transport_Membrane_bioenergetics.json",
+   "reactions": 117,
+   "nodes": 698,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Amino acids and related molecules (Amino acid ligase; Amino acid ligase His; +2)",
+   "file": "Amino_acid_metabolism_Amino_acids_and_related_molecul_5159e7.json",
+   "path": "iYO844/Amino_acid_metabolism_Amino_acids_and_related_molecul_5159e7.json",
+   "reactions": 109,
+   "nodes": 961,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Zinc); Other transport and exchange",
+   "file": "Transport_and_exchange_Extracellular_exchange_Zinc_Ot_1eaf82.json",
+   "path": "iYO844/Transport_and_exchange_Extracellular_exchange_Zinc_Ot_1eaf82.json",
+   "reactions": 109,
+   "nodes": 501,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iYO844/Lipid_metabolism.json",
+   "reactions": 105,
+   "nodes": 855,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iYO844/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 82,
+   "nodes": 555,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange",
+   "file": "Transport_and_exchange_Biomass_and_exchange.json",
+   "path": "iYO844/Transport_and_exchange_Biomass_and_exchange.json",
+   "reactions": 35,
+   "nodes": 231,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iYO844/Glycan_metabolism.json",
+   "reactions": 34,
+   "nodes": 263,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iYO844/Other_metabolism.json",
+   "reactions": 34,
+   "nodes": 266,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Other function",
+   "file": "Amino_acid_metabolism_Other_function.json",
+   "path": "iYO844/Amino_acid_metabolism_Other_function.json",
+   "reactions": 14,
+   "nodes": 97,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Carbohydrates and related molecules (Beta glucosidase; Epimerase N-acetylneuraminate)",
+   "file": "Carbohydrate_metabolism_Carbohydrates_and_related_mol_ae94f2.json",
+   "path": "iYO844/Carbohydrate_metabolism_Carbohydrates_and_related_mol_ae94f2.json",
+   "reactions": 13,
+   "nodes": 83,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "schema": 1,
+ "id": "iNF517",
+ "maps": [
+  {
+   "name": "iNF517 - Lactococcus lactis (lactic acid bacterium)",
+   "file": "iNF517_Canvas.json",
+   "path": "iNF517/iNF517_Canvas.json",
+   "reactions": 754,
+   "nodes": 5220,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Glutamate; Methionine; Cysteine",
+   "file": "Amino_acid_metabolism_Glutamate_Methionine_Cysteine.json",
+   "path": "iNF517/Amino_acid_metabolism_Glutamate_Methionine_Cysteine.json",
+   "reactions": 118,
+   "nodes": 694,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Exchange (Acyl)",
+   "file": "Transport_and_exchange_Exchange_Acyl.json",
+   "path": "iNF517/Transport_and_exchange_Exchange_Acyl.json",
+   "reactions": 114,
+   "nodes": 984,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Exchange (D-Glucose)",
+   "file": "Transport_and_exchange_Exchange_D-Glucose.json",
+   "path": "iNF517/Transport_and_exchange_Exchange_D-Glucose.json",
+   "reactions": 112,
+   "nodes": 831,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Exchange (Zinc; Aromatic amino acid; +1); Putative",
+   "file": "Transport_and_exchange_Exchange_Zinc_Aromatic_amino_a_954d68.json",
+   "path": "iNF517/Transport_and_exchange_Exchange_Zinc_Aromatic_amino_a_954d68.json",
+   "reactions": 109,
+   "nodes": 731,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange",
+   "file": "Transport_and_exchange_Extracellular_exchange.json",
+   "path": "iNF517/Transport_and_exchange_Extracellular_exchange.json",
+   "reactions": 105,
+   "nodes": 420,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Amino Acid",
+   "file": "Amino_acid_metabolism_Amino_Acid.json",
+   "path": "iNF517/Amino_acid_metabolism_Amino_Acid.json",
+   "reactions": 57,
+   "nodes": 401,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iNF517/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 41,
+   "nodes": 299,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange",
+   "file": "Transport_and_exchange_Biomass_and_exchange.json",
+   "path": "iNF517/Transport_and_exchange_Biomass_and_exchange.json",
+   "reactions": 33,
+   "nodes": 373,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iNF517/Carbohydrate_metabolism.json",
+   "reactions": 30,
+   "nodes": 210,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iNF517/Nucleotide_metabolism.json",
+   "reactions": 24,
+   "nodes": 196,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iNF517/Glycan_metabolism.json",
+   "reactions": 10,
+   "nodes": 55,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Unassigned clusters",
+   "file": "Unassigned_clusters.json",
+   "path": "iNF517/Unassigned_clusters.json",
+   "reactions": 1,
+   "nodes": 5,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

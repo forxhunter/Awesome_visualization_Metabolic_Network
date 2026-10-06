@@ -1,0 +1,600 @@
+{
+ "schema": 1,
+ "id": "iCHOv1",
+ "maps": [
+  {
+   "name": "iCHOv1 - Cricetulus griseus (Chinese hamster, CHO)",
+   "file": "iCHOv1_Canvas.json",
+   "path": "iCHOv1/iCHOv1_Canvas.json",
+   "reactions": 6647,
+   "nodes": 48972,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: TRYPTOPHAN; VALINE, LEUCINE, AND ISOLEUCINE",
+   "file": "Amino_acid_metabolism_TRYPTOPHAN_VALINE_LEUCINE_AND_I_f5700b.json",
+   "path": "iCHOv1/Amino_acid_metabolism_TRYPTOPHAN_VALINE_LEUCINE_AND_I_f5700b.json",
+   "reactions": 120,
+   "nodes": 902,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: INOSITOL PHOSPHATE; GLYCOLYSIS/GLUCONEOGENESIS",
+   "file": "Carbohydrate_metabolism_INOSITOL_PHOSPHATE_GLYCOLYSIS_035c05.json",
+   "path": "iCHOv1/Carbohydrate_metabolism_INOSITOL_PHOSPHATE_GLYCOLYSIS_035c05.json",
+   "reactions": 120,
+   "nodes": 1062,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: PENTOSE PHOSPHATE PATHWAY; AMINOSUGAR; CITRIC ACID CYCLE",
+   "file": "Carbohydrate_metabolism_PENTOSE_PHOSPHATE_PATHWAY_AMI_b40d6d.json",
+   "path": "iCHOv1/Carbohydrate_metabolism_PENTOSE_PHOSPHATE_PATHWAY_AMI_b40d6d.json",
+   "reactions": 120,
+   "nodes": 1129,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: KERATAN SULFATE DEGRADATION; KERATAN SULFATE SYNTHESIS",
+   "file": "Glycan_metabolism_KERATAN_SULFATE_DEGRADATION_KERATAN_932fdf.json",
+   "path": "iCHOv1/Glycan_metabolism_KERATAN_SULFATE_DEGRADATION_KERATAN_932fdf.json",
+   "reactions": 120,
+   "nodes": 700,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: BILE ACID SYNTHESIS",
+   "file": "Lipid_metabolism_BILE_ACID_SYNTHESIS.json",
+   "path": "iCHOv1/Lipid_metabolism_BILE_ACID_SYNTHESIS.json",
+   "reactions": 120,
+   "nodes": 1141,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: FATTY ACID OXIDATION (Carnitine; +1)",
+   "file": "Lipid_metabolism_FATTY_ACID_OXIDATION_Carnitine_1.json",
+   "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_OXIDATION_Carnitine_1.json",
+   "reactions": 120,
+   "nodes": 1080,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (amino acids and peptides)",
+   "file": "Transport_and_exchange_Extracellular_exchange_amino_a_b5f3b7.json",
+   "path": "iCHOv1/Transport_and_exchange_Extracellular_exchange_amino_a_b5f3b7.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (glycans and cell-wall precursors / cofactors and vitamins)",
+   "file": "Transport_and_exchange_Extracellular_exchange_glycans_0d66bb.json",
+   "path": "iCHOv1/Transport_and_exchange_Extracellular_exchange_glycans_0d66bb.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (lipids, Arachidonic acid)",
+   "file": "Transport_and_exchange_Extracellular_exchange_lipids_ed8c39.json",
+   "path": "iCHOv1/Transport_and_exchange_Extracellular_exchange_lipids_ed8c39.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (lipids, Leukotriene B4)",
+   "file": "Transport_and_exchange_Extracellular_exchange_lipids_abae39.json",
+   "path": "iCHOv1/Transport_and_exchange_Extracellular_exchange_lipids_abae39.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (Amino)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Amino.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Amino.json",
+   "reactions": 120,
+   "nodes": 793,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (Organic anion transporter; lipids; +4)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Organi_31cc27.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Organi_31cc27.json",
+   "reactions": 120,
+   "nodes": 916,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (Resistance-nodulation-cell division rnd)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Resist_f533b3.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Resist_f533b3.json",
+   "reactions": 120,
+   "nodes": 779,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (amino acids and peptides, 5-Methyltetrahydrofolate)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_54520c.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_54520c.json",
+   "reactions": 120,
+   "nodes": 701,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (amino acids and peptides, Amino acid-polyamine-organocation apc 1)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_5338fb.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_5338fb.json",
+   "reactions": 120,
+   "nodes": 737,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (amino acids and peptides, Amino acid-polyamine-organocation apc 2)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_feaa57.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_feaa57.json",
+   "reactions": 120,
+   "nodes": 770,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (amino acids and peptides, Lat transport)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_fda250.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_fda250.json",
+   "reactions": 120,
+   "nodes": 978,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: ARGININE AND PROLINE; GLYCINE, SERINE, ALANINE AND THREONINE; GLUTAMATE",
+   "file": "Amino_acid_metabolism_ARGININE_AND_PROLINE_GLYCINE_SE_db2d08.json",
+   "path": "iCHOv1/Amino_acid_metabolism_ARGININE_AND_PROLINE_GLYCINE_SE_db2d08.json",
+   "reactions": 119,
+   "nodes": 964,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: TYROSINE; Other amino acid",
+   "file": "Amino_acid_metabolism_TYROSINE_Other_amino_acid.json",
+   "path": "iCHOv1/Amino_acid_metabolism_TYROSINE_Other_amino_acid.json",
+   "reactions": 119,
+   "nodes": 1181,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: UREA CYCLE; METHIONINE AND CYSTEINE",
+   "file": "Amino_acid_metabolism_UREA_CYCLE_METHIONINE_AND_CYSTEINE.json",
+   "path": "iCHOv1/Amino_acid_metabolism_UREA_CYCLE_METHIONINE_AND_CYSTEINE.json",
+   "reactions": 119,
+   "nodes": 933,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: STARCH AND SUCROSE; PYRUVATE; FRUCTOSE AND MANNOSE; GLYOXYLATE AND DICARBOXYLATE",
+   "file": "Carbohydrate_metabolism_STARCH_AND_SUCROSE_PYRUVATE_F_48944d.json",
+   "path": "iCHOv1/Carbohydrate_metabolism_STARCH_AND_SUCROSE_PYRUVATE_F_48944d.json",
+   "reactions": 119,
+   "nodes": 1115,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: CHONDROITIN SYNTHESIS; HEPARAN SULFATE DEGRADATION; N-GLYCAN DEGRADATION; +2 more",
+   "file": "Glycan_metabolism_CHONDROITIN_SYNTHESIS_HEPARAN_SULFA_4120ca.json",
+   "path": "iCHOv1/Glycan_metabolism_CHONDROITIN_SYNTHESIS_HEPARAN_SULFA_4120ca.json",
+   "reactions": 119,
+   "nodes": 778,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: EICOSANOID (15-epi-lipoxin B5; +3)",
+   "file": "Lipid_metabolism_EICOSANOID_15-epi-lipoxin_B5_3.json",
+   "path": "iCHOv1/Lipid_metabolism_EICOSANOID_15-epi-lipoxin_B5_3.json",
+   "reactions": 119,
+   "nodes": 939,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: NUCLEOTIDE INTERCONVERSION (3',5'-Cyclic GMP; Thymidine C10H14N2O5; +2)",
+   "file": "Nucleotide_metabolism_NUCLEOTIDE_INTERCONVERSION_3_5_70ff1a.json",
+   "path": "iCHOv1/Nucleotide_metabolism_NUCLEOTIDE_INTERCONVERSION_3_5_70ff1a.json",
+   "reactions": 119,
+   "nodes": 701,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, LYSOSOMAL",
+   "file": "Transport_and_exchange_TRANSPORT_LYSOSOMAL.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_LYSOSOMAL.json",
+   "reactions": 119,
+   "nodes": 603,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, PEROXISOMAL",
+   "file": "Transport_and_exchange_TRANSPORT_PEROXISOMAL.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_PEROXISOMAL.json",
+   "reactions": 119,
+   "nodes": 660,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: FATTY ACID OXIDATION (Long chain fatty Beta oxidation; Beta oxidation)",
+   "file": "Lipid_metabolism_FATTY_ACID_OXIDATION_Long_chain_fatt_25bdfb.json",
+   "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_OXIDATION_Long_chain_fatt_25bdfb.json",
+   "reactions": 118,
+   "nodes": 1027,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: FATTY ACID OXIDATION (Oxidation fatty acid)",
+   "file": "Lipid_metabolism_FATTY_ACID_OXIDATION_Oxidation_fatty_acid.json",
+   "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_OXIDATION_Oxidation_fatty_acid.json",
+   "reactions": 118,
+   "nodes": 1475,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, GOLGI APPARATUS",
+   "file": "Transport_and_exchange_TRANSPORT_GOLGI_APPARATUS.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_GOLGI_APPARATUS.json",
+   "reactions": 118,
+   "nodes": 750,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: LYSINE; ALANINE AND ASPARTATE; BETA-ALANINE; GLYCINE, SERINE, AND THREONINE; +2 more",
+   "file": "Amino_acid_metabolism_LYSINE_ALANINE_AND_ASPARTATE_BE_49980e.json",
+   "path": "iCHOv1/Amino_acid_metabolism_LYSINE_ALANINE_AND_ASPARTATE_BE_49980e.json",
+   "reactions": 117,
+   "nodes": 960,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: FOLATE; CYTOCHROME; Other cofactor and vitamin",
+   "file": "Cofactor_and_vitamin_metabolism_FOLATE_CYTOCHROME_Oth_227854.json",
+   "path": "iCHOv1/Cofactor_and_vitamin_metabolism_FOLATE_CYTOCHROME_Oth_227854.json",
+   "reactions": 117,
+   "nodes": 835,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: EICOSANOID (Resistance-nodulation-cell division rnd); +1 more",
+   "file": "Lipid_metabolism_EICOSANOID_Resistance-nodulation-cel_9868ee.json",
+   "path": "iCHOv1/Lipid_metabolism_EICOSANOID_Resistance-nodulation-cel_9868ee.json",
+   "reactions": 117,
+   "nodes": 1115,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: VITAMIN D; COA SYNTHESIS; UBIQUINONE SYNTHESIS; VITAMIN C; THIAMINE",
+   "file": "Cofactor_and_vitamin_metabolism_VITAMIN_D_COA_SYNTHES_6d4234.json",
+   "path": "iCHOv1/Cofactor_and_vitamin_metabolism_VITAMIN_D_COA_SYNTHES_6d4234.json",
+   "reactions": 116,
+   "nodes": 854,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: N-GLYCAN BIOSYNTHESIS (Cho); BLOOD GROUP SYNTHESIS",
+   "file": "Glycan_metabolism_N-GLYCAN_BIOSYNTHESIS_Cho_BLOOD_GRO_cb2da2.json",
+   "path": "iCHOv1/Glycan_metabolism_N-GLYCAN_BIOSYNTHESIS_Cho_BLOOD_GRO_cb2da2.json",
+   "reactions": 116,
+   "nodes": 1028,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: ANDROGEN AND ESTROGEN SYNTHESIS AND METABOLISM; CHOLESTEROL",
+   "file": "Lipid_metabolism_ANDROGEN_AND_ESTROGEN_SYNTHESIS_AND_23bf98.json",
+   "path": "iCHOv1/Lipid_metabolism_ANDROGEN_AND_ESTROGEN_SYNTHESIS_AND_23bf98.json",
+   "reactions": 116,
+   "nodes": 829,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: FATTY ACID SYNTHESIS; FATTY ACID ELONGATION; GLYCEROLIPID",
+   "file": "Lipid_metabolism_FATTY_ACID_SYNTHESIS_FATTY_ACID_ELON_fefa15.json",
+   "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_SYNTHESIS_FATTY_ACID_ELON_fefa15.json",
+   "reactions": 116,
+   "nodes": 1095,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: EXCHANGE (Carnitine; sugars and organic acids; +1); +1 more",
+   "file": "Transport_and_exchange_EXCHANGE_Carnitine_sugars_and_782988.json",
+   "path": "iCHOv1/Transport_and_exchange_EXCHANGE_Carnitine_sugars_and_782988.json",
+   "reactions": 116,
+   "nodes": 774,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (sugars and organic acids / lipids; Cervonic acid)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_sugars_adfb02.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_sugars_adfb02.json",
+   "reactions": 116,
+   "nodes": 970,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (sugars and organic acids; +3)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_sugars_9277fb.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_sugars_9277fb.json",
+   "reactions": 116,
+   "nodes": 820,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: N-GLYCAN BIOSYNTHESIS (L4n4m2masn); CHONDROITIN SULFATE DEGRADATION",
+   "file": "Glycan_metabolism_N-GLYCAN_BIOSYNTHESIS_L4n4m2masn_CH_f329de.json",
+   "path": "iCHOv1/Glycan_metabolism_N-GLYCAN_BIOSYNTHESIS_L4n4m2masn_CH_f329de.json",
+   "reactions": 115,
+   "nodes": 1122,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: EICOSANOID (Resistance-nodulation-cell division rnd; +6)",
+   "file": "Lipid_metabolism_EICOSANOID_Resistance-nodulation-cel_d7d563.json",
+   "path": "iCHOv1/Lipid_metabolism_EICOSANOID_Resistance-nodulation-cel_d7d563.json",
+   "reactions": 115,
+   "nodes": 997,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: STEROID; EICOSANOID (Resistance-nodulation-cell division rnd)",
+   "file": "Lipid_metabolism_STEROID_EICOSANOID_Resistance-nodula_61b36e.json",
+   "path": "iCHOv1/Lipid_metabolism_STEROID_EICOSANOID_Resistance-nodula_61b36e.json",
+   "reactions": 114,
+   "nodes": 1193,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: NUCLEOTIDE INTERCONVERSION (Reduced thioredoxin; Cytidylate kinase dcmp; +2); +1 more",
+   "file": "Nucleotide_metabolism_NUCLEOTIDE_INTERCONVERSION_Redu_535f92.json",
+   "path": "iCHOv1/Nucleotide_metabolism_NUCLEOTIDE_INTERCONVERSION_Redu_535f92.json",
+   "reactions": 114,
+   "nodes": 831,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: R GROUP SYNTHESIS; TRIACYLGLYCEROL SYNTHESIS",
+   "file": "Lipid_metabolism_R_GROUP_SYNTHESIS_TRIACYLGLYCEROL_SYNTHESIS.json",
+   "path": "iCHOv1/Lipid_metabolism_R_GROUP_SYNTHESIS_TRIACYLGLYCEROL_SYNTHESIS.json",
+   "reactions": 113,
+   "nodes": 1312,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, MITOCHONDRIAL (Thiocyanate; lipids); +2 more",
+   "file": "Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_Thiocy_573498.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_Thiocy_573498.json",
+   "reactions": 112,
+   "nodes": 831,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: VITAMIN A; VITAMIN E",
+   "file": "Cofactor_and_vitamin_metabolism_VITAMIN_A_VITAMIN_E.json",
+   "path": "iCHOv1/Cofactor_and_vitamin_metabolism_VITAMIN_A_VITAMIN_E.json",
+   "reactions": 111,
+   "nodes": 1025,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, MITOCHONDRIAL (nucleotides and nucleosides; +1); +1 more",
+   "file": "Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_nucleo_480553.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_nucleo_480553.json",
+   "reactions": 109,
+   "nodes": 750,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange",
+   "file": "Transport_and_exchange_Biomass_and_exchange.json",
+   "path": "iCHOv1/Transport_and_exchange_Biomass_and_exchange.json",
+   "reactions": 108,
+   "nodes": 674,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Thiosulfate)",
+   "file": "Transport_and_exchange_Extracellular_exchange_Thiosulfate.json",
+   "path": "iCHOv1/Transport_and_exchange_Extracellular_exchange_Thiosulfate.json",
+   "reactions": 108,
+   "nodes": 432,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: SPHINGOLIPID; LINOLEATE",
+   "file": "Lipid_metabolism_SPHINGOLIPID_LINOLEATE.json",
+   "path": "iCHOv1/Lipid_metabolism_SPHINGOLIPID_LINOLEATE.json",
+   "reactions": 107,
+   "nodes": 853,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: PURINE CATABOLISM; PYRIMIDINE CATABOLISM; PYRIMIDINE SYNTHESIS",
+   "file": "Nucleotide_metabolism_PURINE_CATABOLISM_PYRIMIDINE_CA_73444f.json",
+   "path": "iCHOv1/Nucleotide_metabolism_PURINE_CATABOLISM_PYRIMIDINE_CA_73444f.json",
+   "reactions": 106,
+   "nodes": 806,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, MITOCHONDRIAL (sugars and organic acids; +1)",
+   "file": "Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_sugars_7ab85b.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_sugars_7ab85b.json",
+   "reactions": 98,
+   "nodes": 623,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: GLYCEROPHOSPHOLIPID",
+   "file": "Lipid_metabolism_GLYCEROPHOSPHOLIPID.json",
+   "path": "iCHOv1/Lipid_metabolism_GLYCEROPHOSPHOLIPID.json",
+   "reactions": 90,
+   "nodes": 735,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: NAD; TETRAHYDROBIOPTERIN; VITAMIN B6; BIOTIN; HEME SYNTHESIS",
+   "file": "Cofactor_and_vitamin_metabolism_NAD_TETRAHYDROBIOPTER_f9308c.json",
+   "path": "iCHOv1/Cofactor_and_vitamin_metabolism_NAD_TETRAHYDROBIOPTER_f9308c.json",
+   "reactions": 88,
+   "nodes": 680,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: HISTIDINE; SELENOAMINO ACID; GLUTATHIONE; PHENYLALANINE; TAURINE AND HYPOTAURINE; +1 more",
+   "file": "Amino_acid_metabolism_HISTIDINE_SELENOAMINO_ACID_GLUT_497fc3.json",
+   "path": "iCHOv1/Amino_acid_metabolism_HISTIDINE_SELENOAMINO_ACID_GLUT_497fc3.json",
+   "reactions": 87,
+   "nodes": 641,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: ARACHIDONIC ACID",
+   "file": "Lipid_metabolism_ARACHIDONIC_ACID.json",
+   "path": "iCHOv1/Lipid_metabolism_ARACHIDONIC_ACID.json",
+   "reactions": 76,
+   "nodes": 577,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: PROPANOATE; GALACTOSE; C5-BRANCHED DIBASIC ACID; BUTANOATE; Other carbohydrate",
+   "file": "Carbohydrate_metabolism_PROPANOATE_GALACTOSE_C5-BRANC_6e5e0e.json",
+   "path": "iCHOv1/Carbohydrate_metabolism_PROPANOATE_GALACTOSE_C5-BRANC_6e5e0e.json",
+   "reactions": 62,
+   "nodes": 450,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: PHOSPHATIDYLINOSITOL PHOSPHATE",
+   "file": "Lipid_metabolism_PHOSPHATIDYLINOSITOL_PHOSPHATE.json",
+   "path": "iCHOv1/Lipid_metabolism_PHOSPHATIDYLINOSITOL_PHOSPHATE.json",
+   "reactions": 48,
+   "nodes": 338,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Intracellular demand",
+   "file": "Transport_and_exchange_Intracellular_demand.json",
+   "path": "iCHOv1/Transport_and_exchange_Intracellular_demand.json",
+   "reactions": 36,
+   "nodes": 144,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: NUCLEOTIDES",
+   "file": "Nucleotide_metabolism_NUCLEOTIDES.json",
+   "path": "iCHOv1/Nucleotide_metabolism_NUCLEOTIDES.json",
+   "reactions": 25,
+   "nodes": 166,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: O-GLYCAN SYNTHESIS; HYALURONAN",
+   "file": "Glycan_metabolism_O-GLYCAN_SYNTHESIS_HYALURONAN.json",
+   "path": "iCHOv1/Glycan_metabolism_O-GLYCAN_SYNTHESIS_HYALURONAN.json",
+   "reactions": 22,
+   "nodes": 158,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iCHOv1/Xenobiotic_degradation.json",
+   "reactions": 19,
+   "nodes": 141,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iCHOv1/Energy_metabolism.json",
+   "reactions": 15,
+   "nodes": 90,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iCHOv1/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 14,
+   "nodes": 95,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Secondary metabolite biosynthesis",
+   "file": "Secondary_metabolite_biosynthesis.json",
+   "path": "iCHOv1/Secondary_metabolite_biosynthesis.json",
+   "reactions": 7,
+   "nodes": 52,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "id": "iAM_Pk459",
+ "maps": [
+  {
+   "name": "iAM_Pk459 - Plasmodium knowlesi (malaria parasite)",
+   "file": "iAM_Pk459_Canvas.json",
+   "path": "iAM_Pk459/iAM_Pk459_Canvas.json",
+   "reactions": 1075,
+   "nodes": 7486,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Lipid metabolism: Diacylglycerol plasmodium transport",
+   "file": "Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
+   "path": "iAM_Pk459/Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
+   "reactions": 120,
+   "nodes": 1200,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Phosphatidyl",
+   "file": "Lipid_metabolism_Phosphatidyl.json",
+   "path": "iAM_Pk459/Lipid_metabolism_Phosphatidyl.json",
+   "reactions": 120,
+   "nodes": 955,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "path": "iAM_Pk459/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "reactions": 119,
+   "nodes": 867,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Apicoplast",
+   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
+   "path": "iAM_Pk459/Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
+   "reactions": 119,
+   "nodes": 622,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Nicotinamide adenine dinucleotide transport",
+   "file": "Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
+   "path": "iAM_Pk459/Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
+   "reactions": 113,
+   "nodes": 687,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Acyl-carrier-protein; Dagpf; Intracellular demand; Intracellular source/sink; +1 more",
+   "file": "Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_4bc626.json",
+   "path": "iAM_Pk459/Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_4bc626.json",
+   "reactions": 113,
+   "nodes": 688,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Porphyrin; Folate biosynthesis; Vitamin B6; Thiamine; +4 more",
+   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Folate_bios_c2b2d7.json",
+   "path": "iAM_Pk459/Cofactor_and_vitamin_metabolism_Porphyrin_Folate_bios_c2b2d7.json",
+   "reactions": 91,
+   "nodes": 605,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iAM_Pk459/Nucleotide_metabolism.json",
+   "reactions": 84,
+   "nodes": 597,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iAM_Pk459/Carbohydrate_metabolism.json",
+   "reactions": 82,
+   "nodes": 561,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis; Sphingolipid; Glycerophospholipid",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Sphingolipid_9bc534.json",
+   "path": "iAM_Pk459/Lipid_metabolism_Fatty_acid_biosynthesis_Sphingolipid_9bc534.json",
+   "reactions": 56,
+   "nodes": 405,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iAM_Pk459/Glycan_metabolism.json",
+   "reactions": 21,
+   "nodes": 175,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Glycine, serine and threonine; Lysine degradation; +1 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
+   "path": "iAM_Pk459/Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
+   "reactions": 19,
+   "nodes": 128,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iAM_Pk459/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 14,
+   "nodes": 86,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iAM_Pk459/Energy_metabolism.json",
+   "reactions": 4,
+   "nodes": 21,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

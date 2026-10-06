@@ -1,0 +1,285 @@
+{
+ "schema": 1,
+ "id": "iJN1463",
+ "maps": [
+  {
+   "name": "iJN1463 - Pseudomonas putida (Pseudomonas)",
+   "file": "iJN1463_Canvas.json",
+   "path": "iJN1463/iJN1463_Canvas.json",
+   "reactions": 2926,
+   "nodes": 21163,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon and Nitrogen source Dipeptide; TCA Cycle; +2 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_d3f809.json",
+   "path": "iJN1463/Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_d3f809.json",
+   "reactions": 120,
+   "nodes": 868,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty Acid Biosynthesis; +1 more",
+   "file": "Lipid_metabolism_Fatty_Acid_Biosynthesis_1_more.json",
+   "path": "iJN1463/Lipid_metabolism_Fatty_Acid_Biosynthesis_1_more.json",
+   "reactions": 120,
+   "nodes": 859,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (lipids / drugs and xenobiotics)",
+   "file": "Transport_and_exchange_Extracellular_exchange_lipids_e43d7f.json",
+   "path": "iJN1463/Transport_and_exchange_Extracellular_exchange_lipids_e43d7f.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "path": "iJN1463/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iJN1463/Xenobiotic_degradation.json",
+   "reactions": 120,
+   "nodes": 965,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty Acid (Octanoate; Fatty-acid-coa; +2); Other lipid",
+   "file": "Lipid_metabolism_Fatty_Acid_Octanoate_Fatty-acid-coa_dbae58.json",
+   "path": "iJN1463/Lipid_metabolism_Fatty_Acid_Octanoate_Fatty-acid-coa_dbae58.json",
+   "reactions": 119,
+   "nodes": 1391,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Zinc); Transport ABC system",
+   "file": "Transport_and_exchange_Extracellular_exchange_Zinc_Tr_2bb86f.json",
+   "path": "iJN1463/Transport_and_exchange_Extracellular_exchange_Zinc_Tr_2bb86f.json",
+   "reactions": 119,
+   "nodes": 524,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport solvent extrusion; Transport Inner Membrane; Intracellular demand",
+   "file": "Transport_and_exchange_Transport_solvent_extrusion_Tr_00fc40.json",
+   "path": "iJN1463/Transport_and_exchange_Transport_solvent_extrusion_Tr_00fc40.json",
+   "reactions": 119,
+   "nodes": 698,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Lysine; Arginine and Proline; Valine Leucine and Isoleucine",
+   "file": "Amino_acid_metabolism_Lysine_Arginine_and_Proline_Val_e2e294.json",
+   "path": "iJN1463/Amino_acid_metabolism_Lysine_Arginine_and_Proline_Val_e2e294.json",
+   "reactions": 118,
+   "nodes": 1110,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: tRNA Charging; Phenylalanine Tyrosine Tryptophan Biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_tRNA_Charging_Phenylalanine_Tyr_8578ad.json",
+   "path": "iJN1463/Amino_acid_metabolism_tRNA_Charging_Phenylalanine_Tyr_8578ad.json",
+   "reactions": 118,
+   "nodes": 1070,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Glycolysis; Alternate Carbon Ascorbate and Aldarate; Alternate Carbon; +4 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Alternate_Carbon_A_080199.json",
+   "path": "iJN1463/Carbohydrate_metabolism_Glycolysis_Alternate_Carbon_A_080199.json",
+   "reactions": 118,
+   "nodes": 933,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis Porphyrin and Chlorophyll; +4 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_0dc282.json",
+   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_0dc282.json",
+   "reactions": 118,
+   "nodes": 904,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Cardiolipin Phospholipase; +3)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Cardiolipin_Phos_beb57a.json",
+   "path": "iJN1463/Lipid_metabolism_Glycerophospholipid_Cardiolipin_Phos_beb57a.json",
+   "reactions": 118,
+   "nodes": 929,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis Terpenoid backbone biosynthesis; +9 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_57a952.json",
+   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_57a952.json",
+   "reactions": 117,
+   "nodes": 804,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport Outer Membrane; Plant growth promoting",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Plant_cee19e.json",
+   "path": "iJN1463/Transport_and_exchange_Transport_Outer_Membrane_Plant_cee19e.json",
+   "reactions": 116,
+   "nodes": 771,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon and Nitrogen source Amines and Polyamines; +1 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_feb101.json",
+   "path": "iJN1463/Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_feb101.json",
+   "reactions": 115,
+   "nodes": 954,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: PHAs (Hydroxy Hydroxyacyl; Hydroxyacyl Hydroxy; +2); +1 more",
+   "file": "Lipid_metabolism_PHAs_Hydroxy_Hydroxyacyl_Hydroxyacyl_b33bc4.json",
+   "path": "iJN1463/Lipid_metabolism_PHAs_Hydroxy_Hydroxyacyl_Hydroxyacyl_b33bc4.json",
+   "reactions": 114,
+   "nodes": 964,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: PHAs (Hydroxy; Phenyl; +1); Glycerophospholipid (Cis-octadec-11-enoyl)",
+   "file": "Lipid_metabolism_PHAs_Hydroxy_Phenyl_1_Glycerophospho_abce68.json",
+   "path": "iJN1463/Lipid_metabolism_PHAs_Hydroxy_Phenyl_1_Glycerophospho_abce68.json",
+   "reactions": 114,
+   "nodes": 899,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty Acid (Enoyl Fatty-acid-coa; +4)",
+   "file": "Lipid_metabolism_Fatty_Acid_Enoyl_Fatty-acid-coa_4.json",
+   "path": "iJN1463/Lipid_metabolism_Fatty_Acid_Enoyl_Fatty-acid-coa_4.json",
+   "reactions": 113,
+   "nodes": 814,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iJN1463/Nucleotide_metabolism.json",
+   "reactions": 113,
+   "nodes": 936,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Heavy Metal Tolerance",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Heavy_Met_df237e.json",
+   "path": "iJN1463/Transport_and_exchange_Biomass_and_exchange_Heavy_Met_df237e.json",
+   "reactions": 113,
+   "nodes": 977,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Iron uptake and metabolism; Aliphatic open-chain ketones",
+   "file": "Transport_and_exchange_Iron_uptake_and_metabolism_Ali_9e68af.json",
+   "path": "iJN1463/Transport_and_exchange_Iron_uptake_and_metabolism_Ali_9e68af.json",
+   "reactions": 105,
+   "nodes": 805,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iJN1463/Glycan_metabolism.json",
+   "reactions": 104,
+   "nodes": 756,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iJN1463/Energy_metabolism.json",
+   "reactions": 65,
+   "nodes": 494,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Histidine; Methionine; Cysteine; Urea cycleamino group; +1 more",
+   "file": "Amino_acid_metabolism_Histidine_Methionine_Cysteine_U_c85644.json",
+   "path": "iJN1463/Amino_acid_metabolism_Histidine_Methionine_Cysteine_U_c85644.json",
+   "reactions": 64,
+   "nodes": 419,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Gluconeogenesis; Pyruvate; Alternate Carbon Propanoate; Butanoate; +3 more",
+   "file": "Carbohydrate_metabolism_Gluconeogenesis_Pyruvate_Alte_58107e.json",
+   "path": "iJN1463/Carbohydrate_metabolism_Gluconeogenesis_Pyruvate_Alte_58107e.json",
+   "reactions": 59,
+   "nodes": 450,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Alginate biosynthesis",
+   "file": "Transport_and_exchange_Alginate_biosynthesis.json",
+   "path": "iJN1463/Transport_and_exchange_Alginate_biosynthesis.json",
+   "reactions": 40,
+   "nodes": 286,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Cell Envelope Biosynthesis Lipid A Biosynthesis",
+   "file": "Lipid_metabolism_Cell_Envelope_Biosynthesis_Lipid_A_B_3479f6.json",
+   "path": "iJN1463/Lipid_metabolism_Cell_Envelope_Biosynthesis_Lipid_A_B_3479f6.json",
+   "reactions": 15,
+   "nodes": 99,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis Riboflavin",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_918aba.json",
+   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_918aba.json",
+   "reactions": 7,
+   "nodes": 41,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Unassigned clusters",
+   "file": "Unassigned_clusters.json",
+   "path": "iJN1463/Unassigned_clusters.json",
+   "reactions": 5,
+   "nodes": 28,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

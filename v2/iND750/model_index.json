@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "iND750",
+ "maps": [
+  {
+   "name": "iND750 - Saccharomyces cerevisiae (baker's yeast)",
+   "file": "iND750_Canvas.json",
+   "path": "iND750/iND750_Canvas.json",
+   "reactions": 1266,
+   "nodes": 9236,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Transport and exchange: Transport, Mitochondrial; Transport, Vacuolar; Transport, Endoplasmic Reticular",
+   "file": "Transport_and_exchange_Transport_Mitochondrial_Transp_d52ee2.json",
+   "path": "iND750/Transport_and_exchange_Transport_Mitochondrial_Transp_d52ee2.json",
+   "reactions": 120,
+   "nodes": 638,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Arabinose",
+   "file": "Transport_and_exchange_Arabinose.json",
+   "path": "iND750/Transport_and_exchange_Arabinose.json",
+   "reactions": 119,
+   "nodes": 611,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Tyrosine, Tryptophan, and Phenylalanine; Arginine and Proline; +1 more",
+   "file": "Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_491b5a.json",
+   "path": "iND750/Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_491b5a.json",
+   "reactions": 117,
+   "nodes": 835,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Transport, Peroxisomal; Transport, Nuclear",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_4ce5b6.json",
+   "path": "iND750/Transport_and_exchange_Biomass_and_exchange_Transport_4ce5b6.json",
+   "reactions": 116,
+   "nodes": 803,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange",
+   "file": "Transport_and_exchange_Extracellular_exchange.json",
+   "path": "iND750/Transport_and_exchange_Extracellular_exchange.json",
+   "reactions": 116,
+   "nodes": 464,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Alanine and Aspartate; Glycine and Serine; Histidine; Threonine and Lysine; +3 more",
+   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Glycine_a_bd9d7f.json",
+   "path": "iND750/Amino_acid_metabolism_Alanine_and_Aspartate_Glycine_a_bd9d7f.json",
+   "reactions": 115,
+   "nodes": 898,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty Acid Biosynthesis; Sphingolipid; Glycerolipid",
+   "file": "Lipid_metabolism_Fatty_Acid_Biosynthesis_Sphingolipid_df5726.json",
+   "path": "iND750/Lipid_metabolism_Fatty_Acid_Biosynthesis_Sphingolipid_df5726.json",
+   "reactions": 107,
+   "nodes": 966,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iND750/Carbohydrate_metabolism.json",
+   "reactions": 106,
+   "nodes": 840,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iND750/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 100,
+   "nodes": 723,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty Acid Degradation; Phospholipid Biosynthesis; Sterol Biosynthesis",
+   "file": "Lipid_metabolism_Fatty_Acid_Degradation_Phospholipid_75960b.json",
+   "path": "iND750/Lipid_metabolism_Fatty_Acid_Degradation_Phospholipid_75960b.json",
+   "reactions": 99,
+   "nodes": 882,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iND750/Nucleotide_metabolism.json",
+   "reactions": 92,
+   "nodes": 803,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iND750/Energy_metabolism.json",
+   "reactions": 25,
+   "nodes": 144,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Cysteine; Glutamine",
+   "file": "Amino_acid_metabolism_Cysteine_Glutamine.json",
+   "path": "iND750/Amino_acid_metabolism_Cysteine_Glutamine.json",
+   "reactions": 17,
+   "nodes": 124,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iND750/Other_metabolism.json",
+   "reactions": 10,
+   "nodes": 61,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iND750/Glycan_metabolism.json",
+   "reactions": 7,
+   "nodes": 43,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "iAF692",
+ "maps": [
+  {
+   "name": "iAF692 - Methanosarcina barkeri (methanogen)",
+   "file": "iAF692_Canvas.json",
+   "path": "iAF692/iAF692_Canvas.json",
+   "reactions": 689,
+   "nodes": 4589,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Tyrosine, Tryptophan, and Phenylalanine; Alanine and Aspartate; +6 more",
+   "file": "Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_653db0.json",
+   "path": "iAF692/Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_653db0.json",
+   "reactions": 120,
+   "nodes": 852,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Vitamins & Cofactor Biosynthesis; Coenzyme B Biosynthesis",
+   "file": "Cofactor_and_vitamin_metabolism_Vitamins_Cofactor_Bio_b1f4d7.json",
+   "path": "iAF692/Cofactor_and_vitamin_metabolism_Vitamins_Cofactor_Bio_b1f4d7.json",
+   "reactions": 117,
+   "nodes": 855,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport; Biomass and exchange; Other transport and exchange",
+   "file": "Transport_and_exchange_Transport_Biomass_and_exchange_184637.json",
+   "path": "iAF692/Transport_and_exchange_Transport_Biomass_and_exchange_184637.json",
+   "reactions": 106,
+   "nodes": 728,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iAF692/Carbohydrate_metabolism.json",
+   "reactions": 71,
+   "nodes": 542,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange",
+   "file": "Transport_and_exchange_Extracellular_exchange.json",
+   "path": "iAF692/Transport_and_exchange_Extracellular_exchange.json",
+   "reactions": 70,
+   "nodes": 280,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iAF692/Nucleotide_metabolism.json",
+   "reactions": 60,
+   "nodes": 433,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iAF692/Lipid_metabolism.json",
+   "reactions": 46,
+   "nodes": 291,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Tetrahydramethanopterin Biosynthesis; Coenzyme A Biosynthesis; +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Tetrahydramethanopter_590c12.json",
+   "path": "iAF692/Cofactor_and_vitamin_metabolism_Tetrahydramethanopter_590c12.json",
+   "reactions": 31,
+   "nodes": 189,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Glutamine; Glycine and Serine",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_4f85c4.json",
+   "path": "iAF692/Amino_acid_metabolism_Arginine_and_Proline_Methionine_4f85c4.json",
+   "reactions": 30,
+   "nodes": 239,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iAF692/Energy_metabolism.json",
+   "reactions": 27,
+   "nodes": 169,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iAF692/Xenobiotic_degradation.json",
+   "reactions": 11,
+   "nodes": 68,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

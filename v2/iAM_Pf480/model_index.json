@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "id": "iAM_Pf480",
+ "maps": [
+  {
+   "name": "iAM_Pf480 - Plasmodium falciparum (malaria parasite)",
+   "file": "iAM_Pf480_Canvas.json",
+   "path": "iAM_Pf480/iAM_Pf480_Canvas.json",
+   "reactions": 1079,
+   "nodes": 7313,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "path": "iAM_Pf480/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "reactions": 119,
+   "nodes": 854,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Apicoplast",
+   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
+   "path": "iAM_Pf480/Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
+   "reactions": 119,
+   "nodes": 622,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Pentose phosphate pathway; +1 more",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_cf2256.json",
+   "path": "iAM_Pf480/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_cf2256.json",
+   "reactions": 114,
+   "nodes": 817,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Biosynthesis of unsaturated fatty acids",
+   "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
+   "path": "iAM_Pf480/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
+   "reactions": 114,
+   "nodes": 1020,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Phosphatidyl choline plasmodium transport",
+   "file": "Lipid_metabolism_Phosphatidyl_choline_plasmodium_transport.json",
+   "path": "iAM_Pf480/Lipid_metabolism_Phosphatidyl_choline_plasmodium_transport.json",
+   "reactions": 114,
+   "nodes": 1102,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Nicotinamide adenine dinucleotide transport",
+   "file": "Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
+   "path": "iAM_Pf480/Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
+   "reactions": 113,
+   "nodes": 687,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Acyl-carrier-protein; Dagpf; Intracellular demand; Intracellular source/sink; +1 more",
+   "file": "Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_4bc626.json",
+   "path": "iAM_Pf480/Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_4bc626.json",
+   "reactions": 109,
+   "nodes": 660,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Porphyrin; Folate biosynthesis; Vitamin B6; Thiamine; +4 more",
+   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Folate_bios_c2b2d7.json",
+   "path": "iAM_Pf480/Cofactor_and_vitamin_metabolism_Porphyrin_Folate_bios_c2b2d7.json",
+   "reactions": 91,
+   "nodes": 615,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iAM_Pf480/Nucleotide_metabolism.json",
+   "reactions": 85,
+   "nodes": 584,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis; Glycerophospholipid",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Glycerophospholipid.json",
+   "path": "iAM_Pf480/Lipid_metabolism_Fatty_acid_biosynthesis_Glycerophospholipid.json",
+   "reactions": 37,
+   "nodes": 249,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Citrate cycle (TCA cycle); Starch and sucrose; Amino sugar and nucleotide sugar; +1 more",
+   "file": "Carbohydrate_metabolism_Citrate_cycle_TCA_cycle_Starc_dfac58.json",
+   "path": "iAM_Pf480/Carbohydrate_metabolism_Citrate_cycle_TCA_cycle_Starc_dfac58.json",
+   "reactions": 32,
+   "nodes": 213,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Glycine, serine and threonine; Lysine degradation; +1 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
+   "path": "iAM_Pf480/Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
+   "reactions": 19,
+   "nodes": 128,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iAM_Pf480/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 9,
+   "nodes": 53,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iAM_Pf480/Energy_metabolism.json",
+   "reactions": 4,
+   "nodes": 21,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

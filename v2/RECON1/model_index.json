@@ -1,0 +1,357 @@
+{
+ "schema": 1,
+ "id": "RECON1",
+ "maps": [
+  {
+   "name": "RECON1 - Homo sapiens (human)",
+   "file": "RECON1_Canvas.json",
+   "path": "RECON1/RECON1_Canvas.json",
+   "reactions": 3738,
+   "nodes": 27971,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Aminosugar; Pentose Phosphate Pathway; Propanoate; +1 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Am_eb38f8.json",
+   "path": "RECON1/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Am_eb38f8.json",
+   "reactions": 120,
+   "nodes": 1178,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Inositol Phosphate; Pyruvate; Glyoxylate and Dicarboxylate",
+   "file": "Carbohydrate_metabolism_Inositol_Phosphate_Pyruvate_G_3da50d.json",
+   "path": "RECON1/Carbohydrate_metabolism_Inositol_Phosphate_Pyruvate_G_3da50d.json",
+   "reactions": 120,
+   "nodes": 1009,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Folate; Vitamin A; NAD; Thiamine",
+   "file": "Cofactor_and_vitamin_metabolism_Folate_Vitamin_A_NAD_68b71f.json",
+   "path": "RECON1/Cofactor_and_vitamin_metabolism_Folate_Vitamin_A_NAD_68b71f.json",
+   "reactions": 120,
+   "nodes": 1018,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Keratan sulfate biosynthesis; Blood Group Biosynthesis; N-Glycan Degradation",
+   "file": "Glycan_metabolism_Keratan_sulfate_biosynthesis_Blood_8cc650.json",
+   "path": "RECON1/Glycan_metabolism_Keratan_sulfate_biosynthesis_Blood_8cc650.json",
+   "reactions": 120,
+   "nodes": 905,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Keratan sulfate degradation; Chondroitin / heparan sulfate biosynthesis",
+   "file": "Glycan_metabolism_Keratan_sulfate_degradation_Chondro_68897e.json",
+   "path": "RECON1/Glycan_metabolism_Keratan_sulfate_degradation_Chondro_68897e.json",
+   "reactions": 120,
+   "nodes": 1515,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid; Cholesterol; Triacylglycerol Synthesis",
+   "file": "Lipid_metabolism_Glycerophospholipid_Cholesterol_Tria_8b06d9.json",
+   "path": "RECON1/Lipid_metabolism_Glycerophospholipid_Cholesterol_Tria_8b06d9.json",
+   "reactions": 120,
+   "nodes": 872,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (amino acids and peptides / sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_amino_a_666a14.json",
+   "path": "RECON1/Transport_and_exchange_Extracellular_exchange_amino_a_666a14.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (glycans and cell-wall precursors / cofactors and vitamins)",
+   "file": "Transport_and_exchange_Extracellular_exchange_glycans_0d66bb.json",
+   "path": "RECON1/Transport_and_exchange_Extracellular_exchange_glycans_0d66bb.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (lipids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_lipids.json",
+   "path": "RECON1/Transport_and_exchange_Extracellular_exchange_lipids.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Lysosomal",
+   "file": "Transport_and_exchange_Transport_Lysosomal.json",
+   "path": "RECON1/Transport_and_exchange_Transport_Lysosomal.json",
+   "reactions": 120,
+   "nodes": 626,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Urea cycle/amino group; Cysteine; Lysine; Alanine and Aspartate; beta-Alanine",
+   "file": "Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
+   "path": "RECON1/Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
+   "reactions": 119,
+   "nodes": 891,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Bile Acid Biosynthesis; Fatty acid oxidation; Fatty acid elongation; +1 more",
+   "file": "Lipid_metabolism_Bile_Acid_Biosynthesis_Fatty_acid_ox_deb8ce.json",
+   "path": "RECON1/Lipid_metabolism_Bile_Acid_Biosynthesis_Fatty_acid_ox_deb8ce.json",
+   "reactions": 119,
+   "nodes": 1118,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotides (Reduced thioredoxin; +2); Pyrimidine Catabolism; Purine Catabolism",
+   "file": "Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_b67f4a.json",
+   "path": "RECON1/Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_b67f4a.json",
+   "reactions": 119,
+   "nodes": 903,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Endoplasmic Reticular",
+   "file": "Transport_and_exchange_Transport_Endoplasmic_Reticular.json",
+   "path": "RECON1/Transport_and_exchange_Transport_Endoplasmic_Reticular.json",
+   "reactions": 119,
+   "nodes": 677,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Extracellular (amino acids and peptides; cofactors and vitamins); +1 more",
+   "file": "Transport_and_exchange_Transport_Extracellular_amino_b43b3f.json",
+   "path": "RECON1/Transport_and_exchange_Transport_Extracellular_amino_b43b3f.json",
+   "reactions": 119,
+   "nodes": 820,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Golgi Apparatus",
+   "file": "Transport_and_exchange_Transport_Golgi_Apparatus.json",
+   "path": "RECON1/Transport_and_exchange_Transport_Golgi_Apparatus.json",
+   "reactions": 119,
+   "nodes": 777,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid activation; R Group Synthesis",
+   "file": "Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
+   "path": "RECON1/Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
+   "reactions": 118,
+   "nodes": 1356,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Tryptophan; Glycine, Serine, and Threonine; Arginine and Proline",
+   "file": "Amino_acid_metabolism_Tryptophan_Glycine_Serine_and_T_cc1658.json",
+   "path": "RECON1/Amino_acid_metabolism_Tryptophan_Glycine_Serine_and_T_cc1658.json",
+   "reactions": 117,
+   "nodes": 838,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Tyrosine; Valine, Leucine, and Isoleucine; Other amino acid",
+   "file": "Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_b988c6.json",
+   "path": "RECON1/Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_b988c6.json",
+   "reactions": 117,
+   "nodes": 1048,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Sphingolipid; Eicosanoid",
+   "file": "Lipid_metabolism_Sphingolipid_Eicosanoid.json",
+   "path": "RECON1/Lipid_metabolism_Sphingolipid_Eicosanoid.json",
+   "reactions": 117,
+   "nodes": 916,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Steroid; Fatty Acid",
+   "file": "Lipid_metabolism_Steroid_Fatty_Acid.json",
+   "path": "RECON1/Lipid_metabolism_Steroid_Fatty_Acid.json",
+   "reactions": 117,
+   "nodes": 849,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotides (3',5'-Cyclic GMP; Cytidylate kinase dcmp; +3)",
+   "file": "Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_67ef8d.json",
+   "path": "RECON1/Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_67ef8d.json",
+   "reactions": 117,
+   "nodes": 879,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Extracellular (inorganic ions / lipids; +2); +1 more",
+   "file": "Transport_and_exchange_Transport_Extracellular_inorga_357c2d.json",
+   "path": "RECON1/Transport_and_exchange_Transport_Extracellular_inorga_357c2d.json",
+   "reactions": 117,
+   "nodes": 683,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Vitamin D; Heme Biosynthesis; Biotin; Ubiquinone Biosynthesis; Vitamin B6; +3 more",
+   "file": "Cofactor_and_vitamin_metabolism_Vitamin_D_Heme_Biosyn_e9b12b.json",
+   "path": "RECON1/Cofactor_and_vitamin_metabolism_Vitamin_D_Heme_Biosyn_e9b12b.json",
+   "reactions": 116,
+   "nodes": 864,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Peroxisomal",
+   "file": "Transport_and_exchange_Transport_Peroxisomal.json",
+   "path": "RECON1/Transport_and_exchange_Transport_Peroxisomal.json",
+   "reactions": 110,
+   "nodes": 636,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: N-Glycan Biosynthesis",
+   "file": "Glycan_metabolism_N-Glycan_Biosynthesis.json",
+   "path": "RECON1/Glycan_metabolism_N-Glycan_Biosynthesis.json",
+   "reactions": 108,
+   "nodes": 784,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Carnitine shuttle",
+   "file": "Lipid_metabolism_Carnitine_shuttle.json",
+   "path": "RECON1/Lipid_metabolism_Carnitine_shuttle.json",
+   "reactions": 108,
+   "nodes": 622,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Chondroitin sulfate degradation; +2 more",
+   "file": "Glycan_metabolism_Chondroitin_sulfate_degradation_2_more.json",
+   "path": "RECON1/Glycan_metabolism_Chondroitin_sulfate_degradation_2_more.json",
+   "reactions": 107,
+   "nodes": 937,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Intracellular demand; +1 more",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Intracell_ec88ea.json",
+   "path": "RECON1/Transport_and_exchange_Biomass_and_exchange_Intracell_ec88ea.json",
+   "reactions": 107,
+   "nodes": 594,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Starch and Sucrose; Pentose and Glucuronate Interconversions; +6 more",
+   "file": "Carbohydrate_metabolism_Starch_and_Sucrose_Pentose_an_90aa53.json",
+   "path": "RECON1/Carbohydrate_metabolism_Starch_and_Sucrose_Pentose_an_90aa53.json",
+   "reactions": 106,
+   "nodes": 840,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Histidine; Selenoamino acid; Glutamate; Phenylalanine; Glutathione; Methionine; +1 more",
+   "file": "Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_afa857.json",
+   "path": "RECON1/Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_afa857.json",
+   "reactions": 81,
+   "nodes": 582,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotides (Antiport); IMP Biosynthesis; Pyrimidine Biosynthesis",
+   "file": "Nucleotide_metabolism_Nucleotides_Antiport_IMP_Biosyn_c9d226.json",
+   "path": "RECON1/Nucleotide_metabolism_Nucleotides_Antiport_IMP_Biosyn_c9d226.json",
+   "reactions": 75,
+   "nodes": 753,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "RECON1/Xenobiotic_degradation.json",
+   "reactions": 44,
+   "nodes": 293,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: O-Glycan Biosynthesis",
+   "file": "Glycan_metabolism_O-Glycan_Biosynthesis.json",
+   "path": "RECON1/Glycan_metabolism_O-Glycan_Biosynthesis.json",
+   "reactions": 15,
+   "nodes": 115,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "RECON1/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 14,
+   "nodes": 95,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "RECON1/Energy_metabolism.json",
+   "reactions": 6,
+   "nodes": 37,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Secondary metabolite biosynthesis",
+   "file": "Secondary_metabolite_biosynthesis.json",
+   "path": "RECON1/Secondary_metabolite_biosynthesis.json",
+   "reactions": 5,
+   "nodes": 40,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Unassigned clusters",
+   "file": "Unassigned_clusters.json",
+   "path": "RECON1/Unassigned_clusters.json",
+   "reactions": 2,
+   "nodes": 12,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

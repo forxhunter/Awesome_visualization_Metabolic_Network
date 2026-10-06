@@ -2,7 +2,8 @@
 
 Automatically generated, Escher-compatible metabolic maps for the models in the
 [BiGG Models database](http://bigg.ucsd.edu/) — **2,623 maps across all 108 models**, one per
-functional pathway group.
+functional pathway group, and since v2 a second generation of **2,764 pathway maps plus one
+whole-model canvas per model** in [`v2/`](v2/).
 
 Every map in this repository was produced by **MetaCarto**, a layout engine that draws a
 metabolic network the way a curator would rather than the way a force-directed algorithm does.
@@ -10,7 +11,63 @@ metabolic network the way a curator would rather than the way a force-directed a
 
 ---
 
-## What the maps look like
+## v2: every model on one canvas
+
+**[`v2/`](v2/)** holds the second generation of the collection, drawn by MetaCarto 2. The
+original maps stay exactly where they were, at the top level of this repository, and keep
+working everywhere they are already linked from.
+
+Besides its pathway maps, every model in v2 comes as a single canvas. Each pathway keeps the
+drawing it has on its own map; the pathways are packed by the shape their ink actually covers —
+related pathways together, each KEGG superclass one captioned region. Nothing overlaps, and no
+text sits on a node, an edge or other text. Both canvases below are the published SVG files;
+open one and zoom in.
+
+**e_coli_core** — 95 reactions: carbohydrate metabolism (glycolysis, the TCA
+cycle with glutamate metabolism off 2-oxoglutarate, the pentose phosphate pathway, pyruvate
+metabolism), oxidative phosphorylation, and transport and exchange.
+[JSON](v2/e_coli_core/e_coli_core_Canvas.json)
+
+[<img src="v2/e_coli_core/e_coli_core_Canvas.svg" alt="e_coli_core on one canvas" width="100%">](v2/e_coli_core/e_coli_core_Canvas.svg)
+
+**Recon3D** — all 10,592 reactions of the human reconstruction on one page
+(19 MB; it takes a few seconds to appear). [JSON](v2/Recon3D/Recon3D_Canvas.json)
+
+[<img src="v2/Recon3D/Recon3D_Canvas.svg" alt="Recon3D on one canvas" width="100%">](v2/Recon3D/Recon3D_Canvas.svg)
+
+What v2 adds:
+
+| | v1 (top level) | v2 (`v2/`) |
+|---|---|---|
+| pathway maps | 2,623 | 2,764 |
+| reactions drawn | 240,398 of 251,424 (95.6%) | 251,140 of 251,424 (99.9%) |
+| whole-model canvas | none | one per model (108) |
+| text on a node, an edge or other text | not guaranteed | none, in any map |
+| pathway membership | — | every map records which pathway each reaction belongs to |
+
+v1 left out most reactions of the few models that carry no chemical formulas in BiGG —
+iMM1415 drew 454 of its 3,726 reactions — because each reaction's main compound pair was picked
+from formulas. v2 falls back to names and draws them all. v2 also files pathways more carefully:
+oxidative phosphorylation is energy metabolism, not "biomass and exchange", and a small pathway
+joins the metabolism it belongs to rather than the transporters of one of its compounds.
+
+In the [viewer](https://forxhunter.github.io/escher/), **Map ▸ Load map from library…** opens
+v2 by default; a switch at the top of the library goes back to v1. Double-click a pathway's
+caption on a canvas to select the whole pathway; drag a reaction and its name and cofactors come
+with it.
+
+```
+v2/
+    map_index.json                 every model, with map counts
+    {Model_ID}/
+        model_index.json           every map in this model; the canvas first
+        {Model_ID}_Canvas.json     the whole model on one canvas (+ .svg)
+        {Pathway_group}.json       one functional pathway group (+ .svg)
+```
+
+---
+
+## What the maps look like (v1)
 
 Four maps from **Recon3D**, the largest human reconstruction in the collection (10,600
 reactions, 93 maps). Click any image for full resolution.
@@ -132,10 +189,13 @@ escher.Builder(map_json=json.dumps(map_json)).display_in_notebook()
 ## Repository structure
 
 ```
-map_index.json                     every model, with map counts
+map_index.json                     v1: every model, with map counts
 {Model_ID}/
     model_index.json               every map in this model, with sizes
-    {Pathway_group}.json           one functional pathway group
+    {Pathway_group}.json           one functional pathway group (+ .svg)
+v2/
+    map_index.json                 v2: the same, for the second generation
+    {Model_ID}/...                 pathway maps and {Model_ID}_Canvas.json (+ .svg)
 ```
 
 Maps are named for the metabolic function they cover — `Carbohydrate_metabolism`,
@@ -158,10 +218,10 @@ index is 13 KB. They are regenerated together with the maps.
 The map JSON is minified. It is read by software, not by people, and indenting it costs 43% of
 the download for nothing.
 
-**Whole-model maps are not included in this release.** Tiling an entire genome-scale
-reconstruction onto one canvas gives every reaction so little area that the labels fall below
-readable size — Recon3D comes out at 0.14 pt — so the file is large without being useful. The
-per-pathway maps are the readable artifact.
+**v1 has no whole-model maps; v2 does.** A whole genome-scale reconstruction on one canvas
+gives every reaction so little area that it is not a print figure — Recon3D's labels fall well
+under a point at page size — so the v2 canvases are for zooming, in the SVG or in the viewer,
+and the per-pathway maps remain the readable, printable artifact.
 
 ---
 

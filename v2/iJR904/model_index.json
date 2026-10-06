@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "id": "iJR904",
+ "maps": [
+  {
+   "name": "iJR904 - Escherichia coli (E. coli)",
+   "file": "iJR904_Canvas.json",
+   "path": "iJR904/iJR904_Canvas.json",
+   "reactions": 1075,
+   "nodes": 7138,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate; Octaprenyl; +2); +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_82509f.json",
+   "path": "iJR904/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_82509f.json",
+   "reactions": 120,
+   "nodes": 937,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids / amino acids and peptides)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_c5b9ac.json",
+   "path": "iJR904/Transport_and_exchange_Extracellular_exchange_sugars_c5b9ac.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (D-Glucose; Glycerol Phosphate; +3)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_D-Glucose_Gl_f2f5af.json",
+   "path": "iJR904/Carbohydrate_metabolism_Alternate_Carbon_D-Glucose_Gl_f2f5af.json",
+   "reactions": 119,
+   "nodes": 926,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Tyrosine, Tryptophan, and Phenylalanine; +3 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_787ad3.json",
+   "path": "iJR904/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_787ad3.json",
+   "reactions": 116,
+   "nodes": 866,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (Methylmalonyl-coa Dehydratase; D-Xylose; +3); +4 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Methylmalony_11b4b0.json",
+   "path": "iJR904/Carbohydrate_metabolism_Alternate_Carbon_Methylmalony_11b4b0.json",
+   "reactions": 116,
+   "nodes": 1160,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Putative Transporters; Extracellular exchange (L-Tyrosine)",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Putative_95d1d3.json",
+   "path": "iJR904/Transport_and_exchange_Biomass_and_exchange_Putative_95d1d3.json",
+   "reactions": 104,
+   "nodes": 656,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iJR904/Nucleotide_metabolism.json",
+   "reactions": 101,
+   "nodes": 899,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iJR904/Glycan_metabolism.json",
+   "reactions": 77,
+   "nodes": 525,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Valine, Leucine, and Isoleucine; Glycine and Serine; Histidine; Methionine; +1 more",
+   "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_3b0789.json",
+   "path": "iJR904/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_3b0789.json",
+   "reactions": 66,
+   "nodes": 451,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iJR904/Energy_metabolism.json",
+   "reactions": 39,
+   "nodes": 223,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Extracellular",
+   "file": "Transport_and_exchange_Transport_Extracellular.json",
+   "path": "iJR904/Transport_and_exchange_Transport_Extracellular.json",
+   "reactions": 33,
+   "nodes": 198,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iJR904/Lipid_metabolism.json",
+   "reactions": 31,
+   "nodes": 269,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Riboflavin synthase Phosphomethylpyrimidine); +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5d313a.json",
+   "path": "iJR904/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5d313a.json",
+   "reactions": 19,
+   "nodes": 128,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Anaplerotic reactions; Putative",
+   "file": "Carbohydrate_metabolism_Anaplerotic_reactions_Putative.json",
+   "path": "iJR904/Carbohydrate_metabolism_Anaplerotic_reactions_Putative.json",
+   "reactions": 14,
+   "nodes": 94,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

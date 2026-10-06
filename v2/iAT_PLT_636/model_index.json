@@ -1,0 +1,123 @@
+{
+ "schema": 1,
+ "id": "iAT_PLT_636",
+ "maps": [
+  {
+   "name": "iAT_PLT_636 - Homo sapiens (human)",
+   "file": "iAT_PLT_636_Canvas.json",
+   "path": "iAT_PLT_636/iAT_PLT_636_Canvas.json",
+   "reactions": 1005,
+   "nodes": 7222,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Tyrosine; Valine, Leucine, and Isoleucine; Tryptophan; Glutamate; +1 more",
+   "file": "Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_664f8d.json",
+   "path": "iAT_PLT_636/Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_664f8d.json",
+   "reactions": 120,
+   "nodes": 924,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Expanded Glycerophospholipid (Phosphatidylinositol)",
+   "file": "Lipid_metabolism_Expanded_Glycerophospholipid_Phospha_7b820d.json",
+   "path": "iAT_PLT_636/Lipid_metabolism_Expanded_Glycerophospholipid_Phospha_7b820d.json",
+   "reactions": 120,
+   "nodes": 994,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange",
+   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_09fe83.json",
+   "path": "iAT_PLT_636/Transport_and_exchange_Extracellular_exchange_Biomass_09fe83.json",
+   "reactions": 120,
+   "nodes": 534,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Expanded DAG; Eicosanoid; Carnitine shuttle; Glycerophospholipid",
+   "file": "Lipid_metabolism_Expanded_DAG_Eicosanoid_Carnitine_sh_d37929.json",
+   "path": "iAT_PLT_636/Lipid_metabolism_Expanded_DAG_Eicosanoid_Carnitine_sh_d37929.json",
+   "reactions": 117,
+   "nodes": 940,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Expanded Phospholipid; Expanded Glycerophospholipid (Plc)",
+   "file": "Lipid_metabolism_Expanded_Phospholipid_Expanded_Glyce_306028.json",
+   "path": "iAT_PLT_636/Lipid_metabolism_Expanded_Phospholipid_Expanded_Glyce_306028.json",
+   "reactions": 115,
+   "nodes": 1392,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iAT_PLT_636/Carbohydrate_metabolism.json",
+   "reactions": 94,
+   "nodes": 1011,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iAT_PLT_636/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 83,
+   "nodes": 521,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Extracellular; Intracellular source/sink; +3 more",
+   "file": "Transport_and_exchange_Transport_Extracellular_Intrac_703540.json",
+   "path": "iAT_PLT_636/Transport_and_exchange_Transport_Extracellular_Intrac_703540.json",
+   "reactions": 77,
+   "nodes": 407,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iAT_PLT_636/Nucleotide_metabolism.json",
+   "reactions": 66,
+   "nodes": 509,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Urea cycle/amino group; Glutathione; Alanine and Aspartate; +4 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Urea_cycle_amino_4f6676.json",
+   "path": "iAT_PLT_636/Amino_acid_metabolism_Phenylalanine_Urea_cycle_amino_4f6676.json",
+   "reactions": 57,
+   "nodes": 419,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid activation; Fatty acid oxidation; Fatty acid elongation",
+   "file": "Lipid_metabolism_Fatty_acid_activation_Fatty_acid_oxi_dcc036.json",
+   "path": "iAT_PLT_636/Lipid_metabolism_Fatty_acid_activation_Fatty_acid_oxi_dcc036.json",
+   "reactions": 28,
+   "nodes": 264,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iAT_PLT_636/Energy_metabolism.json",
+   "reactions": 8,
+   "nodes": 47,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "id": "iIS312_Trypomastigote",
+ "maps": [
+  {
+   "name": "iIS312_Trypomastigote - Trypanosoma cruzi (Chagas parasite)",
+   "file": "iIS312_Trypomastigote_Canvas.json",
+   "path": "iIS312_Trypomastigote/iIS312_Trypomastigote_Canvas.json",
+   "reactions": 520,
+   "nodes": 3354,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Transport, Mitochondrial; Transport, Extracellular; +3 more",
+   "file": "Transport_and_exchange_Extracellular_exchange_Transpo_0fff17.json",
+   "path": "iIS312_Trypomastigote/Transport_and_exchange_Extracellular_exchange_Transpo_0fff17.json",
+   "reactions": 118,
+   "nodes": 571,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Pentose Phosphate Pathway; +3 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Pe_898f6e.json",
+   "path": "iIS312_Trypomastigote/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Pe_898f6e.json",
+   "reactions": 113,
+   "nodes": 778,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iIS312_Trypomastigote/Amino_acid_metabolism.json",
+   "reactions": 94,
+   "nodes": 704,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iIS312_Trypomastigote/Lipid_metabolism.json",
+   "reactions": 79,
+   "nodes": 596,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iIS312_Trypomastigote/Nucleotide_metabolism.json",
+   "reactions": 59,
+   "nodes": 437,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Glycosomal; Biomass and exchange",
+   "file": "Transport_and_exchange_Transport_Glycosomal_Biomass_a_2bae95.json",
+   "path": "iIS312_Trypomastigote/Transport_and_exchange_Transport_Glycosomal_Biomass_a_2bae95.json",
+   "reactions": 27,
+   "nodes": 230,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Citric Acid Cycle; S_*Inositol Phosphate",
+   "file": "Carbohydrate_metabolism_Citric_Acid_Cycle_S_Inositol_14af98.json",
+   "path": "iIS312_Trypomastigote/Carbohydrate_metabolism_Citric_Acid_Cycle_S_Inositol_14af98.json",
+   "reactions": 20,
+   "nodes": 142,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iIS312_Trypomastigote/Energy_metabolism.json",
+   "reactions": 10,
+   "nodes": 60,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

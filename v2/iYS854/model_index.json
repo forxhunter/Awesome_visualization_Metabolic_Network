@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "iYS854",
+ "maps": [
+  {
+   "name": "iYS854 - Staphylococcus aureus (staph)",
+   "file": "iYS854_Canvas.json",
+   "path": "iYS854/iYS854_Canvas.json",
+   "reactions": 1455,
+   "nodes": 9802,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (amino acids and peptides / sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_amino_a_666a14.json",
+   "path": "iYS854/Transport_and_exchange_Extracellular_exchange_amino_a_666a14.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Amino Acid (L-Tyrosine; Tryptophan; +3)",
+   "file": "Amino_acid_metabolism_Amino_Acid_L-Tyrosine_Tryptophan_3.json",
+   "path": "iYS854/Amino_acid_metabolism_Amino_Acid_L-Tyrosine_Tryptophan_3.json",
+   "reactions": 119,
+   "nodes": 837,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group (cofactors and vitamins)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5f4616.json",
+   "path": "iYS854/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5f4616.json",
+   "reactions": 119,
+   "nodes": 867,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Lipid (Methyl Oxidoreductase; +2)",
+   "file": "Lipid_metabolism_Lipid_Methyl_Oxidoreductase_2.json",
+   "path": "iYS854/Lipid_metabolism_Lipid_Methyl_Oxidoreductase_2.json",
+   "reactions": 118,
+   "nodes": 713,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Zinc)",
+   "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
+   "path": "iYS854/Transport_and_exchange_Extracellular_exchange_Zinc.json",
+   "reactions": 117,
+   "nodes": 468,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Amino Acid (L-Threonine; Ornithine; +2)",
+   "file": "Amino_acid_metabolism_Amino_Acid_L-Threonine_Ornithine_2.json",
+   "path": "iYS854/Amino_acid_metabolism_Amino_Acid_L-Threonine_Ornithine_2.json",
+   "reactions": 113,
+   "nodes": 867,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport (inorganic ions / amino acids and peptides); Biomass and exchange",
+   "file": "Transport_and_exchange_Transport_inorganic_ions_amino_c812f2.json",
+   "path": "iYS854/Transport_and_exchange_Transport_inorganic_ions_amino_c812f2.json",
+   "reactions": 113,
+   "nodes": 724,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Carbohydrate; Carbohydrates and related molecules",
+   "file": "Carbohydrate_metabolism_Carbohydrate_Carbohydrates_an_91fe60.json",
+   "path": "iYS854/Carbohydrate_metabolism_Carbohydrate_Carbohydrates_an_91fe60.json",
+   "reactions": 110,
+   "nodes": 794,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotide (Transport symport; ITP C10H11N4O14P3)",
+   "file": "Nucleotide_metabolism_Nucleotide_Transport_symport_IT_21a817.json",
+   "path": "iYS854/Nucleotide_metabolism_Nucleotide_Transport_symport_IT_21a817.json",
+   "reactions": 109,
+   "nodes": 1103,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group (Dehydrosqualene Staphyloferrin; +1)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5bc626.json",
+   "path": "iYS854/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5bc626.json",
+   "reactions": 90,
+   "nodes": 670,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iYS854/Glycan_metabolism.json",
+   "reactions": 88,
+   "nodes": 671,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport (Transport transport mechanism); Biomass and maintenance functions; +1 more",
+   "file": "Transport_and_exchange_Transport_Transport_transport_ce0db1.json",
+   "path": "iYS854/Transport_and_exchange_Transport_Transport_transport_ce0db1.json",
+   "reactions": 88,
+   "nodes": 780,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Energy Production and Conversion",
+   "file": "Carbohydrate_metabolism_Energy_Production_and_Conversion.json",
+   "path": "iYS854/Carbohydrate_metabolism_Energy_Production_and_Conversion.json",
+   "reactions": 86,
+   "nodes": 608,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Lipid (Acyl-carrier-protein; Glycerol; +2)",
+   "file": "Lipid_metabolism_Lipid_Acyl-carrier-protein_Glycerol_2.json",
+   "path": "iYS854/Lipid_metabolism_Lipid_Acyl-carrier-protein_Glycerol_2.json",
+   "reactions": 49,
+   "nodes": 368,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotide (Phosphoribosylaminoimidazole carboxylase)",
+   "file": "Nucleotide_metabolism_Nucleotide_Phosphoribosylaminoi_9e4351.json",
+   "path": "iYS854/Nucleotide_metabolism_Nucleotide_Phosphoribosylaminoi_9e4351.json",
+   "reactions": 16,
+   "nodes": 123,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "schema": 1,
+ "id": "iETEC_1333",
+ "maps": [
+  {
+   "name": "iETEC_1333 - Escherichia coli (E. coli)",
+   "file": "iETEC_1333_Canvas.json",
+   "path": "iETEC_1333/iETEC_1333_Canvas.json",
+   "reactions": 2753,
+   "nodes": 18511,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Biotin; FMN C17H19N4O9P; +1)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_d1b18c.json",
+   "path": "iETEC_1333/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_d1b18c.json",
+   "reactions": 120,
+   "nodes": 889,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotide Salvage Pathway",
+   "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
+   "path": "iETEC_1333/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
+   "reactions": 120,
+   "nodes": 1026,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Xanthosine)",
+   "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
+   "path": "iETEC_1333/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Zinc)",
+   "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
+   "path": "iETEC_1333/Transport_and_exchange_Extracellular_exchange_Zinc.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "path": "iETEC_1333/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Inorganic Ion Transport and Metabolism",
+   "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
+   "path": "iETEC_1333/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
+   "reactions": 120,
+   "nodes": 740,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: tRNA Charging; Threonine and Lysine; Cysteine; Methionine; +2 more",
+   "file": "Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_1e57de.json",
+   "path": "iETEC_1333/Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_1e57de.json",
+   "reactions": 119,
+   "nodes": 931,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (Inosine; sugars and organic acids)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
+   "path": "iETEC_1333/Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
+   "reactions": 119,
+   "nodes": 704,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
+   "path": "iETEC_1333/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
+   "reactions": 119,
+   "nodes": 892,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (lipids; Hydrogen peroxide)",
+   "file": "Lipid_metabolism_Glycerophospholipid_lipids_Hydrogen_fa5b78.json",
+   "path": "iETEC_1333/Lipid_metabolism_Glycerophospholipid_lipids_Hydrogen_fa5b78.json",
+   "reactions": 119,
+   "nodes": 898,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids); Glycolysis/Gluconeogenesis; +3 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_ea4956.json",
+   "path": "iETEC_1333/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_ea4956.json",
+   "reactions": 118,
+   "nodes": 941,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Inner Membrane; Transport; Transport Outer Membrane Porin; +1 more",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_23900a.json",
+   "path": "iETEC_1333/Transport_and_exchange_Transport_Inner_Membrane_Trans_23900a.json",
+   "reactions": 118,
+   "nodes": 770,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Cell Envelope Biosynthesis (UDP-N-acetyl-D-glucosamine; +3)",
+   "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
+   "path": "iETEC_1333/Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
+   "reactions": 117,
+   "nodes": 1118,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (lipids, Glycerophosphoglycerol; +2)",
+   "file": "Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_580b76.json",
+   "path": "iETEC_1333/Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_580b76.json",
+   "reactions": 117,
+   "nodes": 879,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Outer Membrane Porin; Extracellular exchange (D-Xylose)",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_579979.json",
+   "path": "iETEC_1333/Transport_and_exchange_Transport_Outer_Membrane_Porin_579979.json",
+   "reactions": 117,
+   "nodes": 639,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; +1 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
+   "path": "iETEC_1333/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
+   "reactions": 116,
+   "nodes": 1019,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids; +1)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e80dae.json",
+   "path": "iETEC_1333/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e80dae.json",
+   "reactions": 116,
+   "nodes": 930,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Isopentenyl diphosphate; Nmn Phosphate; +1); +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_11fa3b.json",
+   "path": "iETEC_1333/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_11fa3b.json",
+   "reactions": 116,
+   "nodes": 846,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (lipids, CMP C9H12N3O8P 4; +4)",
+   "file": "Lipid_metabolism_Glycerophospholipid_lipids_CMP_C9H12_d25fa8.json",
+   "path": "iETEC_1333/Lipid_metabolism_Glycerophospholipid_lipids_CMP_C9H12_d25fa8.json",
+   "reactions": 112,
+   "nodes": 900,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Lipopolysaccharide Biosynthesis / Recycling; Murein Recycling; +1 more",
+   "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_330d87.json",
+   "path": "iETEC_1333/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_330d87.json",
+   "reactions": 109,
+   "nodes": 773,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Transport; Inner Membrane; Exchange; Intracellular demand",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_770e62.json",
+   "path": "iETEC_1333/Transport_and_exchange_Biomass_and_exchange_Transport_770e62.json",
+   "reactions": 94,
+   "nodes": 787,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iETEC_1333/Energy_metabolism.json",
+   "reactions": 72,
+   "nodes": 466,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Membrane Lipid",
+   "file": "Lipid_metabolism_Membrane_Lipid.json",
+   "path": "iETEC_1333/Lipid_metabolism_Membrane_Lipid.json",
+   "reactions": 64,
+   "nodes": 440,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Methylglyoxal; Pentose Phosphate Pathway; +3 more",
+   "file": "Carbohydrate_metabolism_Methylglyoxal_Pentose_Phospha_d8a83c.json",
+   "path": "iETEC_1333/Carbohydrate_metabolism_Methylglyoxal_Pentose_Phospha_d8a83c.json",
+   "reactions": 49,
+   "nodes": 361,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Alanine and Aspartate; Histidine; Glutamate",
+   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_f7447e.json",
+   "path": "iETEC_1333/Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_f7447e.json",
+   "reactions": 39,
+   "nodes": 296,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Murein Biosynthesis; Lipopolysaccharide Biosynthesis Recycling",
+   "file": "Glycan_metabolism_Murein_Biosynthesis_Lipopolysacchar_3ac388.json",
+   "path": "iETEC_1333/Glycan_metabolism_Murein_Biosynthesis_Lipopolysacchar_3ac388.json",
+   "reactions": 31,
+   "nodes": 229,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Purine and Pyrimidine Biosynthesis; Other nucleotide",
+   "file": "Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthe_ff2c4f.json",
+   "path": "iETEC_1333/Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthe_ff2c4f.json",
+   "reactions": 27,
+   "nodes": 196,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iETEC_1333/Xenobiotic_degradation.json",
+   "reactions": 14,
+   "nodes": 100,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Folate",
+   "file": "Cofactor_and_vitamin_metabolism_Folate.json",
+   "path": "iETEC_1333/Cofactor_and_vitamin_metabolism_Folate.json",
+   "reactions": 9,
+   "nodes": 67,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Secondary metabolite biosynthesis",
+   "file": "Secondary_metabolite_biosynthesis.json",
+   "path": "iETEC_1333/Secondary_metabolite_biosynthesis.json",
+   "reactions": 2,
+   "nodes": 10,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "schema": 1,
+ "id": "iEC1372_W3110",
+ "maps": [
+  {
+   "name": "iEC1372_W3110 - Escherichia coli (E. coli)",
+   "file": "iEC1372_W3110_Canvas.json",
+   "path": "iEC1372_W3110/iEC1372_W3110_Canvas.json",
+   "reactions": 2755,
+   "nodes": 19198,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Porphyrin; Ubiquinone and other terpenoid-quinone biosynthesis; +4 more",
+   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
+   "path": "iEC1372_W3110/Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
+   "reactions": 120,
+   "nodes": 861,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism: Nitrogen",
+   "file": "Energy_metabolism_Nitrogen.json",
+   "path": "iEC1372_W3110/Energy_metabolism_Nitrogen.json",
+   "reactions": 120,
+   "nodes": 1030,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Aminopenicillanic acid transport; Dimethyl sulfide transport",
+   "file": "Transport_and_exchange_Aminopenicillanic_acid_transpo_4e7ce4.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Aminopenicillanic_acid_transpo_4e7ce4.json",
+   "reactions": 120,
+   "nodes": 705,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Zinc); Crotonobetaine transport; Intracellular demand",
+   "file": "Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
+   "reactions": 120,
+   "nodes": 567,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (nucleotides and nucleosides / inorganic ions)",
+   "file": "Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Glycine, serine and threonine; Cysteine and methionine; +1 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_ca4d2b.json",
+   "path": "iEC1372_W3110/Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_ca4d2b.json",
+   "reactions": 119,
+   "nodes": 914,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Galactose; Fructose and mannose; Pentose phosphate pathway; Pyruvate",
+   "file": "Carbohydrate_metabolism_Galactose_Fructose_and_mannos_4233da.json",
+   "path": "iEC1372_W3110/Carbohydrate_metabolism_Galactose_Fructose_and_mannos_4233da.json",
+   "reactions": 119,
+   "nodes": 1022,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Alanine, aspartate and glutamate; Valine, leucine and isoleucine biosynthesis; +9 more",
+   "file": "Amino_acid_metabolism_Alanine_aspartate_and_glutamate_203ae9.json",
+   "path": "iEC1372_W3110/Amino_acid_metabolism_Alanine_aspartate_and_glutamate_203ae9.json",
+   "reactions": 118,
+   "nodes": 876,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Phenylalanine, tyrosine and tryptophan biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
+   "path": "iEC1372_W3110/Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
+   "reactions": 118,
+   "nodes": 999,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Glycolysis / Gluconeogenesis; +1 more",
+   "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
+   "path": "iEC1372_W3110/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
+   "reactions": 118,
+   "nodes": 871,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Acyltransferase Lysophospholipase (Tetradecenoate); D-gluconate transport",
+   "file": "Transport_and_exchange_Acyltransferase_Lysophospholip_312431.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Acyltransferase_Lysophospholip_312431.json",
+   "reactions": 118,
+   "nodes": 931,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Amino sugar and nucleotide sugar; Citrate cycle (TCA cycle); Propanoate; +4 more",
+   "file": "Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_eb59ab.json",
+   "path": "iEC1372_W3110/Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_eb59ab.json",
+   "reactions": 117,
+   "nodes": 864,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Acetate transport",
+   "file": "Transport_and_exchange_Acetate_transport.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Acetate_transport.json",
+   "reactions": 117,
+   "nodes": 661,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Purine",
+   "file": "Nucleotide_metabolism_Purine.json",
+   "path": "iEC1372_W3110/Nucleotide_metabolism_Purine.json",
+   "reactions": 116,
+   "nodes": 1423,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Acyltransferase Lysophospholipase (Octadecenoate); Guanine dinucleotide synthase; +2 more",
+   "file": "Transport_and_exchange_Acyltransferase_Lysophospholip_3e54d6.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Acyltransferase_Lysophospholip_3e54d6.json",
+   "reactions": 116,
+   "nodes": 889,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Iii Secretion",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Iii_Secretion.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Biomass_and_exchange_Iii_Secretion.json",
+   "reactions": 116,
+   "nodes": 1037,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Core oligosaccharide lipid transport",
+   "file": "Lipid_metabolism_Core_oligosaccharide_lipid_transport.json",
+   "path": "iEC1372_W3110/Lipid_metabolism_Core_oligosaccharide_lipid_transport.json",
+   "reactions": 110,
+   "nodes": 893,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid",
+   "file": "Lipid_metabolism_Glycerophospholipid.json",
+   "path": "iEC1372_W3110/Lipid_metabolism_Glycerophospholipid.json",
+   "reactions": 103,
+   "nodes": 677,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis; Fatty acid elongation",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
+   "path": "iEC1372_W3110/Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
+   "reactions": 102,
+   "nodes": 965,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iEC1372_W3110/Glycan_metabolism.json",
+   "reactions": 97,
+   "nodes": 690,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Pyrimidine; Ribonucleoside-triphosphate reductase",
+   "file": "Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
+   "path": "iEC1372_W3110/Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
+   "reactions": 96,
+   "nodes": 883,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Biotin; Riboflavin; Thiamine; One carbon pool by folate; +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Biotin_Riboflavin_Thi_c2cc81.json",
+   "path": "iEC1372_W3110/Cofactor_and_vitamin_metabolism_Biotin_Riboflavin_Thi_c2cc81.json",
+   "reactions": 55,
+   "nodes": 359,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport symport; Ornithine Putrescine; Hexanoate transport; +1 more",
+   "file": "Transport_and_exchange_Transport_symport_Ornithine_Pu_41233e.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Transport_symport_Ornithine_Pu_41233e.json",
+   "reactions": 55,
+   "nodes": 396,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid degradation; Glycerolipid",
+   "file": "Lipid_metabolism_Fatty_acid_degradation_Glycerolipid.json",
+   "path": "iEC1372_W3110/Lipid_metabolism_Fatty_acid_degradation_Glycerolipid.json",
+   "reactions": 50,
+   "nodes": 356,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism: Sulfur; Other energy",
+   "file": "Energy_metabolism_Sulfur_Other_energy.json",
+   "path": "iEC1372_W3110/Energy_metabolism_Sulfur_Other_energy.json",
+   "reactions": 26,
+   "nodes": 196,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Butanoate; D-galactose transport; Udp-d-glucuronate D-glucuronate",
+   "file": "Carbohydrate_metabolism_Butanoate_D-galactose_transpo_79d403.json",
+   "path": "iEC1372_W3110/Carbohydrate_metabolism_Butanoate_D-galactose_transpo_79d403.json",
+   "reactions": 21,
+   "nodes": 140,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iEC1372_W3110/Other_metabolism.json",
+   "reactions": 15,
+   "nodes": 95,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iEC1372_W3110/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 8,
+   "nodes": 47,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Other amino acid",
+   "file": "Amino_acid_metabolism_Other_amino_acid.json",
+   "path": "iEC1372_W3110/Amino_acid_metabolism_Other_amino_acid.json",
+   "reactions": 5,
+   "nodes": 38,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

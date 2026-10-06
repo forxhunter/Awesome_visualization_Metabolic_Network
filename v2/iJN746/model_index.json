@@ -1,0 +1,159 @@
+{
+ "schema": 1,
+ "id": "iJN746",
+ "maps": [
+  {
+   "name": "iJN746 - Pseudomonas putida (Pseudomonas)",
+   "file": "iJN746_Canvas.json",
+   "path": "iJN746/iJN746_Canvas.json",
+   "reactions": 1051,
+   "nodes": 7373,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange",
+   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_09fe83.json",
+   "path": "iJN746/Transport_and_exchange_Extracellular_exchange_Biomass_09fe83.json",
+   "reactions": 120,
+   "nodes": 619,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Glycine, Serine and threonine; Lysine; Methionine; +2 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_Se_67198b.json",
+   "path": "iJN746/Amino_acid_metabolism_Arginine_and_Proline_Glycine_Se_67198b.json",
+   "reactions": 118,
+   "nodes": 1135,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid; Fatty Acid; Steroid biosynthesis",
+   "file": "Lipid_metabolism_Glycerophospholipid_Fatty_Acid_Stero_30eaca.json",
+   "path": "iJN746/Lipid_metabolism_Glycerophospholipid_Fatty_Acid_Stero_30eaca.json",
+   "reactions": 116,
+   "nodes": 918,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine Tyrosine Tryptophan Biosynthesis; Valine, Leucine, and Isoleucine; +5 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Tyrosine_Tryptoph_a1c2be.json",
+   "path": "iJN746/Amino_acid_metabolism_Phenylalanine_Tyrosine_Tryptoph_a1c2be.json",
+   "reactions": 115,
+   "nodes": 888,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: B-Ketoadipate pathway; Transport; Intracellular demand; +2 more",
+   "file": "Transport_and_exchange_B-Ketoadipate_pathway_Transpor_51cae8.json",
+   "path": "iJN746/Transport_and_exchange_B-Ketoadipate_pathway_Transpor_51cae8.json",
+   "reactions": 114,
+   "nodes": 703,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iJN746/Carbohydrate_metabolism.json",
+   "reactions": 98,
+   "nodes": 973,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iJN746/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 94,
+   "nodes": 634,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty Acid Biosynthesis; PHAs",
+   "file": "Lipid_metabolism_Fatty_Acid_Biosynthesis_PHAs.json",
+   "path": "iJN746/Lipid_metabolism_Fatty_Acid_Biosynthesis_PHAs.json",
+   "reactions": 85,
+   "nodes": 651,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iJN746/Nucleotide_metabolism.json",
+   "reactions": 70,
+   "nodes": 510,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iJN746/Xenobiotic_degradation.json",
+   "reactions": 37,
+   "nodes": 246,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iJN746/Energy_metabolism.json",
+   "reactions": 34,
+   "nodes": 241,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Gallic acid; Phenylacetyl-CoA pathway; Pyruvate Met",
+   "file": "Transport_and_exchange_Gallic_acid_Phenylacetyl-CoA_p_0f2d74.json",
+   "path": "iJN746/Transport_and_exchange_Gallic_acid_Phenylacetyl-CoA_p_0f2d74.json",
+   "reactions": 18,
+   "nodes": 113,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iJN746/Glycan_metabolism.json",
+   "reactions": 11,
+   "nodes": 90,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iJN746/Other_metabolism.json",
+   "reactions": 11,
+   "nodes": 68,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Cysteine",
+   "file": "Amino_acid_metabolism_Cysteine.json",
+   "path": "iJN746/Amino_acid_metabolism_Cysteine.json",
+   "reactions": 9,
+   "nodes": 71,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Unassigned clusters",
+   "file": "Unassigned_clusters.json",
+   "path": "iJN746/Unassigned_clusters.json",
+   "reactions": 1,
+   "nodes": 7,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

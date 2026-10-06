@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "id": "e_coli_core",
+ "maps": [
+  {
+   "name": "e_coli_core - Escherichia coli (E. coli)",
+   "file": "e_coli_core_Canvas.json",
+   "path": "e_coli_core/e_coli_core_Canvas.json",
+   "reactions": 95,
+   "nodes": 554,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "e_coli_core/Carbohydrate_metabolism.json",
+   "reactions": 46,
+   "nodes": 376,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange",
+   "file": "Transport_and_exchange.json",
+   "path": "e_coli_core/Transport_and_exchange.json",
+   "reactions": 43,
+   "nodes": 201,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "e_coli_core/Energy_metabolism.json",
+   "reactions": 6,
+   "nodes": 33,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

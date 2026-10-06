@@ -1,0 +1,195 @@
+{
+ "schema": 1,
+ "id": "iPC815",
+ "maps": [
+  {
+   "name": "iPC815 - Yersinia pestis (plague bacterium)",
+   "file": "iPC815_Canvas.json",
+   "path": "iPC815/iPC815_Canvas.json",
+   "reactions": 1958,
+   "nodes": 13034,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; tRNA Charging; Cysteine; +3 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_tRNA_Charg_f3d0da.json",
+   "path": "iPC815/Amino_acid_metabolism_Arginine_and_Proline_tRNA_Charg_f3d0da.json",
+   "reactions": 120,
+   "nodes": 1004,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon; Other carbohydrate",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Other_carbohydrate.json",
+   "path": "iPC815/Carbohydrate_metabolism_Alternate_Carbon_Other_carbohydrate.json",
+   "reactions": 120,
+   "nodes": 864,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (Zinc)",
+   "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
+   "path": "iPC815/Transport_and_exchange_Extracellular_exchange_Zinc.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids / amino acids and peptides)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_c5b9ac.json",
+   "path": "iPC815/Transport_and_exchange_Extracellular_exchange_sugars_c5b9ac.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_39cb9f.json",
+   "path": "iPC815/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_39cb9f.json",
+   "reactions": 119,
+   "nodes": 823,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Phospholipase phosphatidylglycerol; +3)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Phospholipase_ph_f88339.json",
+   "path": "iPC815/Lipid_metabolism_Glycerophospholipid_Phospholipase_ph_f88339.json",
+   "reactions": 119,
+   "nodes": 904,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Cell Envelope Biosynthesis; Murein Biosynthesis",
+   "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Murein_B_a8af0f.json",
+   "path": "iPC815/Glycan_metabolism_Cell_Envelope_Biosynthesis_Murein_B_a8af0f.json",
+   "reactions": 118,
+   "nodes": 845,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport; Inner Membrane (Abc system; Succinate Transport symport; +1); +2 more",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Abc_s_c20b7f.json",
+   "path": "iPC815/Transport_and_exchange_Transport_Inner_Membrane_Abc_s_c20b7f.json",
+   "reactions": 118,
+   "nodes": 638,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport; Outer Membrane Porin (Thiamin)",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_5127c7.json",
+   "path": "iPC815/Transport_and_exchange_Transport_Outer_Membrane_Porin_5127c7.json",
+   "reactions": 118,
+   "nodes": 670,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotide Salvage Pathway; purine",
+   "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway_purine.json",
+   "path": "iPC815/Nucleotide_metabolism_Nucleotide_Salvage_Pathway_purine.json",
+   "reactions": 116,
+   "nodes": 823,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Valine; Leucine; and Isoleucine; Glycine and Serine; Alanine and Aspartate; +5 more",
+   "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_d8e3e6.json",
+   "path": "iPC815/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_d8e3e6.json",
+   "reactions": 113,
+   "nodes": 1032,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Phospholipase phosphatidylethanolamine; +3)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Phospholipase_ph_52911a.json",
+   "path": "iPC815/Lipid_metabolism_Glycerophospholipid_Phospholipase_ph_52911a.json",
+   "reactions": 113,
+   "nodes": 860,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Inorganic Ion Transport and Metabolism; +2 more",
+   "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_e2b845.json",
+   "path": "iPC815/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_e2b845.json",
+   "reactions": 106,
+   "nodes": 689,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Pyruvate; Glyoxylate; Anaplerotic Reactions; +3 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Py_6fa405.json",
+   "path": "iPC815/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Py_6fa405.json",
+   "reactions": 105,
+   "nodes": 1032,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Membrane Lipid; Glycerophospholipid (Phosphatidylserine; Glycerophosphoserine); +2 more",
+   "file": "Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_P_e6f1e1.json",
+   "path": "iPC815/Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_P_e6f1e1.json",
+   "reactions": 101,
+   "nodes": 811,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport; Outer Membrane; Biomass and exchange",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Bioma_d87436.json",
+   "path": "iPC815/Transport_and_exchange_Transport_Outer_Membrane_Bioma_d87436.json",
+   "reactions": 101,
+   "nodes": 797,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Murein Recycling; Lipopolysaccharide Biosynthesis / Recycling; +1 more",
+   "file": "Glycan_metabolism_Murein_Recycling_Lipopolysaccharide_fe344a.json",
+   "path": "iPC815/Glycan_metabolism_Murein_Recycling_Lipopolysaccharide_fe344a.json",
+   "reactions": 68,
+   "nodes": 474,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iPC815/Energy_metabolism.json",
+   "reactions": 35,
+   "nodes": 210,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Purine and Pyrimidine Biosynthesis",
+   "file": "Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthesis.json",
+   "path": "iPC815/Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthesis.json",
+   "reactions": 24,
+   "nodes": 177,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Other cofactor and vitamin",
+   "file": "Cofactor_and_vitamin_metabolism_Other_cofactor_and_vitamin.json",
+   "path": "iPC815/Cofactor_and_vitamin_metabolism_Other_cofactor_and_vitamin.json",
+   "reactions": 4,
+   "nodes": 30,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

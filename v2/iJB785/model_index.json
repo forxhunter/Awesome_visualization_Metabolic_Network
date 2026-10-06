@@ -1,0 +1,123 @@
+{
+ "schema": 1,
+ "id": "iJB785",
+ "maps": [
+  {
+   "name": "iJB785 - Synechococcus elongatus (cyanobacterium)",
+   "file": "iJB785_Canvas.json",
+   "path": "iJB785/iJB785_Canvas.json",
+   "reactions": 846,
+   "nodes": 5667,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Porphyrin and chlorophyll; Cofactor biosynthesis - Vitamin B12; +5 more",
+   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_eff8b9.json",
+   "path": "iJB785/Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_eff8b9.json",
+   "reactions": 120,
+   "nodes": 849,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Transport - Outer Membrane; +1 more",
+   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_810c20.json",
+   "path": "iJB785/Transport_and_exchange_Extracellular_exchange_Biomass_810c20.json",
+   "reactions": 119,
+   "nodes": 689,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Amino acid metabolism - Proline and Arginine; +5 more",
+   "file": "Amino_acid_metabolism_Amino_acid_metabolism_-_Proline_cba487.json",
+   "path": "iJB785/Amino_acid_metabolism_Amino_acid_metabolism_-_Proline_cba487.json",
+   "reactions": 118,
+   "nodes": 823,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iJB785/Carbohydrate_metabolism.json",
+   "reactions": 93,
+   "nodes": 734,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iJB785/Energy_metabolism.json",
+   "reactions": 86,
+   "nodes": 550,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "iJB785/Glycan_metabolism.json",
+   "reactions": 78,
+   "nodes": 652,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism",
+   "file": "Lipid_metabolism.json",
+   "path": "iJB785/Lipid_metabolism.json",
+   "reactions": 78,
+   "nodes": 492,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor biosynthesis - Pantothenate and CoA biosynthesis; +5 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_biosynthesis_370e96.json",
+   "path": "iJB785/Cofactor_and_vitamin_metabolism_Cofactor_biosynthesis_370e96.json",
+   "reactions": 43,
+   "nodes": 271,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iJB785/Nucleotide_metabolism.json",
+   "reactions": 41,
+   "nodes": 292,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iJB785/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 31,
+   "nodes": 206,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Histidine; Amino acid metabolism - Lysine biosynthesis; +1 more",
+   "file": "Amino_acid_metabolism_Histidine_Amino_acid_metabolism_0fbdab.json",
+   "path": "iJB785/Amino_acid_metabolism_Histidine_Amino_acid_metabolism_0fbdab.json",
+   "reactions": 23,
+   "nodes": 140,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Intracellular demand; Other transport and exchange",
+   "file": "Transport_and_exchange_Intracellular_demand_Other_tra_f32ded.json",
+   "path": "iJB785/Transport_and_exchange_Intracellular_demand_Other_tra_f32ded.json",
+   "reactions": 16,
+   "nodes": 72,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "schema": 1,
+ "id": "iAF1260b",
+ "maps": [
+  {
+   "name": "iAF1260b - Escherichia coli (E. coli)",
+   "file": "iAF1260b_Canvas.json",
+   "path": "iAF1260b/iAF1260b_Canvas.json",
+   "reactions": 2385,
+   "nodes": 16298,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Arginine and proline; +4 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Arginine_and_prol_8dd5cd.json",
+   "path": "iAF1260b/Amino_acid_metabolism_Phenylalanine_Arginine_and_prol_8dd5cd.json",
+   "reactions": 120,
+   "nodes": 1110,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Galactose; +2 more",
+   "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_55648b.json",
+   "path": "iAF1260b/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_55648b.json",
+   "reactions": 120,
+   "nodes": 864,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (nucleotides and nucleosides / inorganic ions)",
+   "file": "Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
+   "path": "iAF1260b/Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange (sugars and organic acids)",
+   "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "path": "iAF1260b/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
+   "reactions": 120,
+   "nodes": 480,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Iii Secretion; Biomass and exchange; Alpha-d-mannosyl d-glycerate transport",
+   "file": "Transport_and_exchange_Iii_Secretion_Biomass_and_exch_9061a2.json",
+   "path": "iAF1260b/Transport_and_exchange_Iii_Secretion_Biomass_and_exch_9061a2.json",
+   "reactions": 120,
+   "nodes": 957,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Starch and sucrose; Fructose and mannose; Pentose phosphate pathway; +2 more",
+   "file": "Carbohydrate_metabolism_Starch_and_sucrose_Fructose_a_4a12ce.json",
+   "path": "iAF1260b/Carbohydrate_metabolism_Starch_and_sucrose_Fructose_a_4a12ce.json",
+   "reactions": 119,
+   "nodes": 1142,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Amp transport; Extracellular exchange (UDP-N-acetyl-D-galactosamine)",
+   "file": "Transport_and_exchange_Amp_transport_Extracellular_ex_e8a75c.json",
+   "path": "iAF1260b/Transport_and_exchange_Amp_transport_Extracellular_ex_e8a75c.json",
+   "reactions": 118,
+   "nodes": 601,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: D-gluconate transport; Dimethyl sulfide transport; Citrate transport; +3 more",
+   "file": "Transport_and_exchange_D-gluconate_transport_Dimethyl_8c7e9d.json",
+   "path": "iAF1260b/Transport_and_exchange_D-gluconate_transport_Dimethyl_8c7e9d.json",
+   "reactions": 118,
+   "nodes": 835,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid; Fatty acid elongation",
+   "file": "Lipid_metabolism_Glycerophospholipid_Fatty_acid_elongation.json",
+   "path": "iAF1260b/Lipid_metabolism_Glycerophospholipid_Fatty_acid_elongation.json",
+   "reactions": 117,
+   "nodes": 741,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Acetate transport",
+   "file": "Transport_and_exchange_Acetate_transport.json",
+   "path": "iAF1260b/Transport_and_exchange_Acetate_transport.json",
+   "reactions": 117,
+   "nodes": 672,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Lysophospholipase (Octadecenoate); Ethanesulfonate transport",
+   "file": "Transport_and_exchange_Lysophospholipase_Octadecenoat_cb3d00.json",
+   "path": "iAF1260b/Transport_and_exchange_Lysophospholipase_Octadecenoat_cb3d00.json",
+   "reactions": 117,
+   "nodes": 1027,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Glycine, serine and threonine; Cysteine and methionine; +1 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_ca4d2b.json",
+   "path": "iAF1260b/Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_ca4d2b.json",
+   "reactions": 116,
+   "nodes": 903,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Lysophospholipase (Tetradecenoate)",
+   "file": "Transport_and_exchange_Lysophospholipase_Tetradecenoate.json",
+   "path": "iAF1260b/Transport_and_exchange_Lysophospholipase_Tetradecenoate.json",
+   "reactions": 116,
+   "nodes": 848,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Porphyrin; Ubiquinone and other terpenoid-quinone biosynthesis; +5 more",
+   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_e08164.json",
+   "path": "iAF1260b/Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_e08164.json",
+   "reactions": 115,
+   "nodes": 786,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Purine",
+   "file": "Nucleotide_metabolism_Purine.json",
+   "path": "iAF1260b/Nucleotide_metabolism_Purine.json",
+   "reactions": 114,
+   "nodes": 1335,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Murein Lps",
+   "file": "Glycan_metabolism_Murein_Lps.json",
+   "path": "iAF1260b/Glycan_metabolism_Murein_Lps.json",
+   "reactions": 113,
+   "nodes": 760,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Pyruvate; Citrate cycle (TCA cycle); Biosynthesis of various nucleotide sugars; +4 more",
+   "file": "Carbohydrate_metabolism_Pyruvate_Citrate_cycle_TCA_cy_993430.json",
+   "path": "iAF1260b/Carbohydrate_metabolism_Pyruvate_Citrate_cycle_TCA_cy_993430.json",
+   "reactions": 106,
+   "nodes": 950,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Lysine biosynthesis; Valine, leucine and isoleucine degradation; Histidine; +8 more",
+   "file": "Amino_acid_metabolism_Lysine_biosynthesis_Valine_leuc_14c14c.json",
+   "path": "iAF1260b/Amino_acid_metabolism_Lysine_biosynthesis_Valine_leuc_14c14c.json",
+   "reactions": 101,
+   "nodes": 709,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis; Glycerolipid",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Glycerolipid.json",
+   "path": "iAF1260b/Lipid_metabolism_Fatty_acid_biosynthesis_Glycerolipid.json",
+   "reactions": 98,
+   "nodes": 679,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Pyrimidine",
+   "file": "Nucleotide_metabolism_Pyrimidine.json",
+   "path": "iAF1260b/Nucleotide_metabolism_Pyrimidine.json",
+   "reactions": 79,
+   "nodes": 644,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Vitamin B6; Biotin; Pantothenate and CoA biosynthesis",
+   "file": "Cofactor_and_vitamin_metabolism_Vitamin_B6_Biotin_Pan_0f3435.json",
+   "path": "iAF1260b/Cofactor_and_vitamin_metabolism_Vitamin_B6_Biotin_Pan_0f3435.json",
+   "reactions": 29,
+   "nodes": 208,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iAF1260b/Energy_metabolism.json",
+   "reactions": 26,
+   "nodes": 192,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid degradation",
+   "file": "Lipid_metabolism_Fatty_acid_degradation.json",
+   "path": "iAF1260b/Lipid_metabolism_Fatty_acid_degradation.json",
+   "reactions": 24,
+   "nodes": 167,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Lipopolysaccharide biosynthesis; Peptidoglycan biosynthesis",
+   "file": "Glycan_metabolism_Lipopolysaccharide_biosynthesis_Pep_50155b.json",
+   "path": "iAF1260b/Glycan_metabolism_Lipopolysaccharide_biosynthesis_Pep_50155b.json",
+   "reactions": 19,
+   "nodes": 121,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Maltohexaose transport Alpha-amylase; Octanoate transport",
+   "file": "Transport_and_exchange_Maltohexaose_transport_Alpha-a_284c9d.json",
+   "path": "iAF1260b/Transport_and_exchange_Maltohexaose_transport_Alpha-a_284c9d.json",
+   "reactions": 12,
+   "nodes": 84,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iAF1260b/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 11,
+   "nodes": 71,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

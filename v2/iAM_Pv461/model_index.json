@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "id": "iAM_Pv461",
+ "maps": [
+  {
+   "name": "iAM_Pv461 - Plasmodium vivax (malaria parasite)",
+   "file": "iAM_Pv461_Canvas.json",
+   "path": "iAM_Pv461/iAM_Pv461_Canvas.json",
+   "reactions": 1074,
+   "nodes": 7339,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Lipid metabolism: Biosynthesis of unsaturated fatty acids",
+   "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
+   "path": "iAM_Pv461/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
+   "reactions": 120,
+   "nodes": 1018,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Diacylglycerol plasmodium transport",
+   "file": "Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
+   "path": "iAM_Pv461/Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
+   "reactions": 120,
+   "nodes": 1050,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Apicoplast",
+   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
+   "path": "iAM_Pv461/Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
+   "reactions": 119,
+   "nodes": 622,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "path": "iAM_Pv461/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "reactions": 118,
+   "nodes": 834,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iAM_Pv461/Carbohydrate_metabolism.json",
+   "reactions": 118,
+   "nodes": 844,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Other transport and exchange; Ethanolamine Dagpf",
+   "file": "Transport_and_exchange_Other_transport_and_exchange_E_0463d0.json",
+   "path": "iAM_Pv461/Transport_and_exchange_Other_transport_and_exchange_E_0463d0.json",
+   "reactions": 116,
+   "nodes": 689,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism",
+   "file": "Cofactor_and_vitamin_metabolism.json",
+   "path": "iAM_Pv461/Cofactor_and_vitamin_metabolism.json",
+   "reactions": 91,
+   "nodes": 614,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iAM_Pv461/Nucleotide_metabolism.json",
+   "reactions": 75,
+   "nodes": 484,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iAM_Pv461/Other_metabolism.json",
+   "reactions": 67,
+   "nodes": 438,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Protoporphyrinogen; Intracellular demand; Intracellular source/sink; Pyruvate",
+   "file": "Transport_and_exchange_Protoporphyrinogen_Intracellul_ee68d3.json",
+   "path": "iAM_Pv461/Transport_and_exchange_Protoporphyrinogen_Intracellul_ee68d3.json",
+   "reactions": 53,
+   "nodes": 308,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis; Glycerophospholipid",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Glycerophospholipid.json",
+   "path": "iAM_Pv461/Lipid_metabolism_Fatty_acid_biosynthesis_Glycerophospholipid.json",
+   "reactions": 40,
+   "nodes": 277,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Glycine, serine and threonine; Lysine degradation; +1 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
+   "path": "iAM_Pv461/Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
+   "reactions": 19,
+   "nodes": 128,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "iAM_Pv461/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 14,
+   "nodes": 86,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iAM_Pv461/Energy_metabolism.json",
+   "reactions": 4,
+   "nodes": 21,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

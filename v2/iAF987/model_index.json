@@ -1,0 +1,168 @@
+{
+ "schema": 1,
+ "id": "iAF987",
+ "maps": [
+  {
+   "name": "iAF987 - Geobacter metallireducens (Geobacter)",
+   "file": "iAF987_Canvas.json",
+   "path": "iAF987/iAF987_Canvas.json",
+   "reactions": 1282,
+   "nodes": 9236,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Vitamins and Cofactor Biosynthesis (IscS with bound sulfur; +3)",
+   "file": "Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_96c119.json",
+   "path": "iAF987/Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_96c119.json",
+   "reactions": 120,
+   "nodes": 933,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange (Transport abc system)",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_b824f2.json",
+   "path": "iAF987/Transport_and_exchange_Biomass_and_exchange_Transport_b824f2.json",
+   "reactions": 119,
+   "nodes": 864,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iAF987/Amino_acid_metabolism.json",
+   "reactions": 117,
+   "nodes": 1011,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Cell Envelope Biosynthesis; Murein Recycling",
+   "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Murein_R_2a5fa1.json",
+   "path": "iAF987/Glycan_metabolism_Cell_Envelope_Biosynthesis_Murein_R_2a5fa1.json",
+   "reactions": 116,
+   "nodes": 807,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Inner Membrane; Biomass and maintenance functions",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Bioma_d08494.json",
+   "path": "iAF987/Transport_and_exchange_Transport_Inner_Membrane_Bioma_d08494.json",
+   "reactions": 110,
+   "nodes": 949,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iAF987/Carbohydrate_metabolism.json",
+   "reactions": 107,
+   "nodes": 774,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange (glycans and cell-wall precursors / inorganic ions; +3); +1 more",
+   "file": "Transport_and_exchange_Biomass_and_exchange_glycans_a_e75a4e.json",
+   "path": "iAF987/Transport_and_exchange_Biomass_and_exchange_glycans_a_e75a4e.json",
+   "reactions": 98,
+   "nodes": 675,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange",
+   "file": "Transport_and_exchange_Extracellular_exchange.json",
+   "path": "iAF987/Transport_and_exchange_Extracellular_exchange.json",
+   "reactions": 97,
+   "nodes": 391,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid",
+   "file": "Lipid_metabolism_Glycerophospholipid.json",
+   "path": "iAF987/Lipid_metabolism_Glycerophospholipid.json",
+   "reactions": 86,
+   "nodes": 641,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism: Lipopolysaccharide Biosynthesis / Recycling; Murein Biosynthesis",
+   "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_b982e0.json",
+   "path": "iAF987/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_b982e0.json",
+   "reactions": 68,
+   "nodes": 473,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Outer Membrane",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane.json",
+   "path": "iAF987/Transport_and_exchange_Transport_Outer_Membrane.json",
+   "reactions": 63,
+   "nodes": 315,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism",
+   "file": "Nucleotide_metabolism.json",
+   "path": "iAF987/Nucleotide_metabolism.json",
+   "reactions": 52,
+   "nodes": 398,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Membrane Lipid",
+   "file": "Lipid_metabolism_Membrane_Lipid.json",
+   "path": "iAF987/Lipid_metabolism_Membrane_Lipid.json",
+   "reactions": 48,
+   "nodes": 527,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation",
+   "file": "Xenobiotic_degradation.json",
+   "path": "iAF987/Xenobiotic_degradation.json",
+   "reactions": 30,
+   "nodes": 299,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iAF987/Energy_metabolism.json",
+   "reactions": 26,
+   "nodes": 162,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Queuosine biosynthesis; +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Queuosine_biosynthesi_fae9fb.json",
+   "path": "iAF987/Cofactor_and_vitamin_metabolism_Queuosine_biosynthesi_fae9fb.json",
+   "reactions": 19,
+   "nodes": 144,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iAF987/Other_metabolism.json",
+   "reactions": 6,
+   "nodes": 44,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}
