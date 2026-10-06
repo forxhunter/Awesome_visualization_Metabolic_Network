@@ -6,35 +6,26 @@
    "name": "iRC1080 - Chlamydomonas reinhardtii (green alga)",
    "file": "iRC1080_Canvas.json",
    "path": "iRC1080/iRC1080_Canvas.json",
-   "reactions": 2185,
-   "nodes": 18124,
+   "reactions": 2191,
+   "nodes": 17995,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Arginine and proline; Selenoamino acid; Histidine; +4 more",
-   "file": "Amino_acid_metabolism_Arginine_and_proline_Selenoamin_a3d117.json",
-   "path": "iRC1080/Amino_acid_metabolism_Arginine_and_proline_Selenoamin_a3d117.json",
+   "name": "Amino acid metabolism: Histidine; Selenoamino acid; Arginine and proline; +4 more",
+   "file": "Amino_acid_metabolism_Histidine_Selenoamino_acid_Argi_1a7a05.json",
+   "path": "iRC1080/Amino_acid_metabolism_Histidine_Selenoamino_acid_Argi_1a7a05.json",
    "reactions": 120,
-   "nodes": 854,
+   "nodes": 813,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glycine, serine and threonine; Methionine; +3 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Me_f3611f.json",
-   "path": "iRC1080/Amino_acid_metabolism_Glycine_serine_and_threonine_Me_f3611f.json",
+   "name": "Carbohydrate metabolism: Galactose; Propanoate; Butanoate; Pentose phosphate pathway; +3 more",
+   "file": "Carbohydrate_metabolism_Galactose_Propanoate_Butanoat_fe3bd3.json",
+   "path": "iRC1080/Carbohydrate_metabolism_Galactose_Propanoate_Butanoat_fe3bd3.json",
    "reactions": 120,
-   "nodes": 914,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Pyruvate; Glycolysis / Gluconeogenesis; Inositol phosphate; Galactose; +1 more",
-   "file": "Carbohydrate_metabolism_Pyruvate_Glycolysis_Gluconeog_2b99b1.json",
-   "path": "iRC1080/Carbohydrate_metabolism_Pyruvate_Glycolysis_Gluconeog_2b99b1.json",
-   "reactions": 120,
-   "nodes": 917,
+   "nodes": 853,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +34,16 @@
    "file": "Lipid_metabolism_Glycerolipid_Omega_desaturase_1_Sphi_5320e9.json",
    "path": "iRC1080/Lipid_metabolism_Glycerolipid_Omega_desaturase_1_Sphi_5320e9.json",
    "reactions": 120,
-   "nodes": 1632,
+   "nodes": 1707,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, chloroplast; Other transport and exchange",
+   "file": "Transport_and_exchange_Transport_chloroplast_Other_tr_fbee01.json",
+   "path": "iRC1080/Transport_and_exchange_Transport_chloroplast_Other_tr_fbee01.json",
+   "reactions": 120,
+   "nodes": 634,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_861770.json",
    "path": "iRC1080/Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_861770.json",
    "reactions": 119,
-   "nodes": 983,
+   "nodes": 929,
    "combined": false,
    "canvas": false
   },
@@ -66,38 +66,29 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Biomass and exchange; Extracellular exchange; Transport, eyespot",
-   "file": "Transport_and_exchange_Biomass_and_exchange_Extracell_d51970.json",
-   "path": "iRC1080/Transport_and_exchange_Biomass_and_exchange_Extracell_d51970.json",
+   "name": "Transport and exchange: Transport, mitochondria; Transport, eyespot",
+   "file": "Transport_and_exchange_Transport_mitochondria_Transpo_7dca7c.json",
+   "path": "iRC1080/Transport_and_exchange_Transport_mitochondria_Transpo_7dca7c.json",
    "reactions": 119,
-   "nodes": 1212,
+   "nodes": 619,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, chloroplast; Other transport and exchange",
-   "file": "Transport_and_exchange_Transport_chloroplast_Other_tr_fbee01.json",
-   "path": "iRC1080/Transport_and_exchange_Transport_chloroplast_Other_tr_fbee01.json",
-   "reactions": 119,
-   "nodes": 629,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, mitochondria; Transport, Golgi",
-   "file": "Transport_and_exchange_Transport_mitochondria_Transpo_125ad8.json",
-   "path": "iRC1080/Transport_and_exchange_Transport_mitochondria_Transpo_125ad8.json",
+   "name": "Amino acid metabolism: Glycine, serine and threonine; Methionine; +3 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Me_f3611f.json",
+   "path": "iRC1080/Amino_acid_metabolism_Glycine_serine_and_threonine_Me_f3611f.json",
    "reactions": 118,
-   "nodes": 620,
+   "nodes": 901,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Propanoate; Butanoate; Pentose phosphate pathway; Glyoxylate; +3 more",
-   "file": "Carbohydrate_metabolism_Propanoate_Butanoate_Pentose_55f756.json",
-   "path": "iRC1080/Carbohydrate_metabolism_Propanoate_Butanoate_Pentose_55f756.json",
+   "name": "Carbohydrate metabolism: Pyruvate; Glycolysis / Gluconeogenesis; Inositol phosphate; TCA cycle",
+   "file": "Carbohydrate_metabolism_Pyruvate_Glycolysis_Gluconeog_b75d09.json",
+   "path": "iRC1080/Carbohydrate_metabolism_Pyruvate_Glycolysis_Gluconeog_b75d09.json",
    "reactions": 115,
-   "nodes": 875,
+   "nodes": 828,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +97,16 @@
    "file": "Lipid_metabolism_Glycerolipid_Phospholipid_diacylglyc_6f0952.json",
    "path": "iRC1080/Lipid_metabolism_Glycerolipid_Phospholipid_diacylglyc_6f0952.json",
    "reactions": 115,
-   "nodes": 1616,
+   "nodes": 1635,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Extracellular exchange; Transport, Golgi",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Extracell_5c6a7a.json",
+   "path": "iRC1080/Transport_and_exchange_Biomass_and_exchange_Extracell_5c6a7a.json",
+   "reactions": 115,
+   "nodes": 1184,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Lipid_metabolism_Glycerolipid_Acp_substrate_Phosphati_eb9161.json",
    "path": "iRC1080/Lipid_metabolism_Glycerolipid_Acp_substrate_Phosphati_eb9161.json",
    "reactions": 113,
-   "nodes": 1095,
+   "nodes": 1072,
    "combined": false,
    "canvas": false
   },
@@ -132,8 +132,8 @@
    "name": "Transport and exchange: Transport, glyoxysome; Intracellular demand; Transport, thylakoid lumen; +2 more",
    "file": "Transport_and_exchange_Transport_glyoxysome_Intracell_c772c6.json",
    "path": "iRC1080/Transport_and_exchange_Transport_glyoxysome_Intracell_c772c6.json",
-   "reactions": 97,
-   "nodes": 496,
+   "reactions": 98,
+   "nodes": 501,
    "combined": false,
    "canvas": false
   },
@@ -141,8 +141,8 @@
    "name": "Xenobiotic degradation",
    "file": "Xenobiotic_degradation.json",
    "path": "iRC1080/Xenobiotic_degradation.json",
-   "reactions": 97,
-   "nodes": 671,
+   "reactions": 98,
+   "nodes": 676,
    "combined": false,
    "canvas": false
   },
@@ -156,20 +156,20 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Cysteine; beta-Alanine; Cysteine and methionine; Alanine and aspartate; Tyrosine; +2 more",
+   "file": "Amino_acid_metabolism_Cysteine_beta-Alanine_Cysteine_c4122b.json",
+   "path": "iRC1080/Amino_acid_metabolism_Cysteine_beta-Alanine_Cysteine_c4122b.json",
+   "reactions": 59,
+   "nodes": 441,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Nucleotide metabolism: Pyrimidine",
    "file": "Nucleotide_metabolism_Pyrimidine.json",
    "path": "iRC1080/Nucleotide_metabolism_Pyrimidine.json",
    "reactions": 59,
    "nodes": 556,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: beta-Alanine; Cysteine and methionine; Alanine and aspartate; +4 more",
-   "file": "Amino_acid_metabolism_beta-Alanine_Cysteine_and_methi_fcfb94.json",
-   "path": "iRC1080/Amino_acid_metabolism_beta-Alanine_Cysteine_and_methi_fcfb94.json",
-   "reactions": 53,
-   "nodes": 383,
    "combined": false,
    "canvas": false
   },
@@ -192,6 +192,15 @@
    "canvas": false
   },
   {
+   "name": "Carbohydrate metabolism: Starch and sucrose; Glycolysis / Gluconeogenesis;Alanine and aspartate; +2 more",
+   "file": "Carbohydrate_metabolism_Starch_and_sucrose_Glycolysis_e4238b.json",
+   "path": "iRC1080/Carbohydrate_metabolism_Starch_and_sucrose_Glycolysis_e4238b.json",
+   "reactions": 41,
+   "nodes": 281,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Lipid metabolism: Fatty acid elongation in mitochondria; Biosynthesis of unsaturated fatty acids",
    "file": "Lipid_metabolism_Fatty_acid_elongation_in_mitochondri_3e1aca.json",
    "path": "iRC1080/Lipid_metabolism_Fatty_acid_elongation_in_mitochondri_3e1aca.json",
@@ -201,20 +210,11 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Retinol; Vitamin B6; Riboflavin",
-   "file": "Cofactor_and_vitamin_metabolism_Retinol_Vitamin_B6_Ri_9c3ae4.json",
-   "path": "iRC1080/Cofactor_and_vitamin_metabolism_Retinol_Vitamin_B6_Ri_9c3ae4.json",
-   "reactions": 39,
-   "nodes": 304,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: TCA cycle; Glycolysis / Gluconeogenesis;Carbon fixation; TCA cycle;CO2 fixation; +2 more",
-   "file": "Carbohydrate_metabolism_TCA_cycle_Glycolysis_Gluconeo_b395bb.json",
-   "path": "iRC1080/Carbohydrate_metabolism_TCA_cycle_Glycolysis_Gluconeo_b395bb.json",
+   "name": "Cofactor and vitamin metabolism: One carbon pool by folate; Vitamin B6; Riboflavin",
+   "file": "Cofactor_and_vitamin_metabolism_One_carbon_pool_by_fo_3ef2f9.json",
+   "path": "iRC1080/Cofactor_and_vitamin_metabolism_One_carbon_pool_by_fo_3ef2f9.json",
    "reactions": 38,
-   "nodes": 282,
+   "nodes": 290,
    "combined": false,
    "canvas": false
   },

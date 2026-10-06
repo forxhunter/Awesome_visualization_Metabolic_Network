@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-164.7 310.4 6441.3 4763.1" width="6441" height="4763">
-<rect x="-164.7" y="310.4" width="6441.3" height="4763.1" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-164.7 310.4 6441.3 4763.2" width="6441" height="4763">
+<rect x="-164.7" y="310.4" width="6441.3" height="4763.2" fill="#ffffff"/>
 <g stroke-linecap="round" fill="none">
 <line x1="2875.0" y1="3350.0" x2="2875.0" y2="3444.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2875.0" y1="3444.0" x2="2875.0" y2="3480.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -312,7 +312,7 @@
 <line x1="5793.2" y1="2340.0" x2="5793.2" y2="2470.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5793.2" y1="2470.0" x2="5793.2" y2="2730.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5793.2" y1="2730.0" x2="5793.2" y2="2990.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M5744.0 2340.0 C5834.7 2340.0 5851.1 2390.7 5793.4 2492.2" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M5744.0 2340.0 C5834.7 2340.0 5851.1 2390.7 5793.5 2498.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M2157.8 2730.0 C2208.1 2738.5 2249.1 2775.3 2262.9 2824.4" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2262.9 2824.4 C2266.1 2836.0 2267.8 2848.0 2267.8 2860.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2267.8 2860.0 C2267.8 2872.0 2266.1 2884.0 2262.9 2895.6" stroke="#2f3b47" stroke-width="6.0"/>
@@ -448,7 +448,7 @@
 <path d="M1043.2 3605.6 L1045.1 3556.9 L1074.9 3568.6 Z" fill="#9aa6b2"/>
 <path d="M5102.8 2240.0 L5118.8 2286.0 L5086.8 2286.0 Z" fill="#2f3b47"/>
 <path d="M5793.2 2960.0 L5777.2 2914.0 L5809.2 2914.0 Z" fill="#2f3b47"/>
-<path d="M5801.4 2478.3 L5810.2 2430.4 L5838.0 2446.2 Z" fill="#9aa6b2"/>
+<path d="M5801.1 2483.9 L5808.8 2435.8 L5836.9 2451.0 Z" fill="#9aa6b2"/>
 <path d="M2187.3 2735.0 L2235.3 2726.8 L2230.1 2758.4 Z" fill="#2f3b47"/>
 <path d="M2187.3 2985.0 L2230.1 2961.6 L2235.3 2993.2 Z" fill="#2f3b47"/>
 <path d="M2157.8 2760.0 L2173.8 2806.0 L2141.8 2806.0 Z" fill="#2f3b47"/>
@@ -769,7 +769,7 @@
 <circle cx="5793.2" cy="2340.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5793.2" cy="2470.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5793.2" cy="2730.0" r="6.0" fill="#7f8c99"/>
-<circle cx="5793.4" cy="2492.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="5793.5" cy="2498.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2267.8" cy="2860.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="2262.9" cy="2824.4" r="6.0" fill="#7f8c99"/>
 <circle cx="2262.9" cy="2895.6" r="6.0" fill="#7f8c99"/>
@@ -925,7 +925,7 @@
 <text x="4687.9" y="2547.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[r]</text>
 <text x="2344.6" y="2685.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pa-cho[c]</text>
 <text x="1072.1" y="3620.5" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pa-cho[g]</text>
-<text x="5828.1" y="2492.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pa-cho[r]</text>
+<text x="5828.2" y="2498.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pa-cho[r]</text>
 <text x="1936.6" y="2815.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">na1[c]</text>
 <text x="1936.6" y="2904.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">na1[e]</text>
 <text x="1796.9" y="2775.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">na1[c]</text>
@@ -975,8 +975,8 @@
 <text x="936.5" y="3392.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">RE3273G</text>
 <text x="5606.9" y="2292.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">RE3273R</text>
 <text x="2294.2" y="2832.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">INSTt2</text>
-<text x="2063.1" y="2860.0" font-size="13.5" fill="#2b5fa8" dominant-baseline="middle">INSTt4_2</text>
-<text x="1916.0" y="2860.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">INSTt4</text>
+<text x="2070.0" y="2860.0" font-size="15.8" fill="#2b5fa8" dominant-baseline="middle">INSTt4</text>
+<text x="1884.7" y="2860.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">INSTt4_2</text>
 <text x="3892.2" y="2845.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">r0826</text>
 <text x="180.3" y="704.2" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Lipid metabolism: PHOSPHATIDYLINOSITOL PHOSPHATE</text>
 <text x="180.3" y="4713.5" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>

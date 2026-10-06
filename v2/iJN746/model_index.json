@@ -6,8 +6,8 @@
    "name": "iJN746 - Pseudomonas putida (Pseudomonas)",
    "file": "iJN746_Canvas.json",
    "path": "iJN746/iJN746_Canvas.json",
-   "reactions": 1051,
-   "nodes": 7373,
+   "reactions": 1054,
+   "nodes": 7362,
    "combined": true,
    "canvas": true
   },
@@ -24,8 +24,8 @@
    "name": "Amino acid metabolism: Arginine and Proline; Glycine, Serine and threonine; Lysine; Methionine; +2 more",
    "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_Se_67198b.json",
    "path": "iJN746/Amino_acid_metabolism_Arginine_and_Proline_Glycine_Se_67198b.json",
-   "reactions": 118,
-   "nodes": 1135,
+   "reactions": 119,
+   "nodes": 1125,
    "combined": false,
    "canvas": false
   },
@@ -34,16 +34,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Fatty_Acid_Stero_30eaca.json",
    "path": "iJN746/Lipid_metabolism_Glycerophospholipid_Fatty_Acid_Stero_30eaca.json",
    "reactions": 116,
-   "nodes": 918,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Phenylalanine Tyrosine Tryptophan Biosynthesis; Valine, Leucine, and Isoleucine; +5 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_Tyrosine_Tryptoph_a1c2be.json",
-   "path": "iJN746/Amino_acid_metabolism_Phenylalanine_Tyrosine_Tryptoph_a1c2be.json",
-   "reactions": 115,
-   "nodes": 888,
+   "nodes": 919,
    "combined": false,
    "canvas": false
   },
@@ -51,8 +42,17 @@
    "name": "Transport and exchange: B-Ketoadipate pathway; Transport; Intracellular demand; +2 more",
    "file": "Transport_and_exchange_B-Ketoadipate_pathway_Transpor_51cae8.json",
    "path": "iJN746/Transport_and_exchange_B-Ketoadipate_pathway_Transpor_51cae8.json",
-   "reactions": 114,
-   "nodes": 703,
+   "reactions": 116,
+   "nodes": 698,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine Tyrosine Tryptophan Biosynthesis; Glutamate; +5 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Tyrosine_Tryptoph_225e2c.json",
+   "path": "iJN746/Amino_acid_metabolism_Phenylalanine_Tyrosine_Tryptoph_225e2c.json",
+   "reactions": 113,
+   "nodes": 883,
    "combined": false,
    "canvas": false
   },
@@ -60,8 +60,8 @@
    "name": "Carbohydrate metabolism",
    "file": "Carbohydrate_metabolism.json",
    "path": "iJN746/Carbohydrate_metabolism.json",
-   "reactions": 98,
-   "nodes": 973,
+   "reactions": 97,
+   "nodes": 866,
    "combined": false,
    "canvas": false
   },
@@ -120,20 +120,20 @@
    "canvas": false
   },
   {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iJN746/Other_metabolism.json",
+   "reactions": 14,
+   "nodes": 89,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Glycan metabolism",
    "file": "Glycan_metabolism.json",
    "path": "iJN746/Glycan_metabolism.json",
    "reactions": 11,
    "nodes": 90,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Other metabolism",
-   "file": "Other_metabolism.json",
-   "path": "iJN746/Other_metabolism.json",
-   "reactions": 11,
-   "nodes": 68,
    "combined": false,
    "canvas": false
   },

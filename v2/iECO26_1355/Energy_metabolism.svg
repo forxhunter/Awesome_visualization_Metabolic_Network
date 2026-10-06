@@ -232,7 +232,7 @@
 <line x1="6566.5" y1="2080.0" x2="6532.5" y2="2080.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6532.5" y1="2080.0" x2="6532.5" y2="2210.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M6646.0 1905.3 C6734.7 2027.0 6729.2 2080.0 6638.5 2080.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M6723.6 1940.5 C6755.8 2033.8 6729.2 2080.0 6638.5 2080.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M6717.4 1923.8 C6755.8 2033.8 6729.2 2080.0 6638.5 2080.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M6566.5 2080.0 C6475.8 2080.0 6449.2 2033.8 6486.5 1941.4" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M6566.5 2080.0 C6475.8 2080.0 6470.3 2027.0 6549.8 1920.9" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3450.0 1690.0 C3423.7 1715.5 3405.8 1748.3 3398.6 1784.2" stroke="#2f3b47" stroke-width="6.0"/>
@@ -895,7 +895,7 @@
 <circle cx="6672.5" cy="2080.0" r="6.0" fill="#7f8c99"/>
 <circle cx="6532.5" cy="2080.0" r="6.0" fill="#7f8c99"/>
 <circle cx="6646.0" cy="1905.3" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="6723.6" cy="1940.5" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="6717.4" cy="1923.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="6486.5" cy="1941.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="6549.8" cy="1920.9" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3395.0" cy="1820.0" r="11.0" fill="#3a7bd5"/>
@@ -1220,7 +1220,7 @@
 <text x="4623.8" y="2935.4" font-size="19.8" fill="#1c252e" dominant-baseline="middle">dmso[c]</text>
 <text x="4745.5" y="3264.6" font-size="19.8" fill="#1c252e" dominant-baseline="middle">dms[c]</text>
 <text x="6576.9" y="1905.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
-<text x="6751.3" y="1917.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
+<text x="6752.1" y="1923.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
 <text x="6417.4" y="1941.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="6498.3" y="1897.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="3188.8" y="1734.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Q8</text>

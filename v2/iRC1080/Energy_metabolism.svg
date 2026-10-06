@@ -246,7 +246,7 @@
 <path d="M177.6 3300.0 C177.6 3312.0 179.2 3324.0 182.4 3335.6" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M182.4 3335.6 C195.3 3382.5 232.7 3418.6 280.0 3430.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M334.6 3215.0 C233.1 3157.3 182.4 3173.8 182.4 3264.4" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M182.4 3335.6 C182.4 3426.2 235.4 3431.8 341.5 3352.3" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M182.4 3335.6 C182.4 3426.2 235.4 3431.8 346.0 3359.7" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M182.4 3335.6 C182.4 3426.2 228.6 3452.9 329.0 3412.7" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1900.0" y1="2910.0" x2="1900.0" y2="3004.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1900.0" y1="3004.0" x2="1900.0" y2="3040.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -405,7 +405,7 @@
 <path d="M1929.6 3165.0 L1972.3 3141.6 L1977.6 3173.2 Z" fill="#2f3b47"/>
 <path d="M2143.4 3132.9 L2111.3 3169.6 L2095.5 3141.7 Z" fill="#9aa6b2"/>
 <path d="M250.8 3423.0 L202.4 3427.8 L209.9 3396.7 Z" fill="#2f3b47"/>
-<path d="M328.7 3361.9 L301.5 3402.3 L282.3 3376.7 Z" fill="#9aa6b2"/>
+<path d="M332.6 3368.4 L302.8 3406.9 L285.3 3380.1 Z" fill="#9aa6b2"/>
 <path d="M314.2 3418.7 L277.4 3450.6 L265.5 3420.9 Z" fill="#9aa6b2"/>
 <path d="M1900.0 3140.0 L1884.0 3094.0 L1916.0 3094.0 Z" fill="#2f3b47"/>
 <path d="M2038.3 3133.4 L2006.2 3170.0 L1990.4 3142.2 Z" fill="#9aa6b2"/>
@@ -705,7 +705,7 @@
 <circle cx="182.4" cy="3264.4" r="6.0" fill="#7f8c99"/>
 <circle cx="182.4" cy="3335.6" r="6.0" fill="#7f8c99"/>
 <circle cx="334.6" cy="3215.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="341.5" cy="3352.3" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="346.0" cy="3359.7" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="329.0" cy="3412.7" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1900.0" cy="3040.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1900.0" cy="3004.0" r="6.0" fill="#7f8c99"/>
@@ -918,7 +918,7 @@
 <text x="2191.9" y="2955.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">photon438</text>
 <text x="2191.9" y="3125.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2D</text>
 <text x="399.6" y="3260.5" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pcox</text>
-<text x="418.7" y="3352.3" font-size="16.5" fill="#6b7885" dominant-baseline="middle">pcrd</text>
+<text x="422.0" y="3359.7" font-size="11.6" fill="#6b7885" dominant-baseline="middle">pcrd</text>
 <text x="320.5" y="3453.5" font-size="19.8" fill="#6b7885" dominant-baseline="middle">photon680</text>
 <text x="2043.7" y="2995.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">photon673</text>
 <text x="2079.9" y="3101.9" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2D</text>

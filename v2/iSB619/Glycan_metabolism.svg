@@ -15,7 +15,7 @@
 <line x1="2115.2" y1="1975.0" x2="2115.2" y2="2160.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2115.2" y1="2160.0" x2="2060.2" y2="2160.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1948.6 1822.8 C1890.9 1924.3 1907.3 1975.0 1998.0 1975.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M2070.0 1975.0 C2160.7 1975.0 2177.1 1924.3 2119.4 1822.8" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M2070.0 1975.0 C2160.7 1975.0 2177.1 1924.3 2118.2 1823.9" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1810.0" y1="2650.0" x2="1810.0" y2="2744.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1810.0" y1="2744.0" x2="1810.0" y2="2780.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1810.0" y1="2780.0" x2="1810.0" y2="2816.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -177,7 +177,7 @@
 <path d="M1889.8 1900.0 L1935.8 1884.0 L1935.8 1916.0 Z" fill="#2f3b47"/>
 <path d="M2090.2 2160.0 L2136.2 2144.0 L2136.2 2176.0 Z" fill="#2f3b47"/>
 <path d="M1940.6 1836.7 L1931.8 1884.6 L1904.0 1868.8 Z" fill="#9aa6b2"/>
-<path d="M2127.4 1836.7 L2164.0 1868.8 L2136.2 1884.6 Z" fill="#9aa6b2"/>
+<path d="M2126.3 1837.7 L2163.4 1869.2 L2135.8 1885.4 Z" fill="#9aa6b2"/>
 <path d="M1810.0 2880.0 L1794.0 2834.0 L1826.0 2834.0 Z" fill="#2f3b47"/>
 <path d="M590.0 2880.0 L574.0 2834.0 L606.0 2834.0 Z" fill="#2f3b47"/>
 <path d="M451.7 2873.4 L499.6 2882.2 L483.8 2910.0 Z" fill="#9aa6b2"/>
@@ -283,7 +283,7 @@
 <circle cx="2115.2" cy="1975.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2115.2" cy="2160.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1948.6" cy="1822.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="2119.4" cy="1822.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="2118.2" cy="1823.9" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1810.0" cy="2780.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1810.0" cy="2744.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1810.0" cy="2816.0" r="6.0" fill="#7f8c99"/>
@@ -453,7 +453,7 @@
 <text x="189.0" y="1324.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ugmd</text>
 <text x="178.3" y="1675.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ugmda</text>
 <text x="1983.2" y="1822.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
-<text x="2154.1" y="1822.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">AcCoA</text>
+<text x="2026.1" y="1823.9" font-size="19.8" fill="#6b7885" dominant-baseline="middle">AcCoA</text>
 <text x="368.7" y="2865.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="1940.2" y="1105.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="1949.0" y="1617.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">co2</text>

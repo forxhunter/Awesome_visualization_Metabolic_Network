@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="438.3 601.3 4400.6 3415.2" width="4401" height="3415">
-<rect x="438.3" y="601.3" width="4400.6" height="3415.2" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="441.6 603.0 4368.5 3410.2" width="4369" height="3410">
+<rect x="441.6" y="603.0" width="4368.5" height="3410.2" fill="#ffffff"/>
 <g stroke-linecap="round" fill="none">
 <line x1="1130.0" y1="1500.0" x2="1130.0" y2="1594.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1130.0" y1="1594.0" x2="1130.0" y2="1630.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -216,12 +216,6 @@
 <line x1="4460.0" y1="2364.0" x2="4460.0" y2="2400.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="4460.0" y1="2400.0" x2="4460.0" y2="2436.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="4460.0" y1="2436.0" x2="4460.0" y2="2530.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="4440.0" y1="3030.0" x2="4440.0" y2="3124.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="4440.0" y1="3124.0" x2="4440.0" y2="3160.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="4440.0" y1="3160.0" x2="4440.0" y2="3196.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="4440.0" y1="3196.0" x2="4440.0" y2="3290.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M4287.8 3074.6 C4389.3 3016.9 4440.0 3033.3 4440.0 3124.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M4440.0 3196.0 C4440.0 3286.7 4389.3 3303.1 4287.8 3245.4" stroke="#9aa6b2" stroke-width="3.0"/>
 </g><g>
 <path d="M1130.0 1730.0 L1114.0 1684.0 L1146.0 1684.0 Z" fill="#2f3b47"/>
 <path d="M1003.9 1730.3 L1051.8 1739.1 L1036.0 1766.9 Z" fill="#2f3b47"/>
@@ -284,11 +278,7 @@
 <path d="M1580.0 3550.0 L1564.0 3504.0 L1596.0 3504.0 Z" fill="#2f3b47"/>
 <path d="M1718.3 3543.4 L1686.2 3580.0 L1670.4 3552.2 Z" fill="#9aa6b2"/>
 <path d="M4460.0 2500.0 L4444.0 2454.0 L4476.0 2454.0 Z" fill="#2f3b47"/>
-<path d="M4440.0 3260.0 L4424.0 3214.0 L4456.0 3214.0 Z" fill="#2f3b47"/>
-<path d="M4301.7 3253.4 L4349.6 3262.2 L4333.8 3290.0 Z" fill="#9aa6b2"/>
-<circle cx="4440.0" cy="3030.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="4460.0" cy="2270.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
-<circle cx="4440.0" cy="3290.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="2480.0" cy="3530.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="2200.0" cy="3530.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="2465.0" cy="3270.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
@@ -494,11 +484,6 @@
 <circle cx="4460.0" cy="2400.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="4460.0" cy="2364.0" r="6.0" fill="#7f8c99"/>
 <circle cx="4460.0" cy="2436.0" r="6.0" fill="#7f8c99"/>
-<circle cx="4440.0" cy="3160.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="4440.0" cy="3124.0" r="6.0" fill="#7f8c99"/>
-<circle cx="4440.0" cy="3196.0" r="6.0" fill="#7f8c99"/>
-<circle cx="4287.8" cy="3074.6" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="4287.8" cy="3245.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1885.0" cy="1745.7" r="6.0" fill="#7f8c99"/>
 <circle cx="1116.0" cy="2280.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1100.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
@@ -519,9 +504,7 @@
 <circle cx="1865.0" cy="1760.0" r="6.0" fill="#7f8c99"/>
 </g>
 <g font-family="Helvetica,Arial,sans-serif">
-<text x="4474.7" y="3030.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">2dmmq8</text>
 <text x="4494.7" y="2270.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ah6p-D</text>
-<text x="4474.7" y="3290.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ahcys</text>
 <text x="2315.4" y="3575.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">alaala[c]</text>
 <text x="2234.7" y="3530.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">alaala[e]</text>
 <text x="2499.7" y="3270.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">alaala[p]</text>
@@ -605,8 +588,6 @@
 <text x="3764.1" y="1803.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="1766.8" y="3364.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udpg</text>
 <text x="1766.8" y="3535.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udp</text>
-<text x="4207.2" y="3074.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">amet</text>
-<text x="4207.2" y="3245.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">mqn8</text>
 <text x="951.2" y="1630.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">MLDCP1App</text>
 <text x="1511.8" y="2020.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">MLDCP1Bpp</text>
 <text x="1465.6" y="1349.3" font-size="22.5" fill="#2b5fa8" dominant-baseline="middle">MLDCP2App</text>
@@ -638,8 +619,7 @@
 <text x="3682.5" y="1612.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">HEPK2</text>
 <text x="1617.8" y="3450.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLCTR3</text>
 <text x="4497.8" y="2400.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">AH6PI</text>
-<text x="4477.8" y="3160.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">AMMQT8_2</text>
-<text x="674.0" y="883.5" font-size="74.4" fill="#a83a6e" dominant-baseline="middle">Glycan metabolism: Murein Biosynthesis; Lipopolysaccharide Biosynthesis Recycling</text>
-<text x="674.0" y="3765.8" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
+<text x="675.6" y="883.5" font-size="74.4" fill="#a83a6e" dominant-baseline="middle">Glycan metabolism: Murein Biosynthesis; Lipopolysaccharide Biosynthesis Recycling</text>
+<text x="675.6" y="3764.2" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
 </g>
 </svg>

@@ -7,25 +7,16 @@
    "file": "iMM904_Canvas.json",
    "path": "iMM904/iMM904_Canvas.json",
    "reactions": 1577,
-   "nodes": 11500,
+   "nodes": 11524,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; Threonine and Lysine; Glutamate; +1 more",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_fae952.json",
-   "path": "iMM904/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_fae952.json",
+   "name": "Carbohydrate metabolism: Alternate Carbon; Pyruvate; Citric Acid Cycle; GlycolysisGluconeogenesis; +1 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Pyruvate_Cit_c980e6.json",
+   "path": "iMM904/Carbohydrate_metabolism_Alternate_Carbon_Pyruvate_Cit_c980e6.json",
    "reactions": 120,
-   "nodes": 888,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Nucleotide metabolism",
-   "file": "Nucleotide_metabolism.json",
-   "path": "iMM904/Nucleotide_metabolism.json",
-   "reactions": 120,
-   "nodes": 955,
+   "nodes": 987,
    "combined": false,
    "canvas": false
   },
@@ -39,38 +30,11 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Folate; Pantothenate and CoA Biosynthesis; NAD Biosynthesis; +2 more",
-   "file": "Cofactor_and_vitamin_metabolism_Folate_Pantothenate_a_61a255.json",
-   "path": "iMM904/Cofactor_and_vitamin_metabolism_Folate_Pantothenate_a_61a255.json",
-   "reactions": 119,
-   "nodes": 951,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Biomass and exchange; Complex Alcohol; +1 more",
-   "file": "Transport_and_exchange_Biomass_and_exchange_Complex_A_369ee6.json",
-   "path": "iMM904/Transport_and_exchange_Biomass_and_exchange_Complex_A_369ee6.json",
-   "reactions": 119,
-   "nodes": 839,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport Vacuolar; Transport Nuclear; Transport Extracellular; +3 more",
-   "file": "Transport_and_exchange_Transport_Vacuolar_Transport_N_e8fab5.json",
-   "path": "iMM904/Transport_and_exchange_Transport_Vacuolar_Transport_N_e8fab5.json",
-   "reactions": 119,
-   "nodes": 704,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Alternate Carbon; Pyruvate; GlycolysisGluconeogenesis; Galactose; +1 more",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_Pyruvate_Gly_4ae1a7.json",
-   "path": "iMM904/Carbohydrate_metabolism_Alternate_Carbon_Pyruvate_Gly_4ae1a7.json",
-   "reactions": 117,
-   "nodes": 1078,
+   "name": "Cofactor and vitamin metabolism: Folate; Pantothenate and CoA Biosynthesis; NAD Biosynthesis; Thiamine; +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Folate_Pantothenate_a_a9cffd.json",
+   "path": "iMM904/Cofactor_and_vitamin_metabolism_Folate_Pantothenate_a_a9cffd.json",
+   "reactions": 118,
+   "nodes": 932,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +43,7 @@
    "file": "Lipid_metabolism_Fatty_Acid_Biosynthesis_Phospholipid_4f4346.json",
    "path": "iMM904/Lipid_metabolism_Fatty_Acid_Biosynthesis_Phospholipid_4f4346.json",
    "reactions": 117,
-   "nodes": 1570,
+   "nodes": 1567,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +52,7 @@
    "file": "Lipid_metabolism_Sphingolipid_Sterol.json",
    "path": "iMM904/Lipid_metabolism_Sphingolipid_Sterol.json",
    "reactions": 117,
-   "nodes": 1340,
+   "nodes": 1347,
    "combined": false,
    "canvas": false
   },
@@ -102,6 +66,15 @@
    "canvas": false
   },
   {
+   "name": "Transport and exchange: Biomass and exchange; Complex Alcohol; +1 more",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Complex_A_369ee6.json",
+   "path": "iMM904/Transport_and_exchange_Biomass_and_exchange_Complex_A_369ee6.json",
+   "reactions": 116,
+   "nodes": 858,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Transport and exchange: Transport Peroxisomal; Extracellular exchange (Thiamine diphosphate); +1 more",
    "file": "Transport_and_exchange_Transport_Peroxisomal_Extracel_c8f543.json",
    "path": "iMM904/Transport_and_exchange_Transport_Peroxisomal_Extracel_c8f543.json",
@@ -111,11 +84,38 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Methionine; Alanine and Aspartate; Histidine; Other Amino Acid",
-   "file": "Amino_acid_metabolism_Methionine_Alanine_and_Aspartat_76529b.json",
-   "path": "iMM904/Amino_acid_metabolism_Methionine_Alanine_and_Aspartat_76529b.json",
+   "name": "Transport and exchange: Transport Vacuolar; Transport Nuclear; Quinone Biosynthesis; +1 more",
+   "file": "Transport_and_exchange_Transport_Vacuolar_Transport_N_87becb.json",
+   "path": "iMM904/Transport_and_exchange_Transport_Vacuolar_Transport_N_87becb.json",
+   "reactions": 116,
+   "nodes": 703,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Threonine and Lysine; Glycine and Serine; Glutamate",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Threonine_4a457a.json",
+   "path": "iMM904/Amino_acid_metabolism_Arginine_and_Proline_Threonine_4a457a.json",
+   "reactions": 109,
+   "nodes": 796,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Methionine; Histidine; Alanine and Aspartate; Other Amino Acid; Cysteine",
+   "file": "Amino_acid_metabolism_Methionine_Histidine_Alanine_an_96768d.json",
+   "path": "iMM904/Amino_acid_metabolism_Methionine_Histidine_Alanine_an_96768d.json",
+   "reactions": 87,
+   "nodes": 576,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotide Salvage Pathway",
+   "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
+   "path": "iMM904/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 76,
-   "nodes": 524,
+   "nodes": 594,
    "combined": false,
    "canvas": false
   },
@@ -124,25 +124,43 @@
    "file": "Lipid_metabolism_Fatty_Acid_Degradation_Glycerolipid_b21885.json",
    "path": "iMM904/Lipid_metabolism_Fatty_Acid_Degradation_Glycerolipid_b21885.json",
    "reactions": 72,
-   "nodes": 743,
+   "nodes": 742,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Thiamine; Porphyrin and Chlorophyll; Riboflavin",
-   "file": "Cofactor_and_vitamin_metabolism_Thiamine_Porphyrin_an_6da320.json",
-   "path": "iMM904/Cofactor_and_vitamin_metabolism_Thiamine_Porphyrin_an_6da320.json",
+   "name": "Nucleotide metabolism: Purine and Pyrimidine Biosynthesis",
+   "file": "Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthesis.json",
+   "path": "iMM904/Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthesis.json",
    "reactions": 48,
-   "nodes": 333,
+   "nodes": 316,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pentose Phosphate Pathway; Anaplerotic reactions; Fructose and Mannose",
-   "file": "Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Ana_65f268.json",
-   "path": "iMM904/Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Ana_65f268.json",
-   "reactions": 36,
-   "nodes": 232,
+   "name": "Carbohydrate metabolism: Galactose; Pentose Phosphate Pathway; Fructose and Mannose",
+   "file": "Carbohydrate_metabolism_Galactose_Pentose_Phosphate_P_aa340e.json",
+   "path": "iMM904/Carbohydrate_metabolism_Galactose_Pentose_Phosphate_P_aa340e.json",
+   "reactions": 43,
+   "nodes": 281,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport Endoplasmic Reticular; Transport Golgi Apparatus; Arabinose",
+   "file": "Transport_and_exchange_Transport_Endoplasmic_Reticula_a1e7c4.json",
+   "path": "iMM904/Transport_and_exchange_Transport_Endoplasmic_Reticula_a1e7c4.json",
+   "reactions": 31,
+   "nodes": 172,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Porphyrin and Chlorophyll; Pyridoxine",
+   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_and_Chlorop_b823a5.json",
+   "path": "iMM904/Cofactor_and_vitamin_metabolism_Porphyrin_and_Chlorop_b823a5.json",
+   "reactions": 26,
+   "nodes": 203,
    "combined": false,
    "canvas": false
   },
@@ -150,17 +168,8 @@
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iMM904/Energy_metabolism.json",
-   "reactions": 30,
-   "nodes": 179,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport Golgi Apparatus",
-   "file": "Transport_and_exchange_Transport_Golgi_Apparatus.json",
-   "path": "iMM904/Transport_and_exchange_Transport_Golgi_Apparatus.json",
-   "reactions": 8,
-   "nodes": 44,
+   "reactions": 15,
+   "nodes": 89,
    "combined": false,
    "canvas": false
   },
@@ -170,6 +179,15 @@
    "path": "iMM904/Glycan_metabolism.json",
    "reactions": 7,
    "nodes": 43,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iMM904/Other_metabolism.json",
+   "reactions": 7,
+   "nodes": 42,
    "combined": false,
    "canvas": false
   }

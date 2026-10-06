@@ -7,34 +7,25 @@
    "file": "iMM1415_Canvas.json",
    "path": "iMM1415/iMM1415_Canvas.json",
    "reactions": 3726,
-   "nodes": 27072,
+   "nodes": 27033,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Tyrosine; Tryptophan; Glutamate",
-   "file": "Amino_acid_metabolism_Tyrosine_Tryptophan_Glutamate.json",
-   "path": "iMM1415/Amino_acid_metabolism_Tyrosine_Tryptophan_Glutamate.json",
+   "name": "Amino acid metabolism: Tyrosine; Tryptophan; Methionine",
+   "file": "Amino_acid_metabolism_Tyrosine_Tryptophan_Methionine.json",
+   "path": "iMM1415/Amino_acid_metabolism_Tyrosine_Tryptophan_Methionine.json",
    "reactions": 120,
-   "nodes": 866,
+   "nodes": 847,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Urea cycle/amino group; Cysteine; Lysine; Alanine and Aspartate; beta-Alanine; +1 more",
-   "file": "Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_ca44c2.json",
-   "path": "iMM1415/Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_ca44c2.json",
+   "name": "Amino acid metabolism: Valine, Leucine, and Isoleucine; Glycine, Serine, and Threonine; +3 more",
+   "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_e920d3.json",
+   "path": "iMM1415/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_e920d3.json",
    "reactions": 120,
-   "nodes": 860,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Valine, Leucine, and Isoleucine; Glycine, Serine, and Threonine; +2 more",
-   "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_79a6a1.json",
-   "path": "iMM1415/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_79a6a1.json",
-   "reactions": 120,
-   "nodes": 991,
+   "nodes": 1092,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +34,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_St_bacd57.json",
    "path": "iMM1415/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_St_bacd57.json",
    "reactions": 120,
-   "nodes": 1256,
+   "nodes": 1254,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +52,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Folate_Vitamin_A_NAD_ab07ba.json",
    "path": "iMM1415/Cofactor_and_vitamin_metabolism_Folate_Vitamin_A_NAD_ab07ba.json",
    "reactions": 120,
-   "nodes": 967,
+   "nodes": 961,
    "combined": false,
    "canvas": false
   },
@@ -71,6 +62,15 @@
    "path": "iMM1415/Glycan_metabolism_Keratan_sulfate_degradation_Chondro_68897e.json",
    "reactions": 120,
    "nodes": 1510,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotides (Reduced thioredoxin; Thymidine transport Thymd); +2 more",
+   "file": "Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_aaf148.json",
+   "path": "iMM1415/Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_aaf148.json",
+   "reactions": 120,
+   "nodes": 860,
    "combined": false,
    "canvas": false
   },
@@ -147,20 +147,11 @@
    "canvas": false
   },
   {
-   "name": "Nucleotide metabolism: Nucleotides (3',5'-Cyclic GMP; Cytidylate kinase dcmp; +4)",
-   "file": "Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_e10ba4.json",
-   "path": "iMM1415/Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_e10ba4.json",
-   "reactions": 119,
-   "nodes": 740,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Lipid metabolism: Fatty acid activation; R Group Synthesis",
    "file": "Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
    "path": "iMM1415/Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
    "reactions": 118,
-   "nodes": 1363,
+   "nodes": 1364,
    "combined": false,
    "canvas": false
   },
@@ -174,6 +165,24 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Urea cycle/amino group; Cysteine; Lysine; Alanine and Aspartate; beta-Alanine",
+   "file": "Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
+   "path": "iMM1415/Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
+   "reactions": 117,
+   "nodes": 820,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Nucleotides (3',5'-Cyclic GMP; Cytidylate kinase dcmp; +3)",
+   "file": "Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_67ef8d.json",
+   "path": "iMM1415/Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_67ef8d.json",
+   "reactions": 117,
+   "nodes": 764,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Transport and exchange: Transport, Lysosomal",
    "file": "Transport_and_exchange_Transport_Lysosomal.json",
    "path": "iMM1415/Transport_and_exchange_Transport_Lysosomal.json",
@@ -183,29 +192,20 @@
    "canvas": false
   },
   {
+   "name": "Cofactor and vitamin metabolism: Vitamin D; Heme Biosynthesis; Biotin; Ubiquinone Biosynthesis; Vitamin B6; +2 more",
+   "file": "Cofactor_and_vitamin_metabolism_Vitamin_D_Heme_Biosyn_c948ff.json",
+   "path": "iMM1415/Cofactor_and_vitamin_metabolism_Vitamin_D_Heme_Biosyn_c948ff.json",
+   "reactions": 116,
+   "nodes": 795,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Transport and exchange: Transport, Extracellular (Bicarbonate; amino acids and peptides); +1 more",
    "file": "Transport_and_exchange_Transport_Extracellular_Bicarb_58f285.json",
    "path": "iMM1415/Transport_and_exchange_Transport_Extracellular_Bicarb_58f285.json",
    "reactions": 116,
-   "nodes": 661,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Vitamin D; Heme Biosynthesis; Biotin; Ubiquinone Biosynthesis; Vitamin B6; +2 more",
-   "file": "Cofactor_and_vitamin_metabolism_Vitamin_D_Heme_Biosyn_c948ff.json",
-   "path": "iMM1415/Cofactor_and_vitamin_metabolism_Vitamin_D_Heme_Biosyn_c948ff.json",
-   "reactions": 115,
-   "nodes": 793,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Nucleotide metabolism: Nucleotides (Reduced thioredoxin; Cytidylate kinase dcmp); Pyrimidine Catabolism; +1 more",
-   "file": "Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_ced1b3.json",
-   "path": "iMM1415/Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_ced1b3.json",
-   "reactions": 114,
-   "nodes": 864,
+   "nodes": 660,
    "combined": false,
    "canvas": false
   },
@@ -268,7 +268,7 @@
    "file": "Transport_and_exchange_Transport_Extracellular_amino_6d23a9.json",
    "path": "iMM1415/Transport_and_exchange_Transport_Extracellular_amino_6d23a9.json",
    "reactions": 106,
-   "nodes": 757,
+   "nodes": 764,
    "combined": false,
    "canvas": false
   },
@@ -276,26 +276,26 @@
    "name": "Carbohydrate metabolism: Propanoate; Citric Acid Cycle; Fructose and Mannose; +5 more",
    "file": "Carbohydrate_metabolism_Propanoate_Citric_Acid_Cycle_7cb3cb.json",
    "path": "iMM1415/Carbohydrate_metabolism_Propanoate_Citric_Acid_Cycle_7cb3cb.json",
-   "reactions": 98,
-   "nodes": 755,
+   "reactions": 99,
+   "nodes": 719,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Nucleotide metabolism: Nucleotides (Antiport); Purine Catabolism; Pyrimidine Biosynthesis",
-   "file": "Nucleotide_metabolism_Nucleotides_Antiport_Purine_Cat_06064c.json",
-   "path": "iMM1415/Nucleotide_metabolism_Nucleotides_Antiport_Purine_Cat_06064c.json",
-   "reactions": 88,
-   "nodes": 563,
+   "name": "Nucleotide metabolism: Nucleotides (Antiport); IMP Biosynthesis; Pyrimidine Biosynthesis",
+   "file": "Nucleotide_metabolism_Nucleotides_Antiport_IMP_Biosyn_c9d226.json",
+   "path": "iMM1415/Nucleotide_metabolism_Nucleotides_Antiport_IMP_Biosyn_c9d226.json",
+   "reactions": 80,
+   "nodes": 488,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Histidine; Selenoamino acid; Phenylalanine; Taurine and hypotaurine; Methionine",
-   "file": "Amino_acid_metabolism_Histidine_Selenoamino_acid_Phen_a3674f.json",
-   "path": "iMM1415/Amino_acid_metabolism_Histidine_Selenoamino_acid_Phen_a3674f.json",
-   "reactions": 52,
-   "nodes": 356,
+   "name": "Amino acid metabolism: Histidine; Selenoamino acid; Glutathione; Phenylalanine; Taurine and hypotaurine",
+   "file": "Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_27c38a.json",
+   "path": "iMM1415/Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_27c38a.json",
+   "reactions": 57,
+   "nodes": 412,
    "combined": false,
    "canvas": false
   },

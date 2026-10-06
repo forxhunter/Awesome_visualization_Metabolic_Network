@@ -6,8 +6,8 @@
    "name": "iAM_Pc455 - Plasmodium cynomolgi (malaria parasite)",
    "file": "iAM_Pc455_Canvas.json",
    "path": "iAM_Pc455/iAM_Pc455_Canvas.json",
-   "reactions": 1070,
-   "nodes": 7450,
+   "reactions": 1074,
+   "nodes": 7448,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
    "path": "iAM_Pc455/Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
    "reactions": 120,
-   "nodes": 1110,
+   "nodes": 1107,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +25,16 @@
    "file": "Lipid_metabolism_Phosphatidyl.json",
    "path": "iAM_Pc455/Lipid_metabolism_Phosphatidyl.json",
    "reactions": 120,
-   "nodes": 944,
+   "nodes": 909,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "path": "iAM_Pc455/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "reactions": 119,
+   "nodes": 850,
    "combined": false,
    "canvas": false
   },
@@ -39,20 +48,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
-   "path": "iAM_Pc455/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
-   "reactions": 118,
-   "nodes": 863,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Cofactor and vitamin metabolism: Nicotinamide adenine dinucleotide transport",
    "file": "Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
    "path": "iAM_Pc455/Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
-   "reactions": 113,
-   "nodes": 691,
+   "reactions": 117,
+   "nodes": 712,
    "combined": false,
    "canvas": false
   },
@@ -60,8 +60,8 @@
    "name": "Transport and exchange: Acyl-carrier-protein; Dagpf; Intracellular demand; Pyruvate; +1 more",
    "file": "Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_cdfe1b.json",
    "path": "iAM_Pc455/Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_cdfe1b.json",
-   "reactions": 109,
-   "nodes": 677,
+   "reactions": 103,
+   "nodes": 616,
    "combined": false,
    "canvas": false
   },
@@ -75,20 +75,20 @@
    "canvas": false
   },
   {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iAM_Pc455/Carbohydrate_metabolism.json",
+   "reactions": 88,
+   "nodes": 580,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "iAM_Pc455/Nucleotide_metabolism.json",
    "reactions": 84,
    "nodes": 569,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism",
-   "file": "Carbohydrate_metabolism.json",
-   "path": "iAM_Pc455/Carbohydrate_metabolism.json",
-   "reactions": 82,
-   "nodes": 568,
    "combined": false,
    "canvas": false
   },
@@ -106,16 +106,16 @@
    "file": "Glycan_metabolism.json",
    "path": "iAM_Pc455/Glycan_metabolism.json",
    "reactions": 21,
-   "nodes": 166,
+   "nodes": 232,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glycine, serine and threonine; Lysine degradation; +1 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
-   "path": "iAM_Pc455/Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
-   "reactions": 19,
-   "nodes": 128,
+   "name": "Amino acid metabolism: Glutathione; Lysine degradation; Valine, leucine and isoleucine degradation",
+   "file": "Amino_acid_metabolism_Glutathione_Lysine_degradation_fde3fc.json",
+   "path": "iAM_Pc455/Amino_acid_metabolism_Glutathione_Lysine_degradation_fde3fc.json",
+   "reactions": 18,
+   "nodes": 118,
    "combined": false,
    "canvas": false
   },

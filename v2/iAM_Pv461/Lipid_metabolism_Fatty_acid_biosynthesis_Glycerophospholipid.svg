@@ -170,6 +170,12 @@
 <line x1="840.0" y1="1240.0" x2="804.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="804.0" y1="1240.0" x2="770.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="770.0" y1="1240.0" x2="770.0" y2="1370.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="630.0" y1="1110.0" x2="630.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="630.0" y1="1240.0" x2="664.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="664.0" y1="1240.0" x2="700.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="700.0" y1="1240.0" x2="736.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="736.0" y1="1240.0" x2="770.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="770.0" y1="1240.0" x2="770.0" y2="1370.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="770.0" y1="1370.0" x2="770.0" y2="1464.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="770.0" y1="1464.0" x2="770.0" y2="1500.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="770.0" y1="1500.0" x2="770.0" y2="1536.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -178,12 +184,6 @@
 <path d="M929.1 1447.3 C823.0 1367.8 770.0 1373.3 770.0 1464.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M770.0 1536.0 C770.0 1626.7 823.0 1632.2 929.1 1552.7" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M770.0 1536.0 C770.0 1626.7 816.2 1653.3 908.6 1616.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<line x1="630.0" y1="1110.0" x2="630.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="630.0" y1="1240.0" x2="664.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="664.0" y1="1240.0" x2="700.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="700.0" y1="1240.0" x2="736.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="736.0" y1="1240.0" x2="770.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="770.0" y1="1240.0" x2="770.0" y2="1370.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1630.0" y1="2000.0" x2="1630.0" y2="2094.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1630.0" y1="2094.0" x2="1630.0" y2="2130.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1630.0" y1="2130.0" x2="1630.0" y2="2166.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -335,11 +335,11 @@
 <path d="M791.7 3883.4 L839.6 3892.2 L823.8 3920.0 Z" fill="#9aa6b2"/>
 <path d="M910.0 1140.0 L926.0 1186.0 L894.0 1186.0 Z" fill="#2f3b47"/>
 <path d="M770.0 1340.0 L754.0 1294.0 L786.0 1294.0 Z" fill="#2f3b47"/>
+<path d="M630.0 1140.0 L646.0 1186.0 L614.0 1186.0 Z" fill="#2f3b47"/>
+<path d="M770.0 1340.0 L754.0 1294.0 L786.0 1294.0 Z" fill="#2f3b47"/>
 <path d="M770.0 1600.0 L754.0 1554.0 L786.0 1554.0 Z" fill="#2f3b47"/>
 <path d="M916.3 1562.3 L889.1 1602.7 L869.9 1577.1 Z" fill="#9aa6b2"/>
 <path d="M893.7 1622.0 L857.1 1654.1 L845.1 1624.4 Z" fill="#9aa6b2"/>
-<path d="M630.0 1140.0 L646.0 1186.0 L614.0 1186.0 Z" fill="#2f3b47"/>
-<path d="M770.0 1340.0 L754.0 1294.0 L786.0 1294.0 Z" fill="#2f3b47"/>
 <path d="M1630.0 2230.0 L1614.0 2184.0 L1646.0 2184.0 Z" fill="#2f3b47"/>
 <path d="M1491.7 2223.4 L1539.6 2232.2 L1523.8 2260.0 Z" fill="#9aa6b2"/>
 <path d="M650.0 2940.0 L666.0 2986.0 L634.0 2986.0 Z" fill="#2f3b47"/>
@@ -566,6 +566,11 @@
 <circle cx="804.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
 <circle cx="910.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
 <circle cx="770.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
+<circle cx="700.0" cy="1240.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="664.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
+<circle cx="736.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
+<circle cx="630.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
+<circle cx="770.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
 <circle cx="770.0" cy="1500.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="770.0" cy="1464.0" r="6.0" fill="#7f8c99"/>
 <circle cx="770.0" cy="1536.0" r="6.0" fill="#7f8c99"/>
@@ -573,11 +578,6 @@
 <circle cx="929.1" cy="1447.3" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="929.1" cy="1552.7" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="908.6" cy="1616.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="700.0" cy="1240.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="664.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
-<circle cx="736.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
-<circle cx="630.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
-<circle cx="770.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1630.0" cy="2130.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1630.0" cy="2094.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1630.0" cy="2166.0" r="6.0" fill="#7f8c99"/>
@@ -805,8 +805,8 @@
 <text x="2687.8" y="1110.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACCOAC</text>
 <text x="967.8" y="3790.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACOATA_1</text>
 <text x="831.5" y="1287.4" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">TTDCAtr</text>
-<text x="807.8" y="1500.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">FACOAL140</text>
 <text x="683.7" y="1192.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">FAC140t_c</text>
+<text x="807.8" y="1500.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">FACOAL140</text>
 <text x="1667.8" y="2130.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ETHAK</text>
 <text x="711.5" y="2992.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">G3PD1ir</text>
 <text x="1527.8" y="4150.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">G3PD1</text>

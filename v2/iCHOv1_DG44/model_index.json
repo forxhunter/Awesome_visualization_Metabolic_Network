@@ -6,8 +6,8 @@
    "name": "iCHOv1_DG44 - Cricetulus griseus (Chinese hamster, CHO)",
    "file": "iCHOv1_DG44_Canvas.json",
    "path": "iCHOv1_DG44/iCHOv1_DG44_Canvas.json",
-   "reactions": 3937,
-   "nodes": 28316,
+   "reactions": 3940,
+   "nodes": 28072,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_9d0b88.json",
    "path": "iCHOv1_DG44/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_9d0b88.json",
    "reactions": 120,
-   "nodes": 841,
+   "nodes": 817,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +25,16 @@
    "file": "Lipid_metabolism_Cholesterol_ester_transport_Sphingolipid.json",
    "path": "iCHOv1_DG44/Lipid_metabolism_Cholesterol_ester_transport_Sphingolipid.json",
    "reactions": 120,
-   "nodes": 1121,
+   "nodes": 1062,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Steroid hormone biosynthesis; Fatty acid; Glycerophospholipid; +1 more",
+   "file": "Lipid_metabolism_Steroid_hormone_biosynthesis_Fatty_a_e1d8e3.json",
+   "path": "iCHOv1_DG44/Lipid_metabolism_Steroid_hormone_biosynthesis_Fatty_a_e1d8e3.json",
+   "reactions": 120,
+   "nodes": 964,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +43,16 @@
    "file": "Transport_and_exchange_Adrenyl_transport_Deoxyuridine_45fb1e.json",
    "path": "iCHOv1_DG44/Transport_and_exchange_Adrenyl_transport_Deoxyuridine_45fb1e.json",
    "reactions": 120,
-   "nodes": 1408,
+   "nodes": 1443,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Ammonium transport",
+   "file": "Transport_and_exchange_Ammonium_transport.json",
+   "path": "iCHOv1_DG44/Transport_and_exchange_Ammonium_transport.json",
+   "reactions": 120,
+   "nodes": 707,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +61,7 @@
    "file": "Transport_and_exchange_Chloride_transport.json",
    "path": "iCHOv1_DG44/Transport_and_exchange_Chloride_transport.json",
    "reactions": 120,
-   "nodes": 1187,
+   "nodes": 1230,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +115,7 @@
    "file": "Transport_and_exchange_Intracellular_demand_Alpha_dih_266208.json",
    "path": "iCHOv1_DG44/Transport_and_exchange_Intracellular_demand_Alpha_dih_266208.json",
    "reactions": 120,
-   "nodes": 811,
+   "nodes": 848,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +124,16 @@
    "file": "Transport_and_exchange_Resistance-nodulation-cell_div_5c49a8.json",
    "path": "iCHOv1_DG44/Transport_and_exchange_Resistance-nodulation-cell_div_5c49a8.json",
    "reactions": 120,
-   "nodes": 913,
+   "nodes": 871,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Valine, leucine and isoleucine degradation; Arginine and proline; +2 more",
+   "file": "Amino_acid_metabolism_Valine_leucine_and_isoleucine_d_b3a488.json",
+   "path": "iCHOv1_DG44/Amino_acid_metabolism_Valine_leucine_and_isoleucine_d_b3a488.json",
+   "reactions": 119,
+   "nodes": 928,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +151,7 @@
    "file": "Lipid_metabolism_Fatty_acid_Carnitine_Fatty_acid_elongation.json",
    "path": "iCHOv1_DG44/Lipid_metabolism_Fatty_acid_Carnitine_Fatty_acid_elongation.json",
    "reactions": 119,
-   "nodes": 1105,
+   "nodes": 1064,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +160,16 @@
    "file": "Transport_and_exchange_Adenosine_bisphosphate_transpo_6b9772.json",
    "path": "iCHOv1_DG44/Transport_and_exchange_Adenosine_bisphosphate_transpo_6b9772.json",
    "reactions": 119,
-   "nodes": 884,
+   "nodes": 902,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Cho; Fatty",
+   "file": "Transport_and_exchange_Cho_Fatty.json",
+   "path": "iCHOv1_DG44/Transport_and_exchange_Cho_Fatty.json",
+   "reactions": 119,
+   "nodes": 900,
    "combined": false,
    "canvas": false
   },
@@ -147,18 +183,18 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Valine, leucine and isoleucine degradation; Arginine and proline; +2 more",
-   "file": "Amino_acid_metabolism_Valine_leucine_and_isoleucine_d_b3a488.json",
-   "path": "iCHOv1_DG44/Amino_acid_metabolism_Valine_leucine_and_isoleucine_d_b3a488.json",
+   "name": "Amino acid metabolism: Glycine, serine and threonine; Tyrosine; Alanine; +4 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ty_5bd7db.json",
+   "path": "iCHOv1_DG44/Amino_acid_metabolism_Glycine_serine_and_threonine_Ty_5bd7db.json",
    "reactions": 118,
-   "nodes": 939,
+   "nodes": 905,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle)",
-   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_a67ffd.json",
-   "path": "iCHOv1_DG44/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_a67ffd.json",
+   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Pentose phosphate pathway",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_0e6569.json",
+   "path": "iCHOv1_DG44/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_0e6569.json",
    "reactions": 118,
    "nodes": 832,
    "combined": false,
@@ -169,16 +205,7 @@
    "file": "Glycan_metabolism_Glycosaminoglycan_degradation.json",
    "path": "iCHOv1_DG44/Glycan_metabolism_Glycosaminoglycan_degradation.json",
    "reactions": 118,
-   "nodes": 923,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Cho; Fatty",
-   "file": "Transport_and_exchange_Cho_Fatty.json",
-   "path": "iCHOv1_DG44/Transport_and_exchange_Cho_Fatty.json",
-   "reactions": 118,
-   "nodes": 868,
+   "nodes": 892,
    "combined": false,
    "canvas": false
   },
@@ -201,15 +228,6 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glycine, serine and threonine; Tyrosine; Alanine; Cysteine and methionine; +2 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ty_33c263.json",
-   "path": "iCHOv1_DG44/Amino_acid_metabolism_Glycine_serine_and_threonine_Ty_33c263.json",
-   "reactions": 117,
-   "nodes": 845,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Glycan metabolism: Mannosyl-oligosaccharide Alpha-mannosidase; Chondroitin sulfate",
    "file": "Glycan_metabolism_Mannosyl-oligosaccharide_Alpha-mann_6bcf5e.json",
    "path": "iCHOv1_DG44/Glycan_metabolism_Mannosyl-oligosaccharide_Alpha-mann_6bcf5e.json",
@@ -219,11 +237,11 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Ammonium transport",
-   "file": "Transport_and_exchange_Ammonium_transport.json",
-   "path": "iCHOv1_DG44/Transport_and_exchange_Ammonium_transport.json",
-   "reactions": 117,
-   "nodes": 688,
+   "name": "Lipid metabolism: Fatty acid Beta oxidation",
+   "file": "Lipid_metabolism_Fatty_acid_Beta_oxidation.json",
+   "path": "iCHOv1_DG44/Lipid_metabolism_Fatty_acid_Beta_oxidation.json",
+   "reactions": 115,
+   "nodes": 1428,
    "combined": false,
    "canvas": false
   },
@@ -231,26 +249,8 @@
    "name": "Transport and exchange: Antiport",
    "file": "Transport_and_exchange_Antiport.json",
    "path": "iCHOv1_DG44/Transport_and_exchange_Antiport.json",
-   "reactions": 117,
-   "nodes": 1190,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Fatty acid Beta oxidation",
-   "file": "Lipid_metabolism_Fatty_acid_Beta_oxidation.json",
-   "path": "iCHOv1_DG44/Lipid_metabolism_Fatty_acid_Beta_oxidation.json",
    "reactions": 115,
-   "nodes": 1455,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Steroid hormone biosynthesis; Fatty acid; Fatty acid biosynthesis; +1 more",
-   "file": "Lipid_metabolism_Steroid_hormone_biosynthesis_Fatty_a_f8138c.json",
-   "path": "iCHOv1_DG44/Lipid_metabolism_Steroid_hormone_biosynthesis_Fatty_a_f8138c.json",
-   "reactions": 115,
-   "nodes": 907,
+   "nodes": 1031,
    "combined": false,
    "canvas": false
   },
@@ -259,16 +259,16 @@
    "file": "Transport_and_exchange_Sialyl_sialyl_galactosylglobos_32b661.json",
    "path": "iCHOv1_DG44/Transport_and_exchange_Sialyl_sialyl_galactosylglobos_32b661.json",
    "reactions": 115,
-   "nodes": 967,
+   "nodes": 941,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid; Fatty acid odd Oxidation long chain; +6 more",
-   "file": "Lipid_metabolism_Glycerophospholipid_Fatty_acid_odd_O_4f7e6e.json",
-   "path": "iCHOv1_DG44/Lipid_metabolism_Glycerophospholipid_Fatty_acid_odd_O_4f7e6e.json",
-   "reactions": 110,
-   "nodes": 923,
+   "name": "Lipid metabolism: Arachidonic acid; Fatty acid odd Oxidation long chain; +6 more",
+   "file": "Lipid_metabolism_Arachidonic_acid_Fatty_acid_odd_Oxid_106860.json",
+   "path": "iCHOv1_DG44/Lipid_metabolism_Arachidonic_acid_Fatty_acid_odd_Oxid_106860.json",
+   "reactions": 111,
+   "nodes": 818,
    "combined": false,
    "canvas": false
   },
@@ -277,7 +277,7 @@
    "file": "Transport_and_exchange_Folylpolyglutamate_synthetase_7fbc70.json",
    "path": "iCHOv1_DG44/Transport_and_exchange_Folylpolyglutamate_synthetase_7fbc70.json",
    "reactions": 90,
-   "nodes": 615,
+   "nodes": 601,
    "combined": false,
    "canvas": false
   },
@@ -286,7 +286,7 @@
    "file": "Nucleotide_metabolism_Purine.json",
    "path": "iCHOv1_DG44/Nucleotide_metabolism_Purine.json",
    "reactions": 81,
-   "nodes": 734,
+   "nodes": 740,
    "combined": false,
    "canvas": false
   },
@@ -294,8 +294,8 @@
    "name": "Carbohydrate metabolism: Amino sugar and nucleotide sugar; Starch and sucrose; Pyruvate; +4 more",
    "file": "Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_67f265.json",
    "path": "iCHOv1_DG44/Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_67f265.json",
-   "reactions": 69,
-   "nodes": 484,
+   "reactions": 72,
+   "nodes": 485,
    "combined": false,
    "canvas": false
   },
@@ -312,17 +312,17 @@
    "name": "Glycan metabolism: Glycosphingolipid biosynthesis - globo and isoglobo series; +4 more",
    "file": "Glycan_metabolism_Glycosphingolipid_biosynthesis_-_gl_c3d720.json",
    "path": "iCHOv1_DG44/Glycan_metabolism_Glycosphingolipid_biosynthesis_-_gl_c3d720.json",
-   "reactions": 59,
-   "nodes": 434,
+   "reactions": 58,
+   "nodes": 452,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Lysine degradation; Tryptophan; L-methionine Intestine; Taurine Hypotaurine; +2 more",
-   "file": "Amino_acid_metabolism_Lysine_degradation_Tryptophan_L_66a4ba.json",
-   "path": "iCHOv1_DG44/Amino_acid_metabolism_Lysine_degradation_Tryptophan_L_66a4ba.json",
-   "reactions": 50,
-   "nodes": 344,
+   "name": "Amino acid metabolism: Lysine degradation; Tryptophan; Taurine Hypotaurine; Phenylalanine; +1 more",
+   "file": "Amino_acid_metabolism_Lysine_degradation_Tryptophan_T_dcd2a6.json",
+   "path": "iCHOv1_DG44/Amino_acid_metabolism_Lysine_degradation_Tryptophan_T_dcd2a6.json",
+   "reactions": 42,
+   "nodes": 288,
    "combined": false,
    "canvas": false
   },
@@ -336,11 +336,11 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Nicotinate and nicotinamide; Vitamin; Thiamine",
-   "file": "Cofactor_and_vitamin_metabolism_Nicotinate_and_nicoti_8af75d.json",
-   "path": "iCHOv1_DG44/Cofactor_and_vitamin_metabolism_Nicotinate_and_nicoti_8af75d.json",
-   "reactions": 33,
-   "nodes": 220,
+   "name": "Cofactor and vitamin metabolism: Vitamin; Nicotinate and nicotinamide; Thiamine",
+   "file": "Cofactor_and_vitamin_metabolism_Vitamin_Nicotinate_an_e6da16.json",
+   "path": "iCHOv1_DG44/Cofactor_and_vitamin_metabolism_Vitamin_Nicotinate_an_e6da16.json",
+   "reactions": 32,
+   "nodes": 212,
    "combined": false,
    "canvas": false
   },

@@ -437,7 +437,7 @@
 <line x1="8510.9" y1="5920.0" x2="8546.9" y2="5920.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="8546.9" y1="5920.0" x2="8593.4" y2="5920.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="8593.4" y1="5920.0" x2="8593.4" y2="5790.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M8419.7 6115.4 C8367.7 5970.7 8384.2 5920.0 8474.9 5920.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M8418.5 6115.2 C8367.7 5970.7 8384.2 5920.0 8474.9 5920.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M8546.9 5920.0 C8637.5 5920.0 8654.0 5970.7 8596.3 6072.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="7148.4" y1="3970.0" x2="7148.4" y2="3876.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="7148.4" y1="3876.0" x2="7148.4" y2="3840.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -1559,7 +1559,7 @@
 <circle cx="8546.9" cy="5920.0" r="6.0" fill="#7f8c99"/>
 <circle cx="8428.4" cy="5920.0" r="6.0" fill="#7f8c99"/>
 <circle cx="8593.4" cy="5920.0" r="6.0" fill="#7f8c99"/>
-<circle cx="8419.7" cy="6115.4" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="8418.5" cy="6115.2" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="8596.3" cy="6072.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="7148.4" cy="3840.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="7148.4" cy="3876.0" r="6.0" fill="#7f8c99"/>
@@ -2103,7 +2103,7 @@
 <text x="5215.0" y="3665.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
 <text x="7665.2" y="3689.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ctp</text>
 <text x="7665.2" y="3518.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
-<text x="8454.4" y="6115.4" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyc3p</text>
+<text x="8453.2" y="6115.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyc3p</text>
 <text x="8631.0" y="6072.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ACP</text>
 <text x="6892.6" y="3925.4" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyc3p</text>
 <text x="6927.1" y="3754.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ACP</text>

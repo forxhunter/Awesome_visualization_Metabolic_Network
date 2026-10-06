@@ -322,7 +322,7 @@
 <line x1="2246.8" y1="1780.0" x2="2282.8" y2="1780.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2282.8" y1="1780.0" x2="2549.2" y2="1780.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2549.2" y1="1780.0" x2="2549.2" y2="1890.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M2161.3 1627.8 C2103.6 1729.3 2120.1 1780.0 2210.8 1780.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M2163.6 1630.4 C2103.6 1729.3 2120.1 1780.0 2210.8 1780.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2282.8 1780.0 C2373.4 1780.0 2389.9 1729.3 2332.2 1627.8" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1944.2" y1="1670.0" x2="1929.2" y2="1670.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1929.2" y1="1670.0" x2="1929.2" y2="1780.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -766,7 +766,7 @@
 <circle cx="2282.8" cy="1780.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1929.2" cy="1780.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2549.2" cy="1780.0" r="6.0" fill="#7f8c99"/>
-<circle cx="2161.3" cy="1627.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="2163.6" cy="1630.4" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="2332.2" cy="1627.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2156.4" cy="1582.1" r="11.0" fill="#3a7bd5"/>
 <circle cx="2180.3" cy="1555.2" r="6.0" fill="#7f8c99"/>
@@ -940,9 +940,9 @@
 <text x="1815.5" y="1412.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ump</text>
 <text x="1790.5" y="1979.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">uGgla</text>
 <text x="1579.2" y="1932.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ump</text>
-<text x="2186.3" y="1706.7" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ugmda</text>
+<text x="2188.6" y="1709.3" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ugmda</text>
 <text x="2366.9" y="1627.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ump</text>
-<text x="2268.7" y="1703.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
+<text x="2236.8" y="1748.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="1950.3" y="4970.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACGAMPM</text>
 <text x="1489.4" y="1732.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACGAMT</text>
 <text x="3810.3" y="3570.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ALAALAr</text>
@@ -988,7 +988,7 @@
 <text x="3250.3" y="4090.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">UGMDDS2</text>
 <text x="1556.3" y="1582.1" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">PAPPT1</text>
 <text x="1751.2" y="1694.5" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">PAPPT2</text>
-<text x="2242.2" y="1732.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">PAPPT3</text>
+<text x="2311.3" y="1829.3" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">PAPPT3</text>
 <text x="2123.8" y="1492.2" font-size="18.8" fill="#2b5fa8" dominant-baseline="middle">UDCPDP</text>
 <text x="114.0" y="892.7" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Glycan metabolism</text>
 <text x="114.0" y="5438.2" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>

@@ -51,7 +51,7 @@
 <line x1="1349.0" y1="1240.0" x2="1431.2" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1431.2" y1="1240.0" x2="1431.2" y2="1370.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1762.2 697.8 C1819.9 799.3 1803.4 741.8 1712.8 741.8" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M1640.8 741.8 C1550.1 741.8 1533.6 799.3 1591.3 697.8" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M1640.8 741.8 C1550.1 741.8 1533.6 799.3 1589.2 695.3" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3181.2" y1="1350.0" x2="3181.2" y2="1444.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3181.2" y1="1444.0" x2="3181.2" y2="1480.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3181.2" y1="1480.0" x2="3181.2" y2="1516.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -238,7 +238,7 @@
 <line x1="1776.8" y1="742.8" x2="1812.8" y2="742.8" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1812.8" y1="742.8" x2="1842.2" y2="742.8" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1691.3 872.2 C1633.6 770.7 1650.1 742.8 1740.8 742.8" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M1812.8 742.8 C1903.4 742.8 1919.9 770.7 1874.0 880.9" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M1812.8 742.8 C1903.4 742.8 1919.9 770.7 1875.7 881.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1732.8" y1="637.8" x2="1732.8" y2="742.8" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1842.2" y1="742.8" x2="1842.2" y2="880.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1736.3" y1="637.8" x2="1732.8" y2="637.8" stroke="#2f3b47" stroke-width="6.0"/>
@@ -311,7 +311,7 @@
 <path d="M2361.2 620.0 L2377.2 666.0 L2345.2 666.0 Z" fill="#2f3b47"/>
 <path d="M1431.2 1340.0 L1415.2 1294.0 L1447.2 1294.0 Z" fill="#2f3b47"/>
 <path d="M1770.1 711.7 L1806.8 743.8 L1778.9 759.6 Z" fill="#9aa6b2"/>
-<path d="M1576.5 723.9 L1567.6 771.8 L1539.8 756.0 Z" fill="#2f3b47"/>
+<path d="M1575.1 721.7 L1567.5 769.8 L1539.3 754.7 Z" fill="#2f3b47"/>
 <path d="M3181.2 1380.0 L3197.2 1426.0 L3165.2 1426.0 Z" fill="#2f3b47"/>
 <path d="M3181.2 1580.0 L3165.2 1534.0 L3197.2 1534.0 Z" fill="#2f3b47"/>
 <path d="M3319.5 1386.6 L3271.6 1377.8 L3287.4 1350.0 Z" fill="#9aa6b2"/>
@@ -374,7 +374,7 @@
 <path d="M2574.4 1248.3 L2537.7 1216.2 L2565.6 1200.4 Z" fill="#9aa6b2"/>
 <path d="M1751.2 590.0 L1797.2 574.0 L1797.2 606.0 Z" fill="#2f3b47"/>
 <path d="M1676.5 846.1 L1639.8 814.0 L1667.6 798.2 Z" fill="#2f3b47"/>
-<path d="M1880.2 866.2 L1883.1 817.6 L1912.6 829.8 Z" fill="#9aa6b2"/>
+<path d="M1881.7 866.1 L1883.9 817.5 L1913.6 829.4 Z" fill="#9aa6b2"/>
 <path d="M1832.2 880.0 L1848.2 926.0 L1816.2 926.0 Z" fill="#2f3b47"/>
 <path d="M1751.2 590.0 L1797.2 574.0 L1797.2 606.0 Z" fill="#2f3b47"/>
 <path d="M1660.2 1910.0 L1676.2 1956.0 L1644.2 1956.0 Z" fill="#2f3b47"/>
@@ -467,7 +467,7 @@
 <circle cx="1349.0" cy="1240.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1431.2" cy="1240.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1762.2" cy="697.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="1591.3" cy="697.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="1589.2" cy="695.3" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="3181.2" cy="1480.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="3181.2" cy="1444.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3181.2" cy="1516.0" r="6.0" fill="#7f8c99"/>
@@ -588,7 +588,7 @@
 <circle cx="1732.8" cy="742.8" r="6.0" fill="#7f8c99"/>
 <circle cx="1842.2" cy="742.8" r="6.0" fill="#7f8c99"/>
 <circle cx="1691.3" cy="872.2" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
-<circle cx="1874.0" cy="880.9" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="1875.7" cy="881.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1720.8" cy="2010.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1684.8" cy="2010.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1756.8" cy="2010.0" r="6.0" fill="#7f8c99"/>
@@ -741,7 +741,7 @@
 <text x="2960.0" y="1654.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
 <text x="2948.5" y="1825.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
 <text x="1661.9" y="652.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
-<text x="1626.0" y="697.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">SucCoA</text>
+<text x="1623.9" y="695.3" font-size="19.8" fill="#1c252e" dominant-baseline="middle">SucCoA</text>
 <text x="3368.1" y="1394.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
 <text x="3368.1" y="1565.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
 <text x="2018.4" y="1002.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">fadh2</text>
@@ -772,7 +772,7 @@
 <text x="2766.9" y="1241.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">bz</text>
 <text x="2617.0" y="1262.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Succ</text>
 <text x="1755.6" y="831.1" font-size="9.9" fill="#1c252e" dominant-baseline="middle">4hbz</text>
-<text x="1908.5" y="991.8" font-size="9.9" fill="#6b7885" dominant-baseline="middle">Succ</text>
+<text x="1910.2" y="991.9" font-size="9.9" fill="#6b7885" dominant-baseline="middle">Succ</text>
 <text x="1912.0" y="562.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Lac</text>
 <text x="2197.9" y="567.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Succ</text>
 <text x="2322.1" y="2776.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">dhlplarg</text>
@@ -805,7 +805,7 @@
 <text x="2560.1" y="1512.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">PHEPS</text>
 <text x="2083.5" y="866.7" font-size="15.8" fill="#2b5fa8" dominant-baseline="middle">PICH</text>
 <text x="2579.6" y="1134.8" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">SUCBZT1</text>
-<text x="1638.0" y="675.0" font-size="18.8" fill="#2b5fa8" dominant-baseline="middle">SUCBZT2</text>
+<text x="1638.5" y="674.1" font-size="13.5" fill="#2b5fa8" dominant-baseline="middle">SUCBZT2</text>
 <text x="1712.3" y="1962.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">4HBAtex</text>
 <text x="2130.0" y="642.1" font-size="18.8" fill="#2b5fa8" dominant-baseline="middle">DLTO</text>
 <text x="2354.9" y="2522.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">LACD</text>

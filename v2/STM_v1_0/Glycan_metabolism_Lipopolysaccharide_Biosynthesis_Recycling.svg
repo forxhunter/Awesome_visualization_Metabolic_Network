@@ -502,6 +502,11 @@
 <line x1="3895.0" y1="7066.0" x2="3895.0" y2="7160.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M4047.2 6944.6 C3945.7 6886.9 3895.0 6903.3 3895.0 6994.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3895.0 7066.0 C3895.0 7156.7 3945.7 7173.1 4047.2 7115.4" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M4525.0 8260.0 C4498.7 8285.5 4480.8 8318.3 4473.6 8354.2" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M4473.6 8354.2 C4471.2 8366.0 4470.0 8378.0 4470.0 8390.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M4470.0 8390.0 C4470.0 8402.0 4471.2 8414.0 4473.6 8425.8" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M4473.6 8425.8 C4480.8 8461.7 4498.7 8494.5 4525.0 8520.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M4473.6 8425.8 C4473.6 8516.4 4422.8 8532.9 4321.4 8475.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="2627.5" y1="8415.0" x2="3531.5" y2="8415.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3531.5" y1="8415.0" x2="3567.5" y2="8415.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3567.5" y1="8415.0" x2="3603.5" y2="8415.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -511,11 +516,6 @@
 <path d="M3603.5 8415.0 C3694.2 8415.0 3710.6 8440.7 3652.9 8542.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="2610.0" y1="8260.0" x2="2627.5" y2="8260.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2627.5" y1="8260.0" x2="2627.5" y2="8415.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M4525.0 8260.0 C4498.7 8285.5 4480.8 8318.3 4473.6 8354.2" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M4473.6 8354.2 C4471.2 8366.0 4470.0 8378.0 4470.0 8390.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M4470.0 8390.0 C4470.0 8402.0 4471.2 8414.0 4473.6 8425.8" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M4473.6 8425.8 C4480.8 8461.7 4498.7 8494.5 4525.0 8520.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M4473.6 8425.8 C4473.6 8516.4 4422.8 8532.9 4321.4 8475.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M4525.0 8260.0 C4551.3 8285.5 4569.2 8318.3 4576.4 8354.2" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M4576.4 8354.2 C4578.8 8366.0 4580.0 8378.0 4580.0 8390.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M4580.0 8390.0 C4580.0 8402.0 4578.8 8414.0 4576.4 8425.8" stroke="#2f3b47" stroke-width="6.0"/>
@@ -684,10 +684,10 @@
 <path d="M3223.3 3803.4 L3191.2 3840.0 L3175.4 3812.2 Z" fill="#9aa6b2"/>
 <path d="M3895.0 7130.0 L3879.0 7084.0 L3911.0 7084.0 Z" fill="#2f3b47"/>
 <path d="M4033.3 7123.4 L4001.2 7160.0 L3985.4 7132.2 Z" fill="#9aa6b2"/>
-<path d="M4525.0 8490.0 L4509.0 8444.0 L4541.0 8444.0 Z" fill="#2f3b47"/>
-<path d="M3660.9 8528.3 L3669.7 8480.4 L3697.5 8496.2 Z" fill="#9aa6b2"/>
 <path d="M4503.5 8499.1 L4459.3 8478.6 L4481.6 8455.6 Z" fill="#2f3b47"/>
 <path d="M4335.3 8483.1 L4383.2 8492.0 L4367.4 8519.8 Z" fill="#9aa6b2"/>
+<path d="M4525.0 8490.0 L4509.0 8444.0 L4541.0 8444.0 Z" fill="#2f3b47"/>
+<path d="M3660.9 8528.3 L3669.7 8480.4 L3697.5 8496.2 Z" fill="#9aa6b2"/>
 <path d="M4546.5 8499.1 L4568.4 8455.6 L4590.7 8478.6 Z" fill="#2f3b47"/>
 <path d="M4714.7 8483.1 L4682.6 8519.8 L4666.8 8492.0 Z" fill="#9aa6b2"/>
 <circle cx="3895.0" cy="6150.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
@@ -1195,6 +1195,10 @@
 <circle cx="3895.0" cy="7066.0" r="6.0" fill="#7f8c99"/>
 <circle cx="4047.2" cy="6944.6" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="4047.2" cy="7115.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="4470.0" cy="8390.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="4473.6" cy="8354.2" r="6.0" fill="#7f8c99"/>
+<circle cx="4473.6" cy="8425.8" r="6.0" fill="#7f8c99"/>
+<circle cx="4321.4" cy="8475.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3567.5" cy="8415.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="3531.5" cy="8415.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3603.5" cy="8415.0" r="6.0" fill="#7f8c99"/>
@@ -1202,10 +1206,6 @@
 <circle cx="4525.0" cy="8415.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3482.1" cy="8542.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3652.9" cy="8542.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="4470.0" cy="8390.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="4473.6" cy="8354.2" r="6.0" fill="#7f8c99"/>
-<circle cx="4473.6" cy="8425.8" r="6.0" fill="#7f8c99"/>
-<circle cx="4321.4" cy="8475.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="4580.0" cy="8390.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="4576.4" cy="8354.2" r="6.0" fill="#7f8c99"/>
 <circle cx="4576.4" cy="8425.8" r="6.0" fill="#7f8c99"/>
@@ -1447,9 +1447,9 @@
 <text x="3271.8" y="3795.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="4081.8" y="6944.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
 <text x="4081.8" y="7115.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
+<text x="4229.3" y="8475.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">OA-ST</text>
 <text x="3516.7" y="8542.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">OA-ST</text>
 <text x="3687.6" y="8542.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">colipaOA</text>
-<text x="4229.3" y="8475.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">OA-ST</text>
 <text x="4763.3" y="8475.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">OA-ST</text>
 <text x="2322.8" y="8650.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACOLIPAtex</text>
 <text x="3312.8" y="7880.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">AGMHE</text>
@@ -1535,9 +1535,9 @@
 <text x="3217.8" y="5530.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">LIPAHTex</text>
 <text x="3122.8" y="3710.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">TDSK</text>
 <text x="3932.8" y="7030.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">UDPGD</text>
+<text x="4320.4" y="8362.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">OA4VL_ST</text>
 <text x="3469.6" y="8375.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">OAL_ST</text>
-<text x="4335.0" y="8362.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">OA4L_ST</text>
-<text x="4617.8" y="8390.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">OA4VL_ST</text>
+<text x="4617.8" y="8390.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">OA4L_ST</text>
 <text x="-96.1" y="2961.2" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Glycan metabolism: Lipopolysaccharide Biosynthesis Recycling</text>
 <text x="-96.1" y="10730.7" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
 </g>

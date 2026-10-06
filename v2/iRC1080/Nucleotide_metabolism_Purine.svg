@@ -276,7 +276,7 @@
 <line x1="11458.2" y1="3146.2" x2="11483.6" y2="3156.8" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="11483.6" y1="3156.8" x2="11483.6" y2="3331.2" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="11483.6" y1="3331.2" x2="11428.6" y2="3331.2" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M11372.8 2994.0 C11315.1 3095.5 11331.6 3146.2 11422.2 3146.2" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M11364.2 2969.8 C11315.1 3095.5 11331.6 3146.2 11422.2 3146.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="10473.2" y1="1760.0" x2="10473.2" y2="1845.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="10473.2" y1="1845.0" x2="10439.2" y2="1845.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="10439.2" y1="1845.0" x2="10403.2" y2="1845.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -1227,7 +1227,7 @@
 <circle cx="11322.9" cy="3071.2" r="6.0" fill="#7f8c99"/>
 <circle cx="11322.9" cy="3146.2" r="6.0" fill="#7f8c99"/>
 <circle cx="11483.6" cy="3331.2" r="6.0" fill="#7f8c99"/>
-<circle cx="11372.8" cy="2994.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="11364.2" cy="2969.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="10403.2" cy="1845.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="10439.2" cy="1845.0" r="6.0" fill="#7f8c99"/>
 <circle cx="10367.2" cy="1845.0" r="6.0" fill="#7f8c99"/>
@@ -1742,7 +1742,7 @@
 <text x="10719.0" y="1737.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">10fthf</text>
 <text x="9503.7" y="3808.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi[c]</text>
 <text x="9848.7" y="3839.1" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[c]</text>
-<text x="11280.7" y="2994.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[c]</text>
+<text x="11398.9" y="2969.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[c]</text>
 <text x="10537.6" y="1717.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">thf</text>
 <text x="10352.5" y="1737.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">10fthf</text>
 <text x="6474.2" y="3325.5" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[c]</text>

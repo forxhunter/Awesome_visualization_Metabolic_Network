@@ -8,7 +8,7 @@
 <line x1="4184.9" y1="4360.0" x2="4148.9" y2="4360.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="4148.9" y1="4360.0" x2="4029.9" y2="4360.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="4029.9" y1="4360.0" x2="4029.9" y2="4490.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M4270.3 4207.8 C4328.0 4309.3 4311.5 4360.0 4220.9 4360.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M4269.5 4206.6 C4328.0 4309.3 4311.5 4360.0 4220.9 4360.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M4148.9 4360.0 C4058.2 4360.0 4041.7 4309.3 4099.4 4207.8" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="7713.4" y1="5855.9" x2="7713.4" y2="5913.9" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="7713.4" y1="5913.9" x2="7713.4" y2="5949.9" stroke="#2f3b47" stroke-width="6.0"/>
@@ -1273,7 +1273,7 @@
 <circle cx="4148.9" cy="4360.0" r="6.0" fill="#7f8c99"/>
 <circle cx="4339.9" cy="4360.0" r="6.0" fill="#7f8c99"/>
 <circle cx="4029.9" cy="4360.0" r="6.0" fill="#7f8c99"/>
-<circle cx="4270.3" cy="4207.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="4269.5" cy="4206.6" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="4099.4" cy="4207.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="7713.4" cy="5949.9" r="11.0" fill="#3a7bd5"/>
 <circle cx="7713.4" cy="5913.9" r="6.0" fill="#7f8c99"/>
@@ -2149,7 +2149,7 @@
 <text x="11044.8" y="5330.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">val-L[m]</text>
 <text x="5883.5" y="6890.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">valtrna[c]</text>
 <text x="11255.3" y="5590.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">valtrna[m]</text>
-<text x="4186.7" y="4231.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2[c]</text>
+<text x="4185.9" y="4230.1" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2[c]</text>
 <text x="4134.1" y="4207.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">co2[c]</text>
 <text x="7457.7" y="5864.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad[c]</text>
 <text x="7446.2" y="6035.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh[c]</text>

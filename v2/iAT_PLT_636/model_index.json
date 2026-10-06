@@ -6,26 +6,17 @@
    "name": "iAT_PLT_636 - Homo sapiens (human)",
    "file": "iAT_PLT_636_Canvas.json",
    "path": "iAT_PLT_636/iAT_PLT_636_Canvas.json",
-   "reactions": 1005,
-   "nodes": 7222,
+   "reactions": 1008,
+   "nodes": 7328,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Tyrosine; Valine, Leucine, and Isoleucine; Tryptophan; Glutamate; +1 more",
-   "file": "Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_664f8d.json",
-   "path": "iAT_PLT_636/Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_664f8d.json",
-   "reactions": 120,
-   "nodes": 924,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Lipid metabolism: Expanded Glycerophospholipid (Phosphatidylinositol)",
    "file": "Lipid_metabolism_Expanded_Glycerophospholipid_Phospha_7b820d.json",
    "path": "iAT_PLT_636/Lipid_metabolism_Expanded_Glycerophospholipid_Phospha_7b820d.json",
    "reactions": 120,
-   "nodes": 994,
+   "nodes": 989,
    "combined": false,
    "canvas": false
   },
@@ -35,6 +26,15 @@
    "path": "iAT_PLT_636/Transport_and_exchange_Extracellular_exchange_Biomass_09fe83.json",
    "reactions": 120,
    "nodes": 534,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Tyrosine; Valine, Leucine, and Isoleucine; Tryptophan; Glutamate; +1 more",
+   "file": "Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_664f8d.json",
+   "path": "iAT_PLT_636/Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_664f8d.json",
+   "reactions": 118,
+   "nodes": 912,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Lipid_metabolism_Expanded_Phospholipid_Expanded_Glyce_306028.json",
    "path": "iAT_PLT_636/Lipid_metabolism_Expanded_Phospholipid_Expanded_Glyce_306028.json",
    "reactions": 115,
-   "nodes": 1392,
+   "nodes": 1433,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iAT_PLT_636/Carbohydrate_metabolism.json",
    "reactions": 94,
-   "nodes": 1011,
+   "nodes": 963,
    "combined": false,
    "canvas": false
   },
@@ -69,8 +69,8 @@
    "name": "Cofactor and vitamin metabolism",
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iAT_PLT_636/Cofactor_and_vitamin_metabolism.json",
-   "reactions": 83,
-   "nodes": 521,
+   "reactions": 82,
+   "nodes": 516,
    "combined": false,
    "canvas": false
   },
@@ -78,8 +78,8 @@
    "name": "Transport and exchange: Transport, Extracellular; Intracellular source/sink; +3 more",
    "file": "Transport_and_exchange_Transport_Extracellular_Intrac_703540.json",
    "path": "iAT_PLT_636/Transport_and_exchange_Transport_Extracellular_Intrac_703540.json",
-   "reactions": 77,
-   "nodes": 407,
+   "reactions": 80,
+   "nodes": 424,
    "combined": false,
    "canvas": false
   },
@@ -88,16 +88,16 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iAT_PLT_636/Nucleotide_metabolism.json",
    "reactions": 66,
-   "nodes": 509,
+   "nodes": 508,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Phenylalanine; Urea cycle/amino group; Glutathione; Alanine and Aspartate; +4 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_Urea_cycle_amino_4f6676.json",
-   "path": "iAT_PLT_636/Amino_acid_metabolism_Phenylalanine_Urea_cycle_amino_4f6676.json",
-   "reactions": 57,
-   "nodes": 419,
+   "name": "Amino acid metabolism: Alanine and Aspartate; Phenylalanine; Urea cycle/amino group; Glutathione; +4 more",
+   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Phenylala_6348b6.json",
+   "path": "iAT_PLT_636/Amino_acid_metabolism_Alanine_and_Aspartate_Phenylala_6348b6.json",
+   "reactions": 60,
+   "nodes": 424,
    "combined": false,
    "canvas": false
   },

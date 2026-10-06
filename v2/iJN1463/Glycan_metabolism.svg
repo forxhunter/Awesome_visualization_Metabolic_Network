@@ -431,12 +431,12 @@
 <line x1="5423.6" y1="6060.0" x2="5423.6" y2="6180.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M5710.5 6060.0 C5619.8 6060.0 5603.4 5999.3 5661.1 5897.8" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6284.1" y1="6180.0" x2="6284.1" y2="6295.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="6284.1" y1="6295.0" x2="6271.1" y2="6295.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="6271.1" y1="6295.0" x2="6235.1" y2="6295.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="6284.1" y1="6295.0" x2="6235.1" y2="6295.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6235.1" y1="6295.0" x2="6199.1" y2="6295.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="6199.1" y1="6295.0" x2="6114.1" y2="6295.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="6199.1" y1="6295.0" x2="6163.1" y2="6295.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="6163.1" y1="6295.0" x2="6114.1" y2="6295.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6114.1" y1="6295.0" x2="6114.1" y2="6440.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M6199.1 6295.0 C6108.5 6295.0 6092.0 6360.7 6149.1 6492.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M6163.1 6295.0 C6072.5 6295.0 6056.0 6360.7 6089.0 6485.6" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="5582.6" y1="5920.0" x2="5582.6" y2="6080.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5582.6" y1="6080.0" x2="5223.1" y2="6080.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5223.1" y1="6080.0" x2="5223.1" y2="6098.9" stroke="#2f3b47" stroke-width="6.0"/>
@@ -888,7 +888,7 @@
 <path d="M5423.6 6150.0 L5407.6 6104.0 L5439.6 6104.0 Z" fill="#2f3b47"/>
 <path d="M5646.2 5923.9 L5637.4 5971.8 L5609.6 5956.0 Z" fill="#2f3b47"/>
 <path d="M6114.1 6410.0 L6098.1 6364.0 L6130.1 6364.0 Z" fill="#2f3b47"/>
-<path d="M6142.7 6477.3 L6109.7 6441.5 L6139.0 6428.8 Z" fill="#9aa6b2"/>
+<path d="M6084.9 6470.1 L6057.7 6429.7 L6088.6 6421.5 Z" fill="#9aa6b2"/>
 <path d="M5097.0 6235.2 L5144.9 6244.0 L5129.1 6271.8 Z" fill="#2f3b47"/>
 <path d="M5492.4 6470.0 L5508.4 6516.0 L5476.4 6516.0 Z" fill="#2f3b47"/>
 <path d="M5423.6 6150.0 L5407.6 6104.0 L5439.6 6104.0 Z" fill="#2f3b47"/>
@@ -1430,12 +1430,12 @@
 <circle cx="6069.4" cy="6060.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5423.6" cy="6060.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5661.1" cy="5897.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
-<circle cx="6235.1" cy="6295.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="6271.1" cy="6295.0" r="6.0" fill="#7f8c99"/>
-<circle cx="6199.1" cy="6295.0" r="6.0" fill="#7f8c99"/>
+<circle cx="6199.1" cy="6295.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="6235.1" cy="6295.0" r="6.0" fill="#7f8c99"/>
+<circle cx="6163.1" cy="6295.0" r="6.0" fill="#7f8c99"/>
 <circle cx="6284.1" cy="6295.0" r="6.0" fill="#7f8c99"/>
 <circle cx="6114.1" cy="6295.0" r="6.0" fill="#7f8c99"/>
-<circle cx="6149.1" cy="6492.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="6089.0" cy="6485.6" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="5223.1" cy="6134.9" r="11.0" fill="#3a7bd5"/>
 <circle cx="5223.1" cy="6098.9" r="6.0" fill="#7f8c99"/>
 <circle cx="5223.1" cy="6170.9" r="6.0" fill="#7f8c99"/>
@@ -1900,7 +1900,7 @@
 <text x="6782.0" y="2822.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ala-D[p]</text>
 <text x="5837.5" y="6462.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">LalaDgluMdap[c]</text>
 <text x="5695.7" y="5897.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">LalaDgluMdap[p]</text>
-<text x="6183.7" y="6492.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">acgam</text>
+<text x="5997.0" y="6485.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">acgam</text>
 <text x="4818.1" y="6220.3" font-size="19.8" fill="#1c252e" dominant-baseline="middle">LalaDgluMdapDala[c]</text>
 <text x="4932.3" y="5978.6" font-size="19.8" fill="#1c252e" dominant-baseline="middle">LalaDgluMdapDala[p]</text>
 <text x="6053.5" y="6202.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ala-D[c]</text>

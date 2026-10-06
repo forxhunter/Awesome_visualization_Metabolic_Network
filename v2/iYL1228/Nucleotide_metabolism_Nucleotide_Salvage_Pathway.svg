@@ -565,7 +565,7 @@
 <line x1="1769.0" y1="4240.0" x2="1805.0" y2="4240.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1805.0" y1="4240.0" x2="1869.2" y2="4240.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1869.2" y1="4240.0" x2="1869.2" y2="4370.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M1805.0 4240.0 C1895.7 4240.0 1912.1 4189.3 1854.4 4087.8" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M1805.0 4240.0 C1895.7 4240.0 1912.1 4189.3 1853.5 4089.3" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="3551.8" y1="1240.0" x2="3551.8" y2="1582.8" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3551.8" y1="1582.8" x2="2607.8" y2="1582.8" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2607.8" y1="1582.8" x2="2571.8" y2="1582.8" stroke="#2f3b47" stroke-width="6.0"/>
@@ -1197,7 +1197,7 @@
 <path d="M6112.6 5364.0 L6096.6 5318.0 L6128.6 5318.0 Z" fill="#9aa6b2"/>
 <path d="M6066.0 5111.7 L6102.6 5143.8 L6074.8 5159.6 Z" fill="#9aa6b2"/>
 <path d="M1869.2 4340.0 L1853.2 4294.0 L1885.2 4294.0 Z" fill="#2f3b47"/>
-<path d="M1862.4 4101.7 L1899.0 4133.8 L1871.2 4149.6 Z" fill="#9aa6b2"/>
+<path d="M1861.6 4103.1 L1898.6 4134.6 L1871.0 4150.8 Z" fill="#9aa6b2"/>
 <path d="M2478.4 1491.7 L2469.6 1539.6 L2441.7 1523.8 Z" fill="#9aa6b2"/>
 <path d="M1621.8 2020.0 L1667.8 2004.0 L1667.8 2036.0 Z" fill="#2f3b47"/>
 <path d="M6453.0 4340.0 L6437.0 4294.0 L6469.0 4294.0 Z" fill="#2f3b47"/>
@@ -1843,7 +1843,7 @@
 <circle cx="1805.0" cy="4240.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1668.8" cy="4240.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1869.2" cy="4240.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1854.4" cy="4087.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="1853.5" cy="4089.3" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2571.8" cy="1582.8" r="11.0" fill="#3a7bd5"/>
 <circle cx="2607.8" cy="1582.8" r="6.0" fill="#7f8c99"/>
 <circle cx="2535.8" cy="1582.8" r="6.0" fill="#7f8c99"/>
@@ -2554,7 +2554,7 @@
 <text x="4370.3" y="5388.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">gtp</text>
 <text x="4347.4" y="5559.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[c]</text>
 <text x="6092.7" y="5097.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">cdp</text>
-<text x="1785.3" y="4087.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
+<text x="1784.4" y="4089.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
 <text x="2517.0" y="1399.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
 <text x="6843.3" y="4392.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
 <text x="5058.5" y="5335.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>

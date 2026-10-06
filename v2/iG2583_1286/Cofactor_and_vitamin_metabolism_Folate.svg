@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="109.1 252.0 1772.9 1432.4" width="1773" height="1432">
-<rect x="109.1" y="252.0" width="1772.9" height="1432.4" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="109.1 248.5 1772.9 1435.9" width="1773" height="1436">
+<rect x="109.1" y="248.5" width="1772.9" height="1435.9" fill="#ffffff"/>
 <g stroke-linecap="round" fill="none">
 <line x1="760.5" y1="590.0" x2="815.5" y2="590.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="815.5" y1="590.0" x2="815.5" y2="665.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -36,7 +36,7 @@
 <line x1="674.4" y1="720.0" x2="660.2" y2="720.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="660.2" y1="720.0" x2="660.2" y2="850.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M765.1 538.2 C842.6 667.0 837.0 720.0 746.4 720.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M826.4 581.4 C863.7 673.8 837.0 720.0 746.4 720.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M837.5 572.7 C863.7 673.8 837.0 720.0 746.4 720.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M674.4 720.0 C583.7 720.0 548.0 680.4 567.3 601.1" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M674.4 720.0 C583.7 720.0 567.2 669.3 624.9 567.8" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M674.4 720.0 C583.7 720.0 589.3 667.0 691.1 560.9" stroke="#9aa6b2" stroke-width="3.0"/>
@@ -129,7 +129,7 @@
 <circle cx="760.5" cy="720.0" r="6.0" fill="#7f8c99"/>
 <circle cx="660.2" cy="720.0" r="6.0" fill="#7f8c99"/>
 <circle cx="765.1" cy="538.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="826.4" cy="581.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="837.5" cy="572.7" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="567.3" cy="601.1" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="624.9" cy="567.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="691.1" cy="560.9" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
@@ -167,7 +167,7 @@
 <text x="1634.9" y="1300.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyclt</text>
 <text x="384.2" y="1110.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">methf</text>
 <text x="694.9" y="850.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">mlthf</text>
-<text x="826.3" y="544.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">thf</text>
+<text x="695.3" y="511.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">thf</text>
 <text x="1242.6" y="774.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Form</text>
 <text x="717.5" y="807.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="872.2" y="698.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Form</text>
@@ -175,8 +175,8 @@
 <text x="729.0" y="912.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="1379.0" y="1084.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
 <text x="1367.5" y="1255.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
-<text x="703.0" y="514.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">gly</text>
-<text x="861.0" y="581.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
+<text x="799.8" y="538.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">gly</text>
+<text x="872.2" y="572.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
 <text x="498.2" y="601.1" font-size="19.8" fill="#6b7885" dominant-baseline="middle">co2</text>
 <text x="544.3" y="567.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
 <text x="647.9" y="520.1" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nh4</text>
@@ -193,7 +193,7 @@
 <text x="512.6" y="932.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">MTHFD</text>
 <text x="683.3" y="951.3" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">MTHFR2</text>
 <text x="349.1" y="1240.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THFAT</text>
-<text x="259.1" y="433.3" font-size="50.1" fill="#a83a6e" dominant-baseline="middle">Cofactor and vitamin metabolism: Folate</text>
+<text x="259.1" y="429.8" font-size="50.1" fill="#a83a6e" dominant-baseline="middle">Cofactor and vitamin metabolism: Folate</text>
 <text x="259.1" y="1519.4" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
 </g>
 </svg>

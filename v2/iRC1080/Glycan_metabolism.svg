@@ -254,7 +254,7 @@
 <line x1="1935.0" y1="7410.0" x2="1971.0" y2="7410.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1971.0" y1="7410.0" x2="1980.0" y2="7410.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1838.0 7249.4 C1791.9 7359.3 1808.3 7410.0 1899.0 7410.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M1971.0 7410.0 C2061.7 7410.0 2078.1 7359.3 2020.4 7257.8" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M1971.0 7410.0 C2061.7 7410.0 2078.1 7359.3 2028.6 7262.6" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1980.0" y1="7410.0" x2="1980.0" y2="7540.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1980.0" y1="7540.0" x2="1990.0" y2="7540.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2466.4" y1="7951.8" x2="2027.0" y2="7951.8" stroke="#2f3b47" stroke-width="6.0"/>
@@ -442,7 +442,7 @@
 <path d="M1640.0 8320.0 L1686.0 8304.0 L1686.0 8336.0 Z" fill="#2f3b47"/>
 <path d="M1886.4 7808.3 L1895.2 7760.4 L1923.0 7776.2 Z" fill="#9aa6b2"/>
 <path d="M2110.0 7800.0 L2156.0 7784.0 L2156.0 7816.0 Z" fill="#2f3b47"/>
-<path d="M2028.4 7271.7 L2065.0 7303.8 L2037.2 7319.6 Z" fill="#9aa6b2"/>
+<path d="M2035.9 7276.9 L2071.1 7310.5 L2042.6 7325.1 Z" fill="#9aa6b2"/>
 <path d="M1960.0 7540.0 L1914.0 7556.0 L1914.0 7524.0 Z" fill="#2f3b47"/>
 <path d="M1897.6 7661.7 L1888.8 7709.6 L1861.0 7693.8 Z" fill="#9aa6b2"/>
 <path d="M1580.0 8090.0 L1596.0 8136.0 L1564.0 8136.0 Z" fill="#2f3b47"/>
@@ -722,7 +722,7 @@
 <circle cx="1880.0" cy="7410.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1980.0" cy="7410.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1838.0" cy="7249.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="2020.4" cy="7257.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="2028.6" cy="7262.6" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1991.0" cy="7951.8" r="11.0" fill="#3a7bd5"/>
 <circle cx="2027.0" cy="7951.8" r="6.0" fill="#7f8c99"/>
 <circle cx="1955.0" cy="7951.8" r="6.0" fill="#7f8c99"/>
@@ -948,7 +948,7 @@
 <text x="1673.1" y="7913.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udpgal</text>
 <text x="1787.8" y="7822.2" font-size="16.5" fill="#6b7885" dominant-baseline="middle">udp[g]</text>
 <text x="1769.0" y="7208.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udpgal</text>
-<text x="1917.1" y="7216.2" font-size="11.6" fill="#6b7885" dominant-baseline="middle">udp[g]</text>
+<text x="1918.1" y="7220.3" font-size="13.8" fill="#6b7885" dominant-baseline="middle">udp[g]</text>
 <text x="2140.0" y="7693.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udpgal</text>
 <text x="1811.3" y="7624.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udp[g]</text>
 <text x="3077.8" y="5865.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">4hproaraaragalara</text>

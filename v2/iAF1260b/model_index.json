@@ -6,26 +6,26 @@
    "name": "iAF1260b - Escherichia coli (E. coli)",
    "file": "iAF1260b_Canvas.json",
    "path": "iAF1260b/iAF1260b_Canvas.json",
-   "reactions": 2385,
-   "nodes": 16298,
+   "reactions": 2388,
+   "nodes": 16279,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Phenylalanine; Arginine and proline; +4 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_Arginine_and_prol_8dd5cd.json",
-   "path": "iAF1260b/Amino_acid_metabolism_Phenylalanine_Arginine_and_prol_8dd5cd.json",
+   "name": "Carbohydrate metabolism: Galactose; Fructose and mannose; Pentose phosphate pathway; +2 more",
+   "file": "Carbohydrate_metabolism_Galactose_Fructose_and_mannos_795135.json",
+   "path": "iAF1260b/Carbohydrate_metabolism_Galactose_Fructose_and_mannos_795135.json",
    "reactions": 120,
-   "nodes": 1110,
+   "nodes": 1017,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Galactose; +2 more",
-   "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_55648b.json",
-   "path": "iAF1260b/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_55648b.json",
+   "name": "Transport and exchange: Acetate transport",
+   "file": "Transport_and_exchange_Acetate_transport.json",
+   "path": "iAF1260b/Transport_and_exchange_Acetate_transport.json",
    "reactions": 120,
-   "nodes": 864,
+   "nodes": 691,
    "combined": false,
    "canvas": false
   },
@@ -52,16 +52,25 @@
    "file": "Transport_and_exchange_Iii_Secretion_Biomass_and_exch_9061a2.json",
    "path": "iAF1260b/Transport_and_exchange_Iii_Secretion_Biomass_and_exch_9061a2.json",
    "reactions": 120,
-   "nodes": 957,
+   "nodes": 967,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Starch and sucrose; Fructose and mannose; Pentose phosphate pathway; +2 more",
-   "file": "Carbohydrate_metabolism_Starch_and_sucrose_Fructose_a_4a12ce.json",
-   "path": "iAF1260b/Carbohydrate_metabolism_Starch_and_sucrose_Fructose_a_4a12ce.json",
+   "name": "Amino acid metabolism: Phenylalanine; Arginine and proline; +4 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Arginine_and_prol_8dd5cd.json",
+   "path": "iAF1260b/Amino_acid_metabolism_Phenylalanine_Arginine_and_prol_8dd5cd.json",
    "reactions": 119,
-   "nodes": 1142,
+   "nodes": 1200,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Glycolysis / Gluconeogenesis; +2 more",
+   "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_e19afb.json",
+   "path": "iAF1260b/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_e19afb.json",
+   "reactions": 119,
+   "nodes": 896,
    "combined": false,
    "canvas": false
   },
@@ -75,15 +84,6 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: D-gluconate transport; Dimethyl sulfide transport; Citrate transport; +3 more",
-   "file": "Transport_and_exchange_D-gluconate_transport_Dimethyl_8c7e9d.json",
-   "path": "iAF1260b/Transport_and_exchange_D-gluconate_transport_Dimethyl_8c7e9d.json",
-   "reactions": 118,
-   "nodes": 835,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Lipid metabolism: Glycerophospholipid; Fatty acid elongation",
    "file": "Lipid_metabolism_Glycerophospholipid_Fatty_acid_elongation.json",
    "path": "iAF1260b/Lipid_metabolism_Glycerophospholipid_Fatty_acid_elongation.json",
@@ -93,11 +93,11 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Acetate transport",
-   "file": "Transport_and_exchange_Acetate_transport.json",
-   "path": "iAF1260b/Transport_and_exchange_Acetate_transport.json",
+   "name": "Transport and exchange: D-gluconate transport; Dimethyl sulfide transport; Citrate transport; +3 more",
+   "file": "Transport_and_exchange_D-gluconate_transport_Dimethyl_8c7e9d.json",
+   "path": "iAF1260b/Transport_and_exchange_D-gluconate_transport_Dimethyl_8c7e9d.json",
    "reactions": 117,
-   "nodes": 672,
+   "nodes": 828,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +106,7 @@
    "file": "Transport_and_exchange_Lysophospholipase_Octadecenoat_cb3d00.json",
    "path": "iAF1260b/Transport_and_exchange_Lysophospholipase_Octadecenoat_cb3d00.json",
    "reactions": 117,
-   "nodes": 1027,
+   "nodes": 1024,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Transport_and_exchange_Lysophospholipase_Tetradecenoate.json",
    "path": "iAF1260b/Transport_and_exchange_Lysophospholipase_Tetradecenoate.json",
    "reactions": 116,
-   "nodes": 848,
+   "nodes": 841,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Nucleotide_metabolism_Purine.json",
    "path": "iAF1260b/Nucleotide_metabolism_Purine.json",
    "reactions": 114,
-   "nodes": 1335,
+   "nodes": 1342,
    "combined": false,
    "canvas": false
   },
@@ -151,25 +151,25 @@
    "file": "Glycan_metabolism_Murein_Lps.json",
    "path": "iAF1260b/Glycan_metabolism_Murein_Lps.json",
    "reactions": 113,
-   "nodes": 760,
+   "nodes": 756,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pyruvate; Citrate cycle (TCA cycle); Biosynthesis of various nucleotide sugars; +4 more",
-   "file": "Carbohydrate_metabolism_Pyruvate_Citrate_cycle_TCA_cy_993430.json",
-   "path": "iAF1260b/Carbohydrate_metabolism_Pyruvate_Citrate_cycle_TCA_cy_993430.json",
-   "reactions": 106,
-   "nodes": 950,
+   "name": "Amino acid metabolism: Glutathione; Lysine biosynthesis; Valine, leucine and isoleucine biosynthesis; +8 more",
+   "file": "Amino_acid_metabolism_Glutathione_Lysine_biosynthesis_2f64f0.json",
+   "path": "iAF1260b/Amino_acid_metabolism_Glutathione_Lysine_biosynthesis_2f64f0.json",
+   "reactions": 108,
+   "nodes": 810,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Lysine biosynthesis; Valine, leucine and isoleucine degradation; Histidine; +8 more",
-   "file": "Amino_acid_metabolism_Lysine_biosynthesis_Valine_leuc_14c14c.json",
-   "path": "iAF1260b/Amino_acid_metabolism_Lysine_biosynthesis_Valine_leuc_14c14c.json",
+   "name": "Carbohydrate metabolism: Pyruvate; Biosynthesis of various nucleotide sugars; Propanoate; +4 more",
+   "file": "Carbohydrate_metabolism_Pyruvate_Biosynthesis_of_vari_c5dfb6.json",
+   "path": "iAF1260b/Carbohydrate_metabolism_Pyruvate_Biosynthesis_of_vari_c5dfb6.json",
    "reactions": 101,
-   "nodes": 709,
+   "nodes": 851,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Vitamin_B6_Biotin_Pan_0f3435.json",
    "path": "iAF1260b/Cofactor_and_vitamin_metabolism_Vitamin_B6_Biotin_Pan_0f3435.json",
    "reactions": 29,
-   "nodes": 208,
+   "nodes": 193,
    "combined": false,
    "canvas": false
   },

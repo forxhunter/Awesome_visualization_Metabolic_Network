@@ -6,35 +6,44 @@
    "name": "iEK1008 - Mycobacterium tuberculosis (tuberculosis)",
    "file": "iEK1008_Canvas.json",
    "path": "iEK1008/iEK1008_Canvas.json",
-   "reactions": 1225,
-   "nodes": 8840,
+   "reactions": 1226,
+   "nodes": 8692,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Cysteine and methionine; Alanine, Aspartate, and Glutamate; +4 more",
-   "file": "Amino_acid_metabolism_Cysteine_and_methionine_Alanine_21c5a3.json",
-   "path": "iEK1008/Amino_acid_metabolism_Cysteine_and_methionine_Alanine_21c5a3.json",
+   "name": "Amino acid metabolism: Alanine, Aspartate, and Glutamate; Cysteine and methionine; +4 more",
+   "file": "Amino_acid_metabolism_Alanine_Aspartate_and_Glutamate_3a0ac5.json",
+   "path": "iEK1008/Amino_acid_metabolism_Alanine_Aspartate_and_Glutamate_3a0ac5.json",
    "reactions": 120,
-   "nodes": 856,
+   "nodes": 834,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Alternate Carbon; Pyruvate; Citric Acid Cycle; +2 more",
-   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Al_9c4a66.json",
-   "path": "iEK1008/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Al_9c4a66.json",
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis; Folate; Other cofactor and vitamin",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_4e5154.json",
+   "path": "iEK1008/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_4e5154.json",
    "reactions": 120,
-   "nodes": 1142,
+   "nodes": 904,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Membrane; Cholesterol degradation; Glycerophospholipid; +1 more",
-   "file": "Lipid_metabolism_Membrane_Cholesterol_degradation_Gly_a0766c.json",
-   "path": "iEK1008/Lipid_metabolism_Membrane_Cholesterol_degradation_Gly_a0766c.json",
-   "reactions": 120,
-   "nodes": 906,
+   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Pyruvate; Alternate Carbon; Citric Acid Cycle; +1 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Py_faa444.json",
+   "path": "iEK1008/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Py_faa444.json",
+   "reactions": 118,
+   "nodes": 870,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty Acid; Lipid; Beta oxidation of unsaturated fatty acids",
+   "file": "Lipid_metabolism_Fatty_Acid_Lipid_Beta_oxidation_of_u_e02b46.json",
+   "path": "iEK1008/Lipid_metabolism_Fatty_Acid_Lipid_Beta_oxidation_of_u_e02b46.json",
+   "reactions": 118,
+   "nodes": 1096,
    "combined": false,
    "canvas": false
   },
@@ -48,29 +57,20 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty Acid; Mycolic Acid Biosynthesis",
-   "file": "Lipid_metabolism_Fatty_Acid_Mycolic_Acid_Biosynthesis.json",
-   "path": "iEK1008/Lipid_metabolism_Fatty_Acid_Mycolic_Acid_Biosynthesis.json",
-   "reactions": 117,
-   "nodes": 1147,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis; Riboflavin; +1 more",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_b0cb85.json",
-   "path": "iEK1008/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_b0cb85.json",
-   "reactions": 115,
-   "nodes": 839,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Transport and exchange: Transport",
    "file": "Transport_and_exchange_Transport.json",
    "path": "iEK1008/Transport_and_exchange_Transport.json",
-   "reactions": 114,
-   "nodes": 651,
+   "reactions": 115,
+   "nodes": 656,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Membrane; Mycolic Acid Biosynthesis; Mycolic acid pathway",
+   "file": "Lipid_metabolism_Membrane_Mycolic_Acid_Biosynthesis_M_1d1607.json",
+   "path": "iEK1008/Lipid_metabolism_Membrane_Mycolic_Acid_Biosynthesis_M_1d1607.json",
+   "reactions": 108,
+   "nodes": 802,
    "combined": false,
    "canvas": false
   },
@@ -84,11 +84,11 @@
    "canvas": false
   },
   {
-   "name": "Other metabolism",
-   "file": "Other_metabolism.json",
-   "path": "iEK1008/Other_metabolism.json",
-   "reactions": 48,
-   "nodes": 335,
+   "name": "Lipid metabolism: Cholesterol degradation; Glycerophospholipid",
+   "file": "Lipid_metabolism_Cholesterol_degradation_Glycerophospholipid.json",
+   "path": "iEK1008/Lipid_metabolism_Cholesterol_degradation_Glycerophospholipid.json",
+   "reactions": 61,
+   "nodes": 419,
    "combined": false,
    "canvas": false
   },
@@ -111,38 +111,38 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Folate; Pantothenate and CoA",
-   "file": "Cofactor_and_vitamin_metabolism_Folate_Pantothenate_and_CoA.json",
-   "path": "iEK1008/Cofactor_and_vitamin_metabolism_Folate_Pantothenate_and_CoA.json",
-   "reactions": 35,
-   "nodes": 247,
+   "name": "Other metabolism",
+   "file": "Other_metabolism.json",
+   "path": "iEK1008/Other_metabolism.json",
+   "reactions": 40,
+   "nodes": 283,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Arginine and Proline; Histidine; Threonine and Lysine",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Histidine_15385d.json",
-   "path": "iEK1008/Amino_acid_metabolism_Arginine_and_Proline_Histidine_15385d.json",
-   "reactions": 33,
-   "nodes": 189,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Pentose Phosphate Pathway; Propanoate; Starch and sucrose",
-   "file": "Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Pro_e7526c.json",
-   "path": "iEK1008/Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Pro_e7526c.json",
+   "name": "Carbohydrate metabolism: Glyoxylate; Starch and sucrose; Fructose and mannose; Propanoate",
+   "file": "Carbohydrate_metabolism_Glyoxylate_Starch_and_sucrose_393c5d.json",
+   "path": "iEK1008/Carbohydrate_metabolism_Glyoxylate_Starch_and_sucrose_393c5d.json",
    "reactions": 31,
-   "nodes": 213,
+   "nodes": 190,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Lipid; Mycolic acid pathway",
-   "file": "Lipid_metabolism_Lipid_Mycolic_acid_pathway.json",
-   "path": "iEK1008/Lipid_metabolism_Lipid_Mycolic_acid_pathway.json",
-   "reactions": 27,
-   "nodes": 197,
+   "name": "Amino acid metabolism: Arginine and Proline; Threonine and Lysine; Urea Cycle",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Threonine_c26ae5.json",
+   "path": "iEK1008/Amino_acid_metabolism_Arginine_and_Proline_Threonine_c26ae5.json",
+   "reactions": 29,
+   "nodes": 188,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Pantothenate and CoA; Riboflavin",
+   "file": "Cofactor_and_vitamin_metabolism_Pantothenate_and_CoA_84cb54.json",
+   "path": "iEK1008/Cofactor_and_vitamin_metabolism_Pantothenate_and_CoA_84cb54.json",
+   "reactions": 23,
+   "nodes": 158,
    "combined": false,
    "canvas": false
   },
@@ -150,8 +150,8 @@
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iEK1008/Energy_metabolism.json",
-   "reactions": 23,
-   "nodes": 147,
+   "reactions": 22,
+   "nodes": 137,
    "combined": false,
    "canvas": false
   },
@@ -161,15 +161,6 @@
    "path": "iEK1008/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 19,
    "nodes": 128,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Unassigned clusters",
-   "file": "Unassigned_clusters.json",
-   "path": "iEK1008/Unassigned_clusters.json",
-   "reactions": 1,
-   "nodes": 7,
    "combined": false,
    "canvas": false
   },

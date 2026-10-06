@@ -223,7 +223,7 @@
 <line x1="4830.2" y1="5200.0" x2="4830.2" y2="5236.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="4830.2" y1="5236.0" x2="4830.2" y2="5272.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="4830.2" y1="5272.0" x2="4830.2" y2="5390.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M4982.4 5150.6 C4881.0 5092.9 4830.2 5109.3 4830.2 5200.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M4981.5 5148.9 C4881.0 5092.9 4830.2 5109.3 4830.2 5200.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M4830.2 5272.0 C4830.2 5362.7 4881.0 5379.1 4982.4 5321.4" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="4830.2" y1="5130.0" x2="4995.2" y2="5173.3" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="4995.2" y1="5173.3" x2="4995.2" y2="5425.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -659,7 +659,7 @@
 <path d="M5382.6 5867.3 L5391.4 5819.4 L5419.3 5835.2 Z" fill="#9aa6b2"/>
 <path d="M4830.2 5146.0 L4846.2 5192.0 L4814.2 5192.0 Z" fill="#9aa6b2"/>
 <path d="M4830.2 5374.0 L4814.2 5328.0 L4846.2 5328.0 Z" fill="#9aa6b2"/>
-<path d="M4968.5 5142.6 L4920.6 5133.8 L4936.4 5106.0 Z" fill="#9aa6b2"/>
+<path d="M4967.5 5141.1 L4919.6 5132.7 L4935.2 5104.8 Z" fill="#9aa6b2"/>
 <path d="M4968.5 5329.4 L4936.4 5366.0 L4920.6 5338.2 Z" fill="#9aa6b2"/>
 <path d="M4845.7 5134.1 L4894.3 5130.3 L4886.2 5161.2 Z" fill="#9aa6b2"/>
 <path d="M4565.7 5385.9 L4606.2 5358.8 L4614.3 5389.7 Z" fill="#9aa6b2"/>
@@ -1056,7 +1056,7 @@
 <circle cx="4830.2" cy="5236.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="4830.2" cy="5200.0" r="6.0" fill="#7f8c99"/>
 <circle cx="4830.2" cy="5272.0" r="6.0" fill="#7f8c99"/>
-<circle cx="4982.4" cy="5150.6" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="4981.5" cy="5148.9" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="4982.4" cy="5321.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="4941.9" cy="5425.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="4977.9" cy="5425.0" r="6.0" fill="#7f8c99"/>
@@ -1504,7 +1504,7 @@
 <text x="4599.0" y="3704.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="4599.0" y="3875.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="5409.4" y="5881.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
-<text x="4991.1" y="5109.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
+<text x="4990.2" y="5108.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
 <text x="5017.1" y="5321.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pppi</text>
 <text x="4787.4" y="5577.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">amp</text>
 <text x="2571.2" y="1737.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nh4</text>

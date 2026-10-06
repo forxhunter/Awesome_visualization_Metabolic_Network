@@ -6,28 +6,10 @@
    "name": "iLB1027_lipid - Phaeodactylum tricornutum (diatom)",
    "file": "iLB1027_lipid_Canvas.json",
    "path": "iLB1027_lipid/iLB1027_lipid_Canvas.json",
-   "reactions": 4455,
-   "nodes": 42510,
+   "reactions": 4456,
+   "nodes": 42487,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Amino acid metabolism - Aminoacyl-tRNA biosynthesis; +3 more",
-   "file": "Amino_acid_metabolism_Amino_acid_metabolism_-_Aminoac_32ddd0.json",
-   "path": "iLB1027_lipid/Amino_acid_metabolism_Amino_acid_metabolism_-_Aminoac_32ddd0.json",
-   "reactions": 120,
-   "nodes": 1041,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Inositol phosphate; TCA cycle",
-   "file": "Carbohydrate_metabolism_Inositol_phosphate_TCA_cycle.json",
-   "path": "iLB1027_lipid/Carbohydrate_metabolism_Inositol_phosphate_TCA_cycle.json",
-   "reactions": 120,
-   "nodes": 825,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Cofactor and vitamin metabolism: Cofactor biosynthesis - Folate biosynthesis; Porphyrin and chlorophyll; +5 more",
@@ -39,20 +21,38 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Triacylglycerol biosynthesis (Phospholipid diacylglycerol acyltransferase, Phosphatidylethanolamine 1)",
-   "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_63bd93.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_63bd93.json",
+   "name": "Lipid metabolism: Fatty acid biosynthesis - Long chain omega-3 synthesis (Lysophosphatidylcholine o-acyl transferase); +1 more",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_-_Long_chain_23c333.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_-_Long_chain_23c333.json",
    "reactions": 120,
-   "nodes": 2009,
+   "nodes": 1329,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid biosynthesis (Acyl-carrier-protein Oxoacyl; +1); +1 more",
-   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Acyl-carrier_11241d.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_Acyl-carrier_11241d.json",
-   "reactions": 119,
-   "nodes": 979,
+   "name": "Lipid metabolism: Phosphoglycerolipid (Sodium); Transport, triacylglycerol",
+   "file": "Lipid_metabolism_Phosphoglycerolipid_Sodium_Transport_bacf98.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Phosphoglycerolipid_Sodium_Transport_bacf98.json",
+   "reactions": 120,
+   "nodes": 682,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Triacylglycerol biosynthesis (Phospholipid diacylglycerol acyltransferase, Phosphatidylethanolamine 1)",
+   "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_63bd93.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_63bd93.json",
+   "reactions": 120,
+   "nodes": 2263,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Triacylglycerol biosynthesis (Phospholipid diacylglycerol acyltransferase, Phosphatidylethanolamine 2)",
+   "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_a39335.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_a39335.json",
+   "reactions": 120,
+   "nodes": 1920,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Lipid_metabolism_Galactoglycerolipid_Galactolipid_gal_046ce9.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Galactoglycerolipid_Galactolipid_gal_046ce9.json",
    "reactions": 119,
-   "nodes": 998,
+   "nodes": 1172,
    "combined": false,
    "canvas": false
   },
@@ -70,16 +70,7 @@
    "file": "Lipid_metabolism_Galactoglycerolipid_Galactolipid_gal_4fb7d6.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Galactoglycerolipid_Galactolipid_gal_4fb7d6.json",
    "reactions": 119,
-   "nodes": 1316,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Triacylglycerol biosynthesis (Phospholipid diacylglycerol acyltransferase, Phosphatidylethanolamine 2)",
-   "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_a39335.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_a39335.json",
-   "reactions": 119,
-   "nodes": 1846,
+   "nodes": 1449,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +79,7 @@
    "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_374f52.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_374f52.json",
    "reactions": 119,
-   "nodes": 1790,
+   "nodes": 1936,
    "combined": false,
    "canvas": false
   },
@@ -106,25 +97,34 @@
    "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_29e837.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_29e837.json",
    "reactions": 119,
-   "nodes": 1686,
+   "nodes": 1730,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid biosynthesis (Phospholipase phosphatidylcholine, Alpha-Linolenic acid, C18); +1 more",
-   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_e90e5a.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_e90e5a.json",
+   "name": "Amino acid metabolism: Amino acid metabolism - Aminoacyl-tRNA biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Amino_acid_metabolism_-_Aminoac_32ddd0.json",
+   "path": "iLB1027_lipid/Amino_acid_metabolism_Amino_acid_metabolism_-_Aminoac_32ddd0.json",
    "reactions": 118,
-   "nodes": 1300,
+   "nodes": 953,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid biosynthesis - Long chain omega-3 synthesis (Lysophosphatidylcholine o-acyl transferase); +1 more",
-   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_-_Long_chain_23c333.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_-_Long_chain_23c333.json",
+   "name": "Lipid metabolism: Fatty acid biosynthesis (Phospholipase phosphatidylcholine); +1 more",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_720e75.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_720e75.json",
    "reactions": 118,
-   "nodes": 1178,
+   "nodes": 1267,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis (Phospholipase phosphatidylcholine, Arachidonic acid)",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_75054b.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_75054b.json",
+   "reactions": 118,
+   "nodes": 1325,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,16 @@
    "file": "Lipid_metabolism_Phosphoglycerolipid_lipids_Hexadecen_452978.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Phosphoglycerolipid_lipids_Hexadecen_452978.json",
    "reactions": 118,
-   "nodes": 1165,
+   "nodes": 1168,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Triacylglycerol biosynthesis (Acyl-coa diacylglycerol acyltransferase; +1); +1 more",
+   "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Acyl-co_2a0482.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Acyl-co_2a0482.json",
+   "reactions": 118,
+   "nodes": 1168,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +160,7 @@
    "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_e787ca.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_e787ca.json",
    "reactions": 118,
-   "nodes": 1548,
+   "nodes": 1613,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +169,7 @@
    "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_697f52.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_697f52.json",
    "reactions": 118,
-   "nodes": 1686,
+   "nodes": 1550,
    "combined": false,
    "canvas": false
   },
@@ -174,11 +183,11 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid biosynthesis (Phospholipase phosphatidylcholine)",
-   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_989744.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_989744.json",
+   "name": "Carbohydrate metabolism: Inositol phosphate; TCA cycle",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_TCA_cycle.json",
+   "path": "iLB1027_lipid/Carbohydrate_metabolism_Inositol_phosphate_TCA_cycle.json",
    "reactions": 117,
-   "nodes": 1234,
+   "nodes": 805,
    "combined": false,
    "canvas": false
   },
@@ -187,25 +196,7 @@
    "file": "Lipid_metabolism_Phosphoglycerolipid_lipids_1_more.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Phosphoglycerolipid_lipids_1_more.json",
    "reactions": 117,
-   "nodes": 1142,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Phosphoglycerolipid (lipids, Timnodonyl coenzyme A)",
-   "file": "Lipid_metabolism_Phosphoglycerolipid_lipids_Timnodony_c10282.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Phosphoglycerolipid_lipids_Timnodony_c10282.json",
-   "reactions": 117,
-   "nodes": 1230,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Phosphoglycerolipid (Sodium; lipids)",
-   "file": "Lipid_metabolism_Phosphoglycerolipid_Sodium_lipids.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Phosphoglycerolipid_Sodium_lipids.json",
-   "reactions": 116,
-   "nodes": 652,
+   "nodes": 1145,
    "combined": false,
    "canvas": false
   },
@@ -214,7 +205,16 @@
    "file": "Lipid_metabolism_Phosphoglycerolipid_lipids_Hexadecen_ea6630.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Phosphoglycerolipid_lipids_Hexadecen_ea6630.json",
    "reactions": 116,
-   "nodes": 1366,
+   "nodes": 1398,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Phosphoglycerolipid (lipids, Timnodonyl coenzyme A)",
+   "file": "Lipid_metabolism_Phosphoglycerolipid_lipids_Timnodony_c10282.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Phosphoglycerolipid_lipids_Timnodony_c10282.json",
+   "reactions": 116,
+   "nodes": 1237,
    "combined": false,
    "canvas": false
   },
@@ -223,7 +223,7 @@
    "file": "Lipid_metabolism_Triacylglycerol_degradation_Triacylg_b149a2.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_degradation_Triacylg_b149a2.json",
    "reactions": 116,
-   "nodes": 829,
+   "nodes": 827,
    "combined": false,
    "canvas": false
   },
@@ -232,7 +232,16 @@
    "file": "Amino_acid_metabolism_Amino_acid_metabolism_-_Valine_1bf80c.json",
    "path": "iLB1027_lipid/Amino_acid_metabolism_Amino_acid_metabolism_-_Valine_1bf80c.json",
    "reactions": 114,
-   "nodes": 793,
+   "nodes": 818,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis (Acyl-carrier-protein Oxoacyl; +1); +1 more",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Acyl-carrier_11241d.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_Acyl-carrier_11241d.json",
+   "reactions": 114,
+   "nodes": 961,
    "combined": false,
    "canvas": false
   },
@@ -241,7 +250,7 @@
    "file": "Lipid_metabolism_Fatty_acid_degradation_peroxisome_Tr_6ba894.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_degradation_peroxisome_Tr_6ba894.json",
    "reactions": 114,
-   "nodes": 735,
+   "nodes": 731,
    "combined": false,
    "canvas": false
   },
@@ -250,7 +259,7 @@
    "file": "Lipid_metabolism_Galactoglycerolipid_Galactolipid_gal_9e530c.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Galactoglycerolipid_Galactolipid_gal_9e530c.json",
    "reactions": 114,
-   "nodes": 953,
+   "nodes": 930,
    "combined": false,
    "canvas": false
   },
@@ -259,7 +268,7 @@
    "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_c773a5.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_c773a5.json",
    "reactions": 114,
-   "nodes": 1503,
+   "nodes": 1547,
    "combined": false,
    "canvas": false
   },
@@ -273,20 +282,11 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Triacylglycerol biosynthesis (Phospholipid diacylglycerol acyltransferase; +1); +1 more",
-   "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_4e1273.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Phospho_4e1273.json",
-   "reactions": 113,
-   "nodes": 1098,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Lipid metabolism: Fatty acid degradation, mitochondria (Hydroxacyl-coa dehydrogenase; Carnitine)",
    "file": "Lipid_metabolism_Fatty_acid_degradation_mitochondria_ec7a2c.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_degradation_mitochondria_ec7a2c.json",
    "reactions": 112,
-   "nodes": 879,
+   "nodes": 861,
    "combined": false,
    "canvas": false
   },
@@ -295,16 +295,7 @@
    "file": "Lipid_metabolism_Triacylglycerol_biosynthesis_Triacyl_cc09ae.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Triacylglycerol_biosynthesis_Triacyl_cc09ae.json",
    "reactions": 112,
-   "nodes": 1401,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Fatty acid biosynthesis (Phospholipase phosphatidylcholine, Phosphatidylethanolamine); +1 more",
-   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_493111.json",
-   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_493111.json",
-   "reactions": 110,
-   "nodes": 1012,
+   "nodes": 1510,
    "combined": false,
    "canvas": false
   },
@@ -312,8 +303,17 @@
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "iLB1027_lipid/Nucleotide_metabolism.json",
-   "reactions": 105,
-   "nodes": 903,
+   "reactions": 104,
+   "nodes": 890,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis (Phospholipase phosphatidylcholine, Phosphatidylethanolamine)",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_0d30c4.json",
+   "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_Phospholipas_0d30c4.json",
+   "reactions": 100,
+   "nodes": 951,
    "combined": false,
    "canvas": false
   },
@@ -321,8 +321,8 @@
    "name": "Lipid metabolism: Fatty acid biosynthesis - Long chain omega-3 synthesis (Omega desaturase); +1 more",
    "file": "Lipid_metabolism_Fatty_acid_biosynthesis_-_Long_chain_b4dfed.json",
    "path": "iLB1027_lipid/Lipid_metabolism_Fatty_acid_biosynthesis_-_Long_chain_b4dfed.json",
-   "reactions": 99,
-   "nodes": 1164,
+   "reactions": 98,
+   "nodes": 1036,
    "combined": false,
    "canvas": false
   },
@@ -331,7 +331,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_En_e64d11.json",
    "path": "iLB1027_lipid/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_En_e64d11.json",
    "reactions": 97,
-   "nodes": 800,
+   "nodes": 802,
    "combined": false,
    "canvas": false
   },
@@ -345,20 +345,20 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Amino acid metabolism - Valine, Leucine and Isoleucine degradation; Urea cycle; +2 more",
+   "file": "Amino_acid_metabolism_Amino_acid_metabolism_-_Valine_0cbeac.json",
+   "path": "iLB1027_lipid/Amino_acid_metabolism_Amino_acid_metabolism_-_Valine_0cbeac.json",
+   "reactions": 48,
+   "nodes": 347,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iLB1027_lipid/Energy_metabolism.json",
    "reactions": 46,
    "nodes": 267,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Metabolism of other amino acids - Selenoamino acid; +3 more",
-   "file": "Amino_acid_metabolism_Metabolism_of_other_amino_acids_c5fa33.json",
-   "path": "iLB1027_lipid/Amino_acid_metabolism_Metabolism_of_other_amino_acids_c5fa33.json",
-   "reactions": 38,
-   "nodes": 264,
    "combined": false,
    "canvas": false
   },
@@ -375,8 +375,8 @@
    "name": "Transport and exchange: Transport, peroxisome; Biomass and maintenance functions",
    "file": "Transport_and_exchange_Transport_peroxisome_Biomass_a_686986.json",
    "path": "iLB1027_lipid/Transport_and_exchange_Transport_peroxisome_Biomass_a_686986.json",
-   "reactions": 26,
-   "nodes": 223,
+   "reactions": 27,
+   "nodes": 228,
    "combined": false,
    "canvas": false
   },

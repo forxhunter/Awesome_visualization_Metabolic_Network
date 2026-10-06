@@ -6,26 +6,17 @@
    "name": "iECD_1391 - Escherichia coli (E. coli)",
    "file": "iECD_1391_Canvas.json",
    "path": "iECD_1391/iECD_1391_Canvas.json",
-   "reactions": 2738,
-   "nodes": 18632,
+   "reactions": 2741,
+   "nodes": 18686,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; +2 more",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_7371a0.json",
-   "path": "iECD_1391/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_7371a0.json",
-   "reactions": 120,
-   "nodes": 1046,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Alternate Carbon (Guanine; Taurine C2H7NO3S; +1)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Guanine_Taur_0d3b10.json",
    "path": "iECD_1391/Carbohydrate_metabolism_Alternate_Carbon_Guanine_Taur_0d3b10.json",
    "reactions": 120,
-   "nodes": 750,
+   "nodes": 748,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +25,16 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Transport_ab_707e44.json",
    "path": "iECD_1391/Carbohydrate_metabolism_Alternate_Carbon_Transport_ab_707e44.json",
    "reactions": 120,
-   "nodes": 880,
+   "nodes": 914,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Choline C5H14NO; Palmitoyl-ACP; +2)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Choline_C5H14NO_10e6f6.json",
+   "path": "iECD_1391/Lipid_metabolism_Glycerophospholipid_Choline_C5H14NO_10e6f6.json",
+   "reactions": 120,
+   "nodes": 833,
    "combined": false,
    "canvas": false
   },
@@ -44,6 +44,15 @@
    "path": "iECD_1391/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
    "nodes": 1062,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; +1 more",
+   "file": "Transport_and_exchange_Biomass_and_exchange_1_more.json",
+   "path": "iECD_1391/Transport_and_exchange_Biomass_and_exchange_1_more.json",
+   "reactions": 120,
+   "nodes": 991,
    "combined": false,
    "canvas": false
   },
@@ -84,6 +93,15 @@
    "canvas": false
   },
   {
+   "name": "Transport and exchange: Transport, Outer Membrane Porin; Extracellular exchange (UMP C9H11N2O9P)",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_237a6a.json",
+   "path": "iECD_1391/Transport_and_exchange_Transport_Outer_Membrane_Porin_237a6a.json",
+   "reactions": 120,
+   "nodes": 654,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Glycan metabolism: Lipopolysaccharide Biosynthesis / Recycling; Murein Recycling; +2 more",
    "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_155552.json",
    "path": "iECD_1391/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_155552.json",
@@ -93,20 +111,29 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (lipids, Hexadecanoate; lipids, CMP C9H12N3O8P 2; +2)",
-   "file": "Lipid_metabolism_Glycerophospholipid_lipids_Hexadecan_36dc10.json",
-   "path": "iECD_1391/Lipid_metabolism_Glycerophospholipid_lipids_Hexadecan_36dc10.json",
-   "reactions": 119,
-   "nodes": 1039,
+   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; Methionine",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_b36db0.json",
+   "path": "iECD_1391/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_b36db0.json",
+   "reactions": 118,
+   "nodes": 964,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Biomass and exchange; +2 more",
-   "file": "Transport_and_exchange_Biomass_and_exchange_2_more.json",
-   "path": "iECD_1391/Transport_and_exchange_Biomass_and_exchange_2_more.json",
-   "reactions": 119,
-   "nodes": 1016,
+   "name": "Amino acid metabolism: Tyrosine, Tryptophan, and Phenylalanine; tRNA Charging; Threonine and Lysine; +2 more",
+   "file": "Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_8536ac.json",
+   "path": "iECD_1391/Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_8536ac.json",
+   "reactions": 118,
+   "nodes": 906,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (cofactors and vitamins); Folate",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_034c2e.json",
+   "path": "iECD_1391/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_034c2e.json",
+   "reactions": 118,
+   "nodes": 879,
    "combined": false,
    "canvas": false
   },
@@ -115,25 +142,16 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_4e5b1e.json",
    "path": "iECD_1391/Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_4e5b1e.json",
    "reactions": 118,
-   "nodes": 1141,
+   "nodes": 1142,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (lipids, Glycerophosphoglycerol; +2)",
-   "file": "Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_580b76.json",
-   "path": "iECD_1391/Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_580b76.json",
+   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Phosphatidylglycerophosphate; +1)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_ae5bb7.json",
+   "path": "iECD_1391/Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_ae5bb7.json",
    "reactions": 118,
-   "nodes": 967,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, Outer Membrane Porin; Extracellular exchange (UMP C9H11N2O9P)",
-   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_237a6a.json",
-   "path": "iECD_1391/Transport_and_exchange_Transport_Outer_Membrane_Porin_237a6a.json",
-   "reactions": 118,
-   "nodes": 644,
+   "nodes": 906,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +160,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_D-galactose_c77723.json",
    "path": "iECD_1391/Carbohydrate_metabolism_Alternate_Carbon_D-galactose_c77723.json",
    "reactions": 116,
-   "nodes": 943,
+   "nodes": 963,
    "combined": false,
    "canvas": false
   },
@@ -151,51 +169,33 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Dioxygenase_1f71e9.json",
    "path": "iECD_1391/Carbohydrate_metabolism_Alternate_Carbon_Dioxygenase_1f71e9.json",
    "reactions": 115,
-   "nodes": 828,
+   "nodes": 813,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (cofactors and vitamins, S-Adenosyl-L-methionine 2; +2)",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_1b329f.json",
-   "path": "iECD_1391/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_1b329f.json",
-   "reactions": 115,
-   "nodes": 893,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: tRNA Charging; Threonine and Lysine; Cysteine; Methionine; +1 more",
-   "file": "Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_86c62a.json",
-   "path": "iECD_1391/Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_86c62a.json",
-   "reactions": 114,
-   "nodes": 895,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (cofactors and vitamins, S-Adenosyl-L-methionine 1; +1)",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_21fb39.json",
-   "path": "iECD_1391/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_21fb39.json",
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (cofactors and vitamins)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_63d23e.json",
+   "path": "iECD_1391/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_63d23e.json",
    "reactions": 112,
-   "nodes": 821,
+   "nodes": 818,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Hydrogen peroxide; lipids)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Hydrogen_peroxid_735005.json",
-   "path": "iECD_1391/Lipid_metabolism_Glycerophospholipid_Hydrogen_peroxid_735005.json",
-   "reactions": 110,
-   "nodes": 844,
+   "name": "Lipid metabolism: Glycerophospholipid (Octadecanoyl-phosphate; +3)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Octadecanoyl-pho_7b1483.json",
+   "path": "iECD_1391/Lipid_metabolism_Glycerophospholipid_Octadecanoyl-pho_7b1483.json",
+   "reactions": 105,
+   "nodes": 865,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport; +6 more",
-   "file": "Transport_and_exchange_Transport_6_more.json",
-   "path": "iECD_1391/Transport_and_exchange_Transport_6_more.json",
-   "reactions": 99,
+   "name": "Transport and exchange: Transport; Transport, Inner Membrane (amino acids and peptides; +1); +6 more",
+   "file": "Transport_and_exchange_Transport_Transport_Inner_Memb_56756c.json",
+   "path": "iECD_1391/Transport_and_exchange_Transport_Transport_Inner_Memb_56756c.json",
+   "reactions": 97,
    "nodes": 597,
    "combined": false,
    "canvas": false
@@ -219,11 +219,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Alanine and Aspartate; 4 hydroxyphenylacetate catabolism; Histidine; Glutamate",
-   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_4_hydroxy_aba030.json",
-   "path": "iECD_1391/Amino_acid_metabolism_Alanine_and_Aspartate_4_hydroxy_aba030.json",
-   "reactions": 52,
-   "nodes": 373,
+   "name": "Amino acid metabolism: Valine, Leucine, and Isoleucine; Alanine and Aspartate; Histidine; Glutamate; +1 more",
+   "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_A_aba16f.json",
+   "path": "iECD_1391/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_A_aba16f.json",
+   "reactions": 62,
+   "nodes": 470,
    "combined": false,
    "canvas": false
   },
@@ -246,20 +246,20 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (sugars and organic acids); Folate",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_ab3651.json",
-   "path": "iECD_1391/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_ab3651.json",
-   "reactions": 22,
-   "nodes": 145,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Glycan metabolism: Murein Biosynthesis",
    "file": "Glycan_metabolism_Murein_Biosynthesis.json",
    "path": "iECD_1391/Glycan_metabolism_Murein_Biosynthesis.json",
    "reactions": 17,
    "nodes": 126,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (sugars and organic acids)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_12945c.json",
+   "path": "iECD_1391/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_12945c.json",
+   "reactions": 13,
+   "nodes": 78,
    "combined": false,
    "canvas": false
   },

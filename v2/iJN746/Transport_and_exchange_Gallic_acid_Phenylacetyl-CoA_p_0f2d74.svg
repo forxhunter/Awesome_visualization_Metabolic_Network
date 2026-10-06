@@ -102,16 +102,16 @@
 <line x1="2689.0" y1="1914.0" x2="2689.0" y2="1950.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2689.0" y1="1950.0" x2="2689.0" y2="1986.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2689.0" y1="1986.0" x2="2689.0" y2="2080.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1083.0" y1="2080.0" x2="1083.0" y2="2174.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1083.0" y1="2174.0" x2="1083.0" y2="2210.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1083.0" y1="2210.0" x2="1083.0" y2="2246.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1083.0" y1="2246.0" x2="1083.0" y2="2340.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1223.0" y1="1820.0" x2="1223.0" y2="1950.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1223.0" y1="1950.0" x2="1189.0" y2="1950.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1189.0" y1="1950.0" x2="1153.0" y2="1950.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1153.0" y1="1950.0" x2="1117.0" y2="1950.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1117.0" y1="1950.0" x2="1083.0" y2="1950.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1083.0" y1="1950.0" x2="1083.0" y2="2080.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1083.0" y1="2080.0" x2="1083.0" y2="2174.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1083.0" y1="2174.0" x2="1083.0" y2="2210.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1083.0" y1="2210.0" x2="1083.0" y2="2246.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1083.0" y1="2246.0" x2="1083.0" y2="2340.0" stroke="#2f3b47" stroke-width="6.0"/>
 </g><g>
 <path d="M440.0 950.0 L424.0 904.0 L456.0 904.0 Z" fill="#2f3b47"/>
 <path d="M440.0 1730.0 L424.0 1684.0 L456.0 1684.0 Z" fill="#2f3b47"/>
@@ -151,10 +151,10 @@
 <path d="M2719.0 1820.0 L2765.0 1804.0 L2765.0 1836.0 Z" fill="#2f3b47"/>
 <path d="M2689.0 1850.0 L2705.0 1896.0 L2673.0 1896.0 Z" fill="#2f3b47"/>
 <path d="M2689.0 2050.0 L2673.0 2004.0 L2705.0 2004.0 Z" fill="#2f3b47"/>
-<path d="M1083.0 2110.0 L1099.0 2156.0 L1067.0 2156.0 Z" fill="#2f3b47"/>
-<path d="M1083.0 2310.0 L1067.0 2264.0 L1099.0 2264.0 Z" fill="#2f3b47"/>
 <path d="M1223.0 1850.0 L1239.0 1896.0 L1207.0 1896.0 Z" fill="#2f3b47"/>
 <path d="M1083.0 2050.0 L1067.0 2004.0 L1099.0 2004.0 Z" fill="#2f3b47"/>
+<path d="M1083.0 2110.0 L1099.0 2156.0 L1067.0 2156.0 Z" fill="#2f3b47"/>
+<path d="M1083.0 2310.0 L1067.0 2264.0 L1099.0 2264.0 Z" fill="#2f3b47"/>
 <circle cx="1342.5" cy="850.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="1337.5" cy="1110.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="585.0" cy="720.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
@@ -256,14 +256,14 @@
 <circle cx="2689.0" cy="1950.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="2689.0" cy="1914.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2689.0" cy="1986.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1083.0" cy="2210.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="1083.0" cy="2174.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1083.0" cy="2246.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1153.0" cy="1950.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1189.0" cy="1950.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1117.0" cy="1950.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1223.0" cy="1950.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1083.0" cy="1950.0" r="6.0" fill="#7f8c99"/>
+<circle cx="1083.0" cy="2210.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="1083.0" cy="2174.0" r="6.0" fill="#7f8c99"/>
+<circle cx="1083.0" cy="2246.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1972.5" cy="590.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1685.0" cy="850.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1635.0" cy="590.0" r="6.0" fill="#7f8c99"/>
@@ -325,8 +325,8 @@
 <text x="1238.2" y="1895.3" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">L_LACD2</text>
 <text x="2309.7" y="1979.8" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">D_LACt2pp</text>
 <text x="2539.4" y="1922.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">D_LACtex</text>
-<text x="1120.8" y="2210.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">L_LACtex</text>
 <text x="1132.8" y="1997.4" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">L_LACt2rpp</text>
+<text x="1120.8" y="2210.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">L_LACtex</text>
 <text x="124.3" y="447.6" font-size="55.8" fill="#a83a6e" dominant-baseline="middle">Transport and exchange: Gallic acid; Phenylacetyl-CoA pathway; Pyruvate Met</text>
 <text x="124.3" y="2469.0" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
 </g>

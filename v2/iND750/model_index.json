@@ -7,16 +7,16 @@
    "file": "iND750_Canvas.json",
    "path": "iND750/iND750_Canvas.json",
    "reactions": 1266,
-   "nodes": 9236,
+   "nodes": 9183,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Transport and exchange: Transport, Mitochondrial; Transport, Vacuolar; Transport, Endoplasmic Reticular",
-   "file": "Transport_and_exchange_Transport_Mitochondrial_Transp_d52ee2.json",
-   "path": "iND750/Transport_and_exchange_Transport_Mitochondrial_Transp_d52ee2.json",
+   "name": "Transport and exchange: Transport, Mitochondrial; Transport, Nuclear",
+   "file": "Transport_and_exchange_Transport_Mitochondrial_Transp_ae953d.json",
+   "path": "iND750/Transport_and_exchange_Transport_Mitochondrial_Transp_ae953d.json",
    "reactions": 120,
-   "nodes": 638,
+   "nodes": 639,
    "combined": false,
    "canvas": false
   },
@@ -34,16 +34,7 @@
    "file": "Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_491b5a.json",
    "path": "iND750/Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_491b5a.json",
    "reactions": 117,
-   "nodes": 835,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Biomass and exchange; Transport, Peroxisomal; Transport, Nuclear",
-   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_4ce5b6.json",
-   "path": "iND750/Transport_and_exchange_Biomass_and_exchange_Transport_4ce5b6.json",
-   "reactions": 116,
-   "nodes": 803,
+   "nodes": 824,
    "combined": false,
    "canvas": false
   },
@@ -57,11 +48,29 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Alanine and Aspartate; Glycine and Serine; Histidine; Threonine and Lysine; +3 more",
-   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Glycine_a_bd9d7f.json",
-   "path": "iND750/Amino_acid_metabolism_Alanine_and_Aspartate_Glycine_a_bd9d7f.json",
+   "name": "Amino acid metabolism: Glycine and Serine; Histidine; Threonine and Lysine; Alanine and Aspartate; +3 more",
+   "file": "Amino_acid_metabolism_Glycine_and_Serine_Histidine_Th_ab1bb4.json",
+   "path": "iND750/Amino_acid_metabolism_Glycine_and_Serine_Histidine_Th_ab1bb4.json",
    "reactions": 115,
-   "nodes": 898,
+   "nodes": 889,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Transport, Peroxisomal; Transport, Vacuolar; +1 more",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_038759.json",
+   "path": "iND750/Transport_and_exchange_Biomass_and_exchange_Transport_038759.json",
+   "reactions": 114,
+   "nodes": 778,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iND750/Carbohydrate_metabolism.json",
+   "reactions": 112,
+   "nodes": 875,
    "combined": false,
    "canvas": false
   },
@@ -70,16 +79,7 @@
    "file": "Lipid_metabolism_Fatty_Acid_Biosynthesis_Sphingolipid_df5726.json",
    "path": "iND750/Lipid_metabolism_Fatty_Acid_Biosynthesis_Sphingolipid_df5726.json",
    "reactions": 107,
-   "nodes": 966,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism",
-   "file": "Carbohydrate_metabolism.json",
-   "path": "iND750/Carbohydrate_metabolism.json",
-   "reactions": 106,
-   "nodes": 840,
+   "nodes": 958,
    "combined": false,
    "canvas": false
   },
@@ -114,8 +114,8 @@
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iND750/Energy_metabolism.json",
-   "reactions": 25,
-   "nodes": 144,
+   "reactions": 21,
+   "nodes": 120,
    "combined": false,
    "canvas": false
   },

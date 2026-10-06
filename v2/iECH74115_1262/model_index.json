@@ -6,35 +6,17 @@
    "name": "iECH74115_1262 - Escherichia coli (E. coli)",
    "file": "iECH74115_1262_Canvas.json",
    "path": "iECH74115_1262/iECH74115_1262_Canvas.json",
-   "reactions": 2691,
-   "nodes": 18411,
+   "reactions": 2694,
+   "nodes": 18325,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Threonine and Lysine; tRNA Charging; Methionine; Cysteine; +2 more",
-   "file": "Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_aabc48.json",
-   "path": "iECH74115_1262/Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_aabc48.json",
-   "reactions": 120,
-   "nodes": 918,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Alternate Carbon (Guanine; Maltodextrin; +1)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Guanine_Malt_422a85.json",
    "path": "iECH74115_1262/Carbohydrate_metabolism_Alternate_Carbon_Guanine_Malt_422a85.json",
    "reactions": 120,
-   "nodes": 723,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate); +1 more",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8bb0cf.json",
-   "path": "iECH74115_1262/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8bb0cf.json",
-   "reactions": 120,
-   "nodes": 864,
+   "nodes": 732,
    "combined": false,
    "canvas": false
   },
@@ -43,16 +25,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_glycans_fdf099.json",
    "path": "iECH74115_1262/Glycan_metabolism_Cell_Envelope_Biosynthesis_glycans_fdf099.json",
    "reactions": 120,
-   "nodes": 1135,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; CDP-1,2-didodecanoylglycerol)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_CDP-1_2_804e78.json",
-   "path": "iECH74115_1262/Lipid_metabolism_Glycerophospholipid_Glycerol_CDP-1_2_804e78.json",
-   "reactions": 120,
-   "nodes": 914,
+   "nodes": 1142,
    "combined": false,
    "canvas": false
   },
@@ -102,11 +75,38 @@
    "canvas": false
   },
   {
+   "name": "Transport and exchange: Transport, Outer Membrane Porin",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin.json",
+   "path": "iECH74115_1262/Transport_and_exchange_Transport_Outer_Membrane_Porin.json",
+   "reactions": 120,
+   "nodes": 706,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; +1 more",
    "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
    "path": "iECH74115_1262/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
-   "reactions": 118,
-   "nodes": 1031,
+   "reactions": 119,
+   "nodes": 1046,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (Hydroxypyruvate reductase; +3); Glycolysis/Gluconeogenesis; +4 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Hydroxypyruv_1f57b7.json",
+   "path": "iECH74115_1262/Carbohydrate_metabolism_Alternate_Carbon_Hydroxypyruv_1f57b7.json",
+   "reactions": 119,
+   "nodes": 904,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
+   "path": "iECH74115_1262/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
+   "reactions": 119,
+   "nodes": 861,
    "combined": false,
    "canvas": false
   },
@@ -114,17 +114,8 @@
    "name": "Transport and exchange: Biomass and exchange; Transport; Extracellular exchange (UMP C9H11N2O9P); +1 more",
    "file": "Transport_and_exchange_Biomass_and_exchange_Transport_ba14d6.json",
    "path": "iECH74115_1262/Transport_and_exchange_Biomass_and_exchange_Transport_ba14d6.json",
-   "reactions": 118,
-   "nodes": 926,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, Outer Membrane Porin",
-   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin.json",
-   "path": "iECH74115_1262/Transport_and_exchange_Transport_Outer_Membrane_Porin.json",
-   "reactions": 118,
-   "nodes": 696,
+   "reactions": 119,
+   "nodes": 931,
    "combined": false,
    "canvas": false
   },
@@ -133,16 +124,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_D-Glucosamin_513108.json",
    "path": "iECH74115_1262/Carbohydrate_metabolism_Alternate_Carbon_D-Glucosamin_513108.json",
    "reactions": 117,
-   "nodes": 808,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Alternate Carbon (Hydroxypyruvate reductase; +3); Glycolysis/Gluconeogenesis; +4 more",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_Hydroxypyruv_1f57b7.json",
-   "path": "iECH74115_1262/Carbohydrate_metabolism_Alternate_Carbon_Hydroxypyruv_1f57b7.json",
-   "reactions": 117,
-   "nodes": 880,
+   "nodes": 811,
    "combined": false,
    "canvas": false
   },
@@ -160,25 +142,25 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Transport_sy_ebce1f.json",
    "path": "iECH74115_1262/Carbohydrate_metabolism_Alternate_Carbon_Transport_sy_ebce1f.json",
    "reactions": 116,
-   "nodes": 816,
+   "nodes": 781,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Cis-octadec-11-enoyl; Octadecanoyl-phosphate; +1)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-e_eb1bf4.json",
-   "path": "iECH74115_1262/Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-e_eb1bf4.json",
+   "name": "Amino acid metabolism: Threonine and Lysine; tRNA Charging; Methionine; Cysteine; +1 more",
+   "file": "Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_baf50b.json",
+   "path": "iECH74115_1262/Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_baf50b.json",
+   "reactions": 115,
+   "nodes": 876,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Cis-octadec-11-enoyl; +3)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-enoyl_3.json",
+   "path": "iECH74115_1262/Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-enoyl_3.json",
    "reactions": 114,
-   "nodes": 907,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Glycerophospholipid (Choline C5H14NO; Phosphatidylglycerophosphate; +1); +1 more",
-   "file": "Lipid_metabolism_Glycerophospholipid_Choline_C5H14NO_3dc8a8.json",
-   "path": "iECH74115_1262/Lipid_metabolism_Glycerophospholipid_Choline_C5H14NO_3dc8a8.json",
-   "reactions": 113,
-   "nodes": 823,
+   "nodes": 927,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +169,7 @@
    "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_105536.json",
    "path": "iECH74115_1262/Transport_and_exchange_Transport_Inner_Membrane_Trans_105536.json",
    "reactions": 112,
-   "nodes": 726,
+   "nodes": 730,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +178,34 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_92980e.json",
    "path": "iECH74115_1262/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_92980e.json",
    "reactions": 108,
-   "nodes": 762,
+   "nodes": 773,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Phosphatidylglycerophosphate; Choline C5H14NO)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Phosphatidylglyc_7a9477.json",
+   "path": "iECH74115_1262/Lipid_metabolism_Glycerophospholipid_Phosphatidylglyc_7a9477.json",
+   "reactions": 104,
+   "nodes": 761,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; +1); Other lipid",
+   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_1_Other_lipid.json",
+   "path": "iECH74115_1262/Lipid_metabolism_Glycerophospholipid_Glycerol_1_Other_lipid.json",
+   "reactions": 100,
+   "nodes": 706,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Membrane Lipid; Glycerophospholipid (Tetradecanoyl-phosphate)",
+   "file": "Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_T_551398.json",
+   "path": "iECH74115_1262/Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_T_551398.json",
+   "reactions": 84,
+   "nodes": 592,
    "combined": false,
    "canvas": false
   },
@@ -210,20 +219,11 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Membrane Lipid",
-   "file": "Lipid_metabolism_Membrane_Lipid.json",
-   "path": "iECH74115_1262/Lipid_metabolism_Membrane_Lipid.json",
-   "reactions": 56,
-   "nodes": 372,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Alanine and Aspartate; Histidine; Glutamate",
-   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_f7447e.json",
-   "path": "iECH74115_1262/Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_f7447e.json",
-   "reactions": 38,
-   "nodes": 280,
+   "name": "Amino acid metabolism: Alanine and Aspartate; Histidine; Glutamate; Other amino acid",
+   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_ebf2ba.json",
+   "path": "iECH74115_1262/Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_ebf2ba.json",
+   "reactions": 44,
+   "nodes": 326,
    "combined": false,
    "canvas": false
   },
@@ -237,11 +237,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Alternate Carbon source; Anaplerotic Reactions; Glyoxylate",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_source_Anapl_53269d.json",
-   "path": "iECH74115_1262/Carbohydrate_metabolism_Alternate_Carbon_source_Anapl_53269d.json",
-   "reactions": 24,
-   "nodes": 162,
+   "name": "Carbohydrate metabolism: Anaplerotic Reactions; Alternate Carbon source; Glyoxylate",
+   "file": "Carbohydrate_metabolism_Anaplerotic_Reactions_Alterna_c4a70f.json",
+   "path": "iECH74115_1262/Carbohydrate_metabolism_Anaplerotic_Reactions_Alterna_c4a70f.json",
+   "reactions": 22,
+   "nodes": 149,
    "combined": false,
    "canvas": false
   },

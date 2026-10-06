@@ -6,17 +6,17 @@
    "name": "iJN678 - Synechocystis sp. (cyanobacterium)",
    "file": "iJN678_Canvas.json",
    "path": "iJN678/iJN678_Canvas.json",
-   "reactions": 860,
-   "nodes": 6385,
+   "reactions": 863,
+   "nodes": 6402,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Arginine and proline; Phenylalanine tyrosine and tryptophan biosynthesis; +4 more",
-   "file": "Amino_acid_metabolism_Arginine_and_proline_Phenylalan_2aa8d3.json",
-   "path": "iJN678/Amino_acid_metabolism_Arginine_and_proline_Phenylalan_2aa8d3.json",
-   "reactions": 117,
-   "nodes": 860,
+   "name": "Amino acid metabolism: Arginine and proline; Phenylalanine tyrosine and tryptophan biosynthesis; +5 more",
+   "file": "Amino_acid_metabolism_Arginine_and_proline_Phenylalan_49a2dd.json",
+   "path": "iJN678/Amino_acid_metabolism_Arginine_and_proline_Phenylalan_49a2dd.json",
+   "reactions": 120,
+   "nodes": 891,
    "combined": false,
    "canvas": false
   },
@@ -30,20 +30,20 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism",
-   "file": "Carbohydrate_metabolism.json",
-   "path": "iJN678/Carbohydrate_metabolism.json",
-   "reactions": 116,
-   "nodes": 1244,
+   "name": "Transport and exchange: Transport; Other transport and exchange",
+   "file": "Transport_and_exchange_Transport_Other_transport_and_deaf7b.json",
+   "path": "iJN678/Transport_and_exchange_Transport_Other_transport_and_deaf7b.json",
+   "reactions": 117,
+   "nodes": 845,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport; Other transport and exchange",
-   "file": "Transport_and_exchange_Transport_Other_transport_and_deaf7b.json",
-   "path": "iJN678/Transport_and_exchange_Transport_Other_transport_and_deaf7b.json",
-   "reactions": 114,
-   "nodes": 812,
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iJN678/Carbohydrate_metabolism.json",
+   "reactions": 116,
+   "nodes": 1260,
    "combined": false,
    "canvas": false
   },
@@ -51,8 +51,8 @@
    "name": "Cofactor and vitamin metabolism",
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iJN678/Cofactor_and_vitamin_metabolism.json",
-   "reactions": 111,
-   "nodes": 796,
+   "reactions": 115,
+   "nodes": 795,
    "combined": false,
    "canvas": false
   },
@@ -84,11 +84,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Lysine; Urea cycle and metabolism of amino groups; Reductase; Glutamate",
-   "file": "Amino_acid_metabolism_Lysine_Urea_cycle_and_metabolis_a59ded.json",
-   "path": "iJN678/Amino_acid_metabolism_Lysine_Urea_cycle_and_metabolis_a59ded.json",
-   "reactions": 35,
-   "nodes": 309,
+   "name": "Amino acid metabolism: Urea cycle and metabolism of amino groups; Lysine; Reductase",
+   "file": "Amino_acid_metabolism_Urea_cycle_and_metabolism_of_am_494280.json",
+   "path": "iJN678/Amino_acid_metabolism_Urea_cycle_and_metabolism_of_am_494280.json",
+   "reactions": 28,
+   "nodes": 202,
    "combined": false,
    "canvas": false
   },

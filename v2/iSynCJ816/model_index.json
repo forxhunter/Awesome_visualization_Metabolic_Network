@@ -7,7 +7,7 @@
    "file": "iSynCJ816_Canvas.json",
    "path": "iSynCJ816/iSynCJ816_Canvas.json",
    "reactions": 1043,
-   "nodes": 7864,
+   "nodes": 7876,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,25 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_St_a638e8.json",
    "path": "iSynCJ816/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_St_a638e8.json",
    "reactions": 119,
-   "nodes": 1258,
+   "nodes": 1262,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Porphyrin; Ubiquinone and other terpenoid-quinone biosynthesis; Thiamine; +5 more",
+   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_ab88b9.json",
+   "path": "iSynCJ816/Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_ab88b9.json",
+   "reactions": 119,
+   "nodes": 867,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and proline; Cysteine and methionine; Aminoacyl-tRNA biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Arginine_and_proline_Cysteine_a_2d4e9d.json",
+   "path": "iSynCJ816/Amino_acid_metabolism_Arginine_and_proline_Cysteine_a_2d4e9d.json",
+   "reactions": 118,
+   "nodes": 930,
    "combined": false,
    "canvas": false
   },
@@ -25,25 +43,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Biotin.json",
    "path": "iSynCJ816/Cofactor_and_vitamin_metabolism_Biotin.json",
    "reactions": 117,
-   "nodes": 870,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Porphyrin; Ubiquinone and other terpenoid-quinone biosynthesis; Thiamine; +4 more",
-   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_7b649a.json",
-   "path": "iSynCJ816/Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_7b649a.json",
-   "reactions": 117,
-   "nodes": 849,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and proline; Aminoacyl-tRNA biosynthesis; Cysteine and methionine; +3 more",
-   "file": "Amino_acid_metabolism_Arginine_and_proline_Aminoacyl-_65bbcd.json",
-   "path": "iSynCJ816/Amino_acid_metabolism_Arginine_and_proline_Aminoacyl-_65bbcd.json",
-   "reactions": 116,
-   "nodes": 993,
+   "nodes": 811,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Lipid_metabolism_Diacylglycerol_Glycerolipid_Other_lipid.json",
    "path": "iSynCJ816/Lipid_metabolism_Diacylglycerol_Glycerolipid_Other_lipid.json",
    "reactions": 108,
-   "nodes": 896,
+   "nodes": 898,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Amino_acid_metabolism_Lysine_biosynthesis_Histidine_A_ef1538.json",
    "path": "iSynCJ816/Amino_acid_metabolism_Lysine_biosynthesis_Histidine_A_ef1538.json",
    "reactions": 86,
-   "nodes": 631,
+   "nodes": 632,
    "combined": false,
    "canvas": false
   },
@@ -138,11 +138,11 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Riboflavin; Other cofactor and vitamin",
-   "file": "Cofactor_and_vitamin_metabolism_Riboflavin_Other_cofa_0ee67a.json",
-   "path": "iSynCJ816/Cofactor_and_vitamin_metabolism_Riboflavin_Other_cofa_0ee67a.json",
-   "reactions": 11,
-   "nodes": 82,
+   "name": "Cofactor and vitamin metabolism: Riboflavin",
+   "file": "Cofactor_and_vitamin_metabolism_Riboflavin.json",
+   "path": "iSynCJ816/Cofactor_and_vitamin_metabolism_Riboflavin.json",
+   "reactions": 7,
+   "nodes": 50,
    "combined": false,
    "canvas": false
   },

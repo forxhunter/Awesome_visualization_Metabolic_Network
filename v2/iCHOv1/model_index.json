@@ -6,8 +6,8 @@
    "name": "iCHOv1 - Cricetulus griseus (Chinese hamster, CHO)",
    "file": "iCHOv1_Canvas.json",
    "path": "iCHOv1/iCHOv1_Canvas.json",
-   "reactions": 6647,
-   "nodes": 48972,
+   "reactions": 6651,
+   "nodes": 48760,
    "combined": true,
    "canvas": true
   },
@@ -17,6 +17,15 @@
    "path": "iCHOv1/Amino_acid_metabolism_TRYPTOPHAN_VALINE_LEUCINE_AND_I_f5700b.json",
    "reactions": 120,
    "nodes": 902,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: UREA CYCLE; GLYCINE, SERINE, ALANINE AND THREONINE; PROTEIN PRODUCTION",
+   "file": "Amino_acid_metabolism_UREA_CYCLE_GLYCINE_SERINE_ALANI_ae95f4.json",
+   "path": "iCHOv1/Amino_acid_metabolism_UREA_CYCLE_GLYCINE_SERINE_ALANI_ae95f4.json",
+   "reactions": 120,
+   "nodes": 1042,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +43,7 @@
    "file": "Carbohydrate_metabolism_PENTOSE_PHOSPHATE_PATHWAY_AMI_b40d6d.json",
    "path": "iCHOv1/Carbohydrate_metabolism_PENTOSE_PHOSPHATE_PATHWAY_AMI_b40d6d.json",
    "reactions": 120,
-   "nodes": 1129,
+   "nodes": 1130,
    "combined": false,
    "canvas": false
   },
@@ -57,11 +66,29 @@
    "canvas": false
   },
   {
+   "name": "Lipid metabolism: EICOSANOID (15-epi-lipoxin B5; +2)",
+   "file": "Lipid_metabolism_EICOSANOID_15-epi-lipoxin_B5_2.json",
+   "path": "iCHOv1/Lipid_metabolism_EICOSANOID_15-epi-lipoxin_B5_2.json",
+   "reactions": 120,
+   "nodes": 882,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: EICOSANOID (Prostaglandin synthase Cytochrome; 5-oxo-12; +6)",
+   "file": "Lipid_metabolism_EICOSANOID_Prostaglandin_synthase_Cy_029596.json",
+   "path": "iCHOv1/Lipid_metabolism_EICOSANOID_Prostaglandin_synthase_Cy_029596.json",
+   "reactions": 120,
+   "nodes": 917,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Lipid metabolism: FATTY ACID OXIDATION (Carnitine; +1)",
    "file": "Lipid_metabolism_FATTY_ACID_OXIDATION_Carnitine_1.json",
    "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_OXIDATION_Carnitine_1.json",
    "reactions": 120,
-   "nodes": 1080,
+   "nodes": 1112,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +142,7 @@
    "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Organi_31cc27.json",
    "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Organi_31cc27.json",
    "reactions": 120,
-   "nodes": 916,
+   "nodes": 898,
    "combined": false,
    "canvas": false
   },
@@ -125,15 +152,6 @@
    "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_Resist_f533b3.json",
    "reactions": 120,
    "nodes": 779,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (amino acids and peptides, 5-Methyltetrahydrofolate)",
-   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_54520c.json",
-   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_54520c.json",
-   "reactions": 120,
-   "nodes": 701,
    "combined": false,
    "canvas": false
   },
@@ -160,16 +178,16 @@
    "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_fda250.json",
    "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_fda250.json",
    "reactions": 120,
-   "nodes": 978,
+   "nodes": 987,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: ARGININE AND PROLINE; GLYCINE, SERINE, ALANINE AND THREONINE; GLUTAMATE",
-   "file": "Amino_acid_metabolism_ARGININE_AND_PROLINE_GLYCINE_SE_db2d08.json",
-   "path": "iCHOv1/Amino_acid_metabolism_ARGININE_AND_PROLINE_GLYCINE_SE_db2d08.json",
-   "reactions": 119,
-   "nodes": 964,
+   "name": "Transport and exchange: TRANSPORT, PEROXISOMAL",
+   "file": "Transport_and_exchange_TRANSPORT_PEROXISOMAL.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_PEROXISOMAL.json",
+   "reactions": 120,
+   "nodes": 665,
    "combined": false,
    "canvas": false
   },
@@ -178,16 +196,7 @@
    "file": "Amino_acid_metabolism_TYROSINE_Other_amino_acid.json",
    "path": "iCHOv1/Amino_acid_metabolism_TYROSINE_Other_amino_acid.json",
    "reactions": 119,
-   "nodes": 1181,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: UREA CYCLE; METHIONINE AND CYSTEINE",
-   "file": "Amino_acid_metabolism_UREA_CYCLE_METHIONINE_AND_CYSTEINE.json",
-   "path": "iCHOv1/Amino_acid_metabolism_UREA_CYCLE_METHIONINE_AND_CYSTEINE.json",
-   "reactions": 119,
-   "nodes": 933,
+   "nodes": 1196,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +205,7 @@
    "file": "Carbohydrate_metabolism_STARCH_AND_SUCROSE_PYRUVATE_F_48944d.json",
    "path": "iCHOv1/Carbohydrate_metabolism_STARCH_AND_SUCROSE_PYRUVATE_F_48944d.json",
    "reactions": 119,
-   "nodes": 1115,
+   "nodes": 1118,
    "combined": false,
    "canvas": false
   },
@@ -210,20 +219,29 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: EICOSANOID (15-epi-lipoxin B5; +3)",
-   "file": "Lipid_metabolism_EICOSANOID_15-epi-lipoxin_B5_3.json",
-   "path": "iCHOv1/Lipid_metabolism_EICOSANOID_15-epi-lipoxin_B5_3.json",
-   "reactions": 119,
-   "nodes": 939,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Nucleotide metabolism: NUCLEOTIDE INTERCONVERSION (3',5'-Cyclic GMP; Thymidine C10H14N2O5; +2)",
    "file": "Nucleotide_metabolism_NUCLEOTIDE_INTERCONVERSION_3_5_70ff1a.json",
    "path": "iCHOv1/Nucleotide_metabolism_NUCLEOTIDE_INTERCONVERSION_3_5_70ff1a.json",
    "reactions": 119,
    "nodes": 701,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (amino acids and peptides, 5-Methyltetrahydrofolate)",
+   "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_54520c.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_amino_54520c.json",
+   "reactions": 119,
+   "nodes": 688,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, GOLGI APPARATUS",
+   "file": "Transport_and_exchange_TRANSPORT_GOLGI_APPARATUS.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_GOLGI_APPARATUS.json",
+   "reactions": 119,
+   "nodes": 755,
    "combined": false,
    "canvas": false
   },
@@ -237,11 +255,38 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: TRANSPORT, PEROXISOMAL",
-   "file": "Transport_and_exchange_TRANSPORT_PEROXISOMAL.json",
-   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_PEROXISOMAL.json",
+   "name": "Transport and exchange: TRANSPORT, MITOCHONDRIAL (Thiocyanate; lipids); +2 more",
+   "file": "Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_Thiocy_573498.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_Thiocy_573498.json",
    "reactions": 119,
-   "nodes": 660,
+   "nodes": 863,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: TRANSPORT, MITOCHONDRIAL (nucleotides and nucleosides; +1); +1 more",
+   "file": "Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_nucleo_480553.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_nucleo_480553.json",
+   "reactions": 119,
+   "nodes": 823,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: ARGININE AND PROLINE; METHIONINE AND CYSTEINE; TAURINE AND HYPOTAURINE",
+   "file": "Amino_acid_metabolism_ARGININE_AND_PROLINE_METHIONINE_2926fa.json",
+   "path": "iCHOv1/Amino_acid_metabolism_ARGININE_AND_PROLINE_METHIONINE_2926fa.json",
+   "reactions": 118,
+   "nodes": 1035,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: FOLATE; CYTOCHROME; Other cofactor and vitamin",
+   "file": "Cofactor_and_vitamin_metabolism_FOLATE_CYTOCHROME_Oth_227854.json",
+   "path": "iCHOv1/Cofactor_and_vitamin_metabolism_FOLATE_CYTOCHROME_Oth_227854.json",
+   "reactions": 118,
+   "nodes": 865,
    "combined": false,
    "canvas": false
   },
@@ -250,7 +295,7 @@
    "file": "Lipid_metabolism_FATTY_ACID_OXIDATION_Long_chain_fatt_25bdfb.json",
    "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_OXIDATION_Long_chain_fatt_25bdfb.json",
    "reactions": 118,
-   "nodes": 1027,
+   "nodes": 1028,
    "combined": false,
    "canvas": false
   },
@@ -259,34 +304,7 @@
    "file": "Lipid_metabolism_FATTY_ACID_OXIDATION_Oxidation_fatty_acid.json",
    "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_OXIDATION_Oxidation_fatty_acid.json",
    "reactions": 118,
-   "nodes": 1475,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: TRANSPORT, GOLGI APPARATUS",
-   "file": "Transport_and_exchange_TRANSPORT_GOLGI_APPARATUS.json",
-   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_GOLGI_APPARATUS.json",
-   "reactions": 118,
-   "nodes": 750,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: LYSINE; ALANINE AND ASPARTATE; BETA-ALANINE; GLYCINE, SERINE, AND THREONINE; +2 more",
-   "file": "Amino_acid_metabolism_LYSINE_ALANINE_AND_ASPARTATE_BE_49980e.json",
-   "path": "iCHOv1/Amino_acid_metabolism_LYSINE_ALANINE_AND_ASPARTATE_BE_49980e.json",
-   "reactions": 117,
-   "nodes": 960,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: FOLATE; CYTOCHROME; Other cofactor and vitamin",
-   "file": "Cofactor_and_vitamin_metabolism_FOLATE_CYTOCHROME_Oth_227854.json",
-   "path": "iCHOv1/Cofactor_and_vitamin_metabolism_FOLATE_CYTOCHROME_Oth_227854.json",
-   "reactions": 117,
-   "nodes": 835,
+   "nodes": 1479,
    "combined": false,
    "canvas": false
   },
@@ -295,7 +313,16 @@
    "file": "Lipid_metabolism_EICOSANOID_Resistance-nodulation-cel_9868ee.json",
    "path": "iCHOv1/Lipid_metabolism_EICOSANOID_Resistance-nodulation-cel_9868ee.json",
    "reactions": 117,
-   "nodes": 1115,
+   "nodes": 1157,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: LYSINE; ALANINE AND ASPARTATE; BETA-ALANINE; GLUTAMATE; +1 more",
+   "file": "Amino_acid_metabolism_LYSINE_ALANINE_AND_ASPARTATE_BE_c7b265.json",
+   "path": "iCHOv1/Amino_acid_metabolism_LYSINE_ALANINE_AND_ASPARTATE_BE_c7b265.json",
+   "reactions": 116,
+   "nodes": 868,
    "combined": false,
    "canvas": false
   },
@@ -313,7 +340,7 @@
    "file": "Glycan_metabolism_N-GLYCAN_BIOSYNTHESIS_Cho_BLOOD_GRO_cb2da2.json",
    "path": "iCHOv1/Glycan_metabolism_N-GLYCAN_BIOSYNTHESIS_Cho_BLOOD_GRO_cb2da2.json",
    "reactions": 116,
-   "nodes": 1028,
+   "nodes": 977,
    "combined": false,
    "canvas": false
   },
@@ -327,29 +354,11 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: FATTY ACID SYNTHESIS; FATTY ACID ELONGATION; GLYCEROLIPID",
-   "file": "Lipid_metabolism_FATTY_ACID_SYNTHESIS_FATTY_ACID_ELON_fefa15.json",
-   "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_SYNTHESIS_FATTY_ACID_ELON_fefa15.json",
-   "reactions": 116,
-   "nodes": 1095,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: EXCHANGE (Carnitine; sugars and organic acids; +1); +1 more",
-   "file": "Transport_and_exchange_EXCHANGE_Carnitine_sugars_and_782988.json",
-   "path": "iCHOv1/Transport_and_exchange_EXCHANGE_Carnitine_sugars_and_782988.json",
-   "reactions": 116,
-   "nodes": 774,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Transport and exchange: TRANSPORT, EXTRACELLULAR (sugars and organic acids / lipids; Cervonic acid)",
    "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_sugars_adfb02.json",
    "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_sugars_adfb02.json",
    "reactions": 116,
-   "nodes": 970,
+   "nodes": 982,
    "combined": false,
    "canvas": false
   },
@@ -358,7 +367,7 @@
    "file": "Transport_and_exchange_TRANSPORT_EXTRACELLULAR_sugars_9277fb.json",
    "path": "iCHOv1/Transport_and_exchange_TRANSPORT_EXTRACELLULAR_sugars_9277fb.json",
    "reactions": 116,
-   "nodes": 820,
+   "nodes": 837,
    "combined": false,
    "canvas": false
   },
@@ -367,25 +376,7 @@
    "file": "Glycan_metabolism_N-GLYCAN_BIOSYNTHESIS_L4n4m2masn_CH_f329de.json",
    "path": "iCHOv1/Glycan_metabolism_N-GLYCAN_BIOSYNTHESIS_L4n4m2masn_CH_f329de.json",
    "reactions": 115,
-   "nodes": 1122,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: EICOSANOID (Resistance-nodulation-cell division rnd; +6)",
-   "file": "Lipid_metabolism_EICOSANOID_Resistance-nodulation-cel_d7d563.json",
-   "path": "iCHOv1/Lipid_metabolism_EICOSANOID_Resistance-nodulation-cel_d7d563.json",
-   "reactions": 115,
-   "nodes": 997,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: STEROID; EICOSANOID (Resistance-nodulation-cell division rnd)",
-   "file": "Lipid_metabolism_STEROID_EICOSANOID_Resistance-nodula_61b36e.json",
-   "path": "iCHOv1/Lipid_metabolism_STEROID_EICOSANOID_Resistance-nodula_61b36e.json",
-   "reactions": 114,
-   "nodes": 1193,
+   "nodes": 1117,
    "combined": false,
    "canvas": false
   },
@@ -403,16 +394,7 @@
    "file": "Lipid_metabolism_R_GROUP_SYNTHESIS_TRIACYLGLYCEROL_SYNTHESIS.json",
    "path": "iCHOv1/Lipid_metabolism_R_GROUP_SYNTHESIS_TRIACYLGLYCEROL_SYNTHESIS.json",
    "reactions": 113,
-   "nodes": 1312,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: TRANSPORT, MITOCHONDRIAL (Thiocyanate; lipids); +2 more",
-   "file": "Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_Thiocy_573498.json",
-   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_Thiocy_573498.json",
-   "reactions": 112,
-   "nodes": 831,
+   "nodes": 1346,
    "combined": false,
    "canvas": false
   },
@@ -421,16 +403,25 @@
    "file": "Cofactor_and_vitamin_metabolism_VITAMIN_A_VITAMIN_E.json",
    "path": "iCHOv1/Cofactor_and_vitamin_metabolism_VITAMIN_A_VITAMIN_E.json",
    "reactions": 111,
-   "nodes": 1025,
+   "nodes": 1026,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: TRANSPORT, MITOCHONDRIAL (nucleotides and nucleosides; +1); +1 more",
-   "file": "Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_nucleo_480553.json",
-   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_nucleo_480553.json",
+   "name": "Lipid metabolism: FATTY ACID SYNTHESIS; FATTY ACID ELONGATION",
+   "file": "Lipid_metabolism_FATTY_ACID_SYNTHESIS_FATTY_ACID_ELONGATION.json",
+   "path": "iCHOv1/Lipid_metabolism_FATTY_ACID_SYNTHESIS_FATTY_ACID_ELONGATION.json",
    "reactions": 109,
-   "nodes": 750,
+   "nodes": 1028,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: STEROID",
+   "file": "Lipid_metabolism_STEROID.json",
+   "path": "iCHOv1/Lipid_metabolism_STEROID.json",
+   "reactions": 108,
+   "nodes": 1138,
    "combined": false,
    "canvas": false
   },
@@ -471,11 +462,29 @@
    "canvas": false
   },
   {
+   "name": "Transport and exchange: TRANSPORT, ENDOPLASMIC RETICULAR; EXCHANGE (Carnitine; sugars and organic acids)",
+   "file": "Transport_and_exchange_TRANSPORT_ENDOPLASMIC_RETICULA_0e1d8b.json",
+   "path": "iCHOv1/Transport_and_exchange_TRANSPORT_ENDOPLASMIC_RETICULA_0e1d8b.json",
+   "reactions": 105,
+   "nodes": 695,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Transport and exchange: TRANSPORT, MITOCHONDRIAL (sugars and organic acids; +1)",
    "file": "Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_sugars_7ab85b.json",
    "path": "iCHOv1/Transport_and_exchange_TRANSPORT_MITOCHONDRIAL_sugars_7ab85b.json",
-   "reactions": 98,
-   "nodes": 623,
+   "reactions": 97,
+   "nodes": 605,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: HISTIDINE; Oxidoreductase tyrosine; SELENOAMINO ACID; GLUTATHIONE; PHENYLALANINE; +1 more",
+   "file": "Amino_acid_metabolism_HISTIDINE_Oxidoreductase_tyrosi_836619.json",
+   "path": "iCHOv1/Amino_acid_metabolism_HISTIDINE_Oxidoreductase_tyrosi_836619.json",
+   "reactions": 93,
+   "nodes": 704,
    "combined": false,
    "canvas": false
   },
@@ -483,8 +492,8 @@
    "name": "Lipid metabolism: GLYCEROPHOSPHOLIPID",
    "file": "Lipid_metabolism_GLYCEROPHOSPHOLIPID.json",
    "path": "iCHOv1/Lipid_metabolism_GLYCEROPHOSPHOLIPID.json",
-   "reactions": 90,
-   "nodes": 735,
+   "reactions": 89,
+   "nodes": 722,
    "combined": false,
    "canvas": false
   },
@@ -493,16 +502,7 @@
    "file": "Cofactor_and_vitamin_metabolism_NAD_TETRAHYDROBIOPTER_f9308c.json",
    "path": "iCHOv1/Cofactor_and_vitamin_metabolism_NAD_TETRAHYDROBIOPTER_f9308c.json",
    "reactions": 88,
-   "nodes": 680,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: HISTIDINE; SELENOAMINO ACID; GLUTATHIONE; PHENYLALANINE; TAURINE AND HYPOTAURINE; +1 more",
-   "file": "Amino_acid_metabolism_HISTIDINE_SELENOAMINO_ACID_GLUT_497fc3.json",
-   "path": "iCHOv1/Amino_acid_metabolism_HISTIDINE_SELENOAMINO_ACID_GLUT_497fc3.json",
-   "reactions": 87,
-   "nodes": 641,
+   "nodes": 682,
    "combined": false,
    "canvas": false
   },

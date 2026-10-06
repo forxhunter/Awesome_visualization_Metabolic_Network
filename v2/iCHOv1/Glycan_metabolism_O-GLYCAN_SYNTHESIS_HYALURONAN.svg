@@ -148,16 +148,16 @@
 <line x1="3410.0" y1="2160.0" x2="3410.0" y2="2196.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3410.0" y1="2196.0" x2="3410.0" y2="2290.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M3410.0 2196.0 C3410.0 2286.7 3460.7 2303.1 3562.2 2245.4" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M2675.0 2000.0 C2701.3 2025.5 2719.2 2058.3 2726.4 2094.2" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M2726.4 2094.2 C2728.8 2106.0 2730.0 2118.0 2730.0 2130.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M2730.0 2130.0 C2730.0 2142.0 2728.8 2154.0 2726.4 2165.8" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M2726.4 2165.8 C2719.2 2201.7 2701.3 2234.5 2675.0 2260.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2675.0 2000.0 C2648.7 2025.5 2630.8 2058.3 2623.6 2094.2" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2623.6 2094.2 C2621.2 2106.0 2620.0 2118.0 2620.0 2130.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2620.0 2130.0 C2620.0 2142.0 2621.2 2154.0 2623.6 2165.8" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2623.6 2165.8 C2630.8 2201.7 2648.7 2234.5 2675.0 2260.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2471.4 2044.8 C2572.8 1987.1 2623.6 2003.6 2623.6 2094.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M2623.6 2165.8 C2623.6 2256.4 2572.8 2272.9 2471.4 2215.2" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M2675.0 2000.0 C2701.3 2025.5 2719.2 2058.3 2726.4 2094.2" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M2726.4 2094.2 C2728.8 2106.0 2730.0 2118.0 2730.0 2130.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M2730.0 2130.0 C2730.0 2142.0 2728.8 2154.0 2726.4 2165.8" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M2726.4 2165.8 C2719.2 2201.7 2701.3 2234.5 2675.0 2260.0" stroke="#2f3b47" stroke-width="6.0"/>
 </g><g>
 <path d="M1240.0 1470.0 L1224.0 1424.0 L1256.0 1424.0 Z" fill="#2f3b47"/>
 <path d="M1248.6 1231.7 L1239.8 1279.6 L1212.0 1263.8 Z" fill="#9aa6b2"/>
@@ -199,12 +199,12 @@
 <path d="M2851.6 2549.8 L2852.0 2501.1 L2882.2 2511.9 Z" fill="#9aa6b2"/>
 <path d="M3410.0 2260.0 L3394.0 2214.0 L3426.0 2214.0 Z" fill="#2f3b47"/>
 <path d="M3548.3 2253.4 L3516.2 2290.0 L3500.4 2262.2 Z" fill="#9aa6b2"/>
-<path d="M2696.5 2020.9 L2740.7 2041.4 L2718.4 2064.4 Z" fill="#2f3b47"/>
-<path d="M2696.5 2239.1 L2718.4 2195.6 L2740.7 2218.6 Z" fill="#2f3b47"/>
 <path d="M2653.5 2020.9 L2631.6 2064.4 L2609.3 2041.4 Z" fill="#2f3b47"/>
 <path d="M2653.5 2239.1 L2609.3 2218.6 L2631.6 2195.6 Z" fill="#2f3b47"/>
 <path d="M2485.3 2036.9 L2517.4 2000.2 L2533.2 2028.0 Z" fill="#9aa6b2"/>
 <path d="M2485.3 2223.1 L2533.2 2232.0 L2517.4 2259.8 Z" fill="#9aa6b2"/>
+<path d="M2696.5 2020.9 L2740.7 2041.4 L2718.4 2064.4 Z" fill="#2f3b47"/>
+<path d="M2696.5 2239.1 L2718.4 2195.6 L2740.7 2218.6 Z" fill="#2f3b47"/>
 <circle cx="1420.0" cy="1240.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="2470.0" cy="980.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="1530.0" cy="1500.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
@@ -349,14 +349,14 @@
 <circle cx="3410.0" cy="2124.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3410.0" cy="2196.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3562.2" cy="2245.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="2730.0" cy="2130.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="2726.4" cy="2094.2" r="6.0" fill="#7f8c99"/>
-<circle cx="2726.4" cy="2165.8" r="6.0" fill="#7f8c99"/>
 <circle cx="2620.0" cy="2130.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="2623.6" cy="2094.2" r="6.0" fill="#7f8c99"/>
 <circle cx="2623.6" cy="2165.8" r="6.0" fill="#7f8c99"/>
 <circle cx="2471.4" cy="2044.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2471.4" cy="2215.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="2730.0" cy="2130.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="2726.4" cy="2094.2" r="6.0" fill="#7f8c99"/>
+<circle cx="2726.4" cy="2165.8" r="6.0" fill="#7f8c99"/>
 <circle cx="2495.0" cy="980.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2842.5" cy="720.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2495.0" cy="980.0" r="6.0" fill="#7f8c99"/>
@@ -449,8 +449,8 @@
 <text x="2536.6" y="2342.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">HAS1</text>
 <text x="2750.7" y="2342.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">HAS2</text>
 <text x="3447.8" y="2160.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">NACHEX27ly</text>
-<text x="2767.8" y="2130.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">r2519</text>
 <text x="2425.6" y="2130.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">UDPGLCAter</text>
+<text x="2767.8" y="2130.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">r2519</text>
 <text x="1062.9" y="542.4" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Glycan metabolism: O-GLYCAN SYNTHESIS; HYALURONAN</text>
 <text x="1062.9" y="2698.6" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
 </g>

@@ -6,26 +6,17 @@
    "name": "iJN1463 - Pseudomonas putida (Pseudomonas)",
    "file": "iJN1463_Canvas.json",
    "path": "iJN1463/iJN1463_Canvas.json",
-   "reactions": 2926,
-   "nodes": 21163,
+   "reactions": 2927,
+   "nodes": 21156,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Carbohydrate metabolism: Alternate Carbon and Nitrogen source Dipeptide; TCA Cycle; +2 more",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_d3f809.json",
-   "path": "iJN1463/Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_d3f809.json",
+   "name": "Amino acid metabolism: tRNA Charging; Phenylalanine Tyrosine Tryptophan Biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_tRNA_Charging_Phenylalanine_Tyr_8578ad.json",
+   "path": "iJN1463/Amino_acid_metabolism_tRNA_Charging_Phenylalanine_Tyr_8578ad.json",
    "reactions": 120,
-   "nodes": 868,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Fatty Acid Biosynthesis; +1 more",
-   "file": "Lipid_metabolism_Fatty_Acid_Biosynthesis_1_more.json",
-   "path": "iJN1463/Lipid_metabolism_Fatty_Acid_Biosynthesis_1_more.json",
-   "reactions": 120,
-   "nodes": 859,
+   "nodes": 902,
    "combined": false,
    "canvas": false
   },
@@ -48,11 +39,11 @@
    "canvas": false
   },
   {
-   "name": "Xenobiotic degradation",
-   "file": "Xenobiotic_degradation.json",
-   "path": "iJN1463/Xenobiotic_degradation.json",
-   "reactions": 120,
-   "nodes": 965,
+   "name": "Amino acid metabolism: Lysine; Arginine and Proline; Valine Leucine and Isoleucine",
+   "file": "Amino_acid_metabolism_Lysine_Arginine_and_Proline_Val_e2e294.json",
+   "path": "iJN1463/Amino_acid_metabolism_Lysine_Arginine_and_Proline_Val_e2e294.json",
+   "reactions": 119,
+   "nodes": 1063,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +52,7 @@
    "file": "Lipid_metabolism_Fatty_Acid_Octanoate_Fatty-acid-coa_dbae58.json",
    "path": "iJN1463/Lipid_metabolism_Fatty_Acid_Octanoate_Fatty-acid-coa_dbae58.json",
    "reactions": 119,
-   "nodes": 1391,
+   "nodes": 1390,
    "combined": false,
    "canvas": false
   },
@@ -75,47 +66,11 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport solvent extrusion; Transport Inner Membrane; Intracellular demand",
-   "file": "Transport_and_exchange_Transport_solvent_extrusion_Tr_00fc40.json",
-   "path": "iJN1463/Transport_and_exchange_Transport_solvent_extrusion_Tr_00fc40.json",
-   "reactions": 119,
-   "nodes": 698,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Lysine; Arginine and Proline; Valine Leucine and Isoleucine",
-   "file": "Amino_acid_metabolism_Lysine_Arginine_and_Proline_Val_e2e294.json",
-   "path": "iJN1463/Amino_acid_metabolism_Lysine_Arginine_and_Proline_Val_e2e294.json",
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis Biotin Biosynthesis; +9 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_d8b53a.json",
+   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_d8b53a.json",
    "reactions": 118,
-   "nodes": 1110,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: tRNA Charging; Phenylalanine Tyrosine Tryptophan Biosynthesis; +3 more",
-   "file": "Amino_acid_metabolism_tRNA_Charging_Phenylalanine_Tyr_8578ad.json",
-   "path": "iJN1463/Amino_acid_metabolism_tRNA_Charging_Phenylalanine_Tyr_8578ad.json",
-   "reactions": 118,
-   "nodes": 1070,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Glycolysis; Alternate Carbon Ascorbate and Aldarate; Alternate Carbon; +4 more",
-   "file": "Carbohydrate_metabolism_Glycolysis_Alternate_Carbon_A_080199.json",
-   "path": "iJN1463/Carbohydrate_metabolism_Glycolysis_Alternate_Carbon_A_080199.json",
-   "reactions": 118,
-   "nodes": 933,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis Porphyrin and Chlorophyll; +4 more",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_0dc282.json",
-   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_0dc282.json",
-   "reactions": 118,
-   "nodes": 904,
+   "nodes": 822,
    "combined": false,
    "canvas": false
   },
@@ -124,16 +79,52 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Cardiolipin_Phos_beb57a.json",
    "path": "iJN1463/Lipid_metabolism_Glycerophospholipid_Cardiolipin_Phos_beb57a.json",
    "reactions": 118,
-   "nodes": 929,
+   "nodes": 913,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis Terpenoid backbone biosynthesis; +9 more",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_57a952.json",
-   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_57a952.json",
+   "name": "Transport and exchange: Transport solvent extrusion; Alginate biosynthesis; Intracellular demand",
+   "file": "Transport_and_exchange_Transport_solvent_extrusion_Al_090bb0.json",
+   "path": "iJN1463/Transport_and_exchange_Transport_solvent_extrusion_Al_090bb0.json",
+   "reactions": 118,
+   "nodes": 708,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Glycolysis; Alternate Carbon Ascorbate and Aldarate; Alternate Carbon; +4 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Alternate_Carbon_A_080199.json",
+   "path": "iJN1463/Carbohydrate_metabolism_Glycolysis_Alternate_Carbon_A_080199.json",
    "reactions": 117,
-   "nodes": 804,
+   "nodes": 906,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon and Nitrogen source Amines and Polyamines; +1 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_feb101.json",
+   "path": "iJN1463/Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_feb101.json",
+   "reactions": 116,
+   "nodes": 981,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis Porphyrin and Chlorophyll; +3 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_64bd12.json",
+   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_64bd12.json",
+   "reactions": 116,
+   "nodes": 890,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty Acid Biosynthesis; +1 more",
+   "file": "Lipid_metabolism_Fatty_Acid_Biosynthesis_1_more.json",
+   "path": "iJN1463/Lipid_metabolism_Fatty_Acid_Biosynthesis_1_more.json",
+   "reactions": 116,
+   "nodes": 830,
    "combined": false,
    "canvas": false
   },
@@ -142,16 +133,25 @@
    "file": "Transport_and_exchange_Transport_Outer_Membrane_Plant_cee19e.json",
    "path": "iJN1463/Transport_and_exchange_Transport_Outer_Membrane_Plant_cee19e.json",
    "reactions": 116,
-   "nodes": 771,
+   "nodes": 769,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Alternate Carbon and Nitrogen source Amines and Polyamines; +1 more",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_feb101.json",
-   "path": "iJN1463/Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_feb101.json",
+   "name": "Xenobiotic degradation: Aromatic Compounds Degradation B Ketoadipate pathway; +4 more",
+   "file": "Xenobiotic_degradation_Aromatic_Compounds_Degradation_a2aa70.json",
+   "path": "iJN1463/Xenobiotic_degradation_Aromatic_Compounds_Degradation_a2aa70.json",
+   "reactions": 116,
+   "nodes": 927,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon and Nitrogen source Dipeptide; TCA Cycle; +1 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_132bd6.json",
+   "path": "iJN1463/Carbohydrate_metabolism_Alternate_Carbon_and_Nitrogen_132bd6.json",
    "reactions": 115,
-   "nodes": 954,
+   "nodes": 841,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Lipid_metabolism_PHAs_Hydroxy_Hydroxyacyl_Hydroxyacyl_b33bc4.json",
    "path": "iJN1463/Lipid_metabolism_PHAs_Hydroxy_Hydroxyacyl_Hydroxyacyl_b33bc4.json",
    "reactions": 114,
-   "nodes": 964,
+   "nodes": 956,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Lipid_metabolism_PHAs_Hydroxy_Phenyl_1_Glycerophospho_abce68.json",
    "path": "iJN1463/Lipid_metabolism_PHAs_Hydroxy_Phenyl_1_Glycerophospho_abce68.json",
    "reactions": 114,
-   "nodes": 899,
+   "nodes": 883,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Lipid_metabolism_Fatty_Acid_Enoyl_Fatty-acid-coa_4.json",
    "path": "iJN1463/Lipid_metabolism_Fatty_Acid_Enoyl_Fatty-acid-coa_4.json",
    "reactions": 113,
-   "nodes": 814,
+   "nodes": 807,
    "combined": false,
    "canvas": false
   },
@@ -204,8 +204,8 @@
    "name": "Transport and exchange: Iron uptake and metabolism; Aliphatic open-chain ketones",
    "file": "Transport_and_exchange_Iron_uptake_and_metabolism_Ali_9e68af.json",
    "path": "iJN1463/Transport_and_exchange_Iron_uptake_and_metabolism_Ali_9e68af.json",
-   "reactions": 105,
-   "nodes": 805,
+   "reactions": 110,
+   "nodes": 843,
    "combined": false,
    "canvas": false
   },
@@ -219,6 +219,15 @@
    "canvas": false
   },
   {
+   "name": "Carbohydrate metabolism: Gluconeogenesis; Pyruvate; Alternate Carbon Propanoate; Butanoate; +4 more",
+   "file": "Carbohydrate_metabolism_Gluconeogenesis_Pyruvate_Alte_068d04.json",
+   "path": "iJN1463/Carbohydrate_metabolism_Gluconeogenesis_Pyruvate_Alte_068d04.json",
+   "reactions": 65,
+   "nodes": 500,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iJN1463/Energy_metabolism.json",
@@ -228,29 +237,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Histidine; Methionine; Cysteine; Urea cycleamino group; +1 more",
-   "file": "Amino_acid_metabolism_Histidine_Methionine_Cysteine_U_c85644.json",
-   "path": "iJN1463/Amino_acid_metabolism_Histidine_Methionine_Cysteine_U_c85644.json",
-   "reactions": 64,
-   "nodes": 419,
+   "name": "Amino acid metabolism: Alanine and Aspartate; Cysteine; Methionine; Urea cycleamino group; +1 more",
+   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Cysteine_5c8895.json",
+   "path": "iJN1463/Amino_acid_metabolism_Alanine_and_Aspartate_Cysteine_5c8895.json",
+   "reactions": 58,
+   "nodes": 426,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Gluconeogenesis; Pyruvate; Alternate Carbon Propanoate; Butanoate; +3 more",
-   "file": "Carbohydrate_metabolism_Gluconeogenesis_Pyruvate_Alte_58107e.json",
-   "path": "iJN1463/Carbohydrate_metabolism_Gluconeogenesis_Pyruvate_Alte_58107e.json",
-   "reactions": 59,
-   "nodes": 450,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Alginate biosynthesis",
-   "file": "Transport_and_exchange_Alginate_biosynthesis.json",
-   "path": "iJN1463/Transport_and_exchange_Alginate_biosynthesis.json",
-   "reactions": 40,
-   "nodes": 286,
+   "name": "Transport and exchange: Transport Inner Membrane",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane.json",
+   "path": "iJN1463/Transport_and_exchange_Transport_Inner_Membrane.json",
+   "reactions": 35,
+   "nodes": 190,
    "combined": false,
    "canvas": false
   },
@@ -264,11 +264,20 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis Riboflavin",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_918aba.json",
-   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_918aba.json",
-   "reactions": 7,
-   "nodes": 41,
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis One Carbon pool by folate; +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5d9993.json",
+   "path": "iJN1463/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5d9993.json",
+   "reactions": 14,
+   "nodes": 92,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Xenobiotic degradation: Aromatic Compounds Degradation Gallic acid",
+   "file": "Xenobiotic_degradation_Aromatic_Compounds_Degradation_cdb4b5.json",
+   "path": "iJN1463/Xenobiotic_degradation_Aromatic_Compounds_Degradation_cdb4b5.json",
+   "reactions": 6,
+   "nodes": 31,
    "combined": false,
    "canvas": false
   },

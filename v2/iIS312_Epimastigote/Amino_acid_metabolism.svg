@@ -70,7 +70,7 @@
 <line x1="901.0" y1="1630.0" x2="852.5" y2="1630.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="852.5" y1="1630.0" x2="852.5" y2="1760.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M984.1 1449.8 C1069.2 1577.0 1063.7 1630.0 973.0 1630.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M1062.7 1489.9 C1090.3 1583.8 1063.7 1630.0 973.0 1630.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M1063.2 1489.8 C1090.3 1583.8 1063.7 1630.0 973.0 1630.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M901.0 1630.0 C810.3 1630.0 783.7 1583.8 821.0 1491.4" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M901.0 1630.0 C810.3 1630.0 804.8 1577.0 884.3 1470.9" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="5192.5" y1="1760.0" x2="5192.5" y2="1854.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -1007,7 +1007,7 @@
 <circle cx="997.5" cy="1630.0" r="6.0" fill="#7f8c99"/>
 <circle cx="852.5" cy="1630.0" r="6.0" fill="#7f8c99"/>
 <circle cx="984.1" cy="1449.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="1062.7" cy="1489.9" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="1063.2" cy="1489.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="821.0" cy="1491.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="884.3" cy="1470.9" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="5192.5" cy="1890.0" r="11.0" fill="#3a7bd5"/>
@@ -1606,7 +1606,7 @@
 <text x="1471.2" y="4844.6" font-size="19.8" fill="#1c252e" dominant-baseline="middle">aKG</text>
 <text x="1436.8" y="5015.4" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Glu[c]</text>
 <text x="889.8" y="1426.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp[c]</text>
-<text x="1097.4" y="1489.9" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Glu[c]</text>
+<text x="1097.9" y="1489.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Glu[c]</text>
 <text x="717.4" y="1491.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp[c]</text>
 <text x="800.7" y="1447.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[c]</text>
 <text x="4929.8" y="1837.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp[c]</text>

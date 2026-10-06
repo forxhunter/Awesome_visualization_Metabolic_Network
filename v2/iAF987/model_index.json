@@ -6,17 +6,17 @@
    "name": "iAF987 - Geobacter metallireducens (Geobacter)",
    "file": "iAF987_Canvas.json",
    "path": "iAF987/iAF987_Canvas.json",
-   "reactions": 1282,
-   "nodes": 9236,
+   "reactions": 1285,
+   "nodes": 9207,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Cofactor and vitamin metabolism: Vitamins and Cofactor Biosynthesis (IscS with bound sulfur; +3)",
-   "file": "Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_96c119.json",
-   "path": "iAF987/Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_96c119.json",
+   "name": "Cofactor and vitamin metabolism: Vitamins and Cofactor Biosynthesis (IscS with bound sulfur; Methyltransferase; +1)",
+   "file": "Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_cd2007.json",
+   "path": "iAF987/Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_cd2007.json",
    "reactions": 120,
-   "nodes": 933,
+   "nodes": 889,
    "combined": false,
    "canvas": false
   },
@@ -30,15 +30,6 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism",
-   "file": "Amino_acid_metabolism.json",
-   "path": "iAF987/Amino_acid_metabolism.json",
-   "reactions": 117,
-   "nodes": 1011,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Glycan metabolism: Cell Envelope Biosynthesis; Murein Recycling",
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Murein_R_2a5fa1.json",
    "path": "iAF987/Glycan_metabolism_Cell_Envelope_Biosynthesis_Murein_R_2a5fa1.json",
@@ -48,11 +39,11 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, Inner Membrane; Biomass and maintenance functions",
-   "file": "Transport_and_exchange_Transport_Inner_Membrane_Bioma_d08494.json",
-   "path": "iAF987/Transport_and_exchange_Transport_Inner_Membrane_Bioma_d08494.json",
-   "reactions": 110,
-   "nodes": 949,
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iAF987/Amino_acid_metabolism.json",
+   "reactions": 114,
+   "nodes": 911,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +52,16 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iAF987/Carbohydrate_metabolism.json",
    "reactions": 107,
-   "nodes": 774,
+   "nodes": 787,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Inner Membrane; Biomass and maintenance functions",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Bioma_d08494.json",
+   "path": "iAF987/Transport_and_exchange_Transport_Inner_Membrane_Bioma_d08494.json",
+   "reactions": 107,
+   "nodes": 914,
    "combined": false,
    "canvas": false
   },
@@ -105,8 +105,8 @@
    "name": "Transport and exchange: Transport, Outer Membrane",
    "file": "Transport_and_exchange_Transport_Outer_Membrane.json",
    "path": "iAF987/Transport_and_exchange_Transport_Outer_Membrane.json",
-   "reactions": 63,
-   "nodes": 315,
+   "reactions": 65,
+   "nodes": 325,
    "combined": false,
    "canvas": false
   },
@@ -138,20 +138,20 @@
    "canvas": false
   },
   {
+   "name": "Cofactor and vitamin metabolism: Vitamins and Cofactor Biosynthesis (Acp methyl ester; Methylenetetrahydrofolate); +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_c8cc51.json",
+   "path": "iAF987/Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_c8cc51.json",
+   "reactions": 26,
+   "nodes": 189,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iAF987/Energy_metabolism.json",
    "reactions": 26,
    "nodes": 162,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Queuosine biosynthesis; +1 more",
-   "file": "Cofactor_and_vitamin_metabolism_Queuosine_biosynthesi_fae9fb.json",
-   "path": "iAF987/Cofactor_and_vitamin_metabolism_Queuosine_biosynthesi_fae9fb.json",
-   "reactions": 19,
-   "nodes": 144,
    "combined": false,
    "canvas": false
   },

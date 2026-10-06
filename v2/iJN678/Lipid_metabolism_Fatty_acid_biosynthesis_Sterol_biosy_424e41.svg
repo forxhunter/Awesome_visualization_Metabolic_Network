@@ -24,7 +24,7 @@
 <line x1="2711.5" y1="3710.0" x2="2711.5" y2="3825.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2711.5" y1="3825.0" x2="2951.0" y2="3825.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2951.0" y1="3825.0" x2="2951.0" y2="3970.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M2517.1 3427.8 C2459.4 3529.3 2475.8 3550.0 2566.5 3550.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M2517.6 3427.1 C2459.4 3529.3 2475.8 3550.0 2566.5 3550.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M2638.5 3550.0 C2729.2 3550.0 2745.6 3529.3 2687.9 3427.8" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1760.0" y1="3345.0" x2="2030.5" y2="3345.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2030.5" y1="3345.0" x2="2030.5" y2="3450.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -907,7 +907,7 @@
 <path d="M4170.0 7580.0 L4154.0 7534.0 L4186.0 7534.0 Z" fill="#2f3b47"/>
 <path d="M2110.0 3220.0 L2126.0 3266.0 L2094.0 3266.0 Z" fill="#2f3b47"/>
 <path d="M2951.0 3940.0 L2935.0 3894.0 L2967.0 3894.0 Z" fill="#2f3b47"/>
-<path d="M2509.1 3441.7 L2500.3 3489.6 L2472.5 3473.8 Z" fill="#9aa6b2"/>
+<path d="M2509.6 3441.0 L2500.8 3488.9 L2473.0 3473.1 Z" fill="#9aa6b2"/>
 <path d="M2695.9 3441.7 L2732.5 3473.8 L2704.7 3489.6 Z" fill="#9aa6b2"/>
 <path d="M1832.2 3596.1 L1864.3 3559.5 L1880.1 3587.3 Z" fill="#9aa6b2"/>
 <path d="M1832.2 3782.9 L1880.1 3791.7 L1864.3 3819.5 Z" fill="#9aa6b2"/>
@@ -1299,7 +1299,7 @@
 <circle cx="2711.5" cy="3710.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2711.5" cy="3825.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2951.0" cy="3825.0" r="6.0" fill="#7f8c99"/>
-<circle cx="2517.1" cy="3427.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="2517.6" cy="3427.1" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2687.9" cy="3427.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1970.5" cy="3689.5" r="11.0" fill="#3a7bd5"/>
 <circle cx="1970.5" cy="3653.5" r="6.0" fill="#7f8c99"/>
@@ -2186,7 +2186,7 @@
 <text x="2877.7" y="3450.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">toct2eACP</text>
 <text x="1614.7" y="6524.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">toctd2eACP</text>
 <text x="1614.7" y="5484.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">tpalm2eACP</text>
-<text x="2522.9" y="3468.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadp</text>
+<text x="2523.4" y="3467.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadp</text>
 <text x="2722.6" y="3427.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadph</text>
 <text x="1845.3" y="3627.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadp</text>
 <text x="1844.5" y="3751.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadph</text>

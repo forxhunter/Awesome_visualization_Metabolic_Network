@@ -53,12 +53,12 @@
 <path d="M1261.4 944.2 C1263.8 956.0 1265.0 968.0 1265.0 980.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1265.0 980.0 C1265.0 992.0 1263.8 1004.0 1261.4 1015.8" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1261.4 1015.8 C1254.2 1051.7 1236.3 1084.5 1210.0 1110.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M1413.6 894.8 C1312.2 837.1 1261.4 853.6 1261.4 944.2" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M1261.4 1015.8 C1261.4 1106.4 1312.2 1122.9 1413.6 1065.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M1210.0 850.0 C1183.7 875.5 1165.8 908.3 1158.6 944.2" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1158.6 944.2 C1156.2 956.0 1155.0 968.0 1155.0 980.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1155.0 980.0 C1155.0 992.0 1156.2 1004.0 1158.6 1015.8" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M1158.6 1015.8 C1165.8 1051.7 1183.7 1084.5 1210.0 1110.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M1006.4 894.8 C1107.8 837.1 1158.6 853.6 1158.6 944.2" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M1158.6 1015.8 C1158.6 1106.4 1107.8 1122.9 1006.4 1065.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1210.0" y1="1110.0" x2="1210.0" y2="1204.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1210.0" y1="1204.0" x2="1210.0" y2="1240.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1210.0" y1="1240.0" x2="1210.0" y2="1276.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -78,10 +78,10 @@
 <path d="M1830.0 990.0 L1876.0 974.0 L1876.0 1006.0 Z" fill="#2f3b47"/>
 <path d="M1800.0 1020.0 L1816.0 1066.0 L1784.0 1066.0 Z" fill="#2f3b47"/>
 <path d="M1800.0 1220.0 L1784.0 1174.0 L1816.0 1174.0 Z" fill="#2f3b47"/>
+<path d="M1231.5 870.9 L1275.7 891.4 L1253.4 914.4 Z" fill="#2f3b47"/>
 <path d="M1231.5 1089.1 L1253.4 1045.6 L1275.7 1068.6 Z" fill="#2f3b47"/>
-<path d="M1399.7 1073.1 L1367.6 1109.8 L1351.8 1082.0 Z" fill="#9aa6b2"/>
-<path d="M1188.5 870.9 L1166.6 914.4 L1144.3 891.4 Z" fill="#2f3b47"/>
 <path d="M1188.5 1089.1 L1144.3 1068.6 L1166.6 1045.6 Z" fill="#2f3b47"/>
+<path d="M1020.3 1073.1 L1068.2 1082.0 L1052.4 1109.8 Z" fill="#9aa6b2"/>
 <path d="M1210.0 1140.0 L1226.0 1186.0 L1194.0 1186.0 Z" fill="#2f3b47"/>
 <path d="M1210.0 1340.0 L1194.0 1294.0 L1226.0 1294.0 Z" fill="#2f3b47"/>
 <circle cx="610.0" cy="850.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
@@ -136,11 +136,11 @@
 <circle cx="1265.0" cy="980.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1261.4" cy="944.2" r="6.0" fill="#7f8c99"/>
 <circle cx="1261.4" cy="1015.8" r="6.0" fill="#7f8c99"/>
-<circle cx="1413.6" cy="894.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="1413.6" cy="1065.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1155.0" cy="980.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1158.6" cy="944.2" r="6.0" fill="#7f8c99"/>
 <circle cx="1158.6" cy="1015.8" r="6.0" fill="#7f8c99"/>
+<circle cx="1006.4" cy="894.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="1006.4" cy="1065.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1210.0" cy="1240.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1210.0" cy="1204.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1210.0" cy="1276.0" r="6.0" fill="#7f8c99"/>
@@ -154,9 +154,9 @@
 <text x="1834.7" y="1250.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyc-R[c]</text>
 <text x="2414.7" y="1250.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyc-R[e]</text>
 <text x="1662.0" y="990.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyc-R[p]</text>
-<text x="1028.0" y="850.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyclt[c]</text>
+<text x="1271.2" y="895.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyclt[c]</text>
 <text x="1244.7" y="1370.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyclt[e]</text>
-<text x="1028.0" y="1110.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyclt[p]</text>
+<text x="1288.7" y="1110.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">glyclt[p]</text>
 <text x="388.7" y="805.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">co2</text>
 <text x="1578.7" y="1294.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="1578.7" y="1465.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
@@ -165,8 +165,8 @@
 <text x="749.2" y="927.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadph</text>
 <text x="920.1" y="927.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadp</text>
 <text x="1396.8" y="805.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
-<text x="1448.3" y="894.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">na1[c]</text>
-<text x="1448.3" y="1065.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">na1[p]</text>
+<text x="1031.8" y="918.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">na1[c]</text>
+<text x="902.8" y="1065.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">na1[p]</text>
 <text x="449.9" y="720.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLXCL</text>
 <text x="1837.8" y="1380.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCK</text>
 <text x="1007.6" y="712.4" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCLTDx</text>
@@ -174,8 +174,8 @@
 <text x="1291.8" y="720.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">PGLYCP</text>
 <text x="1977.1" y="1072.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCAtex</text>
 <text x="1605.6" y="1120.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCAt2rpp</text>
-<text x="1302.8" y="980.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCLTt4pp</text>
-<text x="944.9" y="980.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCLTt2rpp</text>
+<text x="1302.8" y="980.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCLTt2rpp</text>
+<text x="960.6" y="980.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCLTt4pp</text>
 <text x="1247.8" y="1240.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GLYCLTtex</text>
 <text x="298.7" y="414.1" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Carbohydrate metabolism: Glyoxylate</text>
 <text x="298.7" y="1612.4" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>

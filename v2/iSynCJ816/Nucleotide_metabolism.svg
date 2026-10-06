@@ -223,7 +223,7 @@
 <path d="M2533.9 1584.0 C2441.6 1546.7 2395.4 1573.3 2395.4 1664.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2554.5 1647.3 C2448.4 1567.8 2395.4 1573.3 2395.4 1664.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M2395.4 1736.0 C2395.4 1826.7 2448.4 1832.2 2554.5 1752.7" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M2395.4 1736.0 C2395.4 1826.7 2441.6 1853.3 2533.9 1816.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M2395.4 1736.0 C2395.4 1826.7 2441.6 1853.3 2533.8 1818.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="2675.4" y1="1630.0" x2="2675.4" y2="1785.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2675.4" y1="1785.0" x2="2571.4" y2="1785.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2571.4" y1="1785.0" x2="2535.4" y2="1785.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -509,7 +509,7 @@
 <path d="M2506.1 1572.8 L2457.5 1570.4 L2469.5 1540.7 Z" fill="#2f3b47"/>
 <path d="M2541.7 1637.7 L2495.3 1622.9 L2514.5 1597.3 Z" fill="#9aa6b2"/>
 <path d="M2541.7 1762.3 L2514.5 1802.7 L2495.3 1777.1 Z" fill="#9aa6b2"/>
-<path d="M2519.1 1822.0 L2482.5 1854.1 L2470.5 1824.4 Z" fill="#9aa6b2"/>
+<path d="M2518.9 1823.7 L2481.7 1855.1 L2470.2 1825.2 Z" fill="#9aa6b2"/>
 <path d="M2675.4 1660.0 L2691.4 1706.0 L2659.4 1706.0 Z" fill="#2f3b47"/>
 <path d="M2395.4 1860.0 L2379.4 1814.0 L2411.4 1814.0 Z" fill="#2f3b47"/>
 <path d="M2635.7 1886.1 L2644.5 1838.2 L2672.3 1854.0 Z" fill="#2f3b47"/>
@@ -839,7 +839,7 @@
 <circle cx="2533.9" cy="1584.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="2554.5" cy="1647.3" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2554.5" cy="1752.7" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="2533.9" cy="1816.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="2533.8" cy="1818.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2535.4" cy="1785.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="2571.4" cy="1785.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2499.4" cy="1785.0" r="6.0" fill="#7f8c99"/>
@@ -1136,7 +1136,7 @@
 <text x="2568.6" y="1584.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Asp</text>
 <text x="2589.2" y="1647.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="2589.2" y="1752.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
-<text x="2568.6" y="1816.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
+<text x="2568.5" y="1818.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="2655.5" y="1912.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Fum</text>
 <text x="4039.3" y="2502.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">amp</text>
 <text x="2882.4" y="1319.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">thf</text>

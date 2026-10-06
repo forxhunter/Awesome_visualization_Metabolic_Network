@@ -7,7 +7,7 @@
    "file": "iSB619_Canvas.json",
    "path": "iSB619/iSB619_Canvas.json",
    "reactions": 742,
-   "nodes": 5628,
+   "nodes": 5576,
    "combined": true,
    "canvas": true
   },
@@ -15,8 +15,8 @@
    "name": "Amino acid metabolism: Amino Acid; Tyrosine, Tryptophan, and Phenylalanine; +7 more",
    "file": "Amino_acid_metabolism_Amino_Acid_Tyrosine_Tryptophan_811d8b.json",
    "path": "iSB619/Amino_acid_metabolism_Amino_Acid_Tyrosine_Tryptophan_811d8b.json",
-   "reactions": 116,
-   "nodes": 806,
+   "reactions": 120,
+   "nodes": 869,
    "combined": false,
    "canvas": false
   },
@@ -30,6 +30,15 @@
    "canvas": false
   },
   {
+   "name": "Carbohydrate metabolism",
+   "file": "Carbohydrate_metabolism.json",
+   "path": "iSB619/Carbohydrate_metabolism.json",
+   "reactions": 106,
+   "nodes": 1042,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Transport and exchange: Extracellular exchange; Biomass and maintenance functions",
    "file": "Transport_and_exchange_Extracellular_exchange_Biomass_1f6a06.json",
    "path": "iSB619/Transport_and_exchange_Extracellular_exchange_Biomass_1f6a06.json",
@@ -39,20 +48,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism",
-   "file": "Carbohydrate_metabolism.json",
-   "path": "iSB619/Carbohydrate_metabolism.json",
-   "reactions": 96,
-   "nodes": 1005,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Lipid metabolism",
    "file": "Lipid_metabolism.json",
    "path": "iSB619/Lipid_metabolism.json",
-   "reactions": 82,
-   "nodes": 630,
+   "reactions": 77,
+   "nodes": 617,
    "combined": false,
    "canvas": false
   },
@@ -96,17 +96,17 @@
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iSB619/Energy_metabolism.json",
-   "reactions": 19,
-   "nodes": 119,
+   "reactions": 15,
+   "nodes": 93,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Cysteine and methionine; Valine, leucine and isoleucine degradation",
-   "file": "Amino_acid_metabolism_Cysteine_and_methionine_Valine_6f3985.json",
-   "path": "iSB619/Amino_acid_metabolism_Cysteine_and_methionine_Valine_6f3985.json",
-   "reactions": 12,
-   "nodes": 84,
+   "name": "Amino acid metabolism: Valine, leucine and isoleucine degradation; Other amino acid",
+   "file": "Amino_acid_metabolism_Valine_leucine_and_isoleucine_d_6621c3.json",
+   "path": "iSB619/Amino_acid_metabolism_Valine_leucine_and_isoleucine_d_6621c3.json",
+   "reactions": 7,
+   "nodes": 53,
    "combined": false,
    "canvas": false
   }

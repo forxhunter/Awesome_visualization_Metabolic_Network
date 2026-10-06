@@ -452,7 +452,7 @@
 <line x1="3730.2" y1="5400.0" x2="3694.2" y2="5400.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3694.2" y1="5400.0" x2="3574.4" y2="5400.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3574.4" y1="5400.0" x2="3574.4" y2="5530.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M3815.7 5247.8 C3873.4 5349.3 3856.9 5400.0 3766.2 5400.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M3815.1 5247.0 C3873.4 5349.3 3856.9 5400.0 3766.2 5400.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3694.2 5400.0 C3603.6 5400.0 3587.1 5349.3 3644.8 5247.8" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="4380.1" y1="3320.0" x2="5619.5" y2="3320.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5619.5" y1="3320.0" x2="5655.5" y2="3320.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -782,7 +782,7 @@
 <line x1="4250.2" y1="6030.0" x2="4125.1" y2="6030.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="4125.1" y1="6030.0" x2="4125.1" y2="6050.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="4125.1" y1="6050.0" x2="4015.1" y2="6050.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M4417.3 5904.6 C4315.8 5846.9 4250.2 5863.3 4250.2 5954.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M4429.7 5895.8 C4315.8 5846.9 4250.2 5863.3 4250.2 5954.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6108.9" y1="6540.0" x2="6108.9" y2="6634.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6108.9" y1="6634.0" x2="6108.9" y2="6670.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6108.9" y1="6670.0" x2="6108.9" y2="6706.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -1637,7 +1637,7 @@
 <circle cx="3694.2" cy="5400.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3886.1" cy="5400.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3574.4" cy="5400.0" r="6.0" fill="#7f8c99"/>
-<circle cx="3815.7" cy="5247.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="3815.1" cy="5247.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3644.8" cy="5247.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="5655.5" cy="3320.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="5619.5" cy="3320.0" r="6.0" fill="#7f8c99"/>
@@ -1922,7 +1922,7 @@
 <circle cx="4250.2" cy="6030.0" r="6.0" fill="#7f8c99"/>
 <circle cx="4125.1" cy="6030.0" r="6.0" fill="#7f8c99"/>
 <circle cx="4125.1" cy="6050.0" r="6.0" fill="#7f8c99"/>
-<circle cx="4417.3" cy="5904.6" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="4429.7" cy="5895.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="6108.9" cy="6670.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="6108.9" cy="6634.0" r="6.0" fill="#7f8c99"/>
 <circle cx="6108.9" cy="6706.0" r="6.0" fill="#7f8c99"/>
@@ -2225,7 +2225,7 @@
 <text x="6966.4" y="7776.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="6957.4" y="7712.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="3403.5" y="5507.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">co2</text>
-<text x="3746.6" y="5247.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
+<text x="3746.0" y="5247.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="3679.5" y="5247.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="3664.8" y="4534.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="3664.8" y="4705.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
@@ -2299,7 +2299,7 @@
 <text x="4592.0" y="6715.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">fadh2</text>
 <text x="7641.0" y="6574.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
 <text x="7641.0" y="6745.4" font-size="19.8" fill="#1c252e" dominant-baseline="middle">SucCoA</text>
-<text x="4452.0" y="5904.6" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Ac</text>
+<text x="4464.4" y="5895.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Ac</text>
 <text x="5899.1" y="6755.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="5794.0" y="6845.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2</text>
 <text x="5771.0" y="7015.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">h2o2</text>

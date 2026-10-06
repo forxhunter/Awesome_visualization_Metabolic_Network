@@ -51,21 +51,21 @@
 <line x1="2759.2" y1="1605.0" x2="2759.2" y2="1720.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2585.2 1605.0 C2675.9 1605.0 2692.4 1640.7 2634.7 1742.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="2699.2" y1="1460.0" x2="2699.2" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="2699.2" y1="1705.4" x2="1441.8" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1441.8" y1="1705.4" x2="1405.8" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1405.8" y1="1705.4" x2="1369.8" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1369.8" y1="1705.4" x2="1059.8" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="2699.2" y1="1705.4" x2="1525.8" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1525.8" y1="1705.4" x2="1489.8" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1489.8" y1="1705.4" x2="1453.8" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1453.8" y1="1705.4" x2="1059.8" y2="1705.4" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1059.8" y1="1705.4" x2="1059.8" y2="1940.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1059.8" y1="1940.0" x2="1059.8" y2="2050.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1059.8" y1="2050.0" x2="1619.2" y2="2050.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1619.2" y1="2050.0" x2="1619.2" y2="2160.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M1369.8 1705.4 C1279.1 1705.4 1262.6 1750.7 1320.3 1852.2" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M1453.8 1705.4 C1363.1 1705.4 1346.6 1750.7 1404.3 1852.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1214.2" y1="1590.0" x2="1343.2" y2="1590.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1343.2" y1="1590.0" x2="1379.2" y2="1590.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1379.2" y1="1590.0" x2="1415.2" y2="1590.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1415.2" y1="1590.0" x2="1569.2" y2="1590.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1569.2" y1="1590.0" x2="1569.2" y2="1720.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M1415.2 1590.0 C1505.9 1590.0 1522.4 1640.7 1464.7 1742.2" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M1415.2 1590.0 C1505.9 1590.0 1522.4 1640.7 1463.7 1746.2" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1189.2" y1="1460.0" x2="1214.2" y2="1460.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1214.2" y1="1460.0" x2="1214.2" y2="1590.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1149.2" y1="940.0" x2="1149.2" y2="1049.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -143,9 +143,9 @@
 <path d="M2759.2 1690.0 L2743.2 1644.0 L2775.2 1644.0 Z" fill="#2f3b47"/>
 <path d="M2642.6 1728.3 L2651.4 1680.4 L2679.3 1696.2 Z" fill="#9aa6b2"/>
 <path d="M1619.2 2130.0 L1603.2 2084.0 L1635.2 2084.0 Z" fill="#2f3b47"/>
-<path d="M1312.4 1838.3 L1275.7 1806.2 L1303.6 1790.4 Z" fill="#9aa6b2"/>
+<path d="M1396.4 1838.3 L1359.7 1806.2 L1387.6 1790.4 Z" fill="#9aa6b2"/>
 <path d="M1569.2 1690.0 L1553.2 1644.0 L1585.2 1644.0 Z" fill="#2f3b47"/>
-<path d="M1479.5 1716.1 L1488.4 1668.2 L1516.2 1684.0 Z" fill="#2f3b47"/>
+<path d="M1478.3 1720.0 L1486.7 1672.0 L1514.7 1687.6 Z" fill="#2f3b47"/>
 <path d="M1179.2 1170.0 L1163.2 1124.0 L1195.2 1124.0 Z" fill="#2f3b47"/>
 <path d="M1236.6 1229.3 L1245.4 1181.4 L1273.3 1197.2 Z" fill="#9aa6b2"/>
 <path d="M1619.2 2130.0 L1603.2 2084.0 L1635.2 2084.0 Z" fill="#2f3b47"/>
@@ -219,21 +219,21 @@
 <circle cx="2339.2" cy="1605.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2759.2" cy="1605.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2634.7" cy="1742.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="1405.8" cy="1705.4" r="11.0" fill="#3a7bd5"/>
-<circle cx="1441.8" cy="1705.4" r="6.0" fill="#7f8c99"/>
-<circle cx="1369.8" cy="1705.4" r="6.0" fill="#7f8c99"/>
+<circle cx="1489.8" cy="1705.4" r="11.0" fill="#3a7bd5"/>
+<circle cx="1525.8" cy="1705.4" r="6.0" fill="#7f8c99"/>
+<circle cx="1453.8" cy="1705.4" r="6.0" fill="#7f8c99"/>
 <circle cx="2699.2" cy="1705.4" r="6.0" fill="#7f8c99"/>
 <circle cx="1059.8" cy="1705.4" r="6.0" fill="#7f8c99"/>
 <circle cx="1059.8" cy="1940.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1059.8" cy="2050.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1619.2" cy="2050.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1320.3" cy="1852.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="1404.3" cy="1852.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1379.2" cy="1590.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1343.2" cy="1590.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1415.2" cy="1590.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1214.2" cy="1590.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1569.2" cy="1590.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1464.7" cy="1742.2" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="1463.7" cy="1746.2" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="1164.2" cy="1070.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1149.2" cy="1049.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1179.2" cy="1091.0" r="6.0" fill="#7f8c99"/>
@@ -316,8 +316,8 @@
 <text x="1738.5" y="1787.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ala-D</text>
 <text x="1879.4" y="1177.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ala-D</text>
 <text x="2542.6" y="1742.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ala-D</text>
-<text x="1355.0" y="1852.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ala-D</text>
-<text x="1326.7" y="1742.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">alaala[p]</text>
+<text x="1439.0" y="1852.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ala-D</text>
+<text x="1412.1" y="1793.3" font-size="19.8" fill="#1c252e" dominant-baseline="middle">alaala[p]</text>
 <text x="1254.1" y="1266.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udcpdp</text>
 <text x="2138.5" y="2092.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ala-D</text>
 <text x="2059.4" y="1482.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">alaala[p]</text>

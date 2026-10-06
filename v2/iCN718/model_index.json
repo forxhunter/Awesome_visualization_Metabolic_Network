@@ -7,18 +7,9 @@
    "file": "iCN718_Canvas.json",
    "path": "iCN718/iCN718_Canvas.json",
    "reactions": 1014,
-   "nodes": 6969,
+   "nodes": 6872,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Transport and exchange: CIT_transport; Other transport and exchange; Intracellular demand",
-   "file": "Transport_and_exchange_CIT_transport_Other_transport_4877cd.json",
-   "path": "iCN718/Transport_and_exchange_CIT_transport_Other_transport_4877cd.json",
-   "reactions": 120,
-   "nodes": 754,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Amino acid metabolism: Phenylalanine, tyrosine and tryptophan biosynthesis; +5 more",
@@ -30,11 +21,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Valine, leucine and isoleucine biosynthesis; Methionine; +9 more",
-   "file": "Amino_acid_metabolism_Valine_leucine_and_isoleucine_b_20d42c.json",
-   "path": "iCN718/Amino_acid_metabolism_Valine_leucine_and_isoleucine_b_20d42c.json",
+   "name": "Carbohydrate metabolism: Glyoxylate and dicarboxylate; Glycolysis/ Gluconeogenesis; Pyruvate; Propanoate; +5 more",
+   "file": "Carbohydrate_metabolism_Glyoxylate_and_dicarboxylate_584f46.json",
+   "path": "iCN718/Carbohydrate_metabolism_Glyoxylate_and_dicarboxylate_584f46.json",
    "reactions": 119,
-   "nodes": 933,
+   "nodes": 880,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: CIT_transport; Other transport and exchange; Intracellular demand",
+   "file": "Transport_and_exchange_CIT_transport_Other_transport_4877cd.json",
+   "path": "iCN718/Transport_and_exchange_CIT_transport_Other_transport_4877cd.json",
+   "reactions": 119,
+   "nodes": 746,
    "combined": false,
    "canvas": false
   },
@@ -48,11 +48,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Glyoxylate and dicarboxylate; Pyruvate; Glycolysis/ Gluconeogenesis; Propanoate; +4 more",
-   "file": "Carbohydrate_metabolism_Glyoxylate_and_dicarboxylate_c44e01.json",
-   "path": "iCN718/Carbohydrate_metabolism_Glyoxylate_and_dicarboxylate_c44e01.json",
-   "reactions": 116,
-   "nodes": 992,
+   "name": "Amino acid metabolism: Tryptophan; Valine, leucine and isoleucine biosynthesis; Methionine; +7 more",
+   "file": "Amino_acid_metabolism_Tryptophan_Valine_leucine_and_i_6b33f7.json",
+   "path": "iCN718/Amino_acid_metabolism_Tryptophan_Valine_leucine_and_i_6b33f7.json",
+   "reactions": 117,
+   "nodes": 909,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iCN718/Lipid_metabolism.json",
    "reactions": 87,
-   "nodes": 1020,
+   "nodes": 1030,
    "combined": false,
    "canvas": false
   },
@@ -102,11 +102,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Aminosugars; Pentose phosphate pathway; Fructose and mannose",
-   "file": "Carbohydrate_metabolism_Aminosugars_Pentose_phosphate_24579f.json",
-   "path": "iCN718/Carbohydrate_metabolism_Aminosugars_Pentose_phosphate_24579f.json",
-   "reactions": 29,
-   "nodes": 195,
+   "name": "Carbohydrate metabolism: Aminosugars; Pentose phosphate pathway",
+   "file": "Carbohydrate_metabolism_Aminosugars_Pentose_phosphate_823c53.json",
+   "path": "iCN718/Carbohydrate_metabolism_Aminosugars_Pentose_phosphate_823c53.json",
+   "reactions": 22,
+   "nodes": 148,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,16 @@
    "file": "Energy_metabolism.json",
    "path": "iCN718/Energy_metabolism.json",
    "reactions": 17,
-   "nodes": 119,
+   "nodes": 113,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Glutamate; beta-Alanine",
+   "file": "Amino_acid_metabolism_Glutamate_beta-Alanine.json",
+   "path": "iCN718/Amino_acid_metabolism_Glutamate_beta-Alanine.json",
+   "reactions": 13,
+   "nodes": 106,
    "combined": false,
    "canvas": false
   },
@@ -125,15 +134,6 @@
    "path": "iCN718/Cofactor_and_vitamin_metabolism_Riboflavin.json",
    "reactions": 8,
    "nodes": 47,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: beta-Alanine",
-   "file": "Amino_acid_metabolism_beta-Alanine.json",
-   "path": "iCN718/Amino_acid_metabolism_beta-Alanine.json",
-   "reactions": 6,
-   "nodes": 45,
    "combined": false,
    "canvas": false
   }

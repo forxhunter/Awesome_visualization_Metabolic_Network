@@ -6,26 +6,26 @@
    "name": "iLJ478 - Thermotoga maritima (thermophile)",
    "file": "iLJ478_Canvas.json",
    "path": "iLJ478/iLJ478_Canvas.json",
-   "reactions": 651,
-   "nodes": 4338,
+   "reactions": 652,
+   "nodes": 4341,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Carbohydrate metabolism: Starch; Carbohydrate; Alternate Carbon; Glycolysis/Gluconeogenesis",
-   "file": "Carbohydrate_metabolism_Starch_Carbohydrate_Alternate_4c1b91.json",
-   "path": "iLJ478/Carbohydrate_metabolism_Starch_Carbohydrate_Alternate_4c1b91.json",
+   "name": "Amino acid metabolism: tRNA; Methionine; Valine, Leucine, and Isoleucine; +8 more",
+   "file": "Amino_acid_metabolism_tRNA_Methionine_Valine_Leucine_9b2fdb.json",
+   "path": "iLJ478/Amino_acid_metabolism_tRNA_Methionine_Valine_Leucine_9b2fdb.json",
    "reactions": 119,
-   "nodes": 805,
+   "nodes": 850,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: tRNA; Methionine; Valine, Leucine, and Isoleucine; +7 more",
-   "file": "Amino_acid_metabolism_tRNA_Methionine_Valine_Leucine_b5db58.json",
-   "path": "iLJ478/Amino_acid_metabolism_tRNA_Methionine_Valine_Leucine_b5db58.json",
-   "reactions": 117,
-   "nodes": 967,
+   "name": "Carbohydrate metabolism: Starch; Carbohydrate; Rhamnose; Other carbohydrate",
+   "file": "Carbohydrate_metabolism_Starch_Carbohydrate_Rhamnose_5049b6.json",
+   "path": "iLJ478/Carbohydrate_metabolism_Starch_Carbohydrate_Rhamnose_5049b6.json",
+   "reactions": 119,
+   "nodes": 829,
    "combined": false,
    "canvas": false
   },
@@ -39,11 +39,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Rhamnose; Cellulose; Pentose Phosphate Pathway; Pyruvate Met; Citric Acid Cycle; +4 more",
-   "file": "Carbohydrate_metabolism_Rhamnose_Cellulose_Pentose_Ph_99d9bc.json",
-   "path": "iLJ478/Carbohydrate_metabolism_Rhamnose_Cellulose_Pentose_Ph_99d9bc.json",
-   "reactions": 73,
-   "nodes": 510,
+   "name": "Carbohydrate metabolism: Alternate Carbon; Glycolysis/Gluconeogenesis; Cellulose; +5 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Glycolysis_G_eaa483.json",
+   "path": "iLJ478/Carbohydrate_metabolism_Alternate_Carbon_Glycolysis_G_eaa483.json",
+   "reactions": 74,
+   "nodes": 575,
    "combined": false,
    "canvas": false
   },
@@ -51,8 +51,8 @@
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "iLJ478/Nucleotide_metabolism.json",
-   "reactions": 67,
-   "nodes": 580,
+   "reactions": 72,
+   "nodes": 608,
    "combined": false,
    "canvas": false
   },
@@ -84,15 +84,6 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Proline Biosynthesis; Cysteine; Glycine and Serine",
-   "file": "Amino_acid_metabolism_Proline_Biosynthesis_Cysteine_G_ca2c77.json",
-   "path": "iLJ478/Amino_acid_metabolism_Proline_Biosynthesis_Cysteine_G_ca2c77.json",
-   "reactions": 19,
-   "nodes": 128,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Terpenoid and polyketide metabolism",
    "file": "Terpenoid_and_polyketide_metabolism.json",
    "path": "iLJ478/Terpenoid_and_polyketide_metabolism.json",
@@ -116,6 +107,15 @@
    "path": "iLJ478/Glycan_metabolism.json",
    "reactions": 13,
    "nodes": 88,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Cysteine; Glycine and Serine",
+   "file": "Amino_acid_metabolism_Cysteine_Glycine_and_Serine.json",
+   "path": "iLJ478/Amino_acid_metabolism_Cysteine_Glycine_and_Serine.json",
+   "reactions": 12,
+   "nodes": 80,
    "combined": false,
    "canvas": false
   }

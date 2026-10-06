@@ -6,19 +6,10 @@
    "name": "iNJ661 - Mycobacterium tuberculosis (tuberculosis)",
    "file": "iNJ661_Canvas.json",
    "path": "iNJ661/iNJ661_Canvas.json",
-   "reactions": 1024,
-   "nodes": 7312,
+   "reactions": 1025,
+   "nodes": 7318,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Methionine; Other Amino Acid; Phenylalanine Tyrosine Tryptophan; Glutamate; +3 more",
-   "file": "Amino_acid_metabolism_Methionine_Other_Amino_Acid_Phe_844b70.json",
-   "path": "iNJ661/Amino_acid_metabolism_Methionine_Other_Amino_Acid_Phe_844b70.json",
-   "reactions": 120,
-   "nodes": 929,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Sugar; Nucleotide Sugar; Glycolysis; Citric Acid Cycle; Glyoxylate",
@@ -30,29 +21,20 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Cofactor; Porphyrin; Pantothenate and CoA; Folate",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_Porphyrin_Pa_fffa66.json",
-   "path": "iNJ661/Cofactor_and_vitamin_metabolism_Cofactor_Porphyrin_Pa_fffa66.json",
-   "reactions": 119,
-   "nodes": 849,
+   "name": "Amino acid metabolism: Other Amino Acid; Phenylalanine Tyrosine Tryptophan; Glutamate; Methionine; +3 more",
+   "file": "Amino_acid_metabolism_Other_Amino_Acid_Phenylalanine_e96395.json",
+   "path": "iNJ661/Amino_acid_metabolism_Other_Amino_Acid_Phenylalanine_e96395.json",
+   "reactions": 116,
+   "nodes": 835,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Membrane",
-   "file": "Lipid_metabolism_Membrane.json",
-   "path": "iNJ661/Lipid_metabolism_Membrane.json",
-   "reactions": 103,
-   "nodes": 810,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport; Intracellular demand",
-   "file": "Transport_and_exchange_Transport_Intracellular_demand.json",
-   "path": "iNJ661/Transport_and_exchange_Transport_Intracellular_demand.json",
-   "reactions": 93,
-   "nodes": 534,
+   "name": "Cofactor and vitamin metabolism: Cofactor; Porphyrin; Pantothenate and CoA; Folate; Riboflavin",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_Porphyrin_Pa_f51a48.json",
+   "path": "iNJ661/Cofactor_and_vitamin_metabolism_Cofactor_Porphyrin_Pa_f51a48.json",
+   "reactions": 116,
+   "nodes": 833,
    "combined": false,
    "canvas": false
   },
@@ -60,8 +42,26 @@
    "name": "Lipid metabolism: Fatty Acid",
    "file": "Lipid_metabolism_Fatty_Acid.json",
    "path": "iNJ661/Lipid_metabolism_Fatty_Acid.json",
-   "reactions": 89,
-   "nodes": 875,
+   "reactions": 109,
+   "nodes": 941,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Membrane",
+   "file": "Lipid_metabolism_Membrane.json",
+   "path": "iNJ661/Lipid_metabolism_Membrane.json",
+   "reactions": 100,
+   "nodes": 792,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport; Intracellular demand",
+   "file": "Transport_and_exchange_Transport_Intracellular_demand.json",
+   "path": "iNJ661/Transport_and_exchange_Transport_Intracellular_demand.json",
+   "reactions": 94,
+   "nodes": 539,
    "combined": false,
    "canvas": false
   },
@@ -120,20 +120,20 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Ubiquinone; Riboflavin; Biotin",
-   "file": "Cofactor_and_vitamin_metabolism_Ubiquinone_Riboflavin_Biotin.json",
-   "path": "iNJ661/Cofactor_and_vitamin_metabolism_Ubiquinone_Riboflavin_Biotin.json",
-   "reactions": 31,
-   "nodes": 233,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Carbohydrate metabolism: Pyruvate; Pentose Phosphate Pathway",
    "file": "Carbohydrate_metabolism_Pyruvate_Pentose_Phosphate_Pathway.json",
    "path": "iNJ661/Carbohydrate_metabolism_Pyruvate_Pentose_Phosphate_Pathway.json",
    "reactions": 27,
    "nodes": 208,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Ubiquinone; Biotin",
+   "file": "Cofactor_and_vitamin_metabolism_Ubiquinone_Biotin.json",
+   "path": "iNJ661/Cofactor_and_vitamin_metabolism_Ubiquinone_Biotin.json",
+   "reactions": 21,
+   "nodes": 161,
    "combined": false,
    "canvas": false
   },

@@ -7,7 +7,7 @@
    "file": "iYL1228_Canvas.json",
    "path": "iYL1228/iYL1228_Canvas.json",
    "reactions": 2262,
-   "nodes": 15213,
+   "nodes": 15183,
    "combined": true,
    "canvas": true
   },
@@ -16,34 +16,16 @@
    "file": "Amino_acid_metabolism_Arginine_and_Proline_Valine_Leu_0ca82f.json",
    "path": "iYL1228/Amino_acid_metabolism_Arginine_and_Proline_Valine_Leu_0ca82f.json",
    "reactions": 120,
-   "nodes": 813,
+   "nodes": 829,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: tRNA charging; Glycine and Serine; Methionine; Alanine and Aspartate; Histidine; +1 more",
-   "file": "Amino_acid_metabolism_tRNA_charging_Glycine_and_Serin_1c2194.json",
-   "path": "iYL1228/Amino_acid_metabolism_tRNA_charging_Glycine_and_Serin_1c2194.json",
+   "name": "Amino acid metabolism: Methionine; tRNA charging; Glycine and Serine; Alanine and Aspartate; Histidine; +1 more",
+   "file": "Amino_acid_metabolism_Methionine_tRNA_charging_Glycin_7788d9.json",
+   "path": "iYL1228/Amino_acid_metabolism_Methionine_tRNA_charging_Glycin_7788d9.json",
    "reactions": 120,
-   "nodes": 995,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Alternate Carbon (Tetradecenoate; sugars and organic acids)",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_Tetradecenoa_f0fbc3.json",
-   "path": "iYL1228/Carbohydrate_metabolism_Alternate_Carbon_Tetradecenoa_f0fbc3.json",
-   "reactions": 120,
-   "nodes": 790,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Alternate Carbon (sugars and organic acids); +6 more",
-   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Al_72f4ae.json",
-   "path": "iYL1228/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Al_72f4ae.json",
-   "reactions": 120,
-   "nodes": 1041,
+   "nodes": 943,
    "combined": false,
    "canvas": false
   },
@@ -75,20 +57,29 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Acyltransferase Phosphatidylglycerol); +1 more",
-   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Acyltra_68d0de.json",
-   "path": "iYL1228/Lipid_metabolism_Glycerophospholipid_Glycerol_Acyltra_68d0de.json",
-   "reactions": 119,
-   "nodes": 1239,
+   "name": "Transport and exchange: Transport, Outer Membrane Porin; +1 more",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_1_more.json",
+   "path": "iYL1228/Transport_and_exchange_Transport_Outer_Membrane_Porin_1_more.json",
+   "reactions": 120,
+   "nodes": 690,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, Outer Membrane Porin; +1 more",
-   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_1_more.json",
-   "path": "iYL1228/Transport_and_exchange_Transport_Outer_Membrane_Porin_1_more.json",
+   "name": "Carbohydrate metabolism: Alternate Carbon (Tetradecenoate; sugars and organic acids)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_Tetradecenoa_f0fbc3.json",
+   "path": "iYL1228/Carbohydrate_metabolism_Alternate_Carbon_Tetradecenoa_f0fbc3.json",
    "reactions": 119,
-   "nodes": 685,
+   "nodes": 758,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Acyltransferase Phosphatidylglycerol); +1 more",
+   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Acyltra_68d0de.json",
+   "path": "iYL1228/Lipid_metabolism_Glycerophospholipid_Glycerol_Acyltra_68d0de.json",
+   "reactions": 119,
+   "nodes": 1196,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +88,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Oxoacyl_5742d2.json",
    "path": "iYL1228/Glycan_metabolism_Cell_Envelope_Biosynthesis_Oxoacyl_5742d2.json",
    "reactions": 118,
-   "nodes": 890,
+   "nodes": 889,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +97,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Agmatine_sug_b0e318.json",
    "path": "iYL1228/Carbohydrate_metabolism_Alternate_Carbon_Agmatine_sug_b0e318.json",
    "reactions": 117,
-   "nodes": 775,
+   "nodes": 756,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +106,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Transport_ab_3a02ac.json",
    "path": "iYL1228/Carbohydrate_metabolism_Alternate_Carbon_Transport_ab_3a02ac.json",
    "reactions": 116,
-   "nodes": 778,
+   "nodes": 774,
    "combined": false,
    "canvas": false
   },
@@ -123,8 +114,17 @@
    "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate; +3)",
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_597396.json",
    "path": "iYL1228/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_597396.json",
-   "reactions": 115,
-   "nodes": 864,
+   "reactions": 114,
+   "nodes": 868,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Alternate Carbon (sugars and organic acids); +5 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Al_88015c.json",
+   "path": "iYL1228/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Al_88015c.json",
+   "reactions": 112,
+   "nodes": 1005,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Acyltransferase_dc0a47.json",
    "path": "iYL1228/Lipid_metabolism_Glycerophospholipid_Acyltransferase_dc0a47.json",
    "reactions": 112,
-   "nodes": 1219,
+   "nodes": 1182,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_9f0c7b.json",
    "path": "iYL1228/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_9f0c7b.json",
    "reactions": 100,
-   "nodes": 655,
+   "nodes": 651,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_P_2b32d4.json",
    "path": "iYL1228/Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_P_2b32d4.json",
    "reactions": 81,
-   "nodes": 775,
+   "nodes": 761,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_ed3655.json",
    "path": "iYL1228/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_ed3655.json",
    "reactions": 51,
-   "nodes": 342,
+   "nodes": 344,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Energy_metabolism.json",
    "path": "iYL1228/Energy_metabolism.json",
    "reactions": 42,
-   "nodes": 281,
+   "nodes": 271,
    "combined": false,
    "canvas": false
   },
@@ -195,8 +195,8 @@
    "name": "Transport and exchange: Transport",
    "file": "Transport_and_exchange_Transport.json",
    "path": "iYL1228/Transport_and_exchange_Transport.json",
-   "reactions": 35,
-   "nodes": 229,
+   "reactions": 34,
+   "nodes": 225,
    "combined": false,
    "canvas": false
   },
@@ -210,20 +210,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Cysteine; Tyrosine; Other amino acid",
-   "file": "Amino_acid_metabolism_Cysteine_Tyrosine_Other_amino_acid.json",
-   "path": "iYL1228/Amino_acid_metabolism_Cysteine_Tyrosine_Other_amino_acid.json",
-   "reactions": 29,
-   "nodes": 204,
+   "name": "Amino acid metabolism: Cysteine; Glutamate; Other amino acid",
+   "file": "Amino_acid_metabolism_Cysteine_Glutamate_Other_amino_acid.json",
+   "path": "iYL1228/Amino_acid_metabolism_Cysteine_Glutamate_Other_amino_acid.json",
+   "reactions": 30,
+   "nodes": 228,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pyruvate; Pentose and Glucuronate Interconversions",
-   "file": "Carbohydrate_metabolism_Pyruvate_Pentose_and_Glucuron_566e09.json",
-   "path": "iYL1228/Carbohydrate_metabolism_Pyruvate_Pentose_and_Glucuron_566e09.json",
-   "reactions": 19,
-   "nodes": 138,
+   "name": "Carbohydrate metabolism: Pyruvate; Pentose and Glucuronate Interconversions; Starch and Sucrose",
+   "file": "Carbohydrate_metabolism_Pyruvate_Pentose_and_Glucuron_d86fe4.json",
+   "path": "iYL1228/Carbohydrate_metabolism_Pyruvate_Pentose_and_Glucuron_d86fe4.json",
+   "reactions": 28,
+   "nodes": 199,
    "combined": false,
    "canvas": false
   },

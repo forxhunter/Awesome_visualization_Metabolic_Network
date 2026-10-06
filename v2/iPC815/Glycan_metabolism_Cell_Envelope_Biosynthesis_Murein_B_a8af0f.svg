@@ -53,7 +53,7 @@
 <path d="M4074.1 4739.0 C3981.7 4701.7 3935.5 4728.3 3935.5 4819.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M4094.6 4802.3 C3988.5 4722.8 3935.5 4728.3 3935.5 4819.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3935.5 4891.0 C3935.5 4981.7 3988.5 4987.2 4091.1 4912.7" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M3935.5 4891.0 C3935.5 4981.7 3981.7 5008.3 4074.1 4971.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M3935.5 4891.0 C3935.5 4981.7 3981.7 5008.3 4074.5 4967.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1810.0" y1="4430.0" x2="1810.0" y2="4524.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1810.0" y1="4524.0" x2="1810.0" y2="4560.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1810.0" y1="4560.0" x2="1810.0" y2="4596.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -845,7 +845,7 @@
 <path d="M3986.7 3791.0 L3950.1 3823.1 L3938.1 3793.4 Z" fill="#9aa6b2"/>
 <path d="M4050.5 5130.0 L4096.5 5114.0 L4096.5 5146.0 Z" fill="#2f3b47"/>
 <path d="M4078.2 4922.1 L4050.4 4962.1 L4031.6 4936.2 Z" fill="#9aa6b2"/>
-<path d="M4059.2 4977.0 L4022.6 5009.1 L4010.6 4979.4 Z" fill="#9aa6b2"/>
+<path d="M4059.9 4973.7 L4024.3 5007.0 L4011.3 4977.7 Z" fill="#9aa6b2"/>
 <path d="M1810.0 4660.0 L1794.0 4614.0 L1826.0 4614.0 Z" fill="#2f3b47"/>
 <path d="M1686.3 4682.0 L1734.9 4684.4 L1722.9 4714.1 Z" fill="#9aa6b2"/>
 <path d="M1663.7 4622.3 L1710.1 4637.1 L1690.9 4662.7 Z" fill="#9aa6b2"/>
@@ -1283,7 +1283,7 @@
 <circle cx="4074.1" cy="4739.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="4094.6" cy="4802.3" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="4091.1" cy="4912.7" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="4074.1" cy="4971.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="4074.5" cy="4967.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1810.0" cy="4560.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1810.0" cy="4524.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1810.0" cy="4596.0" r="6.0" fill="#7f8c99"/>
@@ -2101,7 +2101,7 @@
 <text x="4030.9" y="4698.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">amp</text>
 <text x="4173.3" y="4802.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
 <text x="4169.8" y="4912.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ACP</text>
-<text x="4152.7" y="4971.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
+<text x="4153.2" y="4967.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="1581.8" y="4507.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ACP</text>
 <text x="1602.3" y="4444.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="1602.3" y="4676.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">amp</text>

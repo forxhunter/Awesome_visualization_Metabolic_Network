@@ -7,9 +7,18 @@
    "file": "iIT341_Canvas.json",
    "path": "iIT341/iIT341_Canvas.json",
    "reactions": 554,
-   "nodes": 3520,
+   "nodes": 3503,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism",
+   "file": "Amino_acid_metabolism.json",
+   "path": "iIT341/Amino_acid_metabolism.json",
+   "reactions": 120,
+   "nodes": 823,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Peroxynitrite; +1 more",
@@ -17,15 +26,6 @@
    "path": "iIT341/Transport_and_exchange_Extracellular_exchange_Biomass_093f27.json",
    "reactions": 118,
    "nodes": 596,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism",
-   "file": "Amino_acid_metabolism.json",
-   "path": "iIT341/Amino_acid_metabolism.json",
-   "reactions": 117,
-   "nodes": 815,
    "combined": false,
    "canvas": false
   },
@@ -42,8 +42,8 @@
    "name": "Transport and exchange: Transport; Other transport and exchange",
    "file": "Transport_and_exchange_Transport_Other_transport_and_deaf7b.json",
    "path": "iIT341/Transport_and_exchange_Transport_Other_transport_and_deaf7b.json",
-   "reactions": 72,
-   "nodes": 427,
+   "reactions": 71,
+   "nodes": 422,
    "combined": false,
    "canvas": false
   },
@@ -51,8 +51,8 @@
    "name": "Carbohydrate metabolism",
    "file": "Carbohydrate_metabolism.json",
    "path": "iIT341/Carbohydrate_metabolism.json",
-   "reactions": 56,
-   "nodes": 403,
+   "reactions": 54,
+   "nodes": 364,
    "combined": false,
    "canvas": false
   },

@@ -6,8 +6,8 @@
    "name": "iAM_Pb448 - Plasmodium berghei (malaria parasite)",
    "file": "iAM_Pb448_Canvas.json",
    "path": "iAM_Pb448/iAM_Pb448_Canvas.json",
-   "reactions": 1063,
-   "nodes": 7351,
+   "reactions": 1067,
+   "nodes": 7258,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,16 @@
    "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "path": "iAM_Pb448/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "reactions": 120,
-   "nodes": 1197,
+   "nodes": 1221,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "path": "iAM_Pb448/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "reactions": 119,
+   "nodes": 927,
    "combined": false,
    "canvas": false
   },
@@ -25,25 +34,16 @@
    "file": "Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
    "path": "iAM_Pb448/Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
    "reactions": 119,
-   "nodes": 935,
+   "nodes": 908,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
-   "path": "iAM_Pb448/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
-   "reactions": 118,
-   "nodes": 842,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Pentose phosphate pathway; +4 more",
-   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_9021d7.json",
-   "path": "iAM_Pb448/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_9021d7.json",
-   "reactions": 118,
-   "nodes": 815,
+   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); +3 more",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_ccdee2.json",
+   "path": "iAM_Pb448/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_ccdee2.json",
+   "reactions": 117,
+   "nodes": 782,
    "combined": false,
    "canvas": false
   },
@@ -60,8 +60,8 @@
    "name": "Transport and exchange: Other transport and exchange; Biomass and exchange",
    "file": "Transport_and_exchange_Other_transport_and_exchange_B_c256bd.json",
    "path": "iAM_Pb448/Transport_and_exchange_Other_transport_and_exchange_B_c256bd.json",
-   "reactions": 112,
-   "nodes": 794,
+   "reactions": 116,
+   "nodes": 788,
    "combined": false,
    "canvas": false
   },
@@ -87,8 +87,8 @@
    "name": "Transport and exchange: Acyl-carrier-protein",
    "file": "Transport_and_exchange_Acyl-carrier-protein.json",
    "path": "iAM_Pb448/Transport_and_exchange_Acyl-carrier-protein.json",
-   "reactions": 72,
-   "nodes": 495,
+   "reactions": 66,
+   "nodes": 430,
    "combined": false,
    "canvas": false
   },
@@ -111,11 +111,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glycine, serine and threonine; Lysine degradation; +1 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
-   "path": "iAM_Pb448/Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
-   "reactions": 19,
-   "nodes": 128,
+   "name": "Amino acid metabolism: Glutathione; Lysine degradation; Valine, leucine and isoleucine degradation",
+   "file": "Amino_acid_metabolism_Glutathione_Lysine_degradation_fde3fc.json",
+   "path": "iAM_Pb448/Amino_acid_metabolism_Glutathione_Lysine_degradation_fde3fc.json",
+   "reactions": 18,
+   "nodes": 118,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Amino sugar and nucleotide sugar; Fructose and mannose",
+   "file": "Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_4283a3.json",
+   "path": "iAM_Pb448/Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_4283a3.json",
+   "reactions": 14,
+   "nodes": 84,
    "combined": false,
    "canvas": false
   },
@@ -125,15 +134,6 @@
    "path": "iAM_Pb448/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 9,
    "nodes": 53,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Fructose and mannose",
-   "file": "Carbohydrate_metabolism_Fructose_and_mannose.json",
-   "path": "iAM_Pb448/Carbohydrate_metabolism_Fructose_and_mannose.json",
-   "reactions": 7,
-   "nodes": 39,
    "combined": false,
    "canvas": false
   },

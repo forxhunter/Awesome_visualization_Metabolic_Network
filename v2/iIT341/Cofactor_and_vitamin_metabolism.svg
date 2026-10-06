@@ -245,7 +245,7 @@
 <line x1="2310.0" y1="1414.0" x2="2346.0" y2="1414.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2346.0" y1="1414.0" x2="2380.0" y2="1414.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2380.0" y1="1414.0" x2="2380.0" y2="1500.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M2224.6 1522.2 C2166.9 1420.7 2183.3 1414.0 2274.0 1414.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M2224.0 1523.0 C2166.9 1420.7 2183.3 1414.0 2274.0 1414.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M2346.0 1414.0 C2436.7 1414.0 2453.1 1420.7 2409.7 1542.7" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="2284.0" y1="1265.0" x2="2284.0" y2="1414.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2255.0" y1="1265.0" x2="2284.0" y2="1265.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -990,7 +990,7 @@
 <circle cx="2346.0" cy="1414.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2284.0" cy="1414.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2380.0" cy="1414.0" r="6.0" fill="#7f8c99"/>
-<circle cx="2224.6" cy="1522.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="2224.0" cy="1523.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2409.7" cy="1542.7" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3610.0" cy="2470.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="3610.0" cy="2434.0" r="6.0" fill="#7f8c99"/>
@@ -1406,7 +1406,7 @@
 <text x="1501.3" y="3380.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="2315.1" y="1207.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadp</text>
 <text x="2131.2" y="1217.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadph</text>
-<text x="2144.0" y="1522.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
+<text x="2143.4" y="1523.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
 <text x="2444.4" y="1542.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
 <text x="3381.8" y="2417.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="3402.3" y="2354.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">co2</text>

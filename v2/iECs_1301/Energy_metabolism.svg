@@ -155,7 +155,7 @@
 <line x1="3011.5" y1="2080.0" x2="2975.0" y2="2080.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2975.0" y1="2080.0" x2="2975.0" y2="2210.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M3090.8 1907.0 C3179.7 2027.0 3174.2 2080.0 3083.5 2080.0" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M3171.0 1940.0 C3200.8 2033.8 3174.2 2080.0 3083.5 2080.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M3164.9 1923.8 C3200.8 2033.8 3174.2 2080.0 3083.5 2080.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3011.5 2080.0 C2920.8 2080.0 2894.2 2033.8 2931.5 1941.4" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3011.5 2080.0 C2920.8 2080.0 2915.3 2027.0 2994.8 1920.9" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M1535.0 3850.0 C1487.7 3861.4 1450.3 3897.5 1437.4 3944.4" stroke="#9aa6b2" stroke-width="3.0"/>
@@ -743,7 +743,7 @@
 <circle cx="3120.0" cy="2080.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2975.0" cy="2080.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3090.8" cy="1907.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="3171.0" cy="1940.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="3164.9" cy="1923.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2931.5" cy="1941.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2994.8" cy="1920.9" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="1432.6" cy="3980.0" r="11.0" fill="#3a7bd5"/>
@@ -1056,7 +1056,7 @@
 <text x="1077.3" y="2716.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="1068.2" y="2652.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="3021.7" y="1907.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
-<text x="3127.9" y="1899.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
+<text x="3121.8" y="1883.1" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
 <text x="2862.4" y="1941.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="2943.3" y="1897.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="1500.0" y="4019.5" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2</text>
@@ -1126,7 +1126,7 @@
 <text x="1159.4" y="4041.5" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
 <text x="739.2" y="3918.1" font-size="19.8" fill="#6b7885" dominant-baseline="middle">trdox</text>
 <text x="739.2" y="4041.9" font-size="19.8" fill="#6b7885" dominant-baseline="middle">trdrd</text>
-<text x="3124.3" y="1862.9" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
+<text x="3143.3" y="1845.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="3284.4" y="1865.9" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="3404.1" y="1891.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="672.8" y="1110.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ALLTN</text>

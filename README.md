@@ -1,14 +1,16 @@
 # Escher Maps for BiGG Models
 
 Automatically generated, Escher-compatible metabolic maps for all 108 models in the
-[BiGG Models database](http://bigg.ucsd.edu/): **2,764 pathway maps, plus every model drawn whole
-on one canvas** — 251,140 of BiGG's 251,424 reactions, as Escher JSON and as SVG. This is v2, the
+[BiGG Models database](http://bigg.ucsd.edu/): **2,763 pathway maps, plus every model drawn whole
+on one canvas** — 251,405 of BiGG's 251,424 reactions, as Escher JSON and as SVG. This is v2, the
 current generation, in [`v2/`](v2/), and it is what the repository's default index lists. The
 previous generation, v1, is still here unchanged; see [v1](#v1-the-previous-generation) below.
 
 Every map in this repository was produced by **MetaCarto**, a layout engine that draws a
 metabolic network the way a curator would rather than the way a force-directed algorithm does.
-**MetaCarto will be released soon**; this repository is its output, published ahead of the code.
+The code is open at [forxhunter/MetaCarto](https://github.com/forxhunter/MetaCarto) (release
+[v2.0.0](https://github.com/forxhunter/MetaCarto/releases/tag/v2.0.0)), and the method is described in a
+[bioRxiv preprint](https://doi.org/10.64898/2026.09.19.752882).
 
 **[→ Open the maps in the Escher viewer](https://forxhunter.github.io/escher/)** — it opens on
 e_coli_core's canvas, and *Map ▸ Load map from library…* browses the whole collection.
@@ -30,7 +32,7 @@ oxidative phosphorylation, and transport and exchange.
 
 [<img src="v2/e_coli_core/e_coli_core_Canvas.svg" alt="e_coli_core on one canvas" width="100%">](v2/e_coli_core/e_coli_core_Canvas.svg)
 
-**Recon3D** — 10,592 of the human reconstruction's 10,600 reactions on one page (19 MB; it
+**Recon3D** — 10,598 of the human reconstruction's 10,600 reactions on one page (19 MB; it
 takes a few seconds to appear). [JSON](v2/Recon3D/Recon3D_Canvas.json)
 
 [<img src="v2/Recon3D/Recon3D_Canvas.svg" alt="Recon3D on one canvas" width="100%">](v2/Recon3D/Recon3D_Canvas.svg)
@@ -70,7 +72,22 @@ Plain text:
 This applies to modified maps as well: if you edit a map in Escher and publish the result, the
 layout is still derived from this work.
 
-Please cite the software that drew them alongside the collection itself:
+Please cite the method that drew them alongside the collection itself:
+
+> Wu, T. (2026). MetaCarto: biologically faithful automatic layout for genome-scale metabolic
+> maps. *bioRxiv*. https://doi.org/10.64898/2026.09.19.752882
+
+```bibtex
+@article{wu_metacarto_2026,
+  author  = {Wu, Tianyu},
+  title   = {{MetaCarto}: biologically faithful automatic layout for genome-scale metabolic maps},
+  journal = {bioRxiv},
+  year    = {2026},
+  doi     = {10.64898/2026.09.19.752882}
+}
+```
+
+and, for MetaCarto 2 specifically, the software:
 
 ```bibtex
 @software{Wu_MetaCarto_constructive_layout,
@@ -193,13 +210,14 @@ Measured over every map in v2 — all 108 models, not a sample:
 
 | | v2 |
 |---|---|
-| reactions drawn | 251,140 of 251,424 (99.9%), none twice |
+| reactions drawn | 251,405 of 251,424 (99.99%), none twice |
 | text on a node, an edge or other text | 0, in every map and canvas |
 | pathways overlapping on a canvas | 0 |
-| segments axis-aligned, median map | 0.985; 2,745 of 2,764 maps at 0.90 or above |
-| crossings per edge, median map | 0.070 (90th percentile 0.40) |
-| local density (`hairball_index`), median map | 2.99 (target 3.0) |
-| blank share of a canvas, median (worst) | 0.23 (0.38) |
+| segments axis-aligned, median map | 0.985; 2,742 of 2,763 maps at 0.90 or above |
+| crossings per edge, median map | 0.068 (90th percentile 0.41) |
+| local density (`hairball_index`), median map | 2.98 (target 3.0) |
+| blank share of a canvas, median (worst) | 0.23 (0.31) |
+| TCA cycle drawn as a complete ring | 98 of 108 models |
 | edges through an unrelated metabolite | 37 per 1,000 reactions |
 
 Separately from how tidy a map is, there is the question of whether it draws the *right*
@@ -208,11 +226,12 @@ checked against the pair KEGG's curators drew for the same reaction: agreement i
 iJO1366 (673 reactions with a KEGG reaction id and a KEGG drawing), **96.1%** on iMM904 and
 **94.7%** on iYO844. These were measured on v1; v2 picks the same pair for every reaction whose
 compounds have formulas, apart from the few where it now recognises ammonia, zinc or hydroxide
-as currency.
+as currency, and the steps of the TCA, urea and methionine cycles, which take the ring's own pair:
+citrate synthase is drawn oxaloacetate → citrate, as KEGG's TCA map draws it.
 
 These are automatic layouts, and they are not uniformly perfect:
 
-- 284 reactions in the whole collection have no drawable primary pair and are omitted.
+- 19 reactions in the whole collection have no drawable primary pair and are omitted.
 - Large merged pages still cross themselves: one page in ten has more than 0.4 crossings per edge.
 - Nearly four reactions in a hundred still run through a metabolite of an unrelated reaction,
   mostly a long route passing a cofactor stub on its way.
@@ -232,8 +251,8 @@ What v2 changes:
 
 | | v1 (top level) | v2 (`v2/`) |
 |---|---|---|
-| pathway maps | 2,623 | 2,764 |
-| reactions drawn | 240,398 of 251,424 (95.6%) | 251,140 of 251,424 (99.9%) |
+| pathway maps | 2,623 | 2,763 |
+| reactions drawn | 240,398 of 251,424 (95.6%) | 251,405 of 251,424 (99.99%) |
 | whole-model canvas | none | one per model (108) |
 | text on a node, an edge or other text | not guaranteed | none, in any map |
 | pathway membership | — | every map records which pathway each reaction belongs to |

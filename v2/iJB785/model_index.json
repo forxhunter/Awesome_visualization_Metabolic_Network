@@ -6,8 +6,8 @@
    "name": "iJB785 - Synechococcus elongatus (cyanobacterium)",
    "file": "iJB785_Canvas.json",
    "path": "iJB785/iJB785_Canvas.json",
-   "reactions": 846,
-   "nodes": 5667,
+   "reactions": 849,
+   "nodes": 5689,
    "combined": true,
    "canvas": true
   },
@@ -24,8 +24,8 @@
    "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Transport - Outer Membrane; +1 more",
    "file": "Transport_and_exchange_Extracellular_exchange_Biomass_810c20.json",
    "path": "iJB785/Transport_and_exchange_Extracellular_exchange_Biomass_810c20.json",
-   "reactions": 119,
-   "nodes": 689,
+   "reactions": 120,
+   "nodes": 694,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Amino_acid_metabolism_Amino_acid_metabolism_-_Proline_cba487.json",
    "path": "iJB785/Amino_acid_metabolism_Amino_acid_metabolism_-_Proline_cba487.json",
    "reactions": 118,
-   "nodes": 823,
+   "nodes": 857,
    "combined": false,
    "canvas": false
   },
@@ -42,8 +42,8 @@
    "name": "Carbohydrate metabolism",
    "file": "Carbohydrate_metabolism.json",
    "path": "iJB785/Carbohydrate_metabolism.json",
-   "reactions": 93,
-   "nodes": 734,
+   "reactions": 94,
+   "nodes": 737,
    "combined": false,
    "canvas": false
   },
@@ -51,8 +51,8 @@
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iJB785/Energy_metabolism.json",
-   "reactions": 86,
-   "nodes": 550,
+   "reactions": 87,
+   "nodes": 555,
    "combined": false,
    "canvas": false
   },

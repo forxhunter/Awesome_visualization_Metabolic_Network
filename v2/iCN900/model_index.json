@@ -6,19 +6,10 @@
    "name": "iCN900 - Clostridioides difficile (C. diff)",
    "file": "iCN900_Canvas.json",
    "path": "iCN900/iCN900_Canvas.json",
-   "reactions": 1227,
-   "nodes": 9064,
+   "reactions": 1229,
+   "nodes": 9059,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Alanine, aspartate and glutamate; Cysteine and methionine; +3 more",
-   "file": "Amino_acid_metabolism_Alanine_aspartate_and_glutamate_8c27e5.json",
-   "path": "iCN900/Amino_acid_metabolism_Alanine_aspartate_and_glutamate_8c27e5.json",
-   "reactions": 120,
-   "nodes": 1045,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Transport and exchange: Biomass and exchange; ATP-driven transport; PEP-dependent transporter; +1 more",
@@ -39,20 +30,20 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Glycolysis / Gluconeogenesis; Fructose and mannose; Pyruvate; Butanoate; +1 more",
-   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Fr_a1eb34.json",
-   "path": "iCN900/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Fr_a1eb34.json",
+   "name": "Transport and exchange: Secondary transporters; Transport of unknown mechanism; Acetoin transport; +3 more",
+   "file": "Transport_and_exchange_Secondary_transporters_Transpo_5adf61.json",
+   "path": "iCN900/Transport_and_exchange_Secondary_transporters_Transpo_5adf61.json",
    "reactions": 119,
-   "nodes": 1280,
+   "nodes": 735,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Secondary transporters; Transport of unknown mechanism; Acetoin transport; +3 more",
-   "file": "Transport_and_exchange_Secondary_transporters_Transpo_5adf61.json",
-   "path": "iCN900/Transport_and_exchange_Secondary_transporters_Transpo_5adf61.json",
+   "name": "Carbohydrate metabolism: Glycolysis / Gluconeogenesis; Fructose and mannose; Pyruvate; Butanoate; +1 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Fr_a1eb34.json",
+   "path": "iCN900/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Fr_a1eb34.json",
    "reactions": 118,
-   "nodes": 730,
+   "nodes": 1279,
    "combined": false,
    "canvas": false
   },
@@ -62,6 +53,15 @@
    "path": "iCN900/Cofactor_and_vitamin_metabolism_Vitamin_B12_and_proto_392b89.json",
    "reactions": 117,
    "nodes": 889,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Cysteine and methionine; Alanine, aspartate and glutamate; +3 more",
+   "file": "Amino_acid_metabolism_Cysteine_and_methionine_Alanine_964079.json",
+   "path": "iCN900/Amino_acid_metabolism_Cysteine_and_methionine_Alanine_964079.json",
+   "reactions": 116,
+   "nodes": 973,
    "combined": false,
    "canvas": false
   },
@@ -78,8 +78,8 @@
    "name": "Amino acid metabolism: Aminoacyl-tRNA biosynthesis; Arginine and proline; +7 more",
    "file": "Amino_acid_metabolism_Aminoacyl-tRNA_biosynthesis_Arg_cad11b.json",
    "path": "iCN900/Amino_acid_metabolism_Aminoacyl-tRNA_biosynthesis_Arg_cad11b.json",
-   "reactions": 109,
-   "nodes": 831,
+   "reactions": 114,
+   "nodes": 876,
    "combined": false,
    "canvas": false
   },
@@ -87,8 +87,8 @@
    "name": "Carbohydrate metabolism: Pentose phosphate pathway; Amino sugar and nucleotide sugar; Galactose; +3 more",
    "file": "Carbohydrate_metabolism_Pentose_phosphate_pathway_Ami_fedaa0.json",
    "path": "iCN900/Carbohydrate_metabolism_Pentose_phosphate_pathway_Ami_fedaa0.json",
-   "reactions": 78,
-   "nodes": 644,
+   "reactions": 79,
+   "nodes": 685,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +97,7 @@
    "file": "Nucleotide_metabolism_Pyrimidine.json",
    "path": "iCN900/Nucleotide_metabolism_Pyrimidine.json",
    "reactions": 63,
-   "nodes": 573,
+   "nodes": 575,
    "combined": false,
    "canvas": false
   },
@@ -111,11 +111,11 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Folate biosynthesis; Ubiquinone and other terpenoid-quinone biosynthesis; +1 more",
-   "file": "Cofactor_and_vitamin_metabolism_Folate_biosynthesis_U_591a60.json",
-   "path": "iCN900/Cofactor_and_vitamin_metabolism_Folate_biosynthesis_U_591a60.json",
-   "reactions": 29,
-   "nodes": 193,
+   "name": "Cofactor and vitamin metabolism: Folate biosynthesis; Riboflavin; +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Folate_biosynthesis_R_1fbe8a.json",
+   "path": "iCN900/Cofactor_and_vitamin_metabolism_Folate_biosynthesis_R_1fbe8a.json",
+   "reactions": 28,
+   "nodes": 190,
    "combined": false,
    "canvas": false
   },
@@ -138,20 +138,20 @@
    "canvas": false
   },
   {
+   "name": "Transport and exchange: Channel-type facilitator; Diffusion",
+   "file": "Transport_and_exchange_Channel-type_facilitator_Diffusion.json",
+   "path": "iCN900/Transport_and_exchange_Channel-type_facilitator_Diffusion.json",
+   "reactions": 12,
+   "nodes": 58,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Glycan metabolism",
    "file": "Glycan_metabolism.json",
    "path": "iCN900/Glycan_metabolism.json",
    "reactions": 11,
    "nodes": 71,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Channel-type facilitator; Diffusion",
-   "file": "Transport_and_exchange_Channel-type_facilitator_Diffusion.json",
-   "path": "iCN900/Transport_and_exchange_Channel-type_facilitator_Diffusion.json",
-   "reactions": 11,
-   "nodes": 53,
    "combined": false,
    "canvas": false
   }

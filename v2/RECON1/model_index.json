@@ -6,8 +6,8 @@
    "name": "RECON1 - Homo sapiens (human)",
    "file": "RECON1_Canvas.json",
    "path": "RECON1/RECON1_Canvas.json",
-   "reactions": 3738,
-   "nodes": 27971,
+   "reactions": 3741,
+   "nodes": 28055,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Am_eb38f8.json",
    "path": "RECON1/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Am_eb38f8.json",
    "reactions": 120,
-   "nodes": 1178,
+   "nodes": 1164,
    "combined": false,
    "canvas": false
   },
@@ -93,20 +93,20 @@
    "canvas": false
   },
   {
+   "name": "Transport and exchange: Transport, Endoplasmic Reticular",
+   "file": "Transport_and_exchange_Transport_Endoplasmic_Reticular.json",
+   "path": "RECON1/Transport_and_exchange_Transport_Endoplasmic_Reticular.json",
+   "reactions": 120,
+   "nodes": 682,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Transport and exchange: Transport, Lysosomal",
    "file": "Transport_and_exchange_Transport_Lysosomal.json",
    "path": "RECON1/Transport_and_exchange_Transport_Lysosomal.json",
    "reactions": 120,
    "nodes": 626,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Urea cycle/amino group; Cysteine; Lysine; Alanine and Aspartate; beta-Alanine",
-   "file": "Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
-   "path": "RECON1/Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
-   "reactions": 119,
-   "nodes": 891,
    "combined": false,
    "canvas": false
   },
@@ -124,16 +124,7 @@
    "file": "Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_b67f4a.json",
    "path": "RECON1/Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_b67f4a.json",
    "reactions": 119,
-   "nodes": 903,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, Endoplasmic Reticular",
-   "file": "Transport_and_exchange_Transport_Endoplasmic_Reticular.json",
-   "path": "RECON1/Transport_and_exchange_Transport_Endoplasmic_Reticular.json",
-   "reactions": 119,
-   "nodes": 677,
+   "nodes": 962,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +133,7 @@
    "file": "Transport_and_exchange_Transport_Extracellular_amino_b43b3f.json",
    "path": "RECON1/Transport_and_exchange_Transport_Extracellular_amino_b43b3f.json",
    "reactions": 119,
-   "nodes": 820,
+   "nodes": 805,
    "combined": false,
    "canvas": false
   },
@@ -156,29 +147,29 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Urea cycle/amino group; Cysteine; Lysine; Alanine and Aspartate; beta-Alanine",
+   "file": "Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
+   "path": "RECON1/Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
+   "reactions": 118,
+   "nodes": 859,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Lipid metabolism: Fatty acid activation; R Group Synthesis",
    "file": "Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
    "path": "RECON1/Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
    "reactions": 118,
-   "nodes": 1356,
+   "nodes": 1363,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Tryptophan; Glycine, Serine, and Threonine; Arginine and Proline",
-   "file": "Amino_acid_metabolism_Tryptophan_Glycine_Serine_and_T_cc1658.json",
-   "path": "RECON1/Amino_acid_metabolism_Tryptophan_Glycine_Serine_and_T_cc1658.json",
-   "reactions": 117,
-   "nodes": 838,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Tyrosine; Valine, Leucine, and Isoleucine; Other amino acid",
-   "file": "Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_b988c6.json",
-   "path": "RECON1/Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_b988c6.json",
-   "reactions": 117,
-   "nodes": 1048,
+   "name": "Transport and exchange: Transport, Extracellular (inorganic ions / lipids; +2); +1 more",
+   "file": "Transport_and_exchange_Transport_Extracellular_inorga_357c2d.json",
+   "path": "RECON1/Transport_and_exchange_Transport_Extracellular_inorga_357c2d.json",
+   "reactions": 118,
+   "nodes": 688,
    "combined": false,
    "canvas": false
   },
@@ -205,16 +196,25 @@
    "file": "Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_67ef8d.json",
    "path": "RECON1/Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_67ef8d.json",
    "reactions": 117,
-   "nodes": 879,
+   "nodes": 915,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, Extracellular (inorganic ions / lipids; +2); +1 more",
-   "file": "Transport_and_exchange_Transport_Extracellular_inorga_357c2d.json",
-   "path": "RECON1/Transport_and_exchange_Transport_Extracellular_inorga_357c2d.json",
-   "reactions": 117,
-   "nodes": 683,
+   "name": "Amino acid metabolism: Tryptophan; Glycine, Serine, and Threonine; Arginine and Proline",
+   "file": "Amino_acid_metabolism_Tryptophan_Glycine_Serine_and_T_cc1658.json",
+   "path": "RECON1/Amino_acid_metabolism_Tryptophan_Glycine_Serine_and_T_cc1658.json",
+   "reactions": 116,
+   "nodes": 829,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Tyrosine; Valine, Leucine, and Isoleucine; Other amino acid",
+   "file": "Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_b988c6.json",
+   "path": "RECON1/Amino_acid_metabolism_Tyrosine_Valine_Leucine_and_Iso_b988c6.json",
+   "reactions": 116,
+   "nodes": 1036,
    "combined": false,
    "canvas": false
   },
@@ -231,8 +231,8 @@
    "name": "Transport and exchange: Transport, Peroxisomal",
    "file": "Transport_and_exchange_Transport_Peroxisomal.json",
    "path": "RECON1/Transport_and_exchange_Transport_Peroxisomal.json",
-   "reactions": 110,
-   "nodes": 636,
+   "reactions": 111,
+   "nodes": 641,
    "combined": false,
    "canvas": false
   },
@@ -277,16 +277,16 @@
    "file": "Carbohydrate_metabolism_Starch_and_Sucrose_Pentose_an_90aa53.json",
    "path": "RECON1/Carbohydrate_metabolism_Starch_and_Sucrose_Pentose_an_90aa53.json",
    "reactions": 106,
-   "nodes": 840,
+   "nodes": 787,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Histidine; Selenoamino acid; Glutamate; Phenylalanine; Glutathione; Methionine; +1 more",
-   "file": "Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_afa857.json",
-   "path": "RECON1/Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_afa857.json",
-   "reactions": 81,
-   "nodes": 582,
+   "name": "Amino acid metabolism: Histidine; Selenoamino acid; Glutamate; Methionine; Phenylalanine; Glutathione; +1 more",
+   "file": "Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_0927fd.json",
+   "path": "RECON1/Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_0927fd.json",
+   "reactions": 84,
+   "nodes": 597,
    "combined": false,
    "canvas": false
   },
@@ -295,7 +295,7 @@
    "file": "Nucleotide_metabolism_Nucleotides_Antiport_IMP_Biosyn_c9d226.json",
    "path": "RECON1/Nucleotide_metabolism_Nucleotides_Antiport_IMP_Biosyn_c9d226.json",
    "reactions": 75,
-   "nodes": 753,
+   "nodes": 756,
    "combined": false,
    "canvas": false
   },

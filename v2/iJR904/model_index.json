@@ -7,18 +7,9 @@
    "file": "iJR904_Canvas.json",
    "path": "iJR904/iJR904_Canvas.json",
    "reactions": 1075,
-   "nodes": 7138,
+   "nodes": 7148,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate; Octaprenyl; +2); +1 more",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_82509f.json",
-   "path": "iJR904/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_82509f.json",
-   "reactions": 120,
-   "nodes": 937,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Transport and exchange: Extracellular exchange (sugars and organic acids / amino acids and peptides)",
@@ -34,7 +25,16 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_D-Glucose_Gl_f2f5af.json",
    "path": "iJR904/Carbohydrate_metabolism_Alternate_Carbon_D-Glucose_Gl_f2f5af.json",
    "reactions": 119,
-   "nodes": 926,
+   "nodes": 929,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate; Octaprenyl; +2); +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_82509f.json",
+   "path": "iJR904/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_82509f.json",
+   "reactions": 118,
+   "nodes": 881,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_787ad3.json",
    "path": "iJR904/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_787ad3.json",
    "reactions": 116,
-   "nodes": 866,
+   "nodes": 858,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Methylmalony_11b4b0.json",
    "path": "iJR904/Carbohydrate_metabolism_Alternate_Carbon_Methylmalony_11b4b0.json",
    "reactions": 116,
-   "nodes": 1160,
+   "nodes": 1118,
    "combined": false,
    "canvas": false
   },
@@ -60,8 +60,8 @@
    "name": "Transport and exchange: Biomass and exchange; Putative Transporters; Extracellular exchange (L-Tyrosine)",
    "file": "Transport_and_exchange_Biomass_and_exchange_Putative_95d1d3.json",
    "path": "iJR904/Transport_and_exchange_Biomass_and_exchange_Putative_95d1d3.json",
-   "reactions": 104,
-   "nodes": 656,
+   "reactions": 103,
+   "nodes": 651,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iJR904/Nucleotide_metabolism.json",
    "reactions": 101,
-   "nodes": 899,
+   "nodes": 871,
    "combined": false,
    "canvas": false
   },
@@ -79,16 +79,16 @@
    "file": "Glycan_metabolism.json",
    "path": "iJR904/Glycan_metabolism.json",
    "reactions": 77,
-   "nodes": 525,
+   "nodes": 517,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Valine, Leucine, and Isoleucine; Glycine and Serine; Histidine; Methionine; +1 more",
-   "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_3b0789.json",
-   "path": "iJR904/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_3b0789.json",
-   "reactions": 66,
-   "nodes": 451,
+   "name": "Amino acid metabolism: Valine, Leucine, and Isoleucine; Methionine; Glycine and Serine; Histidine; +1 more",
+   "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_M_7f3bbf.json",
+   "path": "iJR904/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_M_7f3bbf.json",
+   "reactions": 70,
+   "nodes": 467,
    "combined": false,
    "canvas": false
   },
@@ -105,8 +105,8 @@
    "name": "Transport and exchange: Transport, Extracellular",
    "file": "Transport_and_exchange_Transport_Extracellular.json",
    "path": "iJR904/Transport_and_exchange_Transport_Extracellular.json",
-   "reactions": 33,
-   "nodes": 198,
+   "reactions": 32,
+   "nodes": 191,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iJR904/Lipid_metabolism.json",
    "reactions": 31,
-   "nodes": 269,
+   "nodes": 267,
    "combined": false,
    "canvas": false
   },

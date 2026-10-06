@@ -6,19 +6,10 @@
    "name": "Recon3D - Homo sapiens (human)",
    "file": "Recon3D_Canvas.json",
    "path": "Recon3D/Recon3D_Canvas.json",
-   "reactions": 10592,
-   "nodes": 77677,
+   "reactions": 10598,
+   "nodes": 77708,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Methionine and cysteine; Lysine",
-   "file": "Amino_acid_metabolism_Methionine_and_cysteine_Lysine.json",
-   "path": "Recon3D/Amino_acid_metabolism_Methionine_and_cysteine_Lysine.json",
-   "reactions": 120,
-   "nodes": 981,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Amino acid metabolism: Peptide (Glutaminyl-Histidyl-Lysine)",
@@ -57,20 +48,20 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Phenylalanine; Oxidoreductase tyrosine; Glutamate",
+   "file": "Amino_acid_metabolism_Phenylalanine_Oxidoreductase_ty_923010.json",
+   "path": "Recon3D/Amino_acid_metabolism_Phenylalanine_Oxidoreductase_ty_923010.json",
+   "reactions": 120,
+   "nodes": 904,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Glycan metabolism: Keratan sulfate degradation; Chondroitin sulfate degradation",
    "file": "Glycan_metabolism_Keratan_sulfate_degradation_Chondro_088faf.json",
    "path": "Recon3D/Glycan_metabolism_Keratan_sulfate_degradation_Chondro_088faf.json",
    "reactions": 120,
    "nodes": 1675,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Bile acid synthesis (Bile acid transporter; 27-Hydroxycholesterol; +1); +1 more",
-   "file": "Lipid_metabolism_Bile_acid_synthesis_Bile_acid_transp_dba704.json",
-   "path": "Recon3D/Lipid_metabolism_Bile_acid_synthesis_Bile_acid_transp_dba704.json",
-   "reactions": 120,
-   "nodes": 1332,
    "combined": false,
    "canvas": false
   },
@@ -88,25 +79,16 @@
    "file": "Lipid_metabolism_Cholesterol_Lysopc_A_C28.json",
    "path": "Recon3D/Lipid_metabolism_Cholesterol_Lysopc_A_C28.json",
    "reactions": 120,
-   "nodes": 1372,
+   "nodes": 1387,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Eicosanoid",
-   "file": "Lipid_metabolism_Eicosanoid.json",
-   "path": "Recon3D/Lipid_metabolism_Eicosanoid.json",
+   "name": "Lipid metabolism: Cholesterol (Methylsterol monooxygenase; +4)",
+   "file": "Lipid_metabolism_Cholesterol_Methylsterol_monooxygenase_4.json",
+   "path": "Recon3D/Lipid_metabolism_Cholesterol_Methylsterol_monooxygenase_4.json",
    "reactions": 120,
-   "nodes": 1054,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Fatty acid oxidation (Acetyl c-acyltransferase; Carnitine; +1)",
-   "file": "Lipid_metabolism_Fatty_acid_oxidation_Acetyl_c-acyltr_7c916e.json",
-   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Acetyl_c-acyltr_7c916e.json",
-   "reactions": 120,
-   "nodes": 1061,
+   "nodes": 1121,
    "combined": false,
    "canvas": false
   },
@@ -115,16 +97,25 @@
    "file": "Lipid_metabolism_Fatty_acid_oxidation_Acid_beta_oxida_3b4551.json",
    "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Acid_beta_oxida_3b4551.json",
    "reactions": 120,
-   "nodes": 1272,
+   "nodes": 1259,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid oxidation (Acyl oxidase Hydroxyacyl dehydrogenase; +5)",
-   "file": "Lipid_metabolism_Fatty_acid_oxidation_Acyl_oxidase_Hy_ab77c8.json",
-   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Acyl_oxidase_Hy_ab77c8.json",
+   "name": "Lipid metabolism: Fatty acid oxidation (Acid beta oxidation, Succinyl-CoA)",
+   "file": "Lipid_metabolism_Fatty_acid_oxidation_Acid_beta_oxida_b49124.json",
+   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Acid_beta_oxida_b49124.json",
    "reactions": 120,
-   "nodes": 936,
+   "nodes": 1104,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid oxidation (Acyl oxidase Hydroxyacyl dehydrogenase; +4); Other lipid",
+   "file": "Lipid_metabolism_Fatty_acid_oxidation_Acyl_oxidase_Hy_16c2a3.json",
+   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Acyl_oxidase_Hy_16c2a3.json",
+   "reactions": 120,
+   "nodes": 950,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +124,7 @@
    "file": "Lipid_metabolism_Fatty_acid_oxidation_Beta_oxidation_43ecc7.json",
    "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Beta_oxidation_43ecc7.json",
    "reactions": 120,
-   "nodes": 1640,
+   "nodes": 1530,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +133,7 @@
    "file": "Lipid_metabolism_Fatty_acid_oxidation_Beta_oxidation_25907a.json",
    "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Beta_oxidation_25907a.json",
    "reactions": 120,
-   "nodes": 1434,
+   "nodes": 1463,
    "combined": false,
    "canvas": false
   },
@@ -151,34 +142,25 @@
    "file": "Lipid_metabolism_Fatty_acid_oxidation_Beta_oxidation_e4d714.json",
    "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Beta_oxidation_e4d714.json",
    "reactions": 120,
-   "nodes": 1185,
+   "nodes": 1183,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid oxidation (Carnitine; Fatty acid omega; +3)",
-   "file": "Lipid_metabolism_Fatty_acid_oxidation_Carnitine_Fatty_9211c4.json",
-   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Carnitine_Fatty_9211c4.json",
+   "name": "Lipid metabolism: Fatty acid oxidation (Fatty acid transport; +8); +1 more",
+   "file": "Lipid_metabolism_Fatty_acid_oxidation_Fatty_acid_tran_19c028.json",
+   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Fatty_acid_tran_19c028.json",
    "reactions": 120,
-   "nodes": 1089,
+   "nodes": 877,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid synthesis (Nervonyl coenzyme A; Very-long-chain; +1)",
-   "file": "Lipid_metabolism_Fatty_acid_synthesis_Nervonyl_coenzy_0794fa.json",
-   "path": "Recon3D/Lipid_metabolism_Fatty_acid_synthesis_Nervonyl_coenzy_0794fa.json",
+   "name": "Lipid metabolism: Fatty acid synthesis (Very-long-chain; Long-chain-fatty-acid ligase)",
+   "file": "Lipid_metabolism_Fatty_acid_synthesis_Very-long-chain_fb92db.json",
+   "path": "Recon3D/Lipid_metabolism_Fatty_acid_synthesis_Very-long-chain_fb92db.json",
    "reactions": 120,
-   "nodes": 949,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Fatty acid synthesis (Very-long-chain; Gamma-linolenoyl-CoA)",
-   "file": "Lipid_metabolism_Fatty_acid_synthesis_Very-long-chain_36e07c.json",
-   "path": "Recon3D/Lipid_metabolism_Fatty_acid_synthesis_Very-long-chain_36e07c.json",
-   "reactions": 120,
-   "nodes": 1404,
+   "nodes": 1572,
    "combined": false,
    "canvas": false
   },
@@ -188,6 +170,15 @@
    "path": "Recon3D/Lipid_metabolism_Sphingolipid_Alpha_sialyltransferase_07d8ae.json",
    "reactions": 120,
    "nodes": 1110,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Purine catabolism; Pyrimidine catabolism; Purine synthesis",
+   "file": "Nucleotide_metabolism_Purine_catabolism_Pyrimidine_ca_cea2e5.json",
+   "path": "Recon3D/Nucleotide_metabolism_Purine_catabolism_Pyrimidine_ca_cea2e5.json",
+   "reactions": 120,
+   "nodes": 999,
    "combined": false,
    "canvas": false
   },
@@ -309,18 +300,18 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, extracellular (amino acids and peptides, Amino acid-polyamine-organocation apc 1)",
-   "file": "Transport_and_exchange_Transport_extracellular_amino_cf9dd3.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_cf9dd3.json",
+   "name": "Transport and exchange: Transport, extracellular (Resistance-nodulation-cell division rnd; lipids; +1)",
+   "file": "Transport_and_exchange_Transport_extracellular_Resist_aa17cd.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_Resist_aa17cd.json",
    "reactions": 120,
-   "nodes": 665,
+   "nodes": 848,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, extracellular (amino acids and peptides, Amino acid-polyamine-organocation apc 2)",
-   "file": "Transport_and_exchange_Transport_extracellular_amino_4410fe.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_4410fe.json",
+   "name": "Transport and exchange: Transport, extracellular (amino acids and peptides, Amino acid-polyamine-organocation apc 1)",
+   "file": "Transport_and_exchange_Transport_extracellular_amino_cf9dd3.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_cf9dd3.json",
    "reactions": 120,
    "nodes": 706,
    "combined": false,
@@ -340,25 +331,16 @@
    "file": "Transport_and_exchange_Transport_extracellular_amino_b099f8.json",
    "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_b099f8.json",
    "reactions": 120,
-   "nodes": 1082,
+   "nodes": 1070,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, extracellular (amino acids and peptides, Oxidized glutathione)",
-   "file": "Transport_and_exchange_Transport_extracellular_amino_246594.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_246594.json",
+   "name": "Transport and exchange: Transport, extracellular (inorganic ions)",
+   "file": "Transport_and_exchange_Transport_extracellular_inorga_71c4c0.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_inorga_71c4c0.json",
    "reactions": 120,
-   "nodes": 699,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, extracellular (amino acids and peptides; cofactors and vitamins; +3)",
-   "file": "Transport_and_exchange_Transport_extracellular_amino_219786.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_219786.json",
-   "reactions": 120,
-   "nodes": 922,
+   "nodes": 730,
    "combined": false,
    "canvas": false
   },
@@ -367,7 +349,7 @@
    "file": "Transport_and_exchange_Transport_extracellular_lipids_83dc57.json",
    "path": "Recon3D/Transport_and_exchange_Transport_extracellular_lipids_83dc57.json",
    "reactions": 120,
-   "nodes": 888,
+   "nodes": 889,
    "combined": false,
    "canvas": false
   },
@@ -376,7 +358,7 @@
    "file": "Transport_and_exchange_Transport_extracellular_lipids_743fa1.json",
    "path": "Recon3D/Transport_and_exchange_Transport_extracellular_lipids_743fa1.json",
    "reactions": 120,
-   "nodes": 773,
+   "nodes": 774,
    "combined": false,
    "canvas": false
   },
@@ -385,16 +367,25 @@
    "file": "Transport_and_exchange_Transport_extracellular_sugars_fe9d35.json",
    "path": "Recon3D/Transport_and_exchange_Transport_extracellular_sugars_fe9d35.json",
    "reactions": 120,
-   "nodes": 759,
+   "nodes": 724,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, mitochondrial (sugars and organic acids; +1); +1 more",
-   "file": "Transport_and_exchange_Transport_mitochondrial_sugars_cf909a.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_mitochondrial_sugars_cf909a.json",
+   "name": "Transport and exchange: Transport, golgi apparatus",
+   "file": "Transport_and_exchange_Transport_golgi_apparatus.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_golgi_apparatus.json",
    "reactions": 120,
-   "nodes": 887,
+   "nodes": 682,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, lysosomal",
+   "file": "Transport_and_exchange_Transport_lysosomal.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_lysosomal.json",
+   "reactions": 120,
+   "nodes": 655,
    "combined": false,
    "canvas": false
   },
@@ -403,7 +394,16 @@
    "file": "Xenobiotic_degradation_Drug_Efflux.json",
    "path": "Recon3D/Xenobiotic_degradation_Drug_Efflux.json",
    "reactions": 120,
-   "nodes": 917,
+   "nodes": 955,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Tryptophan; Urea cycle",
+   "file": "Amino_acid_metabolism_Tryptophan_Urea_cycle.json",
+   "path": "Recon3D/Amino_acid_metabolism_Tryptophan_Urea_cycle.json",
+   "reactions": 119,
+   "nodes": 858,
    "combined": false,
    "canvas": false
   },
@@ -412,7 +412,7 @@
    "file": "Amino_acid_metabolism_Tyrosine.json",
    "path": "Recon3D/Amino_acid_metabolism_Tyrosine.json",
    "reactions": 119,
-   "nodes": 1205,
+   "nodes": 1207,
    "combined": false,
    "canvas": false
   },
@@ -435,20 +435,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Propanoate; Galactose; Citric acid cycle; Glyoxylate and dicarboxylate; +1 more",
-   "file": "Carbohydrate_metabolism_Propanoate_Galactose_Citric_a_1f299f.json",
-   "path": "Recon3D/Carbohydrate_metabolism_Propanoate_Galactose_Citric_a_1f299f.json",
-   "reactions": 119,
-   "nodes": 963,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Carbohydrate metabolism: Starch and sucrose; Aminosugar; Fructose and mannose",
    "file": "Carbohydrate_metabolism_Starch_and_sucrose_Aminosugar_8bcc48.json",
    "path": "Recon3D/Carbohydrate_metabolism_Starch_and_sucrose_Aminosugar_8bcc48.json",
    "reactions": 119,
-   "nodes": 1319,
+   "nodes": 1323,
    "combined": false,
    "canvas": false
   },
@@ -466,7 +457,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Vitamin_A_Heme_synthe_e7f91c.json",
    "path": "Recon3D/Cofactor_and_vitamin_metabolism_Vitamin_A_Heme_synthe_e7f91c.json",
    "reactions": 119,
-   "nodes": 1047,
+   "nodes": 1056,
    "combined": false,
    "canvas": false
   },
@@ -498,20 +489,20 @@
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Cholesterol (Lecithin-cholesterol acyltransferase; Sterol; +4)",
-   "file": "Lipid_metabolism_Cholesterol_Lecithin-cholesterol_acy_7e7f8f.json",
-   "path": "Recon3D/Lipid_metabolism_Cholesterol_Lecithin-cholesterol_acy_7e7f8f.json",
+   "name": "Lipid metabolism: Eicosanoid",
+   "file": "Lipid_metabolism_Eicosanoid.json",
+   "path": "Recon3D/Lipid_metabolism_Eicosanoid.json",
    "reactions": 119,
-   "nodes": 1179,
+   "nodes": 998,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid oxidation (Acid beta oxidation, Suberyl-CoA; octadioyl-CoA)",
-   "file": "Lipid_metabolism_Fatty_acid_oxidation_Acid_beta_oxida_cf9933.json",
-   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Acid_beta_oxida_cf9933.json",
+   "name": "Lipid metabolism: Glycerophospholipid (Transport sphingomyelin; Cardiolipin; +3); Leukotriene",
+   "file": "Lipid_metabolism_Glycerophospholipid_Transport_sphing_3f9e20.json",
+   "path": "Recon3D/Lipid_metabolism_Glycerophospholipid_Transport_sphing_3f9e20.json",
    "reactions": 119,
-   "nodes": 1043,
+   "nodes": 846,
    "combined": false,
    "canvas": false
   },
@@ -520,52 +511,61 @@
    "file": "Lipid_metabolism_Steroid.json",
    "path": "Recon3D/Lipid_metabolism_Steroid.json",
    "reactions": 119,
-   "nodes": 1245,
+   "nodes": 1244,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, extracellular (Resistance-nodulation-cell division rnd; lipids; +1); +1 more",
-   "file": "Transport_and_exchange_Transport_extracellular_Resist_e220a3.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_Resist_e220a3.json",
+   "name": "Transport and exchange: Biomass and exchange; Transport, endoplasmic reticular",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_8ab852.json",
+   "path": "Recon3D/Transport_and_exchange_Biomass_and_exchange_Transport_8ab852.json",
    "reactions": 119,
-   "nodes": 904,
+   "nodes": 723,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, extracellular (inorganic ions)",
-   "file": "Transport_and_exchange_Transport_extracellular_inorga_71c4c0.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_inorga_71c4c0.json",
+   "name": "Transport and exchange: Transport, extracellular (amino acids and peptides, Amino acid-polyamine-organocation apc 2)",
+   "file": "Transport_and_exchange_Transport_extracellular_amino_4410fe.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_4410fe.json",
    "reactions": 119,
-   "nodes": 732,
+   "nodes": 653,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, golgi apparatus",
-   "file": "Transport_and_exchange_Transport_golgi_apparatus.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_golgi_apparatus.json",
+   "name": "Transport and exchange: Transport, extracellular (amino acids and peptides, Oxidized glutathione)",
+   "file": "Transport_and_exchange_Transport_extracellular_amino_246594.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_246594.json",
    "reactions": 119,
-   "nodes": 709,
+   "nodes": 703,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, lysosomal",
-   "file": "Transport_and_exchange_Transport_lysosomal.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_lysosomal.json",
+   "name": "Transport and exchange: Transport, extracellular (cofactors and vitamins; lipids; +3)",
+   "file": "Transport_and_exchange_Transport_extracellular_cofact_62171f.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_cofact_62171f.json",
    "reactions": 119,
-   "nodes": 642,
+   "nodes": 933,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, mitochondrial (lipids / nucleotides and nucleosides; +3)",
-   "file": "Transport_and_exchange_Transport_mitochondrial_lipids_8f14c6.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_mitochondrial_lipids_8f14c6.json",
+   "name": "Transport and exchange: Transport, extracellular (lipids; amino acids and peptides; +1); +1 more",
+   "file": "Transport_and_exchange_Transport_extracellular_lipids_772083.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_lipids_772083.json",
    "reactions": 119,
-   "nodes": 796,
+   "nodes": 1082,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, mitochondrial (lipids / nucleotides and nucleosides; lipids); +1 more",
+   "file": "Transport_and_exchange_Transport_mitochondrial_lipids_e52bfd.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_mitochondrial_lipids_e52bfd.json",
+   "reactions": 119,
+   "nodes": 781,
    "combined": false,
    "canvas": false
   },
@@ -574,16 +574,34 @@
    "file": "Xenobiotic_degradation_Drug_Cyclosporine_Efflux_Prava_3d035e.json",
    "path": "Recon3D/Xenobiotic_degradation_Drug_Cyclosporine_Efflux_Prava_3d035e.json",
    "reactions": 119,
-   "nodes": 1069,
+   "nodes": 1071,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Fatty acid oxidation (Transport palmitoleoyl-carnitine; Carnitine; +6); +2 more",
-   "file": "Lipid_metabolism_Fatty_acid_oxidation_Transport_palmi_fe7da9.json",
-   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Transport_palmi_fe7da9.json",
+   "name": "Amino acid metabolism: Methionine and cysteine; Histidine; Beta-Alanine; Taurine and hypotaurine",
+   "file": "Amino_acid_metabolism_Methionine_and_cysteine_Histidi_450be7.json",
+   "path": "Recon3D/Amino_acid_metabolism_Methionine_and_cysteine_Histidi_450be7.json",
    "reactions": 118,
-   "nodes": 886,
+   "nodes": 915,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Valine, leucine, and isoleucine; Alanine and aspartate",
+   "file": "Amino_acid_metabolism_Valine_leucine_and_isoleucine_A_39f839.json",
+   "path": "Recon3D/Amino_acid_metabolism_Valine_leucine_and_isoleucine_A_39f839.json",
+   "reactions": 118,
+   "nodes": 1109,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid oxidation (Acetyl c-acyltransferase; +2)",
+   "file": "Lipid_metabolism_Fatty_acid_oxidation_Acetyl_c-acyltr_4beb26.json",
+   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Acetyl_c-acyltr_4beb26.json",
+   "reactions": 118,
+   "nodes": 885,
    "combined": false,
    "canvas": false
   },
@@ -592,16 +610,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_interconversion_Cyti_04052d.json",
    "path": "Recon3D/Nucleotide_metabolism_Nucleotide_interconversion_Cyti_04052d.json",
    "reactions": 118,
-   "nodes": 820,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Biomass and exchange; Transport, endoplasmic reticular",
-   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_8ab852.json",
-   "path": "Recon3D/Transport_and_exchange_Biomass_and_exchange_Transport_8ab852.json",
-   "reactions": 118,
-   "nodes": 718,
+   "nodes": 805,
    "combined": false,
    "canvas": false
   },
@@ -615,38 +624,29 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, extracellular (amino acids and peptides; lipids; +1)",
-   "file": "Transport_and_exchange_Transport_extracellular_amino_dcfd2d.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_extracellular_amino_dcfd2d.json",
-   "reactions": 118,
-   "nodes": 1032,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Xenobiotic degradation: Drug (Ibuprofen; Pitavastatin Fluvastatin; +1)",
    "file": "Xenobiotic_degradation_Drug_Ibuprofen_Pitavastatin_Fl_68d324.json",
    "path": "Recon3D/Xenobiotic_degradation_Drug_Ibuprofen_Pitavastatin_Fl_68d324.json",
    "reactions": 118,
-   "nodes": 982,
+   "nodes": 1012,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glycine, serine, alanine, and threonine; Peptide (Valyl-Valine); +2 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_alanine_and_thre_c5a0d9.json",
-   "path": "Recon3D/Amino_acid_metabolism_Glycine_serine_alanine_and_thre_c5a0d9.json",
+   "name": "Amino acid metabolism: Glycine, serine, alanine, and threonine; Peptide (Valyl-Valine); Hippurate; +1 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_alanine_and_thre_5ad95f.json",
+   "path": "Recon3D/Amino_acid_metabolism_Glycine_serine_alanine_and_thre_5ad95f.json",
    "reactions": 117,
-   "nodes": 862,
+   "nodes": 820,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Valine, leucine, and isoleucine; Alanine and aspartate",
-   "file": "Amino_acid_metabolism_Valine_leucine_and_isoleucine_A_39f839.json",
-   "path": "Recon3D/Amino_acid_metabolism_Valine_leucine_and_isoleucine_A_39f839.json",
+   "name": "Lipid metabolism: Bile acid synthesis (Alpha-hydroxylase Cholesterol; Hyocholic acid; +6)",
+   "file": "Lipid_metabolism_Bile_acid_synthesis_Alpha-hydroxylas_2550b1.json",
+   "path": "Recon3D/Lipid_metabolism_Bile_acid_synthesis_Alpha-hydroxylas_2550b1.json",
    "reactions": 117,
-   "nodes": 1050,
+   "nodes": 1137,
    "combined": false,
    "canvas": false
   },
@@ -655,25 +655,25 @@
    "file": "Lipid_metabolism_Bile_acid_synthesis_Glycoursodeoxycholate_2.json",
    "path": "Recon3D/Lipid_metabolism_Bile_acid_synthesis_Glycoursodeoxycholate_2.json",
    "reactions": 117,
-   "nodes": 1282,
+   "nodes": 1246,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Bile acid synthesis (Alpha-hydroxylase Cholesterol; Hyocholic acid; +5); +1 more",
-   "file": "Lipid_metabolism_Bile_acid_synthesis_Alpha-hydroxylas_0da3ba.json",
-   "path": "Recon3D/Lipid_metabolism_Bile_acid_synthesis_Alpha-hydroxylas_0da3ba.json",
-   "reactions": 116,
-   "nodes": 997,
+   "name": "Lipid metabolism: Fatty acid synthesis (Very-long-chain; Nervonyl coenzyme A; +1)",
+   "file": "Lipid_metabolism_Fatty_acid_synthesis_Very-long-chain_ca1747.json",
+   "path": "Recon3D/Lipid_metabolism_Fatty_acid_synthesis_Very-long-chain_ca1747.json",
+   "reactions": 117,
+   "nodes": 924,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Ethanolamine; Phosphocholine transport Alkyl); +1 more",
-   "file": "Lipid_metabolism_Glycerophospholipid_Ethanolamine_Pho_792e5b.json",
-   "path": "Recon3D/Lipid_metabolism_Glycerophospholipid_Ethanolamine_Pho_792e5b.json",
-   "reactions": 116,
-   "nodes": 1148,
+   "name": "Transport and exchange: Transport, mitochondrial (sugars and organic acids; +2)",
+   "file": "Transport_and_exchange_Transport_mitochondrial_sugars_d9da5b.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_mitochondrial_sugars_d9da5b.json",
+   "reactions": 117,
+   "nodes": 867,
    "combined": false,
    "canvas": false
   },
@@ -687,11 +687,38 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Phenylalanine; Oxidoreductase tyrosine; Beta-Alanine",
-   "file": "Amino_acid_metabolism_Phenylalanine_Oxidoreductase_ty_dd3795.json",
-   "path": "Recon3D/Amino_acid_metabolism_Phenylalanine_Oxidoreductase_ty_dd3795.json",
+   "name": "Transport and exchange: Transport, peroxisomal; Intracellular demand (Demand menaquinone); +1 more",
+   "file": "Transport_and_exchange_Transport_peroxisomal_Intracel_6c310a.json",
+   "path": "Recon3D/Transport_and_exchange_Transport_peroxisomal_Intracel_6c310a.json",
+   "reactions": 116,
+   "nodes": 676,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Bile acid synthesis (Bile acid transporter; 27-Hydroxycholesterol); +1 more",
+   "file": "Lipid_metabolism_Bile_acid_synthesis_Bile_acid_transp_48de12.json",
+   "path": "Recon3D/Lipid_metabolism_Bile_acid_synthesis_Bile_acid_transp_48de12.json",
    "reactions": 115,
-   "nodes": 858,
+   "nodes": 1367,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid oxidation (Carnitine; Fatty acid omega; +3)",
+   "file": "Lipid_metabolism_Fatty_acid_oxidation_Carnitine_Fatty_9211c4.json",
+   "path": "Recon3D/Lipid_metabolism_Fatty_acid_oxidation_Carnitine_Fatty_9211c4.json",
+   "reactions": 115,
+   "nodes": 1149,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid synthesis (Fatty acyl synthase; Fatty acid transport; +2); +1 more",
+   "file": "Lipid_metabolism_Fatty_acid_synthesis_Fatty_acyl_synt_0b028c.json",
+   "path": "Recon3D/Lipid_metabolism_Fatty_acid_synthesis_Fatty_acyl_synt_0b028c.json",
+   "reactions": 115,
+   "nodes": 1015,
    "combined": false,
    "canvas": false
   },
@@ -700,25 +727,43 @@
    "file": "Xenobiotic_degradation_Drug_Tacrolimus_Exit_Excretion_1.json",
    "path": "Recon3D/Xenobiotic_degradation_Drug_Tacrolimus_Exit_Excretion_1.json",
    "reactions": 115,
-   "nodes": 930,
+   "nodes": 978,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Arachidonic acid; Sphingolipid (Sialidase plasma neu; Sialidase neu); Linoleate",
-   "file": "Lipid_metabolism_Arachidonic_acid_Sphingolipid_Sialid_fca38e.json",
-   "path": "Recon3D/Lipid_metabolism_Arachidonic_acid_Sphingolipid_Sialid_fca38e.json",
+   "name": "Amino acid metabolism: Arginine and proline; Lysine",
+   "file": "Amino_acid_metabolism_Arginine_and_proline_Lysine.json",
+   "path": "Recon3D/Amino_acid_metabolism_Arginine_and_proline_Lysine.json",
    "reactions": 114,
-   "nodes": 846,
+   "nodes": 847,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Transport sphingomyelin; Cardiolipin; +2); +1 more",
-   "file": "Lipid_metabolism_Glycerophospholipid_Transport_sphing_63e3d6.json",
-   "path": "Recon3D/Lipid_metabolism_Glycerophospholipid_Transport_sphing_63e3d6.json",
+   "name": "Carbohydrate metabolism: Propanoate; Galactose; Citric acid cycle; Glyoxylate and dicarboxylate",
+   "file": "Carbohydrate_metabolism_Propanoate_Galactose_Citric_a_bad6ff.json",
+   "path": "Recon3D/Carbohydrate_metabolism_Propanoate_Galactose_Citric_a_bad6ff.json",
    "reactions": 114,
-   "nodes": 776,
+   "nodes": 859,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Androgen and estrogen synthesis and metabolism; Phosphatidylinositol phosphate; +1 more",
+   "file": "Lipid_metabolism_Androgen_and_estrogen_synthesis_and_87f76c.json",
+   "path": "Recon3D/Lipid_metabolism_Androgen_and_estrogen_synthesis_and_87f76c.json",
+   "reactions": 114,
+   "nodes": 816,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Arachidonic acid; Sphingolipid (Ganglioside endocytosis Beta-galactosidase; +2)",
+   "file": "Lipid_metabolism_Arachidonic_acid_Sphingolipid_Gangli_ae11e1.json",
+   "path": "Recon3D/Lipid_metabolism_Arachidonic_acid_Sphingolipid_Gangli_ae11e1.json",
+   "reactions": 114,
+   "nodes": 847,
    "combined": false,
    "canvas": false
   },
@@ -726,53 +771,17 @@
    "name": "Lipid metabolism: Glycerophospholipid (DITP; Tridecanoyl Thanolamide)",
    "file": "Lipid_metabolism_Glycerophospholipid_DITP_Tridecanoyl_9263b3.json",
    "path": "Recon3D/Lipid_metabolism_Glycerophospholipid_DITP_Tridecanoyl_9263b3.json",
-   "reactions": 113,
-   "nodes": 805,
+   "reactions": 114,
+   "nodes": 777,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, peroxisomal (Carnitine; Transporter Glyoxysome); +2 more",
-   "file": "Transport_and_exchange_Transport_peroxisomal_Carnitin_22fd41.json",
-   "path": "Recon3D/Transport_and_exchange_Transport_peroxisomal_Carnitin_22fd41.json",
-   "reactions": 112,
-   "nodes": 649,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and proline; Histidine; Glutamate",
-   "file": "Amino_acid_metabolism_Arginine_and_proline_Histidine_360179.json",
-   "path": "Recon3D/Amino_acid_metabolism_Arginine_and_proline_Histidine_360179.json",
-   "reactions": 109,
-   "nodes": 833,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Androgen and estrogen synthesis and metabolism; Phosphatidylinositol phosphate",
-   "file": "Lipid_metabolism_Androgen_and_estrogen_synthesis_and_5e644e.json",
-   "path": "Recon3D/Lipid_metabolism_Androgen_and_estrogen_synthesis_and_5e644e.json",
-   "reactions": 106,
-   "nodes": 743,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Nucleotide metabolism: Purine catabolism; Pyrimidine catabolism",
-   "file": "Nucleotide_metabolism_Purine_catabolism_Pyrimidine_ca_83bc73.json",
-   "path": "Recon3D/Nucleotide_metabolism_Purine_catabolism_Pyrimidine_ca_83bc73.json",
-   "reactions": 106,
-   "nodes": 719,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Intracellular source/sink; Transport, peroxisomal (Fatty acid)",
-   "file": "Transport_and_exchange_Intracellular_source_sink_Tran_00d738.json",
-   "path": "Recon3D/Transport_and_exchange_Intracellular_source_sink_Tran_00d738.json",
-   "reactions": 105,
-   "nodes": 448,
+   "name": "Transport and exchange: Intracellular source/sink; Dietary fiber binding",
+   "file": "Transport_and_exchange_Intracellular_source_sink_Diet_8586b2.json",
+   "path": "Recon3D/Transport_and_exchange_Intracellular_source_sink_Diet_8586b2.json",
+   "reactions": 111,
+   "nodes": 492,
    "combined": false,
    "canvas": false
   },
@@ -781,7 +790,7 @@
    "file": "Xenobiotic_degradation_Drug_Acetaminophen_Hepatic_vei_7bec49.json",
    "path": "Recon3D/Xenobiotic_degradation_Drug_Acetaminophen_Hepatic_vei_7bec49.json",
    "reactions": 102,
-   "nodes": 732,
+   "nodes": 787,
    "combined": false,
    "canvas": false
   },
@@ -804,29 +813,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Tryptophan; Glutathione",
-   "file": "Amino_acid_metabolism_Tryptophan_Glutathione.json",
-   "path": "Recon3D/Amino_acid_metabolism_Tryptophan_Glutathione.json",
-   "reactions": 79,
-   "nodes": 570,
+   "name": "Lipid metabolism: Linoleate; R group synthesis; Triacylglycerol synthesis",
+   "file": "Lipid_metabolism_Linoleate_R_group_synthesis_Triacylg_ce2e8d.json",
+   "path": "Recon3D/Lipid_metabolism_Linoleate_R_group_synthesis_Triacylg_ce2e8d.json",
+   "reactions": 52,
+   "nodes": 464,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Urea cycle",
-   "file": "Amino_acid_metabolism_Urea_cycle.json",
-   "path": "Recon3D/Amino_acid_metabolism_Urea_cycle.json",
-   "reactions": 58,
-   "nodes": 407,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Leukotriene; R group synthesis; Triacylglycerol synthesis",
-   "file": "Lipid_metabolism_Leukotriene_R_group_synthesis_Triacy_40329e.json",
-   "path": "Recon3D/Lipid_metabolism_Leukotriene_R_group_synthesis_Triacy_40329e.json",
-   "reactions": 49,
-   "nodes": 454,
+   "name": "Carbohydrate metabolism: C5-branched dibasic acid; Butanoate",
+   "file": "Carbohydrate_metabolism_C5-branched_dibasic_acid_Butanoate.json",
+   "path": "Recon3D/Carbohydrate_metabolism_C5-branched_dibasic_acid_Butanoate.json",
+   "reactions": 18,
+   "nodes": 110,
    "combined": false,
    "canvas": false
   },
@@ -840,29 +840,11 @@
    "canvas": false
   },
   {
-   "name": "Nucleotide metabolism: Purine synthesis",
-   "file": "Nucleotide_metabolism_Purine_synthesis.json",
-   "path": "Recon3D/Nucleotide_metabolism_Purine_synthesis.json",
+   "name": "Amino acid metabolism: Glutathione",
+   "file": "Amino_acid_metabolism_Glutathione.json",
+   "path": "Recon3D/Amino_acid_metabolism_Glutathione.json",
    "reactions": 16,
-   "nodes": 131,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Dietary fiber binding",
-   "file": "Transport_and_exchange_Dietary_fiber_binding.json",
-   "path": "Recon3D/Transport_and_exchange_Dietary_fiber_binding.json",
-   "reactions": 16,
-   "nodes": 114,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: C5-branched dibasic acid",
-   "file": "Carbohydrate_metabolism_C5-branched_dibasic_acid.json",
-   "path": "Recon3D/Carbohydrate_metabolism_C5-branched_dibasic_acid.json",
-   "reactions": 11,
-   "nodes": 70,
+   "nodes": 118,
    "combined": false,
    "canvas": false
   },

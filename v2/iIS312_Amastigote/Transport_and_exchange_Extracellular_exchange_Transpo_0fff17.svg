@@ -48,10 +48,10 @@
 <line x1="1860.0" y1="1230.0" x2="1860.0" y2="1275.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1860.0" y1="1275.0" x2="1860.0" y2="1305.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1860.0" y1="1305.0" x2="1860.0" y2="1335.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1851.6" y1="2705.0" x2="1851.6" y2="2675.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1851.6" y1="2675.0" x2="1851.6" y2="2645.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1860.0" y1="2750.0" x2="1851.6" y2="2750.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="1851.6" y1="2750.0" x2="1851.6" y2="2705.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1857.5" y1="2705.0" x2="1857.5" y2="2675.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1857.5" y1="2675.0" x2="1857.5" y2="2645.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1860.0" y1="2750.0" x2="1857.5" y2="2750.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="1857.5" y1="2750.0" x2="1857.5" y2="2705.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1260.0" y1="720.0" x2="1260.0" y2="675.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1260.0" y1="675.0" x2="1260.0" y2="645.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1260.0" y1="645.0" x2="1260.0" y2="615.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -183,7 +183,7 @@
 <line x1="1955.0" y1="2846.0" x2="1955.0" y2="3010.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1955.0" y1="3010.0" x2="2000.0" y2="3010.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2045.4 2672.8 C2103.1 2774.3 2086.7 2825.0 1996.0 2825.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M1955.0 2846.0 C1864.3 2846.0 1837.9 2795.3 1895.6 2693.8" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M1955.0 2846.0 C1864.3 2846.0 1837.9 2795.3 1901.5 2697.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1540.0" y1="720.0" x2="1540.0" y2="875.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="1540.0" y1="875.0" x2="1436.0" y2="875.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1436.0" y1="875.0" x2="1400.0" y2="875.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -547,7 +547,7 @@
 <path d="M2110.0 2750.0 L2064.0 2766.0 L2064.0 2734.0 Z" fill="#2f3b47"/>
 <path d="M1970.0 3010.0 L1924.0 3026.0 L1924.0 2994.0 Z" fill="#2f3b47"/>
 <path d="M2060.3 2698.9 L2096.9 2731.0 L2069.1 2746.8 Z" fill="#2f3b47"/>
-<path d="M1880.7 2719.9 L1871.9 2767.8 L1844.1 2752.0 Z" fill="#2f3b47"/>
+<path d="M1885.2 2722.2 L1873.6 2769.5 L1846.8 2752.1 Z" fill="#2f3b47"/>
 <path d="M1540.0 736.0 L1556.0 782.0 L1524.0 782.0 Z" fill="#9aa6b2"/>
 <path d="M1260.0 964.0 L1244.0 918.0 L1276.0 918.0 Z" fill="#9aa6b2"/>
 <path d="M3540.0 1976.0 L3556.0 2022.0 L3524.0 2022.0 Z" fill="#9aa6b2"/>
@@ -873,9 +873,9 @@
 <circle cx="1860.0" cy="1305.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1860.0" cy="1275.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1860.0" cy="1335.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1851.6" cy="2675.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="1851.6" cy="2705.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1851.6" cy="2645.0" r="6.0" fill="#7f8c99"/>
+<circle cx="1857.5" cy="2675.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="1857.5" cy="2705.0" r="6.0" fill="#7f8c99"/>
+<circle cx="1857.5" cy="2645.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1260.0" cy="645.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1260.0" cy="675.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1260.0" cy="615.0" r="6.0" fill="#7f8c99"/>
@@ -998,7 +998,7 @@
 <circle cx="2085.0" cy="2825.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1955.0" cy="3010.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2045.4" cy="2672.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
-<circle cx="1895.6" cy="2693.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="1901.5" cy="2697.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="1400.0" cy="875.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1436.0" cy="875.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1364.0" cy="875.0" r="6.0" fill="#7f8c99"/>
@@ -1246,7 +1246,7 @@
 <circle cx="3005.0" cy="950.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1885.0" cy="1230.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1285.0" cy="980.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1851.6" cy="2750.0" r="6.0" fill="#7f8c99"/>
+<circle cx="1857.5" cy="2750.0" r="6.0" fill="#7f8c99"/>
 </g>
 <g font-family="Helvetica,Arial,sans-serif">
 <text x="1154.7" y="1770.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">12dgr-LM[c]</text>
@@ -1276,7 +1276,7 @@
 <text x="6214.7" y="2460.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">arg-L</text>
 <text x="1894.7" y="6260.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">asn-L</text>
 <text x="1965.5" y="3057.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Asp[c]</text>
-<text x="1894.7" y="2750.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Asp[e]</text>
+<text x="1756.4" y="2750.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Asp[e]</text>
 <text x="2105.5" y="2797.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Asp[m]</text>
 <text x="3914.7" y="2970.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">b-D-glucose[c]</text>
 <text x="3914.7" y="2710.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">b-D-glucose[e]</text>
@@ -1406,7 +1406,7 @@
 <text x="2844.3" y="3794.6" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Mal[c]</text>
 <text x="2844.3" y="3965.4" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Mal[m]</text>
 <text x="2080.1" y="2672.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Glu[c]</text>
-<text x="1930.2" y="2693.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Glu[m]</text>
+<text x="1936.2" y="2697.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Glu[m]</text>
 <text x="4124.3" y="3514.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp[m]</text>
 <text x="4124.3" y="3685.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp[c]</text>
 <text x="3564.3" y="3514.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">aKG[c]</text>
@@ -1471,7 +1471,7 @@
 <text x="2061.5" y="2167.4" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">PROtm_1</text>
 <text x="4697.8" y="1840.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACCOAtm_1</text>
 <text x="4537.8" y="2840.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">COAtim</text>
-<text x="2022.5" y="2874.3" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ASPGLU2m</text>
+<text x="1897.4" y="2770.3" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ASPGLU2m</text>
 <text x="1316.7" y="835.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">PIt2m</text>
 <text x="3577.8" y="2090.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">NH4tm</text>
 <text x="4417.8" y="3600.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ATPtm</text>

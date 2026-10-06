@@ -195,7 +195,7 @@
 <line x1="1525.2" y1="3625.0" x2="1561.2" y2="3625.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1561.2" y1="3625.0" x2="1597.2" y2="3625.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1597.2" y1="3625.0" x2="1871.8" y2="3625.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M1597.2 3625.0 C1687.9 3625.0 1704.4 3630.7 1646.7 3732.2" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M1597.2 3625.0 C1687.9 3625.0 1704.4 3630.7 1650.8 3735.3" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1871.8" y1="3625.0" x2="1871.8" y2="3730.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1871.8" y1="3730.0" x2="1846.2" y2="3730.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="1846.2" y1="3730.0" x2="1846.2" y2="3710.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -442,7 +442,7 @@
 <path d="M1355.6 3966.3 L1364.3 3918.4 L1392.2 3934.2 Z" fill="#2f3b47"/>
 <path d="M2112.2 3680.0 L2096.2 3634.0 L2128.2 3634.0 Z" fill="#2f3b47"/>
 <path d="M1809.6 3445.1 L1857.2 3455.4 L1840.6 3482.7 Z" fill="#2f3b47"/>
-<path d="M1661.5 3706.1 L1670.4 3658.2 L1698.2 3674.0 Z" fill="#2f3b47"/>
+<path d="M1664.5 3708.6 L1671.2 3660.3 L1699.7 3674.9 Z" fill="#2f3b47"/>
 <path d="M1852.2 3710.0 L1898.2 3694.0 L1898.2 3726.0 Z" fill="#2f3b47"/>
 <path d="M1721.2 3420.0 L1705.2 3374.0 L1737.2 3374.0 Z" fill="#2f3b47"/>
 <path d="M1725.1 3181.7 L1761.8 3213.8 L1733.9 3229.6 Z" fill="#9aa6b2"/>
@@ -686,7 +686,7 @@
 <circle cx="1597.2" cy="3625.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1300.2" cy="3625.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1871.8" cy="3625.0" r="6.0" fill="#7f8c99"/>
-<circle cx="1646.7" cy="3732.2" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="1650.8" cy="3735.3" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="1631.8" cy="3320.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="1595.8" cy="3320.0" r="6.0" fill="#7f8c99"/>
 <circle cx="1667.8" cy="3320.0" r="6.0" fill="#7f8c99"/>
@@ -950,13 +950,13 @@
 <text x="1543.5" y="4207.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
 <text x="2153.4" y="4278.7" font-size="19.8" fill="#1c252e" dominant-baseline="middle">anhm</text>
 <text x="1289.5" y="3687.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">anhm</text>
-<text x="1683.0" y="3757.0" font-size="11.6" fill="#1c252e" dominant-baseline="middle">ala-D[c]</text>
+<text x="1688.7" y="3756.1" font-size="9.9" fill="#1c252e" dominant-baseline="middle">ala-D[c]</text>
 <text x="1451.2" y="3710.2" font-size="16.5" fill="#1c252e" dominant-baseline="middle">LalaDgluMdap[c]</text>
 <text x="2070.0" y="3473.8" font-size="9.9" fill="#1c252e" dominant-baseline="middle">LalaDgluMdap[p]</text>
 <text x="1906.0" y="4010.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgam</text>
 <text x="1286.2" y="4112.4" font-size="9.9" fill="#1c252e" dominant-baseline="middle">LalaDgluMdapDala[c]</text>
 <text x="1794.7" y="3500.7" font-size="9.9" fill="#1c252e" dominant-baseline="middle">LalaDgluMdapDala[p]</text>
-<text x="1476.2" y="3732.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ala-D[c]</text>
+<text x="1480.3" y="3735.3" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ala-D[c]</text>
 <text x="1590.7" y="3167.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ala-D[p]</text>
 <text x="1349.1" y="3427.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgam</text>
 <text x="1823.2" y="4258.9" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgam</text>

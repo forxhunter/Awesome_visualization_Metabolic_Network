@@ -6,26 +6,26 @@
    "name": "iHN637 - Clostridium ljungdahlii (acetogen)",
    "file": "iHN637_Canvas.json",
    "path": "iHN637/iHN637_Canvas.json",
-   "reactions": 784,
-   "nodes": 5030,
+   "reactions": 785,
+   "nodes": 5018,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Arginine and Proline; Amino Acid; +5 more",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Amino_Acid_5_more.json",
-   "path": "iHN637/Amino_acid_metabolism_Arginine_and_Proline_Amino_Acid_5_more.json",
+   "name": "Amino acid metabolism: Amino Acid; Arginine and Proline; +5 more",
+   "file": "Amino_acid_metabolism_Amino_Acid_Arginine_and_Proline_5_more.json",
+   "path": "iHN637/Amino_acid_metabolism_Amino_Acid_Arginine_and_Proline_5_more.json",
    "reactions": 120,
-   "nodes": 1012,
+   "nodes": 935,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pyruvate; Central; Glycolysis; Pentose and Glucuronate Interconversions",
-   "file": "Carbohydrate_metabolism_Pyruvate_Central_Glycolysis_P_22a113.json",
-   "path": "iHN637/Carbohydrate_metabolism_Pyruvate_Central_Glycolysis_P_22a113.json",
-   "reactions": 118,
-   "nodes": 762,
+   "name": "Carbohydrate metabolism: Pyruvate; Central; Glycolysis; Other carbohydrate",
+   "file": "Carbohydrate_metabolism_Pyruvate_Central_Glycolysis_O_dc4861.json",
+   "path": "iHN637/Carbohydrate_metabolism_Pyruvate_Central_Glycolysis_O_dc4861.json",
+   "reactions": 117,
+   "nodes": 730,
    "combined": false,
    "canvas": false
   },
@@ -51,8 +51,8 @@
    "name": "Cofactor and vitamin metabolism",
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iHN637/Cofactor_and_vitamin_metabolism.json",
-   "reactions": 97,
-   "nodes": 678,
+   "reactions": 107,
+   "nodes": 739,
    "combined": false,
    "canvas": false
   },
@@ -66,20 +66,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: SOB reactions; TCA Cycle; Alternate Carbon; Pyruvate; +3 more",
-   "file": "Carbohydrate_metabolism_SOB_reactions_TCA_Cycle_Alter_31c860.json",
-   "path": "iHN637/Carbohydrate_metabolism_SOB_reactions_TCA_Cycle_Alter_31c860.json",
-   "reactions": 51,
-   "nodes": 346,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Histidine; Lysine Biosynthesis; Other amino acid",
-   "file": "Amino_acid_metabolism_Histidine_Lysine_Biosynthesis_O_f6c744.json",
-   "path": "iHN637/Amino_acid_metabolism_Histidine_Lysine_Biosynthesis_O_f6c744.json",
-   "reactions": 26,
-   "nodes": 149,
+   "name": "Carbohydrate metabolism: SOB reactions; TCA Cycle; Alternate Carbon; +4 more",
+   "file": "Carbohydrate_metabolism_SOB_reactions_TCA_Cycle_Alter_bd7245.json",
+   "path": "iHN637/Carbohydrate_metabolism_SOB_reactions_TCA_Cycle_Alter_bd7245.json",
+   "reactions": 56,
+   "nodes": 381,
    "combined": false,
    "canvas": false
   },
@@ -93,20 +84,20 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Histidine; Glycine, serine and threonine; Other amino acid",
+   "file": "Amino_acid_metabolism_Histidine_Glycine_serine_and_th_64d579.json",
+   "path": "iHN637/Amino_acid_metabolism_Histidine_Glycine_serine_and_th_64d579.json",
+   "reactions": 24,
+   "nodes": 145,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Transport and exchange: Biomass and exchange",
    "file": "Transport_and_exchange_Biomass_and_exchange.json",
    "path": "iHN637/Transport_and_exchange_Biomass_and_exchange.json",
    "reactions": 24,
    "nodes": 174,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Energy metabolism",
-   "file": "Energy_metabolism.json",
-   "path": "iHN637/Energy_metabolism.json",
-   "reactions": 11,
-   "nodes": 69,
    "combined": false,
    "canvas": false
   }

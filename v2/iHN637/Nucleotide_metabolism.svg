@@ -233,7 +233,7 @@
 <line x1="6849.8" y1="2376.5" x2="6849.8" y2="2435.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6849.8" y1="2435.0" x2="7050.2" y2="2435.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="7050.2" y1="2435.0" x2="7050.2" y2="2540.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M6697.6 2255.1 C6799.0 2197.4 6849.8 2213.8 6849.8 2304.5" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M6698.1 2253.5 C6799.0 2197.4 6849.8 2213.8 6849.8 2304.5" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M6849.8 2376.5 C6849.8 2467.2 6799.0 2483.6 6697.6 2425.9" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5962.1" y1="2175.0" x2="5833.1" y2="2175.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5833.1" y1="2175.0" x2="5797.1" y2="2175.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -256,7 +256,7 @@
 <line x1="2650.2" y1="2685.0" x2="2686.2" y2="2685.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2686.2" y1="2685.0" x2="2750.5" y2="2685.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2750.5" y1="2685.0" x2="2750.5" y2="2800.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M2564.8 2822.2 C2507.1 2720.7 2523.6 2685.0 2614.2 2685.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M2565.6 2823.3 C2507.1 2720.7 2523.6 2685.0 2614.2 2685.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M2686.2 2685.0 C2776.9 2685.0 2793.4 2720.7 2721.6 2843.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="2550.0" y1="2540.0" x2="2550.0" y2="2630.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="2550.0" y1="2630.0" x2="3997.8" y2="2630.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -733,7 +733,7 @@
 <path d="M4067.7 4093.1 L4115.6 4101.9 L4099.8 4129.8 Z" fill="#9aa6b2"/>
 <path d="M6770.2 2050.0 L6786.2 2096.0 L6754.2 2096.0 Z" fill="#2f3b47"/>
 <path d="M7050.2 2510.0 L7034.2 2464.0 L7066.2 2464.0 Z" fill="#2f3b47"/>
-<path d="M6711.5 2247.1 L6743.6 2210.5 L6759.4 2238.3 Z" fill="#9aa6b2"/>
+<path d="M6712.1 2245.7 L6744.5 2209.4 L6760.1 2237.4 Z" fill="#9aa6b2"/>
 <path d="M6723.7 2440.8 L6771.6 2449.6 L6755.7 2477.4 Z" fill="#2f3b47"/>
 <path d="M5646.8 2250.0 L5630.8 2204.0 L5662.8 2204.0 Z" fill="#2f3b47"/>
 <path d="M5890.5 2011.7 L5927.1 2043.8 L5899.3 2059.6 Z" fill="#9aa6b2"/>
@@ -745,7 +745,7 @@
 <path d="M5869.4 2313.9 L5832.7 2281.8 L5860.6 2266.0 Z" fill="#9aa6b2"/>
 <path d="M2550.0 2570.0 L2566.0 2616.0 L2534.0 2616.0 Z" fill="#2f3b47"/>
 <path d="M2750.5 2770.0 L2734.5 2724.0 L2766.5 2724.0 Z" fill="#2f3b47"/>
-<path d="M2556.9 2808.3 L2520.2 2776.2 L2548.1 2760.4 Z" fill="#9aa6b2"/>
+<path d="M2557.6 2809.4 L2521.0 2777.3 L2548.8 2761.5 Z" fill="#9aa6b2"/>
 <path d="M2729.7 2829.4 L2739.2 2781.7 L2766.8 2797.8 Z" fill="#9aa6b2"/>
 <path d="M2550.0 2570.0 L2566.0 2616.0 L2534.0 2616.0 Z" fill="#2f3b47"/>
 <path d="M5517.5 2770.0 L5501.5 2724.0 L5533.5 2724.0 Z" fill="#2f3b47"/>
@@ -1189,7 +1189,7 @@
 <circle cx="6849.8" cy="2280.0" r="6.0" fill="#7f8c99"/>
 <circle cx="6849.8" cy="2435.0" r="6.0" fill="#7f8c99"/>
 <circle cx="7050.2" cy="2435.0" r="6.0" fill="#7f8c99"/>
-<circle cx="6697.6" cy="2255.1" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="6698.1" cy="2253.5" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="6697.6" cy="2425.9" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="5797.1" cy="2175.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="5833.1" cy="2175.0" r="6.0" fill="#7f8c99"/>
@@ -1208,7 +1208,7 @@
 <circle cx="2686.2" cy="2685.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2550.0" cy="2685.0" r="6.0" fill="#7f8c99"/>
 <circle cx="2750.5" cy="2685.0" r="6.0" fill="#7f8c99"/>
-<circle cx="2564.8" cy="2822.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="2565.6" cy="2823.3" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2721.6" cy="2843.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="4033.8" cy="2630.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="3997.8" cy="2630.0" r="6.0" fill="#7f8c99"/>
@@ -1701,13 +1701,13 @@
 <text x="6353.1" y="2517.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nh4</text>
 <text x="3973.2" y="3914.3" font-size="19.8" fill="#1c252e" dominant-baseline="middle">prpp</text>
 <text x="3984.7" y="4085.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
-<text x="6640.0" y="2255.1" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
+<text x="6640.5" y="2253.5" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="6628.5" y="2425.9" font-size="19.8" fill="#1c252e" dominant-baseline="middle">ade</text>
 <text x="5813.5" y="1997.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">r1p</text>
 <text x="5746.3" y="1997.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="6031.6" y="2276.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">2dr1p</text>
 <text x="5819.7" y="2327.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
-<text x="2599.5" y="2822.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">r1p</text>
+<text x="2600.2" y="2823.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">r1p</text>
 <text x="2664.0" y="2843.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="3983.0" y="2517.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">2dr1p</text>
 <text x="4153.9" y="2517.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>

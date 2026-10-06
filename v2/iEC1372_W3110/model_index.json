@@ -6,17 +6,53 @@
    "name": "iEC1372_W3110 - Escherichia coli (E. coli)",
    "file": "iEC1372_W3110_Canvas.json",
    "path": "iEC1372_W3110/iEC1372_W3110_Canvas.json",
-   "reactions": 2755,
-   "nodes": 19198,
+   "reactions": 2758,
+   "nodes": 19097,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Glutathione; Valine, leucine and isoleucine biosynthesis; Lysine biosynthesis; +8 more",
+   "file": "Amino_acid_metabolism_Glutathione_Valine_leucine_and_c49829.json",
+   "path": "iEC1372_W3110/Amino_acid_metabolism_Glutathione_Valine_leucine_and_c49829.json",
+   "reactions": 120,
+   "nodes": 846,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Glycine, serine and threonine; Cysteine and methionine; Arginine and proline",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_29e898.json",
+   "path": "iEC1372_W3110/Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_29e898.json",
+   "reactions": 120,
+   "nodes": 890,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Phenylalanine, tyrosine and tryptophan biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
+   "path": "iEC1372_W3110/Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
+   "reactions": 120,
+   "nodes": 933,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Amino sugar and nucleotide sugar; Propanoate; +6 more",
+   "file": "Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_5b9441.json",
+   "path": "iEC1372_W3110/Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_5b9441.json",
+   "reactions": 120,
+   "nodes": 868,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Cofactor and vitamin metabolism: Porphyrin; Ubiquinone and other terpenoid-quinone biosynthesis; +4 more",
    "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
    "path": "iEC1372_W3110/Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
    "reactions": 120,
-   "nodes": 861,
+   "nodes": 855,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +61,43 @@
    "file": "Energy_metabolism_Nitrogen.json",
    "path": "iEC1372_W3110/Energy_metabolism_Nitrogen.json",
    "reactions": 120,
-   "nodes": 1030,
+   "nodes": 1001,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid biosynthesis; Glycerolipid; Fatty acid degradation",
+   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Glycerolipid_e4c022.json",
+   "path": "iEC1372_W3110/Lipid_metabolism_Fatty_acid_biosynthesis_Glycerolipid_e4c022.json",
+   "reactions": 120,
+   "nodes": 1295,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid; Fatty acid elongation",
+   "file": "Lipid_metabolism_Glycerophospholipid_Fatty_acid_elongation.json",
+   "path": "iEC1372_W3110/Lipid_metabolism_Glycerophospholipid_Fatty_acid_elongation.json",
+   "reactions": 120,
+   "nodes": 780,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Acetate transport",
+   "file": "Transport_and_exchange_Acetate_transport.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Acetate_transport.json",
+   "reactions": 120,
+   "nodes": 685,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Acyltransferase Lysophospholipase (Octadecenoate); Guanine dinucleotide synthase",
+   "file": "Transport_and_exchange_Acyltransferase_Lysophospholip_ee39a5.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Acyltransferase_Lysophospholip_ee39a5.json",
+   "reactions": 120,
+   "nodes": 1002,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +106,7 @@
    "file": "Transport_and_exchange_Aminopenicillanic_acid_transpo_4e7ce4.json",
    "path": "iEC1372_W3110/Transport_and_exchange_Aminopenicillanic_acid_transpo_4e7ce4.json",
    "reactions": 120,
-   "nodes": 705,
+   "nodes": 712,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +115,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
    "path": "iEC1372_W3110/Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
    "reactions": 120,
-   "nodes": 567,
+   "nodes": 551,
    "combined": false,
    "canvas": false
   },
@@ -66,15 +138,6 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glycine, serine and threonine; Cysteine and methionine; +1 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_ca4d2b.json",
-   "path": "iEC1372_W3110/Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_ca4d2b.json",
-   "reactions": 119,
-   "nodes": 914,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Carbohydrate metabolism: Galactose; Fructose and mannose; Pentose phosphate pathway; Pyruvate",
    "file": "Carbohydrate_metabolism_Galactose_Fructose_and_mannos_4233da.json",
    "path": "iEC1372_W3110/Carbohydrate_metabolism_Galactose_Fructose_and_mannos_4233da.json",
@@ -84,20 +147,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Alanine, aspartate and glutamate; Valine, leucine and isoleucine biosynthesis; +9 more",
-   "file": "Amino_acid_metabolism_Alanine_aspartate_and_glutamate_203ae9.json",
-   "path": "iEC1372_W3110/Amino_acid_metabolism_Alanine_aspartate_and_glutamate_203ae9.json",
-   "reactions": 118,
-   "nodes": 876,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Phenylalanine; Phenylalanine, tyrosine and tryptophan biosynthesis; +3 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
-   "path": "iEC1372_W3110/Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
-   "reactions": 118,
-   "nodes": 999,
+   "name": "Transport and exchange: Acyltransferase Lysophospholipase (Tetradecenoate); D-gluconate transport; +1 more",
+   "file": "Transport_and_exchange_Acyltransferase_Lysophospholip_5dcbd2.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Acyltransferase_Lysophospholip_5dcbd2.json",
+   "reactions": 119,
+   "nodes": 909,
    "combined": false,
    "canvas": false
   },
@@ -111,47 +165,11 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Acyltransferase Lysophospholipase (Tetradecenoate); D-gluconate transport",
-   "file": "Transport_and_exchange_Acyltransferase_Lysophospholip_312431.json",
-   "path": "iEC1372_W3110/Transport_and_exchange_Acyltransferase_Lysophospholip_312431.json",
-   "reactions": 118,
-   "nodes": 931,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Amino sugar and nucleotide sugar; Citrate cycle (TCA cycle); Propanoate; +4 more",
-   "file": "Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_eb59ab.json",
-   "path": "iEC1372_W3110/Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_eb59ab.json",
-   "reactions": 117,
-   "nodes": 864,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Acetate transport",
-   "file": "Transport_and_exchange_Acetate_transport.json",
-   "path": "iEC1372_W3110/Transport_and_exchange_Acetate_transport.json",
-   "reactions": 117,
-   "nodes": 661,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Nucleotide metabolism: Purine",
    "file": "Nucleotide_metabolism_Purine.json",
    "path": "iEC1372_W3110/Nucleotide_metabolism_Purine.json",
    "reactions": 116,
-   "nodes": 1423,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Acyltransferase Lysophospholipase (Octadecenoate); Guanine dinucleotide synthase; +2 more",
-   "file": "Transport_and_exchange_Acyltransferase_Lysophospholip_3e54d6.json",
-   "path": "iEC1372_W3110/Transport_and_exchange_Acyltransferase_Lysophospholip_3e54d6.json",
-   "reactions": 116,
-   "nodes": 889,
+   "nodes": 1424,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +178,7 @@
    "file": "Transport_and_exchange_Biomass_and_exchange_Iii_Secretion.json",
    "path": "iEC1372_W3110/Transport_and_exchange_Biomass_and_exchange_Iii_Secretion.json",
    "reactions": 116,
-   "nodes": 1037,
+   "nodes": 1067,
    "combined": false,
    "canvas": false
   },
@@ -168,26 +186,8 @@
    "name": "Lipid metabolism: Core oligosaccharide lipid transport",
    "file": "Lipid_metabolism_Core_oligosaccharide_lipid_transport.json",
    "path": "iEC1372_W3110/Lipid_metabolism_Core_oligosaccharide_lipid_transport.json",
-   "reactions": 110,
-   "nodes": 893,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Glycerophospholipid",
-   "file": "Lipid_metabolism_Glycerophospholipid.json",
-   "path": "iEC1372_W3110/Lipid_metabolism_Glycerophospholipid.json",
-   "reactions": 103,
-   "nodes": 677,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Fatty acid biosynthesis; Fatty acid elongation",
-   "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
-   "path": "iEC1372_W3110/Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
-   "reactions": 102,
-   "nodes": 965,
+   "reactions": 115,
+   "nodes": 1001,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iEC1372_W3110/Glycan_metabolism.json",
    "reactions": 97,
-   "nodes": 690,
+   "nodes": 662,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +205,16 @@
    "file": "Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "path": "iEC1372_W3110/Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "reactions": 96,
-   "nodes": 883,
+   "nodes": 884,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport symport; Ornithine Putrescine; Ethanesulfonate transport; +2 more",
+   "file": "Transport_and_exchange_Transport_symport_Ornithine_Pu_271a93.json",
+   "path": "iEC1372_W3110/Transport_and_exchange_Transport_symport_Ornithine_Pu_271a93.json",
+   "reactions": 60,
+   "nodes": 432,
    "combined": false,
    "canvas": false
   },
@@ -219,24 +228,6 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport symport; Ornithine Putrescine; Hexanoate transport; +1 more",
-   "file": "Transport_and_exchange_Transport_symport_Ornithine_Pu_41233e.json",
-   "path": "iEC1372_W3110/Transport_and_exchange_Transport_symport_Ornithine_Pu_41233e.json",
-   "reactions": 55,
-   "nodes": 396,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Fatty acid degradation; Glycerolipid",
-   "file": "Lipid_metabolism_Fatty_acid_degradation_Glycerolipid.json",
-   "path": "iEC1372_W3110/Lipid_metabolism_Fatty_acid_degradation_Glycerolipid.json",
-   "reactions": 50,
-   "nodes": 356,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Energy metabolism: Sulfur; Other energy",
    "file": "Energy_metabolism_Sulfur_Other_energy.json",
    "path": "iEC1372_W3110/Energy_metabolism_Sulfur_Other_energy.json",
@@ -246,20 +237,20 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Butanoate; D-galactose transport; Udp-d-glucuronate D-glucuronate",
-   "file": "Carbohydrate_metabolism_Butanoate_D-galactose_transpo_79d403.json",
-   "path": "iEC1372_W3110/Carbohydrate_metabolism_Butanoate_D-galactose_transpo_79d403.json",
-   "reactions": 21,
-   "nodes": 140,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Other metabolism",
    "file": "Other_metabolism.json",
    "path": "iEC1372_W3110/Other_metabolism.json",
    "reactions": 15,
    "nodes": 95,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: D-galactose transport; Udp-d-glucuronate D-glucuronate",
+   "file": "Carbohydrate_metabolism_D-galactose_transport_Udp-d-g_243de4.json",
+   "path": "iEC1372_W3110/Carbohydrate_metabolism_D-galactose_transport_Udp-d-g_243de4.json",
+   "reactions": 13,
+   "nodes": 88,
    "combined": false,
    "canvas": false
   },

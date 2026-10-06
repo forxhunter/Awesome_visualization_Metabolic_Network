@@ -6,8 +6,8 @@
    "name": "iAM_Pv461 - Plasmodium vivax (malaria parasite)",
    "file": "iAM_Pv461_Canvas.json",
    "path": "iAM_Pv461/iAM_Pv461_Canvas.json",
-   "reactions": 1074,
-   "nodes": 7339,
+   "reactions": 1078,
+   "nodes": 7358,
    "combined": true,
    "canvas": true
   },
@@ -16,43 +16,7 @@
    "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "path": "iAM_Pv461/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "reactions": 120,
-   "nodes": 1018,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Diacylglycerol plasmodium transport",
-   "file": "Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
-   "path": "iAM_Pv461/Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
-   "reactions": 120,
-   "nodes": 1050,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Apicoplast",
-   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
-   "path": "iAM_Pv461/Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
-   "reactions": 119,
-   "nodes": 622,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
-   "path": "iAM_Pv461/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
-   "reactions": 118,
-   "nodes": 834,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism",
-   "file": "Carbohydrate_metabolism.json",
-   "path": "iAM_Pv461/Carbohydrate_metabolism.json",
-   "reactions": 118,
-   "nodes": 844,
+   "nodes": 1055,
    "combined": false,
    "canvas": false
   },
@@ -60,8 +24,44 @@
    "name": "Transport and exchange: Other transport and exchange; Ethanolamine Dagpf",
    "file": "Transport_and_exchange_Other_transport_and_exchange_E_0463d0.json",
    "path": "iAM_Pv461/Transport_and_exchange_Other_transport_and_exchange_E_0463d0.json",
-   "reactions": 116,
-   "nodes": 689,
+   "reactions": 120,
+   "nodes": 711,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "path": "iAM_Pv461/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "reactions": 119,
+   "nodes": 860,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Diacylglycerol plasmodium transport",
+   "file": "Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
+   "path": "iAM_Pv461/Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
+   "reactions": 119,
+   "nodes": 1044,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); +4 more",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_b0e142.json",
+   "path": "iAM_Pv461/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_b0e142.json",
+   "reactions": 117,
+   "nodes": 788,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Extracellular exchange; Protoporphyrinogen",
+   "file": "Transport_and_exchange_Extracellular_exchange_Protopo_c66bd6.json",
+   "path": "iAM_Pv461/Transport_and_exchange_Extracellular_exchange_Protopo_c66bd6.json",
+   "reactions": 117,
+   "nodes": 526,
    "combined": false,
    "canvas": false
   },
@@ -93,11 +93,11 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Protoporphyrinogen; Intracellular demand; Intracellular source/sink; Pyruvate",
-   "file": "Transport_and_exchange_Protoporphyrinogen_Intracellul_ee68d3.json",
-   "path": "iAM_Pv461/Transport_and_exchange_Protoporphyrinogen_Intracellul_ee68d3.json",
-   "reactions": 53,
-   "nodes": 308,
+   "name": "Transport and exchange: Biomass and exchange; Apicoplast; Intracellular demand; +2 more",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Apicoplas_ba8793.json",
+   "path": "iAM_Pv461/Transport_and_exchange_Biomass_and_exchange_Apicoplas_ba8793.json",
+   "reactions": 50,
+   "nodes": 375,
    "combined": false,
    "canvas": false
   },
@@ -111,11 +111,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glycine, serine and threonine; Lysine degradation; +1 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
-   "path": "iAM_Pv461/Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
-   "reactions": 19,
-   "nodes": 128,
+   "name": "Amino acid metabolism: Glutathione; Lysine degradation; Valine, leucine and isoleucine degradation",
+   "file": "Amino_acid_metabolism_Glutathione_Lysine_degradation_fde3fc.json",
+   "path": "iAM_Pv461/Amino_acid_metabolism_Glutathione_Lysine_degradation_fde3fc.json",
+   "reactions": 18,
+   "nodes": 118,
    "combined": false,
    "canvas": false
   },
@@ -125,6 +125,15 @@
    "path": "iAM_Pv461/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 14,
    "nodes": 86,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Fructose and mannose",
+   "file": "Carbohydrate_metabolism_Fructose_and_mannose.json",
+   "path": "iAM_Pv461/Carbohydrate_metabolism_Fructose_and_mannose.json",
+   "reactions": 7,
+   "nodes": 39,
    "combined": false,
    "canvas": false
   },

@@ -1624,10 +1624,10 @@
 <text x="4044.5" y="1275.4" font-size="19.8" fill="#1c252e" dominant-baseline="middle">q10[m]</text>
 <text x="3654.3" y="4932.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Alpha-tocopheryl quinone</text>
 <text x="4170.1" y="4932.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Alpha-tocopheryl hydroquino…</text>
-<text x="4219.2" y="4822.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
-<text x="4390.1" y="4822.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
-<text x="4439.2" y="4407.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadp</text>
-<text x="4610.1" y="4407.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadph</text>
+<text x="4219.2" y="4822.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadp</text>
+<text x="4390.1" y="4822.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadph</text>
+<text x="4439.2" y="4407.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nad</text>
+<text x="4610.1" y="4407.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nadh</text>
 <text x="5173.0" y="2024.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">apoC[m]</text>
 <text x="2050.3" y="4128.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">apoC[c]</text>
 <text x="2050.3" y="3271.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp[c]</text>
@@ -1709,12 +1709,12 @@
 <text x="1490.6" y="3337.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">TMDPPK</text>
 <text x="1586.9" y="3700.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THMTPt_1</text>
 <text x="1009.5" y="3355.1" font-size="13.5" fill="#2b5fa8" dominant-baseline="middle">THMPPtm_cho</text>
-<text x="1562.8" y="3647.4" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THMMPtrbc</text>
-<text x="1302.4" y="3792.4" font-size="18.8" fill="#2b5fa8" dominant-baseline="middle">THMMPt4_1</text>
+<text x="1562.8" y="3647.4" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THMMPt4_1</text>
+<text x="1302.4" y="3792.4" font-size="18.8" fill="#2b5fa8" dominant-baseline="middle">THMMPtrbc</text>
 <text x="1098.0" y="3655.0" font-size="18.8" fill="#2b5fa8" dominant-baseline="middle">THMMPtm_cho</text>
 <text x="922.6" y="3994.2" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THMATPe</text>
-<text x="673.8" y="3960.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THMt3</text>
-<text x="512.6" y="3940.1" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THMtrbc</text>
+<text x="688.8" y="3912.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THMtrbc</text>
+<text x="543.9" y="3940.1" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">THMt3</text>
 <text x="928.2" y="3916.8" font-size="22.5" fill="#2b5fa8" dominant-baseline="middle">THMt2m</text>
 <text x="3338.8" y="3862.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">RE2705C</text>
 <text x="3548.3" y="3780.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">RE2948C</text>
@@ -1723,8 +1723,8 @@
 <text x="3948.9" y="4732.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">RE2327C</text>
 <text x="3422.3" y="3390.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">YVITEt</text>
 <text x="4898.1" y="4190.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">CE5643te</text>
-<text x="4186.7" y="4655.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">TRDR3</text>
-<text x="4412.4" y="4512.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">TRDR2</text>
+<text x="4186.7" y="4655.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">TRDR2</text>
+<text x="4412.4" y="4512.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">TRDR3</text>
 <text x="5984.2" y="4642.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">q10tm</text>
 <text x="6236.0" y="4655.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">Coqe</text>
 <text x="2371.5" y="4362.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">q10h2tc</text>

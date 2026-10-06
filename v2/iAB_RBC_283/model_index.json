@@ -6,8 +6,8 @@
    "name": "iAB_RBC_283 - Homo sapiens (human)",
    "file": "iAB_RBC_283_Canvas.json",
    "path": "iAB_RBC_283/iAB_RBC_283_Canvas.json",
-   "reactions": 468,
-   "nodes": 3268,
+   "reactions": 469,
+   "nodes": 3247,
    "combined": true,
    "canvas": true
   },
@@ -15,8 +15,8 @@
    "name": "Carbohydrate metabolism: Ascorbate and Aldarate; Pentose Phosphate Pathway; Other carbohydrate",
    "file": "Carbohydrate_metabolism_Ascorbate_and_Aldarate_Pentos_be38c1.json",
    "path": "iAB_RBC_283/Carbohydrate_metabolism_Ascorbate_and_Aldarate_Pentos_be38c1.json",
-   "reactions": 119,
-   "nodes": 737,
+   "reactions": 120,
+   "nodes": 742,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Carbohydrate_metabolism_Inositol_Phosphate_Glycolysis_7044ef.json",
    "path": "iAB_RBC_283/Carbohydrate_metabolism_Inositol_Phosphate_Glycolysis_7044ef.json",
    "reactions": 85,
-   "nodes": 700,
+   "nodes": 699,
    "combined": false,
    "canvas": false
   },

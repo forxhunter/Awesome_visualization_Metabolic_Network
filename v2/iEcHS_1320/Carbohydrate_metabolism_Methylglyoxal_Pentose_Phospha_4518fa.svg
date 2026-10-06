@@ -221,13 +221,6 @@
 <line x1="2956.1" y1="3640.0" x2="2956.1" y2="3770.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M3134.4 3453.0 C3171.8 3589.3 3155.3 3640.0 3064.6 3640.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M2992.6 3640.0 C2902.0 3640.0 2885.5 3589.3 2943.2 3487.8" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="3161.6" y1="2990.0" x2="3161.6" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="3161.6" y1="3120.0" x2="3167.9" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="3167.9" y1="3120.0" x2="3203.9" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="3203.9" y1="3120.0" x2="3239.9" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="3239.9" y1="3120.0" x2="3246.1" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="3246.1" y1="3120.0" x2="3246.1" y2="3250.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M3239.9 3120.0 C3330.5 3120.0 3347.0 3170.7 3292.4 3273.7" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="3246.1" y1="3250.0" x2="3246.1" y2="3380.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3246.1" y1="3380.0" x2="3209.6" y2="3380.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3209.6" y1="3380.0" x2="3173.6" y2="3380.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -235,6 +228,13 @@
 <line x1="3137.6" y1="3380.0" x2="3101.1" y2="3380.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3101.1" y1="3380.0" x2="3101.1" y2="3510.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M3137.6 3380.0 C3047.0 3380.0 3030.5 3329.3 3088.2 3227.8" stroke="#9aa6b2" stroke-width="3.0"/>
+<line x1="3161.6" y1="2990.0" x2="3161.6" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="3161.6" y1="3120.0" x2="3167.9" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="3167.9" y1="3120.0" x2="3203.9" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="3203.9" y1="3120.0" x2="3239.9" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="3239.9" y1="3120.0" x2="3246.1" y2="3120.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="3246.1" y1="3120.0" x2="3246.1" y2="3250.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M3239.9 3120.0 C3330.5 3120.0 3347.0 3069.3 3289.3 2967.8" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="3246.1" y1="3250.0" x2="3246.1" y2="3380.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3246.1" y1="3380.0" x2="3282.6" y2="3380.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="3282.6" y1="3380.0" x2="3318.6" y2="3380.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -367,10 +367,10 @@
 <path d="M3246.1 3740.0 L3230.1 3694.0 L3262.1 3694.0 Z" fill="#2f3b47"/>
 <path d="M2956.1 3740.0 L2940.1 3694.0 L2972.1 3694.0 Z" fill="#2f3b47"/>
 <path d="M2928.3 3513.9 L2919.5 3561.8 L2891.7 3546.0 Z" fill="#2f3b47"/>
-<path d="M3246.1 3220.0 L3230.1 3174.0 L3262.1 3174.0 Z" fill="#2f3b47"/>
-<path d="M3299.9 3259.6 L3307.3 3211.5 L3335.6 3226.5 Z" fill="#9aa6b2"/>
 <path d="M3101.1 3480.0 L3085.1 3434.0 L3117.1 3434.0 Z" fill="#2f3b47"/>
 <path d="M3080.3 3241.7 L3071.4 3289.6 L3043.6 3273.8 Z" fill="#9aa6b2"/>
+<path d="M3246.1 3220.0 L3230.1 3174.0 L3262.1 3174.0 Z" fill="#2f3b47"/>
+<path d="M3297.2 2981.7 L3333.9 3013.8 L3306.1 3029.6 Z" fill="#9aa6b2"/>
 <path d="M3246.1 3280.0 L3262.1 3326.0 L3230.1 3326.0 Z" fill="#2f3b47"/>
 <path d="M3391.1 3480.0 L3375.1 3434.0 L3407.1 3434.0 Z" fill="#2f3b47"/>
 <path d="M3161.6 3020.0 L3177.6 3066.0 L3145.6 3066.0 Z" fill="#2f3b47"/>
@@ -622,18 +622,18 @@
 <circle cx="2956.1" cy="3640.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3134.4" cy="3453.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="2943.2" cy="3487.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
-<circle cx="3203.9" cy="3120.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="3167.9" cy="3120.0" r="6.0" fill="#7f8c99"/>
-<circle cx="3239.9" cy="3120.0" r="6.0" fill="#7f8c99"/>
-<circle cx="3161.6" cy="3120.0" r="6.0" fill="#7f8c99"/>
-<circle cx="3246.1" cy="3120.0" r="6.0" fill="#7f8c99"/>
-<circle cx="3292.4" cy="3273.7" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3173.6" cy="3380.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="3209.6" cy="3380.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3137.6" cy="3380.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3246.1" cy="3380.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3101.1" cy="3380.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3088.2" cy="3227.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="3203.9" cy="3120.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="3167.9" cy="3120.0" r="6.0" fill="#7f8c99"/>
+<circle cx="3239.9" cy="3120.0" r="6.0" fill="#7f8c99"/>
+<circle cx="3161.6" cy="3120.0" r="6.0" fill="#7f8c99"/>
+<circle cx="3246.1" cy="3120.0" r="6.0" fill="#7f8c99"/>
+<circle cx="3289.3" cy="2967.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3318.6" cy="3380.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="3282.6" cy="3380.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3354.6" cy="3380.0" r="6.0" fill="#7f8c99"/>
@@ -698,7 +698,7 @@
 <text x="1641.3" y="4303.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">aact</text>
 <text x="1203.4" y="4870.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acetol</text>
 <text x="3425.8" y="3510.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgal1p[e]</text>
-<text x="3324.8" y="3250.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgal1p[p]</text>
+<text x="3280.8" y="3250.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgal1p[p]</text>
 <text x="2990.8" y="3770.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgal6p</text>
 <text x="3280.8" y="3770.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgal[e]</text>
 <text x="3179.8" y="3510.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">acgal[p]</text>
@@ -732,7 +732,7 @@
 <text x="972.9" y="2410.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">S7P</text>
 <text x="2695.8" y="4290.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">tag6p-D</text>
 <text x="2775.1" y="3250.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">udpacgal[e]</text>
-<text x="3196.3" y="2990.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">udpacgal[p]</text>
+<text x="3000.6" y="2990.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">udpacgal[p]</text>
 <text x="1107.3" y="2195.5" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Xu5P</text>
 <text x="1454.5" y="4358.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2</text>
 <text x="1445.1" y="4560.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">h2o2</text>
@@ -771,8 +771,8 @@
 <text x="2439.8" y="4245.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">nh4</text>
 <text x="3169.1" y="3453.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">PEP</text>
 <text x="2977.8" y="3487.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">Pyr</text>
-<text x="3327.0" y="3273.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ump</text>
 <text x="3122.8" y="3227.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[p]</text>
+<text x="3324.0" y="2967.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ump</text>
 <text x="2105.0" y="2975.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Succ</text>
 <text x="2524.6" y="3064.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">AcCoA</text>
 <text x="2524.6" y="3235.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
@@ -820,8 +820,8 @@
 <text x="2698.9" y="4160.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">GALAM6PISO</text>
 <text x="3236.1" y="3590.7" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACGALtex</text>
 <text x="3008.4" y="3687.4" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACGALptspp</text>
-<text x="3187.5" y="3072.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">UACGALPpp</text>
 <text x="3234.0" y="3427.0" font-size="22.5" fill="#2b5fa8" dominant-baseline="middle">ACGAL1PPpp</text>
+<text x="3079.3" y="3167.4" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">UACGALPpp</text>
 <text x="3298.4" y="3332.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ACGAL1Ptex</text>
 <text x="2900.8" y="3072.6" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">UDPACGALtex</text>
 <text x="2375.6" y="2890.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">ICL</text>

@@ -253,13 +253,13 @@
 <line x1="2864.6" y1="5460.0" x2="2864.6" y2="5452.2" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5535.8" y1="2540.0" x2="5480.8" y2="2540.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5480.8" y1="2540.0" x2="5480.8" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="5480.8" y1="2615.0" x2="5282.9" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="5282.9" y1="2615.0" x2="5246.9" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="5246.9" y1="2615.0" x2="5210.9" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
-<line x1="5210.9" y1="2615.0" x2="5171.0" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="5480.8" y1="2615.0" x2="5294.9" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="5294.9" y1="2615.0" x2="5258.9" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="5258.9" y1="2615.0" x2="5222.9" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="5222.9" y1="2615.0" x2="5171.0" y2="2615.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5171.0" y1="2615.0" x2="5171.0" y2="2800.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5171.0" y1="2800.0" x2="5226.0" y2="2800.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M5332.3 2462.8 C5390.0 2564.3 5373.5 2615.0 5282.9 2615.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M5344.3 2462.8 C5402.0 2564.3 5385.5 2615.0 5294.9 2615.0" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="9702.2" y1="4725.3" x2="9702.2" y2="4829.5" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="9702.2" y1="4829.5" x2="9712.4" y2="4855.3" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="9712.4" y1="4855.3" x2="9722.5" y2="4881.2" stroke="#2f3b47" stroke-width="6.0"/>
@@ -431,7 +431,7 @@
 <line x1="5496.9" y1="2755.1" x2="5551.0" y2="2755.1" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5551.0" y1="2755.1" x2="5551.0" y2="2800.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5551.0" y1="2800.0" x2="5606.0" y2="2800.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M5328.6 2619.7 C5430.0 2562.0 5465.9 2578.5 5465.9 2669.1" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M5336.5 2620.8 C5430.0 2562.0 5465.9 2578.5 5465.9 2669.1" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5835.3" y1="4663.1" x2="5835.3" y2="4757.1" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5835.3" y1="4757.1" x2="5835.3" y2="4793.1" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5835.3" y1="4793.1" x2="5835.3" y2="4829.1" stroke="#2f3b47" stroke-width="6.0"/>
@@ -649,7 +649,7 @@
 <line x1="5454.9" y1="2730.1" x2="5281.0" y2="2730.1" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5281.0" y1="2730.1" x2="5281.0" y2="2800.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="5281.0" y1="2800.0" x2="5226.0" y2="2800.0" stroke="#2f3b47" stroke-width="6.0"/>
-<path d="M5576.3 2877.2 C5634.0 2775.7 5617.5 2730.1 5526.9 2730.1" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M5565.2 2879.9 C5634.0 2775.7 5617.5 2730.1 5526.9 2730.1" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M5454.9 2730.1 C5364.2 2730.1 5347.7 2775.7 5405.4 2877.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <line x1="6380.5" y1="3580.0" x2="6380.5" y2="3674.0" stroke="#2f3b47" stroke-width="6.0"/>
 <line x1="6380.5" y1="3674.0" x2="6380.5" y2="3710.0" stroke="#2f3b47" stroke-width="6.0"/>
@@ -1371,14 +1371,14 @@
 <circle cx="3771.0" cy="5605.0" r="6.0" fill="#7f8c99"/>
 <circle cx="3244.6" cy="5437.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="3415.4" cy="5437.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="5246.9" cy="2615.0" r="11.0" fill="#3a7bd5"/>
-<circle cx="5282.9" cy="2615.0" r="6.0" fill="#7f8c99"/>
-<circle cx="5210.9" cy="2615.0" r="6.0" fill="#7f8c99"/>
+<circle cx="5258.9" cy="2615.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="5294.9" cy="2615.0" r="6.0" fill="#7f8c99"/>
+<circle cx="5222.9" cy="2615.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5480.8" cy="2540.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5480.8" cy="2615.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5171.0" cy="2615.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5171.0" cy="2800.0" r="6.0" fill="#7f8c99"/>
-<circle cx="5332.3" cy="2462.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="5344.3" cy="2462.8" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="9712.4" cy="4855.3" r="11.0" fill="#3a7bd5"/>
 <circle cx="9702.2" cy="4829.5" r="6.0" fill="#7f8c99"/>
 <circle cx="9722.5" cy="4881.2" r="6.0" fill="#7f8c99"/>
@@ -1516,7 +1516,7 @@
 <circle cx="5465.9" cy="2540.0" r="6.0" fill="#7f8c99"/>
 <circle cx="5551.0" cy="2755.1" r="6.0" fill="#7f8c99"/>
 <circle cx="5551.0" cy="2800.0" r="6.0" fill="#7f8c99"/>
-<circle cx="5328.6" cy="2619.7" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="5336.5" cy="2620.8" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="5835.3" cy="4793.1" r="11.0" fill="#3a7bd5"/>
 <circle cx="5835.3" cy="4757.1" r="6.0" fill="#7f8c99"/>
 <circle cx="5835.3" cy="4829.1" r="6.0" fill="#7f8c99"/>
@@ -1671,7 +1671,7 @@
 <circle cx="5590.8" cy="2730.1" r="6.0" fill="#7f8c99"/>
 <circle cx="5281.0" cy="2730.1" r="6.0" fill="#7f8c99"/>
 <circle cx="5281.0" cy="2800.0" r="6.0" fill="#7f8c99"/>
-<circle cx="5576.3" cy="2877.2" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="5565.2" cy="2879.9" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
 <circle cx="5405.4" cy="2877.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="6380.5" cy="3710.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="6380.5" cy="3674.0" r="6.0" fill="#7f8c99"/>
@@ -2097,7 +2097,7 @@
 <text x="11148.1" y="5998.5" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA[c]</text>
 <text x="3279.2" y="5437.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">AcCoA[g]</text>
 <text x="3321.1" y="5461.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA[g]</text>
-<text x="5238.0" y="2439.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Glc[c]</text>
+<text x="5250.0" y="2439.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Glc[c]</text>
 <text x="9806.6" y="5033.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">Glc[l]</text>
 <text x="1886.1" y="5505.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udpacgal[g]</text>
 <text x="2070.1" y="5482.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udp[g]</text>
@@ -2132,7 +2132,7 @@
 <text x="3379.5" y="6132.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">cmpacna</text>
 <text x="3700.1" y="6132.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">cmp</text>
 <text x="5318.2" y="3042.6" font-size="19.8" fill="#1c252e" dominant-baseline="middle">cholp[c]</text>
-<text x="5282.6" y="2666.7" font-size="19.8" fill="#1c252e" dominant-baseline="middle">cholp[c]</text>
+<text x="5290.5" y="2667.8" font-size="19.8" fill="#1c252e" dominant-baseline="middle">cholp[c]</text>
 <text x="5556.6" y="4878.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">cholp[e]</text>
 <text x="5831.7" y="2565.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pchol-cho</text>
 <text x="5847.8" y="2720.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">dag-cho</text>
@@ -2175,7 +2175,7 @@
 <text x="2107.4" y="6714.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">cmp</text>
 <text x="9653.7" y="6569.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">crm-cho[r]</text>
 <text x="9528.8" y="6569.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udp[r]</text>
-<text x="5461.3" y="2877.2" font-size="19.8" fill="#1c252e" dominant-baseline="middle">udpg[c]</text>
+<text x="5450.1" y="2879.9" font-size="19.8" fill="#1c252e" dominant-baseline="middle">udpg[c]</text>
 <text x="5301.9" y="2877.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">udp[c]</text>
 <text x="6090.3" y="3795.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ethamp[c]</text>
 <text x="10758.0" y="1942.8" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi[c]</text>

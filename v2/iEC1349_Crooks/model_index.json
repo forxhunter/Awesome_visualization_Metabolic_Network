@@ -6,17 +6,26 @@
    "name": "iEC1349_Crooks - Escherichia coli (E. coli)",
    "file": "iEC1349_Crooks_Canvas.json",
    "path": "iEC1349_Crooks/iEC1349_Crooks_Canvas.json",
-   "reactions": 2753,
-   "nodes": 18854,
+   "reactions": 2756,
+   "nodes": 18933,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Carbohydrate metabolism: Pyruvate; Citrate cycle (TCA cycle); Propanoate; +5 more",
-   "file": "Carbohydrate_metabolism_Pyruvate_Citrate_cycle_TCA_cy_761e4b.json",
-   "path": "iEC1349_Crooks/Carbohydrate_metabolism_Pyruvate_Citrate_cycle_TCA_cy_761e4b.json",
+   "name": "Amino acid metabolism: Phenylalanine; Phenylalanine, tyrosine and tryptophan biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
+   "path": "iEC1349_Crooks/Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
    "reactions": 120,
-   "nodes": 981,
+   "nodes": 852,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Glycolysis / Gluconeogenesis; +1 more",
+   "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
+   "path": "iEC1349_Crooks/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
+   "reactions": 120,
+   "nodes": 895,
    "combined": false,
    "canvas": false
   },
@@ -34,16 +43,16 @@
    "file": "Energy_metabolism_Nitrogen_Other_energy.json",
    "path": "iEC1349_Crooks/Energy_metabolism_Nitrogen_Other_energy.json",
    "reactions": 120,
-   "nodes": 985,
+   "nodes": 996,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Alpha-d-mannosyl d-glycerate transport; D-gluconate transport; +2 more",
-   "file": "Transport_and_exchange_Alpha-d-mannosyl_d-glycerate_t_d57d5d.json",
-   "path": "iEC1349_Crooks/Transport_and_exchange_Alpha-d-mannosyl_d-glycerate_t_d57d5d.json",
+   "name": "Transport and exchange: Acetate transport",
+   "file": "Transport_and_exchange_Acetate_transport.json",
+   "path": "iEC1349_Crooks/Transport_and_exchange_Acetate_transport.json",
    "reactions": 120,
-   "nodes": 876,
+   "nodes": 687,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +61,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
    "path": "iEC1349_Crooks/Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
    "reactions": 120,
-   "nodes": 551,
+   "nodes": 567,
    "combined": false,
    "canvas": false
   },
@@ -75,20 +84,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Phenylalanine; Phenylalanine, tyrosine and tryptophan biosynthesis; +3 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
-   "path": "iEC1349_Crooks/Amino_acid_metabolism_Phenylalanine_Phenylalanine_tyr_99962e.json",
+   "name": "Transport and exchange: Alpha-d-mannosyl d-glycerate transport; D-gluconate transport; +2 more",
+   "file": "Transport_and_exchange_Alpha-d-mannosyl_d-glycerate_t_d57d5d.json",
+   "path": "iEC1349_Crooks/Transport_and_exchange_Alpha-d-mannosyl_d-glycerate_t_d57d5d.json",
    "reactions": 119,
-   "nodes": 1001,
+   "nodes": 923,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glutathione; Valine, leucine and isoleucine biosynthesis; +8 more",
-   "file": "Amino_acid_metabolism_Glutathione_Valine_leucine_and_910fb7.json",
-   "path": "iEC1349_Crooks/Amino_acid_metabolism_Glutathione_Valine_leucine_and_910fb7.json",
+   "name": "Amino acid metabolism: Alanine, aspartate and glutamate; Glutathione; +8 more",
+   "file": "Amino_acid_metabolism_Alanine_aspartate_and_glutamate_1b725b.json",
+   "path": "iEC1349_Crooks/Amino_acid_metabolism_Alanine_aspartate_and_glutamate_1b725b.json",
    "reactions": 118,
-   "nodes": 839,
+   "nodes": 871,
    "combined": false,
    "canvas": false
   },
@@ -97,25 +106,16 @@
    "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_ca4d2b.json",
    "path": "iEC1349_Crooks/Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_ca4d2b.json",
    "reactions": 118,
-   "nodes": 916,
+   "nodes": 917,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Glycolysis / Gluconeogenesis; +1 more",
-   "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
-   "path": "iEC1349_Crooks/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
+   "name": "Carbohydrate metabolism: Pyruvate; Propanoate; Biosynthesis of various nucleotide sugars; +5 more",
+   "file": "Carbohydrate_metabolism_Pyruvate_Propanoate_Biosynthe_be5561.json",
+   "path": "iEC1349_Crooks/Carbohydrate_metabolism_Pyruvate_Propanoate_Biosynthe_be5561.json",
    "reactions": 117,
-   "nodes": 847,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Acetate transport",
-   "file": "Transport_and_exchange_Acetate_transport.json",
-   "path": "iEC1349_Crooks/Transport_and_exchange_Acetate_transport.json",
-   "reactions": 117,
-   "nodes": 668,
+   "nodes": 964,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Transport_and_exchange_Biomass_and_exchange_Iii_Secretion.json",
    "path": "iEC1349_Crooks/Transport_and_exchange_Biomass_and_exchange_Iii_Secretion.json",
    "reactions": 117,
-   "nodes": 1039,
+   "nodes": 1068,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Carbohydrate_metabolism_Starch_and_sucrose_Fructose_a_8a2872.json",
    "path": "iEC1349_Crooks/Carbohydrate_metabolism_Starch_and_sucrose_Fructose_a_8a2872.json",
    "reactions": 115,
-   "nodes": 1087,
+   "nodes": 1088,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Transport_and_exchange_Lysophospholipase_Acyltransferase.json",
    "path": "iEC1349_Crooks/Transport_and_exchange_Lysophospholipase_Acyltransferase.json",
    "reactions": 115,
-   "nodes": 970,
+   "nodes": 989,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Lipid_metabolism_Core_oligosaccharide_lipid_transport.json",
    "path": "iEC1349_Crooks/Lipid_metabolism_Core_oligosaccharide_lipid_transport.json",
    "reactions": 113,
-   "nodes": 920,
+   "nodes": 877,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Nucleotide_metabolism_Purine.json",
    "path": "iEC1349_Crooks/Nucleotide_metabolism_Purine.json",
    "reactions": 112,
-   "nodes": 1221,
+   "nodes": 1219,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "path": "iEC1349_Crooks/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "reactions": 107,
-   "nodes": 751,
+   "nodes": 765,
    "combined": false,
    "canvas": false
   },
@@ -232,7 +232,7 @@
    "file": "Transport_and_exchange_Guanine_dinucleotide_synthase_8fe6bd.json",
    "path": "iEC1349_Crooks/Transport_and_exchange_Guanine_dinucleotide_synthase_8fe6bd.json",
    "reactions": 32,
-   "nodes": 231,
+   "nodes": 232,
    "combined": false,
    "canvas": false
   },
@@ -255,20 +255,20 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Inositol phosphate; D-galactose transport",
-   "file": "Carbohydrate_metabolism_Inositol_phosphate_D-galactos_e6b761.json",
-   "path": "iEC1349_Crooks/Carbohydrate_metabolism_Inositol_phosphate_D-galactos_e6b761.json",
-   "reactions": 15,
-   "nodes": 105,
+   "name": "Amino acid metabolism: L-threonine transport; beta-Alanine",
+   "file": "Amino_acid_metabolism_L-threonine_transport_beta-Alanine.json",
+   "path": "iEC1349_Crooks/Amino_acid_metabolism_L-threonine_transport_beta-Alanine.json",
+   "reactions": 13,
+   "nodes": 76,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: beta-Alanine; Other amino acid",
-   "file": "Amino_acid_metabolism_beta-Alanine_Other_amino_acid.json",
-   "path": "iEC1349_Crooks/Amino_acid_metabolism_beta-Alanine_Other_amino_acid.json",
-   "reactions": 11,
-   "nodes": 79,
+   "name": "Carbohydrate metabolism: D-galactose transport; Udp-d-glucuronate D-glucuronate",
+   "file": "Carbohydrate_metabolism_D-galactose_transport_Udp-d-g_243de4.json",
+   "path": "iEC1349_Crooks/Carbohydrate_metabolism_D-galactose_transport_Udp-d-g_243de4.json",
+   "reactions": 13,
+   "nodes": 88,
    "combined": false,
    "canvas": false
   },

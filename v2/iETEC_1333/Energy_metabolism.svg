@@ -205,7 +205,7 @@
 <path d="M2966.7 1887.4 C3046.2 1993.5 3040.7 2046.5 2950.0 2046.5" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3030.0 1907.9 C3067.3 2000.3 3040.7 2046.5 2950.0 2046.5" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M2945.0 2113.5 C2854.3 2113.5 2827.7 2067.3 2864.2 1975.3" stroke="#9aa6b2" stroke-width="3.0"/>
-<path d="M2945.0 2113.5 C2854.3 2113.5 2848.8 2060.5 2899.0 1960.1" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M2945.0 2113.5 C2854.3 2113.5 2848.8 2060.5 2905.1 1976.2" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3770.0 1210.0 C3722.7 1221.4 3685.3 1257.5 3672.4 1304.4" stroke="#9aa6b2" stroke-width="3.0"/>
 <path d="M3672.4 1304.4 C3669.2 1316.0 3667.6 1328.0 3667.6 1340.0" stroke="#2f3b47" stroke-width="6.0"/>
 <path d="M3667.6 1340.0 C3667.6 1352.0 3669.2 1364.0 3672.4 1375.6" stroke="#2f3b47" stroke-width="6.0"/>
@@ -546,7 +546,7 @@
 <path d="M1128.7 2662.3 L1175.1 2677.1 L1155.9 2702.7 Z" fill="#9aa6b2"/>
 <path d="M2945.0 2180.0 L2929.0 2134.0 L2961.0 2134.0 Z" fill="#2f3b47"/>
 <path d="M2858.3 1990.2 L2856.2 2038.8 L2826.4 2027.0 Z" fill="#9aa6b2"/>
-<path d="M2891.8 1974.4 L2885.6 2022.7 L2856.9 2008.4 Z" fill="#9aa6b2"/>
+<path d="M2896.2 1989.5 L2883.9 2036.6 L2857.3 2018.8 Z" fill="#9aa6b2"/>
 <path d="M3754.4 1466.3 L3706.0 1471.0 L3713.5 1439.9 Z" fill="#9aa6b2"/>
 <path d="M3810.7 1432.9 L3778.6 1469.6 L3762.8 1441.8 Z" fill="#9aa6b2"/>
 <path d="M3914.2 2987.4 L3866.2 2995.5 L3871.5 2964.0 Z" fill="#9aa6b2"/>
@@ -870,7 +870,7 @@
 <circle cx="2966.7" cy="1887.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3030.0" cy="1907.9" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="2864.2" cy="1975.3" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
-<circle cx="2899.0" cy="1960.1" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="2905.1" cy="1976.2" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
 <circle cx="3667.6" cy="1340.0" r="11.0" fill="#3a7bd5"/>
 <circle cx="3672.4" cy="1304.4" r="6.0" fill="#7f8c99"/>
 <circle cx="3672.4" cy="1375.6" r="6.0" fill="#7f8c99"/>
@@ -1213,7 +1213,7 @@
 <text x="2897.6" y="1887.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">atp</text>
 <text x="3012.8" y="1860.9" font-size="19.8" fill="#6b7885" dominant-baseline="middle">CoA</text>
 <text x="2795.1" y="1975.3" font-size="19.8" fill="#6b7885" dominant-baseline="middle">adp</text>
-<text x="2847.5" y="1936.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
+<text x="2815.5" y="1930.7" font-size="19.8" fill="#6b7885" dominant-baseline="middle">pi</text>
 <text x="3742.2" y="1346.2" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2[c]</text>
 <text x="3580.6" y="2945.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2[c]</text>
 <text x="3728.6" y="2899.6" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2[c]</text>

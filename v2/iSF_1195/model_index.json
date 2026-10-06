@@ -6,10 +6,19 @@
    "name": "iSF_1195 - Shigella flexneri (Shigella)",
    "file": "iSF_1195_Canvas.json",
    "path": "iSF_1195/iSF_1195_Canvas.json",
-   "reactions": 2627,
-   "nodes": 17313,
+   "reactions": 2630,
+   "nodes": 17393,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: tRNA Charging; Glycine and Serine; Valine, Leucine, and Isoleucine; Cysteine; +2 more",
+   "file": "Amino_acid_metabolism_tRNA_Charging_Glycine_and_Serin_5f4e42.json",
+   "path": "iSF_1195/Amino_acid_metabolism_tRNA_Charging_Glycine_and_Serin_5f4e42.json",
+   "reactions": 120,
+   "nodes": 921,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Alternate Carbon (Guanine; Maltodextrin; +1)",
@@ -25,7 +34,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
    "path": "iSF_1195/Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
    "reactions": 120,
-   "nodes": 1207,
+   "nodes": 1228,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +52,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iSF_1195/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1071,
+   "nodes": 1068,
    "combined": false,
    "canvas": false
   },
@@ -84,20 +93,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: tRNA Charging; Glycine and Serine; Valine, Leucine, and Isoleucine; Cysteine; +2 more",
-   "file": "Amino_acid_metabolism_tRNA_Charging_Glycine_and_Serin_5f4e42.json",
-   "path": "iSF_1195/Amino_acid_metabolism_tRNA_Charging_Glycine_and_Serin_5f4e42.json",
+   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Alternate Carbon source; Citric Acid Cycle; +6 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Al_88e651.json",
+   "path": "iSF_1195/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Al_88e651.json",
    "reactions": 119,
-   "nodes": 904,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Glycolysis/Gluconeogenesis; Citric Acid Cycle; +7 more",
-   "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Ci_3781de.json",
-   "path": "iSF_1195/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Ci_3781de.json",
-   "reactions": 119,
-   "nodes": 1034,
+   "nodes": 1050,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +106,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Cis-oct_6df750.json",
    "path": "iSF_1195/Lipid_metabolism_Glycerophospholipid_Glycerol_Cis-oct_6df750.json",
    "reactions": 119,
-   "nodes": 893,
+   "nodes": 865,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Transport_and_exchange_Transport_Inner_Membrane_Extra_91356f.json",
    "path": "iSF_1195/Transport_and_exchange_Transport_Inner_Membrane_Extra_91356f.json",
    "reactions": 119,
-   "nodes": 718,
+   "nodes": 722,
    "combined": false,
    "canvas": false
   },
@@ -123,17 +123,8 @@
    "name": "Amino acid metabolism: Arginine and Proline; Tyrosine, Tryptophan, and Phenylalanine; +2 more",
    "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_793660.json",
    "path": "iSF_1195/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_793660.json",
-   "reactions": 116,
-   "nodes": 867,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Methyl; O-Succinylbenzoyl-CoA; +1); +1 more",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_1181d1.json",
-   "path": "iSF_1195/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_1181d1.json",
-   "reactions": 116,
-   "nodes": 880,
+   "reactions": 117,
+   "nodes": 865,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +133,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_D-Ribose_D-F_90b092.json",
    "path": "iSF_1195/Carbohydrate_metabolism_Alternate_Carbon_D-Ribose_D-F_90b092.json",
    "reactions": 115,
-   "nodes": 806,
+   "nodes": 864,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +142,16 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Transport_sy_60014c.json",
    "path": "iSF_1195/Carbohydrate_metabolism_Alternate_Carbon_Transport_sy_60014c.json",
    "reactions": 115,
-   "nodes": 774,
+   "nodes": 776,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Methyl; O-Succinylbenzoyl-CoA; +1)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_9e9a52.json",
+   "path": "iSF_1195/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_9e9a52.json",
+   "reactions": 115,
+   "nodes": 866,
    "combined": false,
    "canvas": false
   },
@@ -159,8 +159,8 @@
    "name": "Transport and exchange: Transport, Outer Membrane Porin; Transport Inner Membrane",
    "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_cd5013.json",
    "path": "iSF_1195/Transport_and_exchange_Transport_Outer_Membrane_Porin_cd5013.json",
-   "reactions": 112,
-   "nodes": 656,
+   "reactions": 114,
+   "nodes": 666,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_f0c510.json",
    "path": "iSF_1195/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_f0c510.json",
    "reactions": 111,
-   "nodes": 779,
+   "nodes": 790,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Tetradecanoyl-ph_3ec62b.json",
    "path": "iSF_1195/Lipid_metabolism_Glycerophospholipid_Tetradecanoyl-ph_3ec62b.json",
    "reactions": 83,
-   "nodes": 590,
+   "nodes": 589,
    "combined": false,
    "canvas": false
   },
@@ -219,11 +219,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Alanine and Aspartate; Methionine; Glutamate",
-   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Methionin_077d61.json",
-   "path": "iSF_1195/Amino_acid_metabolism_Alanine_and_Aspartate_Methionin_077d61.json",
+   "name": "Amino acid metabolism: 4 hydroxyphenylacetate catabolism; Alanine and Aspartate; Glutamate",
+   "file": "Amino_acid_metabolism_4_hydroxyphenylacetate_cataboli_b643dd.json",
+   "path": "iSF_1195/Amino_acid_metabolism_4_hydroxyphenylacetate_cataboli_b643dd.json",
    "reactions": 42,
-   "nodes": 317,
+   "nodes": 301,
    "combined": false,
    "canvas": false
   },

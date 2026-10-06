@@ -7,7 +7,7 @@
    "file": "iNF517_Canvas.json",
    "path": "iNF517/iNF517_Canvas.json",
    "reactions": 754,
-   "nodes": 5220,
+   "nodes": 5193,
    "combined": true,
    "canvas": true
   },
@@ -15,8 +15,8 @@
    "name": "Amino acid metabolism: Glutamate; Methionine; Cysteine",
    "file": "Amino_acid_metabolism_Glutamate_Methionine_Cysteine.json",
    "path": "iNF517/Amino_acid_metabolism_Glutamate_Methionine_Cysteine.json",
-   "reactions": 118,
-   "nodes": 694,
+   "reactions": 117,
+   "nodes": 686,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +25,7 @@
    "file": "Transport_and_exchange_Exchange_Acyl.json",
    "path": "iNF517/Transport_and_exchange_Exchange_Acyl.json",
    "reactions": 114,
-   "nodes": 984,
+   "nodes": 957,
    "combined": false,
    "canvas": false
   },
@@ -33,8 +33,8 @@
    "name": "Transport and exchange: Exchange (D-Glucose)",
    "file": "Transport_and_exchange_Exchange_D-Glucose.json",
    "path": "iNF517/Transport_and_exchange_Exchange_D-Glucose.json",
-   "reactions": 112,
-   "nodes": 831,
+   "reactions": 113,
+   "nodes": 845,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Transport_and_exchange_Exchange_Zinc_Aromatic_amino_a_954d68.json",
    "path": "iNF517/Transport_and_exchange_Exchange_Zinc_Aromatic_amino_a_954d68.json",
    "reactions": 109,
-   "nodes": 731,
+   "nodes": 754,
    "combined": false,
    "canvas": false
   },

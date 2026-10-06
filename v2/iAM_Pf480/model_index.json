@@ -6,8 +6,8 @@
    "name": "iAM_Pf480 - Plasmodium falciparum (malaria parasite)",
    "file": "iAM_Pf480_Canvas.json",
    "path": "iAM_Pf480/iAM_Pf480_Canvas.json",
-   "reactions": 1079,
-   "nodes": 7313,
+   "reactions": 1083,
+   "nodes": 7314,
    "combined": true,
    "canvas": true
   },
@@ -15,8 +15,17 @@
    "name": "Amino acid metabolism: Phenylalanine; Cysteine and methionine; Arginine biosynthesis; +3 more",
    "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
    "path": "iAM_Pf480/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
+   "reactions": 120,
+   "nodes": 935,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); +1 more",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_4c1899.json",
+   "path": "iAM_Pf480/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_4c1899.json",
    "reactions": 119,
-   "nodes": 854,
+   "nodes": 845,
    "combined": false,
    "canvas": false
   },
@@ -25,16 +34,16 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
    "path": "iAM_Pf480/Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
    "reactions": 119,
-   "nodes": 622,
+   "nodes": 623,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Pentose phosphate pathway; +1 more",
-   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_cf2256.json",
-   "path": "iAM_Pf480/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_cf2256.json",
-   "reactions": 114,
-   "nodes": 817,
+   "name": "Cofactor and vitamin metabolism: Nicotinamide adenine dinucleotide transport",
+   "file": "Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
+   "path": "iAM_Pf480/Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
+   "reactions": 117,
+   "nodes": 708,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +52,7 @@
    "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "path": "iAM_Pf480/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "reactions": 114,
-   "nodes": 1020,
+   "nodes": 1061,
    "combined": false,
    "canvas": false
   },
@@ -52,16 +61,7 @@
    "file": "Lipid_metabolism_Phosphatidyl_choline_plasmodium_transport.json",
    "path": "iAM_Pf480/Lipid_metabolism_Phosphatidyl_choline_plasmodium_transport.json",
    "reactions": 114,
-   "nodes": 1102,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Cofactor and vitamin metabolism: Nicotinamide adenine dinucleotide transport",
-   "file": "Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
-   "path": "iAM_Pf480/Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
-   "reactions": 113,
-   "nodes": 687,
+   "nodes": 1129,
    "combined": false,
    "canvas": false
   },
@@ -69,8 +69,8 @@
    "name": "Transport and exchange: Acyl-carrier-protein; Dagpf; Intracellular demand; Intracellular source/sink; +1 more",
    "file": "Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_4bc626.json",
    "path": "iAM_Pf480/Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_4bc626.json",
-   "reactions": 109,
-   "nodes": 660,
+   "reactions": 103,
+   "nodes": 614,
    "combined": false,
    "canvas": false
   },
@@ -102,20 +102,20 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Citrate cycle (TCA cycle); Starch and sucrose; Amino sugar and nucleotide sugar; +1 more",
-   "file": "Carbohydrate_metabolism_Citrate_cycle_TCA_cycle_Starc_dfac58.json",
-   "path": "iAM_Pf480/Carbohydrate_metabolism_Citrate_cycle_TCA_cycle_Starc_dfac58.json",
-   "reactions": 32,
-   "nodes": 213,
+   "name": "Carbohydrate metabolism: Pyruvate; Starch and sucrose; Amino sugar and nucleotide sugar; +1 more",
+   "file": "Carbohydrate_metabolism_Pyruvate_Starch_and_sucrose_A_32a39a.json",
+   "path": "iAM_Pf480/Carbohydrate_metabolism_Pyruvate_Starch_and_sucrose_A_32a39a.json",
+   "reactions": 33,
+   "nodes": 202,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glycine, serine and threonine; Lysine degradation; +1 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
-   "path": "iAM_Pf480/Amino_acid_metabolism_Glycine_serine_and_threonine_Ly_1a3dff.json",
-   "reactions": 19,
-   "nodes": 128,
+   "name": "Amino acid metabolism: Glutathione; Lysine degradation; Valine, leucine and isoleucine degradation",
+   "file": "Amino_acid_metabolism_Glutathione_Lysine_degradation_fde3fc.json",
+   "path": "iAM_Pf480/Amino_acid_metabolism_Glutathione_Lysine_degradation_fde3fc.json",
+   "reactions": 18,
+   "nodes": 118,
    "combined": false,
    "canvas": false
   },
