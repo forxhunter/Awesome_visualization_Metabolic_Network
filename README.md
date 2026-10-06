@@ -30,7 +30,7 @@ metabolism), oxidative phosphorylation, and transport and exchange.
 
 [<img src="v2/e_coli_core/e_coli_core_Canvas.svg" alt="e_coli_core on one canvas" width="100%">](v2/e_coli_core/e_coli_core_Canvas.svg)
 
-**Recon3D** — all 10,592 reactions of the human reconstruction on one page
+**Recon3D** — 10,592 of the human reconstruction's 10,600 reactions on one page
 (19 MB; it takes a few seconds to appear). [JSON](v2/Recon3D/Recon3D_Canvas.json)
 
 [<img src="v2/Recon3D/Recon3D_Canvas.svg" alt="Recon3D on one canvas" width="100%">](v2/Recon3D/Recon3D_Canvas.svg)
