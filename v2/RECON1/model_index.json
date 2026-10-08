@@ -7,7 +7,7 @@
    "file": "RECON1_Canvas.json",
    "path": "RECON1/RECON1_Canvas.json",
    "reactions": 3741,
-   "nodes": 28055,
+   "nodes": 27580,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Am_eb38f8.json",
    "path": "RECON1/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Am_eb38f8.json",
    "reactions": 120,
-   "nodes": 1164,
+   "nodes": 1165,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Folate_Vitamin_A_NAD_68b71f.json",
    "path": "RECON1/Cofactor_and_vitamin_metabolism_Folate_Vitamin_A_NAD_68b71f.json",
    "reactions": 120,
-   "nodes": 1018,
+   "nodes": 1007,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +97,7 @@
    "file": "Transport_and_exchange_Transport_Endoplasmic_Reticular.json",
    "path": "RECON1/Transport_and_exchange_Transport_Endoplasmic_Reticular.json",
    "reactions": 120,
-   "nodes": 682,
+   "nodes": 685,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Lipid_metabolism_Bile_Acid_Biosynthesis_Fatty_acid_ox_deb8ce.json",
    "path": "RECON1/Lipid_metabolism_Bile_Acid_Biosynthesis_Fatty_acid_ox_deb8ce.json",
    "reactions": 119,
-   "nodes": 1118,
+   "nodes": 1111,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_b67f4a.json",
    "path": "RECON1/Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_b67f4a.json",
    "reactions": 119,
-   "nodes": 962,
+   "nodes": 944,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Transport_and_exchange_Transport_Extracellular_amino_b43b3f.json",
    "path": "RECON1/Transport_and_exchange_Transport_Extracellular_amino_b43b3f.json",
    "reactions": 119,
-   "nodes": 805,
+   "nodes": 737,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Transport_and_exchange_Transport_Golgi_Apparatus.json",
    "path": "RECON1/Transport_and_exchange_Transport_Golgi_Apparatus.json",
    "reactions": 119,
-   "nodes": 777,
+   "nodes": 745,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
    "path": "RECON1/Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
    "reactions": 118,
-   "nodes": 859,
+   "nodes": 843,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
    "path": "RECON1/Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
    "reactions": 118,
-   "nodes": 1363,
+   "nodes": 1370,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Transport_and_exchange_Transport_Extracellular_inorga_357c2d.json",
    "path": "RECON1/Transport_and_exchange_Transport_Extracellular_inorga_357c2d.json",
    "reactions": 118,
-   "nodes": 688,
+   "nodes": 704,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_67ef8d.json",
    "path": "RECON1/Nucleotide_metabolism_Nucleotides_3_5_-Cyclic_GMP_Cyt_67ef8d.json",
    "reactions": 117,
-   "nodes": 915,
+   "nodes": 893,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +205,7 @@
    "file": "Amino_acid_metabolism_Tryptophan_Glycine_Serine_and_T_cc1658.json",
    "path": "RECON1/Amino_acid_metabolism_Tryptophan_Glycine_Serine_and_T_cc1658.json",
    "reactions": 116,
-   "nodes": 829,
+   "nodes": 825,
    "combined": false,
    "canvas": false
   },
@@ -223,7 +223,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Vitamin_D_Heme_Biosyn_e9b12b.json",
    "path": "RECON1/Cofactor_and_vitamin_metabolism_Vitamin_D_Heme_Biosyn_e9b12b.json",
    "reactions": 116,
-   "nodes": 864,
+   "nodes": 800,
    "combined": false,
    "canvas": false
   },
@@ -232,7 +232,7 @@
    "file": "Transport_and_exchange_Transport_Peroxisomal.json",
    "path": "RECON1/Transport_and_exchange_Transport_Peroxisomal.json",
    "reactions": 111,
-   "nodes": 641,
+   "nodes": 642,
    "combined": false,
    "canvas": false
   },
@@ -241,7 +241,7 @@
    "file": "Glycan_metabolism_N-Glycan_Biosynthesis.json",
    "path": "RECON1/Glycan_metabolism_N-Glycan_Biosynthesis.json",
    "reactions": 108,
-   "nodes": 784,
+   "nodes": 779,
    "combined": false,
    "canvas": false
   },
@@ -259,7 +259,7 @@
    "file": "Glycan_metabolism_Chondroitin_sulfate_degradation_2_more.json",
    "path": "RECON1/Glycan_metabolism_Chondroitin_sulfate_degradation_2_more.json",
    "reactions": 107,
-   "nodes": 937,
+   "nodes": 936,
    "combined": false,
    "canvas": false
   },
@@ -286,7 +286,7 @@
    "file": "Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_0927fd.json",
    "path": "RECON1/Amino_acid_metabolism_Histidine_Selenoamino_acid_Glut_0927fd.json",
    "reactions": 84,
-   "nodes": 597,
+   "nodes": 595,
    "combined": false,
    "canvas": false
   },
@@ -295,7 +295,7 @@
    "file": "Nucleotide_metabolism_Nucleotides_Antiport_IMP_Biosyn_c9d226.json",
    "path": "RECON1/Nucleotide_metabolism_Nucleotides_Antiport_IMP_Biosyn_c9d226.json",
    "reactions": 75,
-   "nodes": 756,
+   "nodes": 450,
    "combined": false,
    "canvas": false
   },

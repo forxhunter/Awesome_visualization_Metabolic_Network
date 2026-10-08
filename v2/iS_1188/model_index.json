@@ -7,7 +7,7 @@
    "file": "iS_1188_Canvas.json",
    "path": "iS_1188/iS_1188_Canvas.json",
    "reactions": 2619,
-   "nodes": 17280,
+   "nodes": 17301,
    "combined": true,
    "canvas": true
   },
@@ -25,7 +25,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
    "path": "iS_1188/Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
    "reactions": 120,
-   "nodes": 1236,
+   "nodes": 1221,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iS_1188/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1095,
+   "nodes": 1096,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iS_1188/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 482,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iS_1188/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 485,
    "combined": false,
    "canvas": false
   },
@@ -75,29 +75,11 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, Inner Membrane; Extracellular exchange (D-Xylose); +1 more",
-   "file": "Transport_and_exchange_Transport_Inner_Membrane_Extra_91356f.json",
-   "path": "iS_1188/Transport_and_exchange_Transport_Inner_Membrane_Extra_91356f.json",
-   "reactions": 120,
-   "nodes": 714,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Tyrosine, Tryptophan, and Phenylalanine",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_970302.json",
-   "path": "iS_1188/Amino_acid_metabolism_Arginine_and_Proline_Methionine_970302.json",
-   "reactions": 119,
-   "nodes": 879,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Carbohydrate metabolism: Alternate Carbon (Transport symport; Taurine C2H7NO3S; +1)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Transport_sy_ef37f6.json",
    "path": "iS_1188/Carbohydrate_metabolism_Alternate_Carbon_Transport_sy_ef37f6.json",
    "reactions": 119,
-   "nodes": 860,
+   "nodes": 782,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +88,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_bc8445.json",
    "path": "iS_1188/Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_bc8445.json",
    "reactions": 119,
-   "nodes": 867,
+   "nodes": 861,
    "combined": false,
    "canvas": false
   },
@@ -120,11 +102,20 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Tyrosine, Tryptophan, and Phenylalanine",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_970302.json",
+   "path": "iS_1188/Amino_acid_metabolism_Arginine_and_Proline_Methionine_970302.json",
+   "reactions": 118,
+   "nodes": 881,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Carbohydrate metabolism: Alternate Carbon (Guanine; Maltodextrin; +1)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Guanine_Malt_422a85.json",
    "path": "iS_1188/Carbohydrate_metabolism_Alternate_Carbon_Guanine_Malt_422a85.json",
    "reactions": 117,
-   "nodes": 683,
+   "nodes": 690,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +124,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_f69e56.json",
    "path": "iS_1188/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_f69e56.json",
    "reactions": 116,
-   "nodes": 862,
+   "nodes": 860,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +133,16 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Phosphatidylglyc_640d53.json",
    "path": "iS_1188/Lipid_metabolism_Glycerophospholipid_Phosphatidylglyc_640d53.json",
    "reactions": 116,
-   "nodes": 879,
+   "nodes": 896,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Inner Membrane; Extracellular exchange (D-Xylose); +1 more",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Extra_91356f.json",
+   "path": "iS_1188/Transport_and_exchange_Transport_Inner_Membrane_Extra_91356f.json",
+   "reactions": 116,
+   "nodes": 711,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_D-Glucosamin_5d9cb0.json",
    "path": "iS_1188/Carbohydrate_metabolism_Alternate_Carbon_D-Glucosamin_5d9cb0.json",
    "reactions": 115,
-   "nodes": 811,
+   "nodes": 813,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Ci_424c24.json",
    "path": "iS_1188/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Ci_424c24.json",
    "reactions": 112,
-   "nodes": 997,
+   "nodes": 1018,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_30fc9e.json",
    "path": "iS_1188/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_30fc9e.json",
    "reactions": 107,
-   "nodes": 752,
+   "nodes": 758,
    "combined": false,
    "canvas": false
   },
@@ -186,8 +186,8 @@
    "name": "Transport and exchange: Biomass and exchange; Transport Outer Membrane Porin; Exchange; +1 more",
    "file": "Transport_and_exchange_Biomass_and_exchange_Transport_fef131.json",
    "path": "iS_1188/Transport_and_exchange_Biomass_and_exchange_Transport_fef131.json",
-   "reactions": 98,
-   "nodes": 819,
+   "reactions": 103,
+   "nodes": 825,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Tetradecanoyl-ph_3ec62b.json",
    "path": "iS_1188/Lipid_metabolism_Glycerophospholipid_Tetradecanoyl-ph_3ec62b.json",
    "reactions": 83,
-   "nodes": 599,
+   "nodes": 613,
    "combined": false,
    "canvas": false
   },

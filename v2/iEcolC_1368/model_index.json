@@ -7,25 +7,16 @@
    "file": "iEcolC_1368_Canvas.json",
    "path": "iEcolC_1368/iEcolC_1368_Canvas.json",
    "reactions": 2768,
-   "nodes": 18948,
+   "nodes": 18933,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Glycine and Serine",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
-   "path": "iEcolC_1368/Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
-   "reactions": 120,
-   "nodes": 994,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Alternate Carbon (Guanine; D Arabinose C5H10O5; +1)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Guanine_D_Ar_698487.json",
    "path": "iEcolC_1368/Carbohydrate_metabolism_Alternate_Carbon_Guanine_D_Ar_698487.json",
    "reactions": 120,
-   "nodes": 701,
+   "nodes": 699,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +25,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_L-Arabinose_374b47.json",
    "path": "iEcolC_1368/Carbohydrate_metabolism_Alternate_Carbon_L-Arabinose_374b47.json",
    "reactions": 120,
-   "nodes": 894,
+   "nodes": 887,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +34,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Maltodextrin_453e3c.json",
    "path": "iEcolC_1368/Carbohydrate_metabolism_Alternate_Carbon_Maltodextrin_453e3c.json",
    "reactions": 120,
-   "nodes": 932,
+   "nodes": 850,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +43,16 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_4e5b1e.json",
    "path": "iEcolC_1368/Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_4e5b1e.json",
    "reactions": 120,
-   "nodes": 1229,
+   "nodes": 1151,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Phospholipase phosphatidylethanolamine; +3)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Phospholipase_ph_52911a.json",
+   "path": "iEcolC_1368/Lipid_metabolism_Glycerophospholipid_Phospholipase_ph_52911a.json",
+   "reactions": 120,
+   "nodes": 859,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iEcolC_1368/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1153,
+   "nodes": 1154,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iEcolC_1368/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 481,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iEcolC_1368/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 488,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +97,7 @@
    "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "path": "iEcolC_1368/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "reactions": 120,
-   "nodes": 740,
+   "nodes": 725,
    "combined": false,
    "canvas": false
   },
@@ -111,29 +111,20 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Glycine and Serine",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
+   "path": "iEcolC_1368/Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
+   "reactions": 119,
+   "nodes": 914,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Carbohydrate metabolism: Alternate Carbon (D-Galacturonate; Galactitol; +3); Glycolysis/Gluconeogenesis; +4 more",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_D-Galacturon_340f26.json",
    "path": "iEcolC_1368/Carbohydrate_metabolism_Alternate_Carbon_D-Galacturon_340f26.json",
    "reactions": 119,
-   "nodes": 936,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Glycerophospholipid (Choline C5H14NO; Palmitoyl-ACP; +2)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Choline_C5H14NO_10e6f6.json",
-   "path": "iEcolC_1368/Lipid_metabolism_Glycerophospholipid_Choline_C5H14NO_10e6f6.json",
-   "reactions": 119,
-   "nodes": 853,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Phosphatidylglycerophosphate; +1); Other lipid",
-   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_84d4f9.json",
-   "path": "iEcolC_1368/Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_84d4f9.json",
-   "reactions": 119,
-   "nodes": 943,
+   "nodes": 930,
    "combined": false,
    "canvas": false
   },
@@ -147,20 +138,29 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate)",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
-   "path": "iEcolC_1368/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
-   "reactions": 117,
-   "nodes": 870,
+   "name": "Transport and exchange: Biomass and exchange; Transport; Extracellular exchange (UMP C9H11N2O9P); +1 more",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_ba14d6.json",
+   "path": "iEcolC_1368/Transport_and_exchange_Biomass_and_exchange_Transport_ba14d6.json",
+   "reactions": 118,
+   "nodes": 921,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Biomass and exchange; Transport; Extracellular exchange (UMP C9H11N2O9P); +1 more",
-   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_ba14d6.json",
-   "path": "iEcolC_1368/Transport_and_exchange_Biomass_and_exchange_Transport_ba14d6.json",
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Pyridoxal 5'-phosphate)",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
+   "path": "iEcolC_1368/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
    "reactions": 117,
-   "nodes": 916,
+   "nodes": 857,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Phosphatidylglycerophosphate; +1); Other lipid",
+   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_84d4f9.json",
+   "path": "iEcolC_1368/Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_84d4f9.json",
+   "reactions": 117,
+   "nodes": 864,
    "combined": false,
    "canvas": false
   },
@@ -168,8 +168,8 @@
    "name": "Transport and exchange: Transport, Inner Membrane; Transport Outer Membrane Porin; +3 more",
    "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_bbd729.json",
    "path": "iEcolC_1368/Transport_and_exchange_Transport_Inner_Membrane_Trans_bbd729.json",
-   "reactions": 116,
-   "nodes": 759,
+   "reactions": 117,
+   "nodes": 765,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_c3670c.json",
    "path": "iEcolC_1368/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_c3670c.json",
    "reactions": 108,
-   "nodes": 793,
+   "nodes": 772,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Tetradecanoyl-ph_b59eaf.json",
    "path": "iEcolC_1368/Lipid_metabolism_Glycerophospholipid_Tetradecanoyl-ph_b59eaf.json",
    "reactions": 106,
-   "nodes": 984,
+   "nodes": 851,
    "combined": false,
    "canvas": false
   },
@@ -223,7 +223,7 @@
    "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_A_aba16f.json",
    "path": "iEcolC_1368/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_A_aba16f.json",
    "reactions": 63,
-   "nodes": 456,
+   "nodes": 471,
    "combined": false,
    "canvas": false
   },

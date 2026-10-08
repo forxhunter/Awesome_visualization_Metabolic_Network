@@ -7,16 +7,25 @@
    "file": "iJR904_Canvas.json",
    "path": "iJR904/iJR904_Canvas.json",
    "reactions": 1075,
-   "nodes": 7148,
+   "nodes": 7161,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Tyrosine, Tryptophan, and Phenylalanine; +3 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_787ad3.json",
+   "path": "iJR904/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_787ad3.json",
+   "reactions": 120,
+   "nodes": 885,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Transport and exchange: Extracellular exchange (sugars and organic acids / amino acids and peptides)",
    "file": "Transport_and_exchange_Extracellular_exchange_sugars_c5b9ac.json",
    "path": "iJR904/Transport_and_exchange_Extracellular_exchange_sugars_c5b9ac.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 482,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +34,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_D-Glucose_Gl_f2f5af.json",
    "path": "iJR904/Carbohydrate_metabolism_Alternate_Carbon_D-Glucose_Gl_f2f5af.json",
    "reactions": 119,
-   "nodes": 929,
+   "nodes": 912,
    "combined": false,
    "canvas": false
   },
@@ -34,16 +43,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_82509f.json",
    "path": "iJR904/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_82509f.json",
    "reactions": 118,
-   "nodes": 881,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and Proline; Tyrosine, Tryptophan, and Phenylalanine; +3 more",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_787ad3.json",
-   "path": "iJR904/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_787ad3.json",
-   "reactions": 116,
-   "nodes": 858,
+   "nodes": 849,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Methylmalony_11b4b0.json",
    "path": "iJR904/Carbohydrate_metabolism_Alternate_Carbon_Methylmalony_11b4b0.json",
    "reactions": 116,
-   "nodes": 1118,
+   "nodes": 1173,
    "combined": false,
    "canvas": false
   },
@@ -60,8 +60,8 @@
    "name": "Transport and exchange: Biomass and exchange; Putative Transporters; Extracellular exchange (L-Tyrosine)",
    "file": "Transport_and_exchange_Biomass_and_exchange_Putative_95d1d3.json",
    "path": "iJR904/Transport_and_exchange_Biomass_and_exchange_Putative_95d1d3.json",
-   "reactions": 103,
-   "nodes": 651,
+   "reactions": 104,
+   "nodes": 649,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iJR904/Nucleotide_metabolism.json",
    "reactions": 101,
-   "nodes": 871,
+   "nodes": 877,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iJR904/Glycan_metabolism.json",
    "reactions": 77,
-   "nodes": 517,
+   "nodes": 526,
    "combined": false,
    "canvas": false
   },
@@ -87,8 +87,8 @@
    "name": "Amino acid metabolism: Valine, Leucine, and Isoleucine; Methionine; Glycine and Serine; Histidine; +1 more",
    "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_M_7f3bbf.json",
    "path": "iJR904/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_M_7f3bbf.json",
-   "reactions": 70,
-   "nodes": 467,
+   "reactions": 65,
+   "nodes": 443,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +106,7 @@
    "file": "Transport_and_exchange_Transport_Extracellular.json",
    "path": "iJR904/Transport_and_exchange_Transport_Extracellular.json",
    "reactions": 32,
-   "nodes": 191,
+   "nodes": 179,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iJR904/Lipid_metabolism.json",
    "reactions": 31,
-   "nodes": 267,
+   "nodes": 266,
    "combined": false,
    "canvas": false
   },

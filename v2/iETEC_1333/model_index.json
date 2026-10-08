@@ -7,25 +7,16 @@
    "file": "iETEC_1333_Canvas.json",
    "path": "iETEC_1333/iETEC_1333_Canvas.json",
    "reactions": 2756,
-   "nodes": 18496,
+   "nodes": 18692,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Glycine and Serine",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
-   "path": "iETEC_1333/Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
-   "reactions": 120,
-   "nodes": 994,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Nucleotide metabolism: Nucleotide Salvage Pathway",
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iETEC_1333/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1026,
+   "nodes": 1025,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +25,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iETEC_1333/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 481,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +34,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iETEC_1333/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 488,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +43,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
    "path": "iETEC_1333/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 481,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +52,25 @@
    "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "path": "iETEC_1333/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "reactions": 120,
-   "nodes": 740,
+   "nodes": 724,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Inner Membrane; Transport; Transport Outer Membrane Porin; +1 more",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_23900a.json",
+   "path": "iETEC_1333/Transport_and_exchange_Transport_Inner_Membrane_Trans_23900a.json",
+   "reactions": 120,
+   "nodes": 777,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Glycine and Serine",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
+   "path": "iETEC_1333/Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
+   "reactions": 119,
+   "nodes": 914,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +79,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
    "path": "iETEC_1333/Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
    "reactions": 119,
-   "nodes": 700,
+   "nodes": 697,
    "combined": false,
    "canvas": false
   },
@@ -79,16 +88,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
    "path": "iETEC_1333/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
    "reactions": 119,
-   "nodes": 890,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, Inner Membrane; Transport; Transport Outer Membrane Porin; +1 more",
-   "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_23900a.json",
-   "path": "iETEC_1333/Transport_and_exchange_Transport_Inner_Membrane_Trans_23900a.json",
-   "reactions": 119,
-   "nodes": 771,
+   "nodes": 903,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_ea4956.json",
    "path": "iETEC_1333/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_ea4956.json",
    "reactions": 118,
-   "nodes": 920,
+   "nodes": 916,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_d1b18c.json",
    "path": "iETEC_1333/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_d1b18c.json",
    "reactions": 117,
-   "nodes": 868,
+   "nodes": 856,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
    "path": "iETEC_1333/Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
    "reactions": 117,
-   "nodes": 1127,
+   "nodes": 1128,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_lipids_Hexadecan_36dc10.json",
    "path": "iETEC_1333/Lipid_metabolism_Glycerophospholipid_lipids_Hexadecan_36dc10.json",
    "reactions": 117,
-   "nodes": 921,
+   "nodes": 923,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e80dae.json",
    "path": "iETEC_1333/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e80dae.json",
    "reactions": 116,
-   "nodes": 907,
+   "nodes": 828,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_580b76.json",
    "path": "iETEC_1333/Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_580b76.json",
    "reactions": 116,
-   "nodes": 861,
+   "nodes": 872,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_22e008.json",
    "path": "iETEC_1333/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_22e008.json",
    "reactions": 112,
-   "nodes": 833,
+   "nodes": 831,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_lipids_Hydrogen_fa5b78.json",
    "path": "iETEC_1333/Lipid_metabolism_Glycerophospholipid_lipids_Hydrogen_fa5b78.json",
    "reactions": 109,
-   "nodes": 832,
+   "nodes": 816,
    "combined": false,
    "canvas": false
   },
@@ -223,7 +223,7 @@
    "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_A_3f995b.json",
    "path": "iETEC_1333/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_A_3f995b.json",
    "reactions": 50,
-   "nodes": 368,
+   "nodes": 395,
    "combined": false,
    "canvas": false
   },
@@ -232,7 +232,7 @@
    "file": "Carbohydrate_metabolism_Methylglyoxal_Pentose_Phospha_d8a83c.json",
    "path": "iETEC_1333/Carbohydrate_metabolism_Methylglyoxal_Pentose_Phospha_d8a83c.json",
    "reactions": 49,
-   "nodes": 361,
+   "nodes": 360,
    "combined": false,
    "canvas": false
   },

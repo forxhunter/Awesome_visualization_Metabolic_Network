@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-10-06",
+ "generated": "2026-10-08",
  "base_url": "",
  "models": [
   {
@@ -276,7 +276,7 @@
   {
    "id": "iEC1364_W",
    "index": "iEC1364_W/model_index.json",
-   "map_count": 32,
+   "map_count": 31,
    "reactions": 2764,
    "organism": "Escherichia coli W",
    "species": "Escherichia coli",
@@ -296,7 +296,7 @@
   {
    "id": "iEC1372_W3110",
    "index": "iEC1372_W3110/model_index.json",
-   "map_count": 30,
+   "map_count": 31,
    "reactions": 2758,
    "organism": "Escherichia coli str. K-12 substr. W3110",
    "species": "Escherichia coli",
@@ -446,7 +446,7 @@
   {
    "id": "iECO26_1355",
    "index": "iECO26_1355/model_index.json",
-   "map_count": 30,
+   "map_count": 31,
    "reactions": 2780,
    "organism": "Escherichia coli O26:H11 str. 11368",
    "species": "Escherichia coli",
@@ -636,7 +636,7 @@
   {
    "id": "iHN637",
    "index": "iHN637/model_index.json",
-   "map_count": 11,
+   "map_count": 12,
    "reactions": 785,
    "organism": "Clostridium ljungdahlii DSM 13528",
    "species": "Clostridium ljungdahlii",
@@ -706,7 +706,7 @@
   {
    "id": "iJN1463",
    "index": "iJN1463/model_index.json",
-   "map_count": 32,
+   "map_count": 31,
    "reactions": 2927,
    "organism": "Pseudomonas putida KT2440",
    "species": "Pseudomonas putida",
@@ -806,7 +806,7 @@
   {
    "id": "iMM904",
    "index": "iMM904/model_index.json",
-   "map_count": 21,
+   "map_count": 20,
    "reactions": 1577,
    "organism": "Saccharomyces cerevisiae S288C",
    "species": "Saccharomyces cerevisiae",
@@ -1046,7 +1046,7 @@
   {
    "id": "iYS1720",
    "index": "iYS1720/model_index.json",
-   "map_count": 34,
+   "map_count": 33,
    "reactions": 3357,
    "organism": "Salmonella pan-reactome",
    "species": "Salmonella pan-reactome",
@@ -1084,5 +1084,5 @@
    "search": "ic_1306 escherichia coli cft073 escherichia coli e. coli"
   }
  ],
- "map_count": 2871
+ "map_count": 2870
 }

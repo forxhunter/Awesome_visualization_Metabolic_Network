@@ -7,7 +7,7 @@
    "file": "iYS854_Canvas.json",
    "path": "iYS854/iYS854_Canvas.json",
    "reactions": 1455,
-   "nodes": 9822,
+   "nodes": 9709,
    "combined": true,
    "canvas": true
   },
@@ -25,7 +25,7 @@
    "file": "Amino_acid_metabolism_Amino_Acid_L-Tyrosine_Tryptophan_3.json",
    "path": "iYS854/Amino_acid_metabolism_Amino_Acid_L-Tyrosine_Tryptophan_3.json",
    "reactions": 119,
-   "nodes": 830,
+   "nodes": 835,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5f4616.json",
    "path": "iYS854/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5f4616.json",
    "reactions": 119,
-   "nodes": 865,
+   "nodes": 856,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Lipid_metabolism_Lipid_Methyl_Oxidoreductase_2.json",
    "path": "iYS854/Lipid_metabolism_Lipid_Methyl_Oxidoreductase_2.json",
    "reactions": 118,
-   "nodes": 719,
+   "nodes": 710,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iYS854/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 117,
-   "nodes": 468,
+   "nodes": 477,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Amino_acid_metabolism_Amino_Acid_L-Threonine_Ornithine_2.json",
    "path": "iYS854/Amino_acid_metabolism_Amino_Acid_L-Threonine_Ornithine_2.json",
    "reactions": 113,
-   "nodes": 846,
+   "nodes": 877,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +88,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Transport_symport_IT_21a817.json",
    "path": "iYS854/Nucleotide_metabolism_Nucleotide_Transport_symport_IT_21a817.json",
    "reactions": 109,
-   "nodes": 1150,
+   "nodes": 1126,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Carbohydrate_metabolism_Energy_Production_and_Conversion.json",
    "path": "iYS854/Carbohydrate_metabolism_Energy_Production_and_Conversion.json",
    "reactions": 86,
-   "nodes": 729,
+   "nodes": 717,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Lipid_metabolism_Lipid_Acyl-carrier-protein_Glycerol_2.json",
    "path": "iYS854/Lipid_metabolism_Lipid_Acyl-carrier-protein_Glycerol_2.json",
    "reactions": 49,
-   "nodes": 373,
+   "nodes": 355,
    "combined": false,
    "canvas": false
   },

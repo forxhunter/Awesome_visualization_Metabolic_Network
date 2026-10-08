@@ -7,7 +7,7 @@
    "file": "iML1515_Canvas.json",
    "path": "iML1515/iML1515_Canvas.json",
    "reactions": 2712,
-   "nodes": 18843,
+   "nodes": 18909,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Taurine_C2H7_a764c9.json",
    "path": "iML1515/Carbohydrate_metabolism_Alternate_Carbon_Taurine_C2H7_a764c9.json",
    "reactions": 120,
-   "nodes": 919,
+   "nodes": 921,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +25,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_6b1fab.json",
    "path": "iML1515/Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_6b1fab.json",
    "reactions": 120,
-   "nodes": 1175,
+   "nodes": 1230,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iML1515/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1045,
+   "nodes": 1060,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Amino_acid_metabolism_Glycine_and_Serine_Threonine_an_eb2330.json",
    "path": "iML1515/Amino_acid_metabolism_Glycine_and_Serine_Threonine_an_eb2330.json",
    "reactions": 119,
-   "nodes": 1020,
+   "nodes": 1017,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Glycerol_Phe_2154ad.json",
    "path": "iML1515/Carbohydrate_metabolism_Alternate_Carbon_Glycerol_Phe_2154ad.json",
    "reactions": 119,
-   "nodes": 844,
+   "nodes": 876,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +88,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
    "path": "iML1515/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
    "reactions": 119,
-   "nodes": 905,
+   "nodes": 881,
    "combined": false,
    "canvas": false
   },
@@ -96,8 +96,8 @@
    "name": "Amino acid metabolism: Arginine and Proline; Tyrosine, Tryptophan, and Phenylalanine; Cysteine",
    "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_fedc44.json",
    "path": "iML1515/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_fedc44.json",
-   "reactions": 117,
-   "nodes": 893,
+   "reactions": 116,
+   "nodes": 890,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Propionate_D_6e21b3.json",
    "path": "iML1515/Carbohydrate_metabolism_Alternate_Carbon_Propionate_D_6e21b3.json",
    "reactions": 115,
-   "nodes": 944,
+   "nodes": 914,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_lipids_CMP_C9H12_47951b.json",
    "path": "iML1515/Lipid_metabolism_Glycerophospholipid_lipids_CMP_C9H12_47951b.json",
    "reactions": 114,
-   "nodes": 931,
+   "nodes": 919,
    "combined": false,
    "canvas": false
   },
@@ -132,8 +132,8 @@
    "name": "Transport and exchange: Transport, Inner Membrane",
    "file": "Transport_and_exchange_Transport_Inner_Membrane.json",
    "path": "iML1515/Transport_and_exchange_Transport_Inner_Membrane.json",
-   "reactions": 111,
-   "nodes": 761,
+   "reactions": 112,
+   "nodes": 753,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_90a16e.json",
    "path": "iML1515/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_90a16e.json",
    "reactions": 110,
-   "nodes": 770,
+   "nodes": 759,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_lipids_Glycine_betaine.json",
    "path": "iML1515/Lipid_metabolism_Glycerophospholipid_lipids_Glycine_betaine.json",
    "reactions": 104,
-   "nodes": 763,
+   "nodes": 756,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_cc78f9.json",
    "path": "iML1515/Lipid_metabolism_Glycerophospholipid_lipids_Glyceroph_cc78f9.json",
    "reactions": 100,
-   "nodes": 722,
+   "nodes": 715,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc_In_3a2176.json",
    "path": "iML1515/Transport_and_exchange_Extracellular_exchange_Zinc_In_3a2176.json",
    "reactions": 98,
-   "nodes": 394,
+   "nodes": 406,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_d47453.json",
    "path": "iML1515/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_d47453.json",
    "reactions": 97,
-   "nodes": 625,
+   "nodes": 618,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Py_1dee97.json",
    "path": "iML1515/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Py_1dee97.json",
    "reactions": 90,
-   "nodes": 823,
+   "nodes": 806,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +205,7 @@
    "file": "Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_lipids.json",
    "path": "iML1515/Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_lipids.json",
    "reactions": 85,
-   "nodes": 640,
+   "nodes": 663,
    "combined": false,
    "canvas": false
   },

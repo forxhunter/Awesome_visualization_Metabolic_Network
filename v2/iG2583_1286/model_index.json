@@ -7,16 +7,25 @@
    "file": "iG2583_1286_Canvas.json",
    "path": "iG2583_1286/iG2583_1286_Canvas.json",
    "reactions": 2704,
-   "nodes": 18598,
+   "nodes": 18440,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (D-sorbitol transport; sugars and organic acids); +4 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_D-sorbitol_t_0c8a27.json",
+   "path": "iG2583_1286/Carbohydrate_metabolism_Alternate_Carbon_D-sorbitol_t_0c8a27.json",
+   "reactions": 120,
+   "nodes": 845,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Alternate Carbon (Guanine; sugars and organic acids)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Guanine_suga_89cf7d.json",
    "path": "iG2583_1286/Carbohydrate_metabolism_Alternate_Carbon_Guanine_suga_89cf7d.json",
    "reactions": 120,
-   "nodes": 718,
+   "nodes": 716,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +34,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_c780e2.json",
    "path": "iG2583_1286/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_c780e2.json",
    "reactions": 120,
-   "nodes": 846,
+   "nodes": 788,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +43,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iG2583_1286/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1148,
+   "nodes": 1163,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +52,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iG2583_1286/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 481,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +61,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iG2583_1286/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 484,
    "combined": false,
    "canvas": false
   },
@@ -88,16 +97,7 @@
    "file": "Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_8c76a3.json",
    "path": "iG2583_1286/Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_8c76a3.json",
    "reactions": 119,
-   "nodes": 915,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Alternate Carbon (D-sorbitol transport; sugars and organic acids); +4 more",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_D-sorbitol_t_0c8a27.json",
-   "path": "iG2583_1286/Carbohydrate_metabolism_Alternate_Carbon_D-sorbitol_t_0c8a27.json",
-   "reactions": 119,
-   "nodes": 989,
+   "nodes": 914,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +106,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
    "path": "iG2583_1286/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
    "reactions": 119,
-   "nodes": 844,
+   "nodes": 832,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_glycans_5697e7.json",
    "path": "iG2583_1286/Glycan_metabolism_Cell_Envelope_Biosynthesis_glycans_5697e7.json",
    "reactions": 119,
-   "nodes": 1205,
+   "nodes": 1153,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_155552.json",
    "path": "iG2583_1286/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_155552.json",
    "reactions": 119,
-   "nodes": 802,
+   "nodes": 814,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_f07528.json",
    "path": "iG2583_1286/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_f07528.json",
    "reactions": 118,
-   "nodes": 883,
+   "nodes": 885,
    "combined": false,
    "canvas": false
   },
@@ -141,8 +141,8 @@
    "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; +1 more",
    "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
    "path": "iG2583_1286/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
-   "reactions": 117,
-   "nodes": 1035,
+   "reactions": 116,
+   "nodes": 1020,
    "combined": false,
    "canvas": false
   },
@@ -150,8 +150,8 @@
    "name": "Transport and exchange: Biomass and exchange; Transport; Extracellular exchange (UMP C9H11N2O9P); +1 more",
    "file": "Transport_and_exchange_Biomass_and_exchange_Transport_ba14d6.json",
    "path": "iG2583_1286/Transport_and_exchange_Biomass_and_exchange_Transport_ba14d6.json",
-   "reactions": 117,
-   "nodes": 917,
+   "reactions": 116,
+   "nodes": 912,
    "combined": false,
    "canvas": false
   },
@@ -160,43 +160,43 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_16afa6.json",
    "path": "iG2583_1286/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_16afa6.json",
    "reactions": 114,
-   "nodes": 841,
+   "nodes": 847,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Cis-octadec-11-enoyl; +3)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-enoyl_3.json",
-   "path": "iG2583_1286/Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-enoyl_3.json",
-   "reactions": 114,
-   "nodes": 901,
+   "name": "Lipid metabolism: Glycerophospholipid (Hydrogen peroxide; lipids)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Hydrogen_peroxid_735005.json",
+   "path": "iG2583_1286/Lipid_metabolism_Glycerophospholipid_Hydrogen_peroxid_735005.json",
+   "reactions": 113,
+   "nodes": 834,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Cis-hexadec-9-enoyl; Choline C5H14NO; +1)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Cis-hexadec-9-en_1ba731.json",
-   "path": "iG2583_1286/Lipid_metabolism_Glycerophospholipid_Cis-hexadec-9-en_1ba731.json",
-   "reactions": 101,
-   "nodes": 724,
+   "name": "Lipid metabolism: Glycerophospholipid (lipids); Other lipid",
+   "file": "Lipid_metabolism_Glycerophospholipid_lipids_Other_lipid.json",
+   "path": "iG2583_1286/Lipid_metabolism_Glycerophospholipid_lipids_Other_lipid.json",
+   "reactions": 107,
+   "nodes": 748,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; +1); Other lipid",
-   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_1_Other_lipid.json",
-   "path": "iG2583_1286/Lipid_metabolism_Glycerophospholipid_Glycerol_1_Other_lipid.json",
-   "reactions": 101,
-   "nodes": 725,
+   "name": "Lipid metabolism: Glycerophospholipid (lipids)",
+   "file": "Lipid_metabolism_Glycerophospholipid_lipids.json",
+   "path": "iG2583_1286/Lipid_metabolism_Glycerophospholipid_lipids.json",
+   "reactions": 97,
+   "nodes": 733,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Membrane Lipid; Glycerophospholipid (Tetradecanoyl-phosphate)",
-   "file": "Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_T_551398.json",
-   "path": "iG2583_1286/Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_T_551398.json",
+   "name": "Lipid metabolism: Membrane Lipid; Glycerophospholipid (lipids)",
+   "file": "Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_lipids.json",
+   "path": "iG2583_1286/Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_lipids.json",
    "reactions": 84,
-   "nodes": 584,
+   "nodes": 595,
    "combined": false,
    "canvas": false
   },
@@ -204,8 +204,8 @@
    "name": "Transport and exchange: Transport, Inner Membrane; Transport Inner Membrane",
    "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_601448.json",
    "path": "iG2583_1286/Transport_and_exchange_Transport_Inner_Membrane_Trans_601448.json",
-   "reactions": 74,
-   "nodes": 500,
+   "reactions": 75,
+   "nodes": 506,
    "combined": false,
    "canvas": false
   },
@@ -219,11 +219,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pyruvate; Pentose Phosphate Pathway; Pentose and Glucuronate Interconversions; +2 more",
-   "file": "Carbohydrate_metabolism_Pyruvate_Pentose_Phosphate_Pa_f691ad.json",
-   "path": "iG2583_1286/Carbohydrate_metabolism_Pyruvate_Pentose_Phosphate_Pa_f691ad.json",
-   "reactions": 53,
-   "nodes": 382,
+   "name": "Carbohydrate metabolism: Methylglyoxal; Pentose Phosphate Pathway; +3 more",
+   "file": "Carbohydrate_metabolism_Methylglyoxal_Pentose_Phospha_d8a83c.json",
+   "path": "iG2583_1286/Carbohydrate_metabolism_Methylglyoxal_Pentose_Phospha_d8a83c.json",
+   "reactions": 52,
+   "nodes": 412,
    "combined": false,
    "canvas": false
   },

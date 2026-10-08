@@ -7,25 +7,16 @@
    "file": "iEC55989_1330_Canvas.json",
    "path": "iEC55989_1330/iEC55989_1330_Canvas.json",
    "reactions": 2756,
-   "nodes": 18841,
+   "nodes": 18810,
    "combined": true,
    "canvas": true
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Glycine and Serine",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
-   "path": "iEC55989_1330/Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
-   "reactions": 120,
-   "nodes": 974,
-   "combined": false,
-   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Alternate Carbon (Inosine; sugars and organic acids)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
    "path": "iEC55989_1330/Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
    "reactions": 120,
-   "nodes": 730,
+   "nodes": 744,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +25,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_nucleotides_55e250.json",
    "path": "iEC55989_1330/Carbohydrate_metabolism_Alternate_Carbon_nucleotides_55e250.json",
    "reactions": 120,
-   "nodes": 906,
+   "nodes": 876,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +34,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Acyltransferase_623000.json",
    "path": "iEC55989_1330/Lipid_metabolism_Glycerophospholipid_Acyltransferase_623000.json",
    "reactions": 120,
-   "nodes": 860,
+   "nodes": 832,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +43,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iEC55989_1330/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1071,
+   "nodes": 1061,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +52,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iEC55989_1330/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 481,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +61,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iEC55989_1330/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 486,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +79,16 @@
    "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "path": "iEC55989_1330/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "reactions": 120,
-   "nodes": 729,
+   "nodes": 728,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Glycine and Serine",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
+   "path": "iEC55989_1330/Amino_acid_metabolism_Arginine_and_Proline_Methionine_c1ba92.json",
+   "reactions": 119,
+   "nodes": 921,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +97,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e15819.json",
    "path": "iEC55989_1330/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e15819.json",
    "reactions": 119,
-   "nodes": 862,
+   "nodes": 825,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +106,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Udp-n-ac_f588bb.json",
    "path": "iEC55989_1330/Glycan_metabolism_Cell_Envelope_Biosynthesis_Udp-n-ac_f588bb.json",
    "reactions": 119,
-   "nodes": 1154,
+   "nodes": 1121,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_670228.json",
    "path": "iEC55989_1330/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_670228.json",
    "reactions": 118,
-   "nodes": 930,
+   "nodes": 880,
    "combined": false,
    "canvas": false
   },
@@ -151,16 +151,16 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
    "path": "iEC55989_1330/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_8523d1.json",
    "reactions": 117,
-   "nodes": 853,
+   "nodes": 862,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Phosphatidylglycerophosphate; +1)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_ae5bb7.json",
-   "path": "iEC55989_1330/Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_ae5bb7.json",
+   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Cis-hexadec-9-enoyl; +1)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Cis-hex_b09757.json",
+   "path": "iEC55989_1330/Lipid_metabolism_Glycerophospholipid_Glycerol_Cis-hex_b09757.json",
    "reactions": 116,
-   "nodes": 903,
+   "nodes": 879,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_c3670c.json",
    "path": "iEC55989_1330/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_c3670c.json",
    "reactions": 109,
-   "nodes": 781,
+   "nodes": 775,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_CDP-1_2-didodeca_add800.json",
    "path": "iEC55989_1330/Lipid_metabolism_Glycerophospholipid_CDP-1_2-didodeca_add800.json",
    "reactions": 104,
-   "nodes": 896,
+   "nodes": 880,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Ci_b887f5.json",
    "path": "iEC55989_1330/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Ci_b887f5.json",
    "reactions": 103,
-   "nodes": 1014,
+   "nodes": 989,
    "combined": false,
    "canvas": false
   },
@@ -204,8 +204,8 @@
    "name": "Transport and exchange: Transport, Inner Membrane; Intracellular demand",
    "file": "Transport_and_exchange_Transport_Inner_Membrane_Intra_36bbfb.json",
    "path": "iEC55989_1330/Transport_and_exchange_Transport_Inner_Membrane_Intra_36bbfb.json",
-   "reactions": 72,
-   "nodes": 474,
+   "reactions": 73,
+   "nodes": 483,
    "combined": false,
    "canvas": false
   },

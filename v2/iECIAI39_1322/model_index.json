@@ -7,16 +7,16 @@
    "file": "iECIAI39_1322_Canvas.json",
    "path": "iECIAI39_1322/iECIAI39_1322_Canvas.json",
    "reactions": 2721,
-   "nodes": 18694,
+   "nodes": 18687,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Threonine and Lysine; tRNA Charging; Methionine; Cysteine; +2 more",
-   "file": "Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_aabc48.json",
-   "path": "iECIAI39_1322/Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_aabc48.json",
+   "name": "Amino acid metabolism: Arginine and Proline; Tyrosine, Tryptophan, and Phenylalanine; +2 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_793660.json",
+   "path": "iECIAI39_1322/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_793660.json",
    "reactions": 120,
-   "nodes": 930,
+   "nodes": 1087,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
    "path": "iECIAI39_1322/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
    "reactions": 120,
-   "nodes": 977,
+   "nodes": 924,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_eac0ca.json",
    "path": "iECIAI39_1322/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_eac0ca.json",
    "reactions": 120,
-   "nodes": 849,
+   "nodes": 840,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_glycans_625a5e.json",
    "path": "iECIAI39_1322/Glycan_metabolism_Cell_Envelope_Biosynthesis_glycans_625a5e.json",
    "reactions": 120,
-   "nodes": 1264,
+   "nodes": 1144,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Cis-oct_6df750.json",
    "path": "iECIAI39_1322/Lipid_metabolism_Glycerophospholipid_Glycerol_Cis-oct_6df750.json",
    "reactions": 120,
-   "nodes": 916,
+   "nodes": 952,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iECIAI39_1322/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1099,
+   "nodes": 1102,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iECIAI39_1322/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 482,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +88,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iECIAI39_1322/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 486,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +106,7 @@
    "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "path": "iECIAI39_1322/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "reactions": 120,
-   "nodes": 719,
+   "nodes": 720,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_421b1b.json",
    "path": "iECIAI39_1322/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_421b1b.json",
    "reactions": 117,
-   "nodes": 1148,
+   "nodes": 1153,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_009b26.json",
    "path": "iECIAI39_1322/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_009b26.json",
    "reactions": 117,
-   "nodes": 902,
+   "nodes": 880,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_330d87.json",
    "path": "iECIAI39_1322/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_330d87.json",
    "reactions": 117,
-   "nodes": 856,
+   "nodes": 857,
    "combined": false,
    "canvas": false
   },
@@ -156,11 +156,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Arginine and Proline; Tyrosine, Tryptophan, and Phenylalanine; +1 more",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_c5d98a.json",
-   "path": "iECIAI39_1322/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_c5d98a.json",
-   "reactions": 116,
-   "nodes": 985,
+   "name": "Amino acid metabolism: Threonine and Lysine; tRNA Charging; Methionine; Cysteine; +1 more",
+   "file": "Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_baf50b.json",
+   "path": "iECIAI39_1322/Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_baf50b.json",
+   "reactions": 115,
+   "nodes": 892,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5ba151.json",
    "path": "iECIAI39_1322/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5ba151.json",
    "reactions": 114,
-   "nodes": 847,
+   "nodes": 849,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_CDP-1_2-didodeca_9a3440.json",
    "path": "iECIAI39_1322/Lipid_metabolism_Glycerophospholipid_CDP-1_2-didodeca_9a3440.json",
    "reactions": 112,
-   "nodes": 871,
+   "nodes": 928,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Acyltransferase_7c94a0.json",
    "path": "iECIAI39_1322/Lipid_metabolism_Glycerophospholipid_Acyltransferase_7c94a0.json",
    "reactions": 98,
-   "nodes": 727,
+   "nodes": 740,
    "combined": false,
    "canvas": false
   },
@@ -195,8 +195,8 @@
    "name": "Transport and exchange: Transport, Inner Membrane; Transport Inner Membrane; Exchange; +1 more",
    "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_5ad394.json",
    "path": "iECIAI39_1322/Transport_and_exchange_Transport_Inner_Membrane_Trans_5ad394.json",
-   "reactions": 91,
-   "nodes": 612,
+   "reactions": 92,
+   "nodes": 618,
    "combined": false,
    "canvas": false
   },
@@ -223,7 +223,7 @@
    "file": "Carbohydrate_metabolism_Pyruvate_Citric_Acid_Cycle_Galactose.json",
    "path": "iECIAI39_1322/Carbohydrate_metabolism_Pyruvate_Citric_Acid_Cycle_Galactose.json",
    "reactions": 44,
-   "nodes": 287,
+   "nodes": 292,
    "combined": false,
    "canvas": false
   },

@@ -7,7 +7,7 @@
    "file": "iIS312_Canvas.json",
    "path": "iIS312/iIS312_Canvas.json",
    "reactions": 519,
-   "nodes": 3290,
+   "nodes": 3289,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Pe_637cf9.json",
    "path": "iIS312/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Pe_637cf9.json",
    "reactions": 120,
-   "nodes": 819,
+   "nodes": 807,
    "combined": false,
    "canvas": false
   },
@@ -33,8 +33,8 @@
    "name": "Amino acid metabolism",
    "file": "Amino_acid_metabolism.json",
    "path": "iIS312/Amino_acid_metabolism.json",
-   "reactions": 94,
-   "nodes": 648,
+   "reactions": 92,
+   "nodes": 629,
    "combined": false,
    "canvas": false
   },
@@ -42,8 +42,8 @@
    "name": "Lipid metabolism",
    "file": "Lipid_metabolism.json",
    "path": "iIS312/Lipid_metabolism.json",
-   "reactions": 79,
-   "nodes": 615,
+   "reactions": 81,
+   "nodes": 630,
    "combined": false,
    "canvas": false
   },

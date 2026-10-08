@@ -7,7 +7,7 @@
    "file": "iAF987_Canvas.json",
    "path": "iAF987/iAF987_Canvas.json",
    "reactions": 1285,
-   "nodes": 9207,
+   "nodes": 9176,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_cd2007.json",
    "path": "iAF987/Cofactor_and_vitamin_metabolism_Vitamins_and_Cofactor_cd2007.json",
    "reactions": 120,
-   "nodes": 889,
+   "nodes": 872,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Carbohydrate_metabolism.json",
    "path": "iAF987/Carbohydrate_metabolism.json",
    "reactions": 107,
-   "nodes": 787,
+   "nodes": 782,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange.json",
    "path": "iAF987/Transport_and_exchange_Extracellular_exchange.json",
    "reactions": 97,
-   "nodes": 391,
+   "nodes": 410,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +97,7 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_b982e0.json",
    "path": "iAF987/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_b982e0.json",
    "reactions": 68,
-   "nodes": 473,
+   "nodes": 434,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Xenobiotic_degradation.json",
    "path": "iAF987/Xenobiotic_degradation.json",
    "reactions": 30,
-   "nodes": 299,
+   "nodes": 295,
    "combined": false,
    "canvas": false
   },

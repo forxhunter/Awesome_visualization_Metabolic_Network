@@ -7,7 +7,7 @@
    "file": "iMM1415_Canvas.json",
    "path": "iMM1415/iMM1415_Canvas.json",
    "reactions": 3726,
-   "nodes": 27033,
+   "nodes": 27030,
    "combined": true,
    "canvas": true
   },
@@ -25,7 +25,7 @@
    "file": "Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_e920d3.json",
    "path": "iMM1415/Amino_acid_metabolism_Valine_Leucine_and_Isoleucine_G_e920d3.json",
    "reactions": 120,
-   "nodes": 1092,
+   "nodes": 1093,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_St_bacd57.json",
    "path": "iMM1415/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_St_bacd57.json",
    "reactions": 120,
-   "nodes": 1254,
+   "nodes": 1248,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Carbohydrate_metabolism_Inositol_Phosphate_Pyruvate_P_7ebf01.json",
    "path": "iMM1415/Carbohydrate_metabolism_Inositol_Phosphate_Pyruvate_P_7ebf01.json",
    "reactions": 120,
-   "nodes": 1005,
+   "nodes": 1003,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Folate_Vitamin_A_NAD_ab07ba.json",
    "path": "iMM1415/Cofactor_and_vitamin_metabolism_Folate_Vitamin_A_NAD_ab07ba.json",
    "reactions": 120,
-   "nodes": 961,
+   "nodes": 967,
    "combined": false,
    "canvas": false
   },
@@ -66,11 +66,11 @@
    "canvas": false
   },
   {
-   "name": "Nucleotide metabolism: Nucleotides (Reduced thioredoxin; Thymidine transport Thymd); +2 more",
-   "file": "Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_aaf148.json",
-   "path": "iMM1415/Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_aaf148.json",
+   "name": "Nucleotide metabolism: Nucleotides (Reduced thioredoxin; +2); Pyrimidine Catabolism; Purine Catabolism",
+   "file": "Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_b67f4a.json",
+   "path": "iMM1415/Nucleotide_metabolism_Nucleotides_Reduced_thioredoxin_b67f4a.json",
    "reactions": 120,
-   "nodes": 860,
+   "nodes": 916,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_amino_a_b5f3b7.json",
    "path": "iMM1415/Transport_and_exchange_Extracellular_exchange_amino_a_b5f3b7.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 488,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +88,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_cofacto_48bc43.json",
    "path": "iMM1415/Transport_and_exchange_Extracellular_exchange_cofacto_48bc43.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 483,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Glycan_metabolism_Keratan_sulfate_biosynthesis_Chondr_223dfa.json",
    "path": "iMM1415/Glycan_metabolism_Keratan_sulfate_biosynthesis_Chondr_223dfa.json",
    "reactions": 119,
-   "nodes": 911,
+   "nodes": 912,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Lipid_metabolism_Bile_Acid_Biosynthesis_Fatty_acid_ox_deb8ce.json",
    "path": "iMM1415/Lipid_metabolism_Bile_Acid_Biosynthesis_Fatty_acid_ox_deb8ce.json",
    "reactions": 119,
-   "nodes": 1183,
+   "nodes": 1127,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
    "path": "iMM1415/Lipid_metabolism_Fatty_acid_activation_R_Group_Synthesis.json",
    "reactions": 118,
-   "nodes": 1364,
+   "nodes": 1365,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
    "path": "iMM1415/Amino_acid_metabolism_Urea_cycle_amino_group_Cysteine_94f2c0.json",
    "reactions": 117,
-   "nodes": 820,
+   "nodes": 815,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Transport_and_exchange_Transport_Lysosomal.json",
    "path": "iMM1415/Transport_and_exchange_Transport_Lysosomal.json",
    "reactions": 117,
-   "nodes": 623,
+   "nodes": 611,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +205,7 @@
    "file": "Transport_and_exchange_Transport_Extracellular_Bicarb_58f285.json",
    "path": "iMM1415/Transport_and_exchange_Transport_Extracellular_Bicarb_58f285.json",
    "reactions": 116,
-   "nodes": 660,
+   "nodes": 661,
    "combined": false,
    "canvas": false
   },
@@ -223,7 +223,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Fatty_Acid.json",
    "path": "iMM1415/Lipid_metabolism_Glycerophospholipid_Fatty_Acid.json",
    "reactions": 112,
-   "nodes": 788,
+   "nodes": 786,
    "combined": false,
    "canvas": false
   },
@@ -232,7 +232,7 @@
    "file": "Lipid_metabolism_Steroid_Cholesterol.json",
    "path": "iMM1415/Lipid_metabolism_Steroid_Cholesterol.json",
    "reactions": 109,
-   "nodes": 839,
+   "nodes": 838,
    "combined": false,
    "canvas": false
   },
@@ -241,7 +241,7 @@
    "file": "Transport_and_exchange_Transport_Peroxisomal.json",
    "path": "iMM1415/Transport_and_exchange_Transport_Peroxisomal.json",
    "reactions": 109,
-   "nodes": 624,
+   "nodes": 640,
    "combined": false,
    "canvas": false
   },
@@ -268,7 +268,7 @@
    "file": "Transport_and_exchange_Transport_Extracellular_amino_6d23a9.json",
    "path": "iMM1415/Transport_and_exchange_Transport_Extracellular_amino_6d23a9.json",
    "reactions": 106,
-   "nodes": 764,
+   "nodes": 778,
    "combined": false,
    "canvas": false
   },
@@ -277,7 +277,7 @@
    "file": "Carbohydrate_metabolism_Propanoate_Citric_Acid_Cycle_7cb3cb.json",
    "path": "iMM1415/Carbohydrate_metabolism_Propanoate_Citric_Acid_Cycle_7cb3cb.json",
    "reactions": 99,
-   "nodes": 719,
+   "nodes": 702,
    "combined": false,
    "canvas": false
   },

@@ -7,16 +7,25 @@
    "file": "iEC1364_W_Canvas.json",
    "path": "iEC1364_W/iEC1364_W_Canvas.json",
    "reactions": 2764,
-   "nodes": 19286,
+   "nodes": 19200,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Glutathione; Valine, leucine and isoleucine biosynthesis; Lysine biosynthesis; +8 more",
+   "file": "Amino_acid_metabolism_Glutathione_Valine_leucine_and_c49829.json",
+   "path": "iEC1364_W/Amino_acid_metabolism_Glutathione_Valine_leucine_and_c49829.json",
+   "reactions": 120,
+   "nodes": 831,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Amino acid metabolism: Phenylalanine; Arginine and proline; Aminoacyl-tRNA biosynthesis; +2 more",
    "file": "Amino_acid_metabolism_Phenylalanine_Arginine_and_prol_52f9ae.json",
    "path": "iEC1364_W/Amino_acid_metabolism_Phenylalanine_Arginine_and_prol_52f9ae.json",
    "reactions": 120,
-   "nodes": 969,
+   "nodes": 964,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +34,7 @@
    "file": "Carbohydrate_metabolism_C5-Branched_dibasic_acid_D-ga_9e00f1.json",
    "path": "iEC1364_W/Carbohydrate_metabolism_C5-Branched_dibasic_acid_D-ga_9e00f1.json",
    "reactions": 120,
-   "nodes": 951,
+   "nodes": 967,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +43,7 @@
    "file": "Carbohydrate_metabolism_Galactose_Glycolysis_Gluconeo_4b149b.json",
    "path": "iEC1364_W/Carbohydrate_metabolism_Galactose_Glycolysis_Gluconeo_4b149b.json",
    "reactions": 120,
-   "nodes": 994,
+   "nodes": 1003,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +52,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
    "path": "iEC1364_W/Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
    "reactions": 120,
-   "nodes": 859,
+   "nodes": 861,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +61,7 @@
    "file": "Energy_metabolism_Nitrogen.json",
    "path": "iEC1364_W/Energy_metabolism_Nitrogen.json",
    "reactions": 120,
-   "nodes": 984,
+   "nodes": 1038,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +70,7 @@
    "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "path": "iEC1364_W/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "reactions": 120,
-   "nodes": 856,
+   "nodes": 860,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +79,7 @@
    "file": "Transport_and_exchange_Acyltransferase_Lysophospholipase.json",
    "path": "iEC1364_W/Transport_and_exchange_Acyltransferase_Lysophospholipase.json",
    "reactions": 120,
-   "nodes": 998,
+   "nodes": 1047,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +88,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
    "path": "iEC1364_W/Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 493,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +106,7 @@
    "file": "Transport_and_exchange_Other_transport_and_exchange_Sodium.json",
    "path": "iEC1364_W/Transport_and_exchange_Other_transport_and_exchange_Sodium.json",
    "reactions": 120,
-   "nodes": 683,
+   "nodes": 679,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +133,7 @@
    "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_53766b.json",
    "path": "iEC1364_W/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_53766b.json",
    "reactions": 118,
-   "nodes": 876,
+   "nodes": 859,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +142,7 @@
    "file": "Carbohydrate_metabolism_Pentose_phosphate_pathway_Pro_eb08d9.json",
    "path": "iEC1364_W/Carbohydrate_metabolism_Pentose_phosphate_pathway_Pro_eb08d9.json",
    "reactions": 118,
-   "nodes": 937,
+   "nodes": 951,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +151,7 @@
    "file": "Transport_and_exchange_Iii_Secretion_Transport_sympor_02c7ac.json",
    "path": "iEC1364_W/Transport_and_exchange_Iii_Secretion_Transport_sympor_02c7ac.json",
    "reactions": 118,
-   "nodes": 895,
+   "nodes": 911,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +160,7 @@
    "file": "Nucleotide_metabolism_Purine.json",
    "path": "iEC1364_W/Nucleotide_metabolism_Purine.json",
    "reactions": 117,
-   "nodes": 1267,
+   "nodes": 1273,
    "combined": false,
    "canvas": false
   },
@@ -160,16 +169,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc_D-_2986b3.json",
    "path": "iEC1364_W/Transport_and_exchange_Extracellular_exchange_Zinc_D-_2986b3.json",
    "reactions": 116,
-   "nodes": 544,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Arginine biosynthesis; Valine, leucine and isoleucine biosynthesis; +8 more",
-   "file": "Amino_acid_metabolism_Arginine_biosynthesis_Valine_le_ee5fe4.json",
-   "path": "iEC1364_W/Amino_acid_metabolism_Arginine_biosynthesis_Valine_le_ee5fe4.json",
-   "reactions": 115,
-   "nodes": 822,
+   "nodes": 558,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
    "path": "iEC1364_W/Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
    "reactions": 104,
-   "nodes": 1031,
+   "nodes": 1037,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid.json",
    "path": "iEC1364_W/Lipid_metabolism_Glycerophospholipid.json",
    "reactions": 96,
-   "nodes": 588,
+   "nodes": 603,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "path": "iEC1364_W/Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "reactions": 93,
-   "nodes": 856,
+   "nodes": 861,
    "combined": false,
    "canvas": false
   },
@@ -204,8 +204,8 @@
    "name": "Transport and exchange: Dimethyl sulfide transport; Crotonobetaine transport; +3 more",
    "file": "Transport_and_exchange_Dimethyl_sulfide_transport_Cro_670aca.json",
    "path": "iEC1364_W/Transport_and_exchange_Dimethyl_sulfide_transport_Cro_670aca.json",
-   "reactions": 79,
-   "nodes": 584,
+   "reactions": 80,
+   "nodes": 558,
    "combined": false,
    "canvas": false
   },
@@ -223,7 +223,7 @@
    "file": "Lipid_metabolism_Fatty_acid_degradation_Glycerolipid.json",
    "path": "iEC1364_W/Lipid_metabolism_Fatty_acid_degradation_Glycerolipid.json",
    "reactions": 54,
-   "nodes": 385,
+   "nodes": 387,
    "combined": false,
    "canvas": false
   },
@@ -241,7 +241,7 @@
    "file": "Carbohydrate_metabolism_L-lysine_transport_Fructosely_96134c.json",
    "path": "iEC1364_W/Carbohydrate_metabolism_L-lysine_transport_Fructosely_96134c.json",
    "reactions": 38,
-   "nodes": 260,
+   "nodes": 267,
    "combined": false,
    "canvas": false
   },
@@ -269,15 +269,6 @@
    "path": "iEC1364_W/Terpenoid_and_polyketide_metabolism.json",
    "reactions": 8,
    "nodes": 47,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: beta-Alanine",
-   "file": "Amino_acid_metabolism_beta-Alanine.json",
-   "path": "iEC1364_W/Amino_acid_metabolism_beta-Alanine.json",
-   "reactions": 6,
-   "nodes": 41,
    "combined": false,
    "canvas": false
   },

@@ -7,16 +7,16 @@
    "file": "iHN637_Canvas.json",
    "path": "iHN637/iHN637_Canvas.json",
    "reactions": 785,
-   "nodes": 5018,
+   "nodes": 5040,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Amino Acid; Arginine and Proline; +5 more",
-   "file": "Amino_acid_metabolism_Amino_Acid_Arginine_and_Proline_5_more.json",
-   "path": "iHN637/Amino_acid_metabolism_Amino_Acid_Arginine_and_Proline_5_more.json",
+   "name": "Amino acid metabolism: Amino Acid; Arginine and Proline; +6 more",
+   "file": "Amino_acid_metabolism_Amino_Acid_Arginine_and_Proline_6_more.json",
+   "path": "iHN637/Amino_acid_metabolism_Amino_Acid_Arginine_and_Proline_6_more.json",
    "reactions": 120,
-   "nodes": 935,
+   "nodes": 948,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Nitrate_f86c3a.json",
    "path": "iHN637/Transport_and_exchange_Extracellular_exchange_Nitrate_f86c3a.json",
    "reactions": 111,
-   "nodes": 557,
+   "nodes": 570,
    "combined": false,
    "canvas": false
   },
@@ -51,8 +51,8 @@
    "name": "Cofactor and vitamin metabolism",
    "file": "Cofactor_and_vitamin_metabolism.json",
    "path": "iHN637/Cofactor_and_vitamin_metabolism.json",
-   "reactions": 107,
-   "nodes": 739,
+   "reactions": 96,
+   "nodes": 671,
    "combined": false,
    "canvas": false
   },
@@ -69,8 +69,8 @@
    "name": "Carbohydrate metabolism: SOB reactions; TCA Cycle; Alternate Carbon; +4 more",
    "file": "Carbohydrate_metabolism_SOB_reactions_TCA_Cycle_Alter_bd7245.json",
    "path": "iHN637/Carbohydrate_metabolism_SOB_reactions_TCA_Cycle_Alter_bd7245.json",
-   "reactions": 56,
-   "nodes": 381,
+   "reactions": 57,
+   "nodes": 392,
    "combined": false,
    "canvas": false
   },
@@ -84,20 +84,29 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Histidine; Glycine, serine and threonine; Other amino acid",
-   "file": "Amino_acid_metabolism_Histidine_Glycine_serine_and_th_64d579.json",
-   "path": "iHN637/Amino_acid_metabolism_Histidine_Glycine_serine_and_th_64d579.json",
-   "reactions": 24,
-   "nodes": 145,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Transport and exchange: Biomass and exchange",
    "file": "Transport_and_exchange_Biomass_and_exchange.json",
    "path": "iHN637/Transport_and_exchange_Biomass_and_exchange.json",
    "reactions": 24,
    "nodes": 174,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Histidine; Glycine, serine and threonine",
+   "file": "Amino_acid_metabolism_Histidine_Glycine_serine_and_threonine.json",
+   "path": "iHN637/Amino_acid_metabolism_Histidine_Glycine_serine_and_threonine.json",
+   "reactions": 23,
+   "nodes": 137,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "iHN637/Energy_metabolism.json",
+   "reactions": 11,
+   "nodes": 69,
    "combined": false,
    "canvas": false
   }

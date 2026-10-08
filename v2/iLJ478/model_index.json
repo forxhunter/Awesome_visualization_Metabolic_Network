@@ -7,25 +7,25 @@
    "file": "iLJ478_Canvas.json",
    "path": "iLJ478/iLJ478_Canvas.json",
    "reactions": 652,
-   "nodes": 4341,
+   "nodes": 4355,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Carbohydrate metabolism: Starch; Carbohydrate; Alternate Carbon; Glycolysis/Gluconeogenesis",
+   "file": "Carbohydrate_metabolism_Starch_Carbohydrate_Alternate_4c1b91.json",
+   "path": "iLJ478/Carbohydrate_metabolism_Starch_Carbohydrate_Alternate_4c1b91.json",
+   "reactions": 120,
+   "nodes": 811,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Amino acid metabolism: tRNA; Methionine; Valine, Leucine, and Isoleucine; +8 more",
    "file": "Amino_acid_metabolism_tRNA_Methionine_Valine_Leucine_9b2fdb.json",
    "path": "iLJ478/Amino_acid_metabolism_tRNA_Methionine_Valine_Leucine_9b2fdb.json",
    "reactions": 119,
-   "nodes": 850,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Starch; Carbohydrate; Rhamnose; Other carbohydrate",
-   "file": "Carbohydrate_metabolism_Starch_Carbohydrate_Rhamnose_5049b6.json",
-   "path": "iLJ478/Carbohydrate_metabolism_Starch_Carbohydrate_Rhamnose_5049b6.json",
-   "reactions": 119,
-   "nodes": 829,
+   "nodes": 842,
    "combined": false,
    "canvas": false
   },
@@ -34,16 +34,16 @@
    "file": "Transport_and_exchange.json",
    "path": "iLJ478/Transport_and_exchange.json",
    "reactions": 111,
-   "nodes": 572,
+   "nodes": 579,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Alternate Carbon; Glycolysis/Gluconeogenesis; Cellulose; +5 more",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_Glycolysis_G_eaa483.json",
-   "path": "iLJ478/Carbohydrate_metabolism_Alternate_Carbon_Glycolysis_G_eaa483.json",
-   "reactions": 74,
-   "nodes": 575,
+   "name": "Carbohydrate metabolism: Pyruvate Met; Cellulose; Methylglyoxal Creatinine; Pentose Phosphate Pathway; +5 more",
+   "file": "Carbohydrate_metabolism_Pyruvate_Met_Cellulose_Methyl_cc5453.json",
+   "path": "iLJ478/Carbohydrate_metabolism_Pyruvate_Met_Cellulose_Methyl_cc5453.json",
+   "reactions": 73,
+   "nodes": 484,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iLJ478/Nucleotide_metabolism.json",
    "reactions": 72,
-   "nodes": 608,
+   "nodes": 599,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iLJ478/Lipid_metabolism.json",
    "reactions": 31,
-   "nodes": 417,
+   "nodes": 430,
    "combined": false,
    "canvas": false
   },

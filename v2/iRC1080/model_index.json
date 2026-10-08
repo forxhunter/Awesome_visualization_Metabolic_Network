@@ -7,16 +7,25 @@
    "file": "iRC1080_Canvas.json",
    "path": "iRC1080/iRC1080_Canvas.json",
    "reactions": 2191,
-   "nodes": 17995,
+   "nodes": 17802,
    "combined": true,
    "canvas": true
   },
   {
-   "name": "Amino acid metabolism: Histidine; Selenoamino acid; Arginine and proline; +4 more",
-   "file": "Amino_acid_metabolism_Histidine_Selenoamino_acid_Argi_1a7a05.json",
-   "path": "iRC1080/Amino_acid_metabolism_Histidine_Selenoamino_acid_Argi_1a7a05.json",
+   "name": "Amino acid metabolism: Glycine, serine and threonine; +4 more",
+   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_4_more.json",
+   "path": "iRC1080/Amino_acid_metabolism_Glycine_serine_and_threonine_4_more.json",
    "reactions": 120,
-   "nodes": 813,
+   "nodes": 943,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Methionine; Selenoamino acid; Histidine; +4 more",
+   "file": "Amino_acid_metabolism_Methionine_Selenoamino_acid_His_bdb164.json",
+   "path": "iRC1080/Amino_acid_metabolism_Methionine_Selenoamino_acid_His_bdb164.json",
+   "reactions": 120,
+   "nodes": 839,
    "combined": false,
    "canvas": false
   },
@@ -30,11 +39,29 @@
    "canvas": false
   },
   {
+   "name": "Lipid metabolism: Glycerolipid (Acp substrate Phosphatidate phosphatase; +2)",
+   "file": "Lipid_metabolism_Glycerolipid_Acp_substrate_Phosphati_eb9161.json",
+   "path": "iRC1080/Lipid_metabolism_Glycerolipid_Acp_substrate_Phosphati_eb9161.json",
+   "reactions": 120,
+   "nodes": 1016,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Lipid metabolism: Glycerolipid (Omega desaturase; +1); Sphingolipid",
    "file": "Lipid_metabolism_Glycerolipid_Omega_desaturase_1_Sphi_5320e9.json",
    "path": "iRC1080/Lipid_metabolism_Glycerolipid_Omega_desaturase_1_Sphi_5320e9.json",
    "reactions": 120,
-   "nodes": 1707,
+   "nodes": 1425,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Extracellular exchange; Transport, eyespot",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Extracell_d51970.json",
+   "path": "iRC1080/Transport_and_exchange_Biomass_and_exchange_Extracell_d51970.json",
+   "reactions": 120,
+   "nodes": 1219,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +70,7 @@
    "file": "Transport_and_exchange_Transport_chloroplast_Other_tr_fbee01.json",
    "path": "iRC1080/Transport_and_exchange_Transport_chloroplast_Other_tr_fbee01.json",
    "reactions": 120,
-   "nodes": 634,
+   "nodes": 635,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +79,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_861770.json",
    "path": "iRC1080/Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_861770.json",
    "reactions": 119,
-   "nodes": 929,
+   "nodes": 926,
    "combined": false,
    "canvas": false
   },
@@ -61,34 +88,25 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Fatty_acid.json",
    "path": "iRC1080/Lipid_metabolism_Glycerophospholipid_Fatty_acid.json",
    "reactions": 119,
-   "nodes": 1100,
+   "nodes": 1071,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, mitochondria; Transport, eyespot",
-   "file": "Transport_and_exchange_Transport_mitochondria_Transpo_7dca7c.json",
-   "path": "iRC1080/Transport_and_exchange_Transport_mitochondria_Transpo_7dca7c.json",
-   "reactions": 119,
-   "nodes": 619,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Glycine, serine and threonine; Methionine; +3 more",
-   "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Me_f3611f.json",
-   "path": "iRC1080/Amino_acid_metabolism_Glycine_serine_and_threonine_Me_f3611f.json",
+   "name": "Transport and exchange: Transport, mitochondria; Transport, Golgi",
+   "file": "Transport_and_exchange_Transport_mitochondria_Transpo_125ad8.json",
+   "path": "iRC1080/Transport_and_exchange_Transport_mitochondria_Transpo_125ad8.json",
    "reactions": 118,
-   "nodes": 901,
+   "nodes": 627,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pyruvate; Glycolysis / Gluconeogenesis; Inositol phosphate; TCA cycle",
-   "file": "Carbohydrate_metabolism_Pyruvate_Glycolysis_Gluconeog_b75d09.json",
-   "path": "iRC1080/Carbohydrate_metabolism_Pyruvate_Glycolysis_Gluconeog_b75d09.json",
-   "reactions": 115,
-   "nodes": 828,
+   "name": "Carbohydrate metabolism: Pyruvate; Glycolysis / Gluconeogenesis; Inositol phosphate; TCA cycle; Starch",
+   "file": "Carbohydrate_metabolism_Pyruvate_Glycolysis_Gluconeog_63f48d.json",
+   "path": "iRC1080/Carbohydrate_metabolism_Pyruvate_Glycolysis_Gluconeog_63f48d.json",
+   "reactions": 117,
+   "nodes": 869,
    "combined": false,
    "canvas": false
   },
@@ -97,16 +115,7 @@
    "file": "Lipid_metabolism_Glycerolipid_Phospholipid_diacylglyc_6f0952.json",
    "path": "iRC1080/Lipid_metabolism_Glycerolipid_Phospholipid_diacylglyc_6f0952.json",
    "reactions": 115,
-   "nodes": 1635,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Biomass and exchange; Extracellular exchange; Transport, Golgi",
-   "file": "Transport_and_exchange_Biomass_and_exchange_Extracell_5c6a7a.json",
-   "path": "iRC1080/Transport_and_exchange_Biomass_and_exchange_Extracell_5c6a7a.json",
-   "reactions": 115,
-   "nodes": 1184,
+   "nodes": 1708,
    "combined": false,
    "canvas": false
   },
@@ -114,17 +123,8 @@
    "name": "Lipid metabolism: Fatty acid biosynthesis; Biosynthesis of steroids",
    "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Biosynthesis_119fc1.json",
    "path": "iRC1080/Lipid_metabolism_Fatty_acid_biosynthesis_Biosynthesis_119fc1.json",
-   "reactions": 113,
-   "nodes": 1086,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Glycerolipid (Acp substrate Phosphatidate phosphatase; +2)",
-   "file": "Lipid_metabolism_Glycerolipid_Acp_substrate_Phosphati_eb9161.json",
-   "path": "iRC1080/Lipid_metabolism_Glycerolipid_Acp_substrate_Phosphati_eb9161.json",
-   "reactions": 113,
-   "nodes": 1072,
+   "reactions": 112,
+   "nodes": 1073,
    "combined": false,
    "canvas": false
   },
@@ -156,20 +156,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Cysteine; beta-Alanine; Cysteine and methionine; Alanine and aspartate; Tyrosine; +2 more",
-   "file": "Amino_acid_metabolism_Cysteine_beta-Alanine_Cysteine_c4122b.json",
-   "path": "iRC1080/Amino_acid_metabolism_Cysteine_beta-Alanine_Cysteine_c4122b.json",
-   "reactions": 59,
-   "nodes": 441,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Nucleotide metabolism: Pyrimidine",
    "file": "Nucleotide_metabolism_Pyrimidine.json",
    "path": "iRC1080/Nucleotide_metabolism_Pyrimidine.json",
    "reactions": 59,
-   "nodes": 556,
+   "nodes": 555,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: beta-Alanine; Cysteine and methionine; +5 more",
+   "file": "Amino_acid_metabolism_beta-Alanine_Cysteine_and_methi_f8536e.json",
+   "path": "iRC1080/Amino_acid_metabolism_beta-Alanine_Cysteine_and_methi_f8536e.json",
+   "reactions": 51,
+   "nodes": 361,
    "combined": false,
    "canvas": false
   },
@@ -187,16 +187,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iRC1080/Glycan_metabolism.json",
    "reactions": 51,
-   "nodes": 362,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Starch and sucrose; Glycolysis / Gluconeogenesis;Alanine and aspartate; +2 more",
-   "file": "Carbohydrate_metabolism_Starch_and_sucrose_Glycolysis_e4238b.json",
-   "path": "iRC1080/Carbohydrate_metabolism_Starch_and_sucrose_Glycolysis_e4238b.json",
-   "reactions": 41,
-   "nodes": 281,
+   "nodes": 369,
    "combined": false,
    "canvas": false
   },
@@ -215,6 +206,15 @@
    "path": "iRC1080/Cofactor_and_vitamin_metabolism_One_carbon_pool_by_fo_3ef2f9.json",
    "reactions": 38,
    "nodes": 290,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Starch and sucrose; Glycolysis / Gluconeogenesis;Alanine and aspartate; +1 more",
+   "file": "Carbohydrate_metabolism_Starch_and_sucrose_Glycolysis_c03298.json",
+   "path": "iRC1080/Carbohydrate_metabolism_Starch_and_sucrose_Glycolysis_c03298.json",
+   "reactions": 35,
+   "nodes": 229,
    "combined": false,
    "canvas": false
   },

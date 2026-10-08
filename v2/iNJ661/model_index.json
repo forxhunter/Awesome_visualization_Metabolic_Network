@@ -7,7 +7,7 @@
    "file": "iNJ661_Canvas.json",
    "path": "iNJ661/iNJ661_Canvas.json",
    "reactions": 1025,
-   "nodes": 7318,
+   "nodes": 7271,
    "combined": true,
    "canvas": true
   },
@@ -43,7 +43,7 @@
    "file": "Lipid_metabolism_Fatty_Acid.json",
    "path": "iNJ661/Lipid_metabolism_Fatty_Acid.json",
    "reactions": 109,
-   "nodes": 941,
+   "nodes": 884,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Lipid_metabolism_Membrane.json",
    "path": "iNJ661/Lipid_metabolism_Membrane.json",
    "reactions": 100,
-   "nodes": 792,
+   "nodes": 777,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Transport_and_exchange_Transport_Intracellular_demand.json",
    "path": "iNJ661/Transport_and_exchange_Transport_Intracellular_demand.json",
    "reactions": 94,
-   "nodes": 539,
+   "nodes": 533,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange.json",
    "path": "iNJ661/Transport_and_exchange_Extracellular_exchange.json",
    "reactions": 86,
-   "nodes": 344,
+   "nodes": 352,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iNJ661/Glycan_metabolism.json",
    "reactions": 32,
-   "nodes": 246,
+   "nodes": 260,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Ubiquinone_Biotin.json",
    "path": "iNJ661/Cofactor_and_vitamin_metabolism_Ubiquinone_Biotin.json",
    "reactions": 21,
-   "nodes": 161,
+   "nodes": 157,
    "combined": false,
    "canvas": false
   },

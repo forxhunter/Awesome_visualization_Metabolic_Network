@@ -7,7 +7,7 @@
    "file": "iCN718_Canvas.json",
    "path": "iCN718/iCN718_Canvas.json",
    "reactions": 1014,
-   "nodes": 6872,
+   "nodes": 6892,
    "combined": true,
    "canvas": true
   },
@@ -21,11 +21,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Glyoxylate and dicarboxylate; Glycolysis/ Gluconeogenesis; Pyruvate; Propanoate; +5 more",
-   "file": "Carbohydrate_metabolism_Glyoxylate_and_dicarboxylate_584f46.json",
-   "path": "iCN718/Carbohydrate_metabolism_Glyoxylate_and_dicarboxylate_584f46.json",
+   "name": "Amino acid metabolism: Valine, leucine and isoleucine biosynthesis; Methionine; +9 more",
+   "file": "Amino_acid_metabolism_Valine_leucine_and_isoleucine_b_20d42c.json",
+   "path": "iCN718/Amino_acid_metabolism_Valine_leucine_and_isoleucine_b_20d42c.json",
    "reactions": 119,
-   "nodes": 880,
+   "nodes": 933,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Transport_and_exchange_CIT_transport_Other_transport_4877cd.json",
    "path": "iCN718/Transport_and_exchange_CIT_transport_Other_transport_4877cd.json",
    "reactions": 119,
-   "nodes": 746,
+   "nodes": 745,
    "combined": false,
    "canvas": false
   },
@@ -48,11 +48,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Tryptophan; Valine, leucine and isoleucine biosynthesis; Methionine; +7 more",
-   "file": "Amino_acid_metabolism_Tryptophan_Valine_leucine_and_i_6b33f7.json",
-   "path": "iCN718/Amino_acid_metabolism_Tryptophan_Valine_leucine_and_i_6b33f7.json",
+   "name": "Carbohydrate metabolism: Glyoxylate and dicarboxylate; Glycolysis/ Gluconeogenesis; Pyruvate; TCA cycle; +4 more",
+   "file": "Carbohydrate_metabolism_Glyoxylate_and_dicarboxylate_1df65b.json",
+   "path": "iCN718/Carbohydrate_metabolism_Glyoxylate_and_dicarboxylate_1df65b.json",
    "reactions": 117,
-   "nodes": 909,
+   "nodes": 895,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_efc08a.json",
    "path": "iCN718/Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_efc08a.json",
    "reactions": 115,
-   "nodes": 773,
+   "nodes": 770,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iCN718/Lipid_metabolism.json",
    "reactions": 87,
-   "nodes": 1030,
+   "nodes": 1027,
    "combined": false,
    "canvas": false
   },
@@ -102,11 +102,11 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Aminosugars; Pentose phosphate pathway",
-   "file": "Carbohydrate_metabolism_Aminosugars_Pentose_phosphate_823c53.json",
-   "path": "iCN718/Carbohydrate_metabolism_Aminosugars_Pentose_phosphate_823c53.json",
-   "reactions": 22,
-   "nodes": 148,
+   "name": "Carbohydrate metabolism: Aminosugars; Pentose phosphate pathway; Fructose and mannose",
+   "file": "Carbohydrate_metabolism_Aminosugars_Pentose_phosphate_24579f.json",
+   "path": "iCN718/Carbohydrate_metabolism_Aminosugars_Pentose_phosphate_24579f.json",
+   "reactions": 29,
+   "nodes": 195,
    "combined": false,
    "canvas": false
   },
@@ -120,20 +120,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Glutamate; beta-Alanine",
-   "file": "Amino_acid_metabolism_Glutamate_beta-Alanine.json",
-   "path": "iCN718/Amino_acid_metabolism_Glutamate_beta-Alanine.json",
-   "reactions": 13,
-   "nodes": 106,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Cofactor and vitamin metabolism: Riboflavin",
    "file": "Cofactor_and_vitamin_metabolism_Riboflavin.json",
    "path": "iCN718/Cofactor_and_vitamin_metabolism_Riboflavin.json",
    "reactions": 8,
    "nodes": 47,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: beta-Alanine",
+   "file": "Amino_acid_metabolism_beta-Alanine.json",
+   "path": "iCN718/Amino_acid_metabolism_beta-Alanine.json",
+   "reactions": 6,
+   "nodes": 45,
    "combined": false,
    "canvas": false
   }

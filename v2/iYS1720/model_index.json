@@ -7,7 +7,7 @@
    "file": "iYS1720_Canvas.json",
    "path": "iYS1720/iYS1720_Canvas.json",
    "reactions": 3357,
-   "nodes": 22266,
+   "nodes": 22352,
    "combined": true,
    "canvas": true
   },
@@ -16,16 +16,16 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Aerobactin_s_515913.json",
    "path": "iYS1720/Carbohydrate_metabolism_Alternate_Carbon_Aerobactin_s_515913.json",
    "reactions": 120,
-   "nodes": 728,
+   "nodes": 726,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids); Glycolysis and Gluconeogenesis",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_057e4b.json",
-   "path": "iYS1720/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_057e4b.json",
+   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids); Anaplerotic Reactions",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_38d3b7.json",
+   "path": "iYS1720/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_38d3b7.json",
    "reactions": 120,
-   "nodes": 1142,
+   "nodes": 833,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_3e508b.json",
    "path": "iYS1720/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_3e508b.json",
    "reactions": 120,
-   "nodes": 887,
+   "nodes": 898,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_88b3ff.json",
    "path": "iYS1720/Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_88b3ff.json",
    "reactions": 120,
-   "nodes": 803,
+   "nodes": 739,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_138d91.json",
    "path": "iYS1720/Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_138d91.json",
    "reactions": 120,
-   "nodes": 909,
+   "nodes": 895,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iYS1720/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 934,
+   "nodes": 938,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_glycans_4dad93.json",
    "path": "iYS1720/Transport_and_exchange_Extracellular_exchange_glycans_4dad93.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 482,
    "combined": false,
    "canvas": false
   },
@@ -93,11 +93,20 @@
    "canvas": false
   },
   {
+   "name": "Transport and exchange: Transport, Inner Membrane; +2 more",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_2_more.json",
+   "path": "iYS1720/Transport_and_exchange_Transport_Inner_Membrane_2_more.json",
+   "reactions": 120,
+   "nodes": 835,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Amino acid metabolism: Glycine and Serine; tRNA Charging; Threonine and Lysine; Alanine and Aspartate; +1 more",
    "file": "Amino_acid_metabolism_Glycine_and_Serine_tRNA_Chargin_86af5d.json",
    "path": "iYS1720/Amino_acid_metabolism_Glycine_and_Serine_tRNA_Chargin_86af5d.json",
    "reactions": 119,
-   "nodes": 1056,
+   "nodes": 1060,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +115,7 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_85dde1.json",
    "path": "iYS1720/Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_85dde1.json",
    "reactions": 119,
-   "nodes": 751,
+   "nodes": 752,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +124,7 @@
    "file": "Transport_and_exchange_Biomass_and_exchange_Arabinose_2c4c8b.json",
    "path": "iYS1720/Transport_and_exchange_Biomass_and_exchange_Arabinose_2c4c8b.json",
    "reactions": 119,
-   "nodes": 995,
+   "nodes": 1011,
    "combined": false,
    "canvas": false
   },
@@ -124,16 +133,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_73f260.json",
    "path": "iYS1720/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_73f260.json",
    "reactions": 117,
-   "nodes": 899,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Glycerophospholipid (Acyltransferase Phosphatidylglycerol; +2)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Acyltransferase_b1f1dd.json",
-   "path": "iYS1720/Lipid_metabolism_Glycerophospholipid_Acyltransferase_b1f1dd.json",
-   "reactions": 116,
-   "nodes": 933,
+   "nodes": 940,
    "combined": false,
    "canvas": false
   },
@@ -151,25 +151,16 @@
    "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_787aa2.json",
    "path": "iYS1720/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_787aa2.json",
    "reactions": 116,
-   "nodes": 741,
+   "nodes": 738,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, Inner Membrane (Transport symport Abc system; +3); +2 more",
-   "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_72fa11.json",
-   "path": "iYS1720/Transport_and_exchange_Transport_Inner_Membrane_Trans_72fa11.json",
+   "name": "Transport and exchange: Transport, Outer Membrane Porin (Glycine betaine); aminophosphonate",
+   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_721354.json",
+   "path": "iYS1720/Transport_and_exchange_Transport_Outer_Membrane_Porin_721354.json",
    "reactions": 116,
-   "nodes": 814,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, Outer Membrane Porin (Glycine betaine); +1 more",
-   "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_49178d.json",
-   "path": "iYS1720/Transport_and_exchange_Transport_Outer_Membrane_Porin_49178d.json",
-   "reactions": 116,
-   "nodes": 674,
+   "nodes": 680,
    "combined": false,
    "canvas": false
   },
@@ -178,16 +169,7 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_ac5520.json",
    "path": "iYS1720/Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_ac5520.json",
    "reactions": 115,
-   "nodes": 807,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and Proline; Tyrosine Tryptophan and Phenylalanine; Cysteine",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_94395f.json",
-   "path": "iYS1720/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_94395f.json",
-   "reactions": 114,
-   "nodes": 834,
+   "nodes": 817,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +178,16 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_93b1c4.json",
    "path": "iYS1720/Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_93b1c4.json",
    "reactions": 114,
-   "nodes": 912,
+   "nodes": 911,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Tyrosine Tryptophan and Phenylalanine; Cysteine",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_94395f.json",
+   "path": "iYS1720/Amino_acid_metabolism_Arginine_and_Proline_Tyrosine_T_94395f.json",
+   "reactions": 113,
+   "nodes": 841,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +196,16 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_7f0b24.json",
    "path": "iYS1720/Glycan_metabolism_Lipopolysaccharide_biosynthesis_O-a_7f0b24.json",
    "reactions": 113,
-   "nodes": 877,
+   "nodes": 858,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Acyltransferase Phosphatidylglycerol; +2)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Acyltransferase_b1f1dd.json",
+   "path": "iYS1720/Lipid_metabolism_Glycerophospholipid_Acyltransferase_b1f1dd.json",
+   "reactions": 109,
+   "nodes": 855,
    "combined": false,
    "canvas": false
   },
@@ -214,7 +214,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Min_O-an_974bf1.json",
    "path": "iYS1720/Glycan_metabolism_Cell_Envelope_Biosynthesis_Min_O-an_974bf1.json",
    "reactions": 107,
-   "nodes": 768,
+   "nodes": 777,
    "combined": false,
    "canvas": false
   },
@@ -228,20 +228,20 @@
    "canvas": false
   },
   {
-   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (NMN C11H14N2O8P; Pantothenate; +3); +1 more",
-   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5316db.json",
-   "path": "iYS1720/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5316db.json",
-   "reactions": 89,
-   "nodes": 649,
+   "name": "Carbohydrate metabolism: Glycolysis and Gluconeogenesis; Citric Acid Cycle; Pyruvate; +4 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_and_Gluconeogenesi_c8f991.json",
+   "path": "iYS1720/Carbohydrate_metabolism_Glycolysis_and_Gluconeogenesi_c8f991.json",
+   "reactions": 101,
+   "nodes": 923,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Citric Acid Cycle; Anaplerotic Reactions; Pyruvate; 1 2 Propanediol Catabolism; +3 more",
-   "file": "Carbohydrate_metabolism_Citric_Acid_Cycle_Anaplerotic_65ed97.json",
-   "path": "iYS1720/Carbohydrate_metabolism_Citric_Acid_Cycle_Anaplerotic_65ed97.json",
-   "reactions": 85,
-   "nodes": 662,
+   "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (NMN C11H14N2O8P; Pantothenate; +3); +1 more",
+   "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5316db.json",
+   "path": "iYS1720/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_5316db.json",
+   "reactions": 89,
+   "nodes": 677,
    "combined": false,
    "canvas": false
   },
@@ -267,8 +267,8 @@
    "name": "Lipid metabolism: Glycerophospholipid (Phospholipase phosphatidylethanolamine; +2)",
    "file": "Lipid_metabolism_Glycerophospholipid_Phospholipase_ph_67c6d4.json",
    "path": "iYS1720/Lipid_metabolism_Glycerophospholipid_Phospholipase_ph_67c6d4.json",
-   "reactions": 68,
-   "nodes": 573,
+   "reactions": 67,
+   "nodes": 591,
    "combined": false,
    "canvas": false
   },
@@ -296,15 +296,6 @@
    "path": "iYS1720/Nucleotide_metabolism_Purine_and_Pyrimidine_Biosynthesis.json",
    "reactions": 28,
    "nodes": 207,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: aminophosphonate",
-   "file": "Transport_and_exchange_aminophosphonate.json",
-   "path": "iYS1720/Transport_and_exchange_aminophosphonate.json",
-   "reactions": 11,
-   "nodes": 74,
    "combined": false,
    "canvas": false
   }

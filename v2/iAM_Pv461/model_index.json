@@ -7,7 +7,7 @@
    "file": "iAM_Pv461_Canvas.json",
    "path": "iAM_Pv461/iAM_Pv461_Canvas.json",
    "reactions": 1078,
-   "nodes": 7358,
+   "nodes": 7322,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "path": "iAM_Pv461/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "reactions": 120,
-   "nodes": 1055,
+   "nodes": 1052,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +25,7 @@
    "file": "Transport_and_exchange_Other_transport_and_exchange_E_0463d0.json",
    "path": "iAM_Pv461/Transport_and_exchange_Other_transport_and_exchange_E_0463d0.json",
    "reactions": 120,
-   "nodes": 711,
+   "nodes": 689,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
    "path": "iAM_Pv461/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
    "reactions": 119,
-   "nodes": 860,
+   "nodes": 808,
    "combined": false,
    "canvas": false
   },
@@ -43,16 +43,7 @@
    "file": "Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
    "path": "iAM_Pv461/Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
    "reactions": 119,
-   "nodes": 1044,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); +4 more",
-   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_b0e142.json",
-   "path": "iAM_Pv461/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_b0e142.json",
-   "reactions": 117,
-   "nodes": 788,
+   "nodes": 1054,
    "combined": false,
    "canvas": false
   },
@@ -60,8 +51,17 @@
    "name": "Transport and exchange: Extracellular exchange; Protoporphyrinogen",
    "file": "Transport_and_exchange_Extracellular_exchange_Protopo_c66bd6.json",
    "path": "iAM_Pv461/Transport_and_exchange_Extracellular_exchange_Protopo_c66bd6.json",
-   "reactions": 117,
-   "nodes": 526,
+   "reactions": 118,
+   "nodes": 535,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Inositol phosphate; Glycolysis / Gluconeogenesis; Pentose phosphate pathway; +4 more",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_9021d7.json",
+   "path": "iAM_Pv461/Carbohydrate_metabolism_Inositol_phosphate_Glycolysis_9021d7.json",
+   "reactions": 116,
+   "nodes": 776,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Nucleotide_metabolism.json",
    "path": "iAM_Pv461/Nucleotide_metabolism.json",
    "reactions": 75,
-   "nodes": 484,
+   "nodes": 486,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +88,7 @@
    "file": "Other_metabolism.json",
    "path": "iAM_Pv461/Other_metabolism.json",
    "reactions": 67,
-   "nodes": 438,
+   "nodes": 439,
    "combined": false,
    "canvas": false
   },

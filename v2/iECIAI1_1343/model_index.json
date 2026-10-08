@@ -7,9 +7,36 @@
    "file": "iECIAI1_1343_Canvas.json",
    "path": "iECIAI1_1343/iECIAI1_1343_Canvas.json",
    "reactions": 2765,
-   "nodes": 19285,
+   "nodes": 19305,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and proline; Tyrosine; Aminoacyl-tRNA biosynthesis; +3 more",
+   "file": "Amino_acid_metabolism_Arginine_and_proline_Tyrosine_A_08eb3e.json",
+   "path": "iECIAI1_1343/Amino_acid_metabolism_Arginine_and_proline_Tyrosine_A_08eb3e.json",
+   "reactions": 120,
+   "nodes": 908,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Amino sugar and nucleotide sugar; Biosynthesis of various nucleotide sugars; +6 more",
+   "file": "Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_5bfa10.json",
+   "path": "iECIAI1_1343/Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_5bfa10.json",
+   "reactions": 120,
+   "nodes": 842,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Galactose; Starch and sucrose; Pentose phosphate pathway; Pyruvate",
+   "file": "Carbohydrate_metabolism_Galactose_Starch_and_sucrose_66f3a5.json",
+   "path": "iECIAI1_1343/Carbohydrate_metabolism_Galactose_Starch_and_sucrose_66f3a5.json",
+   "reactions": 120,
+   "nodes": 1072,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Cofactor and vitamin metabolism: Porphyrin; Ubiquinone and other terpenoid-quinone biosynthesis; +3 more",
@@ -25,7 +52,7 @@
    "file": "Transport_and_exchange_Acetate_transport.json",
    "path": "iECIAI1_1343/Transport_and_exchange_Acetate_transport.json",
    "reactions": 120,
-   "nodes": 697,
+   "nodes": 704,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +61,7 @@
    "file": "Transport_and_exchange_Biomass_and_exchange_Transport_9d2489.json",
    "path": "iECIAI1_1343/Transport_and_exchange_Biomass_and_exchange_Transport_9d2489.json",
    "reactions": 120,
-   "nodes": 1036,
+   "nodes": 1041,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +79,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iECIAI1_1343/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 488,
    "combined": false,
    "canvas": false
   },
@@ -70,16 +97,7 @@
    "file": "Transport_and_exchange_Lysophospholipase_Acyltransfer_98b2a9.json",
    "path": "iECIAI1_1343/Transport_and_exchange_Lysophospholipase_Acyltransfer_98b2a9.json",
    "reactions": 120,
-   "nodes": 1282,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Arginine and proline; Tyrosine; Aminoacyl-tRNA biosynthesis; +3 more",
-   "file": "Amino_acid_metabolism_Arginine_and_proline_Tyrosine_A_08eb3e.json",
-   "path": "iECIAI1_1343/Amino_acid_metabolism_Arginine_and_proline_Tyrosine_A_08eb3e.json",
-   "reactions": 119,
-   "nodes": 892,
+   "nodes": 1297,
    "combined": false,
    "canvas": false
   },
@@ -93,20 +111,20 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Starch and sucrose; Galactose; Pentose phosphate pathway; +1 more",
-   "file": "Carbohydrate_metabolism_Starch_and_sucrose_Galactose_6d9735.json",
-   "path": "iECIAI1_1343/Carbohydrate_metabolism_Starch_and_sucrose_Galactose_6d9735.json",
-   "reactions": 119,
-   "nodes": 1212,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Transport and exchange: Iii Secretion; Glycolate; Crotonobetaine transport; D-gluconate transport; +1 more",
    "file": "Transport_and_exchange_Iii_Secretion_Glycolate_Croton_7d9eb8.json",
    "path": "iECIAI1_1343/Transport_and_exchange_Iii_Secretion_Glycolate_Croton_7d9eb8.json",
    "reactions": 119,
-   "nodes": 913,
+   "nodes": 918,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Glycolysis / Gluconeogenesis; +1 more",
+   "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
+   "path": "iECIAI1_1343/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
+   "reactions": 118,
+   "nodes": 940,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +133,7 @@
    "file": "Transport_and_exchange_Lysophospholipase_Acyltransfer_2700ba.json",
    "path": "iECIAI1_1343/Transport_and_exchange_Lysophospholipase_Acyltransfer_2700ba.json",
    "reactions": 118,
-   "nodes": 1226,
+   "nodes": 1235,
    "combined": false,
    "canvas": false
   },
@@ -124,25 +142,7 @@
    "file": "Transport_and_exchange_Salmochelin-s_fe-iii_transport.json",
    "path": "iECIAI1_1343/Transport_and_exchange_Salmochelin-s_fe-iii_transport.json",
    "reactions": 118,
-   "nodes": 744,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Glycolysis / Gluconeogenesis; +1 more",
-   "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
-   "path": "iECIAI1_1343/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
-   "reactions": 117,
-   "nodes": 937,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Pyruvate; Biosynthesis of various nucleotide sugars; Propanoate; +4 more",
-   "file": "Carbohydrate_metabolism_Pyruvate_Biosynthesis_of_vari_c5dfb6.json",
-   "path": "iECIAI1_1343/Carbohydrate_metabolism_Pyruvate_Biosynthesis_of_vari_c5dfb6.json",
-   "reactions": 116,
-   "nodes": 941,
+   "nodes": 732,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Nucleotide_metabolism_Purine.json",
    "path": "iECIAI1_1343/Nucleotide_metabolism_Purine.json",
    "reactions": 113,
-   "nodes": 1297,
+   "nodes": 1292,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid.json",
    "path": "iECIAI1_1343/Lipid_metabolism_Glycerophospholipid.json",
    "reactions": 103,
-   "nodes": 716,
+   "nodes": 714,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
    "path": "iECIAI1_1343/Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
    "reactions": 101,
-   "nodes": 996,
+   "nodes": 994,
    "combined": false,
    "canvas": false
   },
@@ -186,8 +186,8 @@
    "name": "Amino acid metabolism: Lysine biosynthesis; Glutathione; Histidine; +6 more",
    "file": "Amino_acid_metabolism_Lysine_biosynthesis_Glutathione_1d6f15.json",
    "path": "iECIAI1_1343/Amino_acid_metabolism_Lysine_biosynthesis_Glutathione_1d6f15.json",
-   "reactions": 91,
-   "nodes": 602,
+   "reactions": 89,
+   "nodes": 590,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iECIAI1_1343/Glycan_metabolism.json",
    "reactions": 86,
-   "nodes": 576,
+   "nodes": 580,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +205,7 @@
    "file": "Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "path": "iECIAI1_1343/Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "reactions": 86,
-   "nodes": 649,
+   "nodes": 647,
    "combined": false,
    "canvas": false
   },
@@ -214,7 +214,7 @@
    "file": "Energy_metabolism.json",
    "path": "iECIAI1_1343/Energy_metabolism.json",
    "reactions": 85,
-   "nodes": 649,
+   "nodes": 662,
    "combined": false,
    "canvas": false
   },
@@ -237,20 +237,20 @@
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Alpha-d-mannosyl d-glycerate transport; Putrescine; +3 more",
-   "file": "Transport_and_exchange_Alpha-d-mannosyl_d-glycerate_t_80d5db.json",
-   "path": "iECIAI1_1343/Transport_and_exchange_Alpha-d-mannosyl_d-glycerate_t_80d5db.json",
-   "reactions": 44,
-   "nodes": 299,
+   "name": "Transport and exchange: Putrescine; Alpha-d-mannosyl d-glycerate transport; +3 more",
+   "file": "Transport_and_exchange_Putrescine_Alpha-d-mannosyl_d-_97fcee.json",
+   "path": "iECIAI1_1343/Transport_and_exchange_Putrescine_Alpha-d-mannosyl_d-_97fcee.json",
+   "reactions": 45,
+   "nodes": 321,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Ascorbate and aldarate; D-galactose transport; Udp-d-glucuronate D-glucuronate",
-   "file": "Carbohydrate_metabolism_Ascorbate_and_aldarate_D-gala_986e5b.json",
-   "path": "iECIAI1_1343/Carbohydrate_metabolism_Ascorbate_and_aldarate_D-gala_986e5b.json",
-   "reactions": 23,
-   "nodes": 149,
+   "name": "Carbohydrate metabolism: Ascorbate and aldarate; D-galactose transport",
+   "file": "Carbohydrate_metabolism_Ascorbate_and_aldarate_D-gala_d0e316.json",
+   "path": "iECIAI1_1343/Carbohydrate_metabolism_Ascorbate_and_aldarate_D-gala_d0e316.json",
+   "reactions": 17,
+   "nodes": 110,
    "combined": false,
    "canvas": false
   },

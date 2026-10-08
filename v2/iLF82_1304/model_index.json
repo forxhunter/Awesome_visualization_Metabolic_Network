@@ -7,25 +7,25 @@
    "file": "iLF82_1304_Canvas.json",
    "path": "iLF82_1304/iLF82_1304_Canvas.json",
    "reactions": 2726,
-   "nodes": 18532,
+   "nodes": 18411,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; +2 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_7371a0.json",
+   "path": "iLF82_1304/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_7371a0.json",
+   "reactions": 120,
+   "nodes": 1010,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Alternate Carbon (Inosine; sugars and organic acids)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
    "path": "iLF82_1304/Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
    "reactions": 120,
-   "nodes": 794,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids); Glycolysis/Gluconeogenesis; +4 more",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_85fca0.json",
-   "path": "iLF82_1304/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_85fca0.json",
-   "reactions": 120,
-   "nodes": 1108,
+   "nodes": 720,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iLF82_1304/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1096,
+   "nodes": 1117,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iLF82_1304/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 481,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iLF82_1304/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 486,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "path": "iLF82_1304/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "reactions": 120,
-   "nodes": 720,
+   "nodes": 719,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,16 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_glycans_fdf099.json",
    "path": "iLF82_1304/Glycan_metabolism_Cell_Envelope_Biosynthesis_glycans_fdf099.json",
    "reactions": 119,
-   "nodes": 1109,
+   "nodes": 1125,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport, Inner Membrane; Transport; Extracellular exchange (UMP C9H11N2O9P)",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_d25d12.json",
+   "path": "iLF82_1304/Transport_and_exchange_Transport_Inner_Membrane_Trans_d25d12.json",
+   "reactions": 119,
+   "nodes": 745,
    "combined": false,
    "canvas": false
   },
@@ -88,16 +97,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_9e6af4.json",
    "path": "iLF82_1304/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_9e6af4.json",
    "reactions": 118,
-   "nodes": 822,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, Inner Membrane; Transport; Extracellular exchange (UMP C9H11N2O9P)",
-   "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_d25d12.json",
-   "path": "iLF82_1304/Transport_and_exchange_Transport_Inner_Membrane_Trans_d25d12.json",
-   "reactions": 118,
-   "nodes": 739,
+   "nodes": 791,
    "combined": false,
    "canvas": false
   },
@@ -111,20 +111,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Threonine and Lysine; tRNA Charging; Methionine; Cysteine; +1 more",
-   "file": "Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_baf50b.json",
-   "path": "iLF82_1304/Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_baf50b.json",
-   "reactions": 116,
-   "nodes": 887,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids; +1)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e80dae.json",
    "path": "iLF82_1304/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e80dae.json",
    "reactions": 116,
-   "nodes": 858,
+   "nodes": 857,
    "combined": false,
    "canvas": false
   },
@@ -133,16 +124,16 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_009b26.json",
    "path": "iLF82_1304/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_009b26.json",
    "reactions": 116,
-   "nodes": 854,
+   "nodes": 851,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; +1 more",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
-   "path": "iLF82_1304/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
+   "name": "Amino acid metabolism: Threonine and Lysine; tRNA Charging; Methionine; Cysteine; +1 more",
+   "file": "Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_baf50b.json",
+   "path": "iLF82_1304/Amino_acid_metabolism_Threonine_and_Lysine_tRNA_Charg_baf50b.json",
    "reactions": 115,
-   "nodes": 973,
+   "nodes": 884,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +160,16 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-enoyl_3.json",
    "path": "iLF82_1304/Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-enoyl_3.json",
    "reactions": 114,
-   "nodes": 919,
+   "nodes": 915,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids); Glycolysis/Gluconeogenesis; +3 more",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_ea4956.json",
+   "path": "iLF82_1304/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_ea4956.json",
+   "reactions": 113,
+   "nodes": 983,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Phosphatidylglyc_7a9477.json",
    "path": "iLF82_1304/Lipid_metabolism_Glycerophospholipid_Phosphatidylglyc_7a9477.json",
    "reactions": 102,
-   "nodes": 761,
+   "nodes": 747,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Transport_and_exchange_Biomass_and_exchange_Transport_04a7bc.json",
    "path": "iLF82_1304/Transport_and_exchange_Biomass_and_exchange_Transport_04a7bc.json",
    "reactions": 95,
-   "nodes": 798,
+   "nodes": 800,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +205,7 @@
    "file": "Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_T_551398.json",
    "path": "iLF82_1304/Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_T_551398.json",
    "reactions": 92,
-   "nodes": 651,
+   "nodes": 653,
    "combined": false,
    "canvas": false
   },
@@ -214,25 +214,25 @@
    "file": "Energy_metabolism.json",
    "path": "iLF82_1304/Energy_metabolism.json",
    "reactions": 58,
-   "nodes": 378,
+   "nodes": 379,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Alanine and Aspartate; Histidine; Glutamate; Other amino acid",
-   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_ebf2ba.json",
-   "path": "iLF82_1304/Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_ebf2ba.json",
-   "reactions": 45,
-   "nodes": 351,
+   "name": "Carbohydrate metabolism: Pentose Phosphate Pathway; Glycolysis / Gluconeogenesis; Alternate Carbon source; +2 more",
+   "file": "Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Gly_2592bd.json",
+   "path": "iLF82_1304/Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Gly_2592bd.json",
+   "reactions": 49,
+   "nodes": 330,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Pentose Phosphate Pathway; Glycolysis / Gluconeogenesis; Alternate Carbon source; +1 more",
-   "file": "Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Gly_df815c.json",
-   "path": "iLF82_1304/Carbohydrate_metabolism_Pentose_Phosphate_Pathway_Gly_df815c.json",
-   "reactions": 41,
-   "nodes": 275,
+   "name": "Amino acid metabolism: Alanine and Aspartate; Histidine; Glutamate",
+   "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_f7447e.json",
+   "path": "iLF82_1304/Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_f7447e.json",
+   "reactions": 39,
+   "nodes": 304,
    "combined": false,
    "canvas": false
   },

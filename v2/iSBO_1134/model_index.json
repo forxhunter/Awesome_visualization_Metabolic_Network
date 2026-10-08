@@ -7,16 +7,25 @@
    "file": "iSBO_1134_Canvas.json",
    "path": "iSBO_1134/iSBO_1134_Canvas.json",
    "reactions": 2591,
-   "nodes": 17047,
+   "nodes": 17143,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Threonine and Lysine; Glutamate; +1 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_8249d8.json",
+   "path": "iSBO_1134/Amino_acid_metabolism_Arginine_and_Proline_Methionine_8249d8.json",
+   "reactions": 120,
+   "nodes": 1016,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids; Transport symport; +1)",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_854d26.json",
    "path": "iSBO_1134/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_854d26.json",
    "reactions": 120,
-   "nodes": 774,
+   "nodes": 764,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +34,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iSBO_1134/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 483,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +43,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iSBO_1134/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 486,
    "combined": false,
    "canvas": false
   },
@@ -52,25 +61,7 @@
    "file": "Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "path": "iSBO_1134/Transport_and_exchange_Inorganic_Ion_Transport_and_Me_a0f0b5.json",
    "reactions": 120,
-   "nodes": 730,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Transport and exchange: Transport, Inner Membrane; Extracellular exchange (UMP C9H11N2O9P); +1 more",
-   "file": "Transport_and_exchange_Transport_Inner_Membrane_Extra_b9397c.json",
-   "path": "iSBO_1134/Transport_and_exchange_Transport_Inner_Membrane_Extra_b9397c.json",
-   "reactions": 120,
-   "nodes": 696,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Palmitoyl-ACP; +1); Other lipid",
-   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Palmito_ce92c3.json",
-   "path": "iSBO_1134/Lipid_metabolism_Glycerophospholipid_Glycerol_Palmito_ce92c3.json",
-   "reactions": 119,
-   "nodes": 935,
+   "nodes": 714,
    "combined": false,
    "canvas": false
   },
@@ -84,6 +75,15 @@
    "canvas": false
   },
   {
+   "name": "Transport and exchange: Transport, Inner Membrane; Extracellular exchange (UMP C9H11N2O9P); +1 more",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Extra_b9397c.json",
+   "path": "iSBO_1134/Transport_and_exchange_Transport_Inner_Membrane_Extra_b9397c.json",
+   "reactions": 119,
+   "nodes": 704,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Transport and exchange: Transport, Outer Membrane Porin; Intracellular demand",
    "file": "Transport_and_exchange_Transport_Outer_Membrane_Porin_6d637c.json",
    "path": "iSBO_1134/Transport_and_exchange_Transport_Outer_Membrane_Porin_6d637c.json",
@@ -93,20 +93,20 @@
    "canvas": false
   },
   {
-   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids)",
-   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
-   "path": "iSBO_1134/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
-   "reactions": 118,
-   "nodes": 847,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Amino acid metabolism: Glycine and Serine; Tyrosine, Tryptophan, and Phenylalanine; tRNA Charging; +2 more",
    "file": "Amino_acid_metabolism_Glycine_and_Serine_Tyrosine_Try_33c20d.json",
    "path": "iSBO_1134/Amino_acid_metabolism_Glycine_and_Serine_Tyrosine_Try_33c20d.json",
    "reactions": 117,
-   "nodes": 1117,
+   "nodes": 1110,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids)",
+   "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
+   "path": "iSBO_1134/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
+   "reactions": 117,
+   "nodes": 777,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,16 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
    "path": "iSBO_1134/Glycan_metabolism_Cell_Envelope_Biosynthesis_UDP-N-ac_b1cf4a.json",
    "reactions": 117,
-   "nodes": 1210,
+   "nodes": 1178,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Glycerol; Phosphatidylglycerophosphate; +1); Other lipid",
+   "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_84d4f9.json",
+   "path": "iSBO_1134/Lipid_metabolism_Glycerophospholipid_Glycerol_Phospha_84d4f9.json",
+   "reactions": 117,
+   "nodes": 837,
    "combined": false,
    "canvas": false
   },
@@ -129,20 +138,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Arginine and Proline; Methionine; Threonine and Lysine; Glutamate",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Methionine_f1ccc2.json",
-   "path": "iSBO_1134/Amino_acid_metabolism_Arginine_and_Proline_Methionine_f1ccc2.json",
-   "reactions": 116,
-   "nodes": 994,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Biotin; Nmn Adenosylcobalamin; +1)",
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_e6ceb1.json",
    "path": "iSBO_1134/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_e6ceb1.json",
    "reactions": 116,
-   "nodes": 825,
+   "nodes": 822,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_330d87.json",
    "path": "iSBO_1134/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_330d87.json",
    "reactions": 116,
-   "nodes": 879,
+   "nodes": 882,
    "combined": false,
    "canvas": false
   },
@@ -159,8 +159,8 @@
    "name": "Carbohydrate metabolism: Alternate Carbon (sugars and organic acids); Glycolysis/Gluconeogenesis; +2 more",
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_421b1b.json",
    "path": "iSBO_1134/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_421b1b.json",
-   "reactions": 114,
-   "nodes": 786,
+   "reactions": 115,
+   "nodes": 858,
    "combined": false,
    "canvas": false
   },
@@ -169,16 +169,16 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_36d547.json",
    "path": "iSBO_1134/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_36d547.json",
    "reactions": 114,
-   "nodes": 858,
+   "nodes": 811,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Lipid metabolism: Glycerophospholipid (Cis-octadec-11-enoyl; Tetradecanoyl-phosphate; +1)",
-   "file": "Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-e_5a6f92.json",
-   "path": "iSBO_1134/Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-e_5a6f92.json",
-   "reactions": 110,
-   "nodes": 821,
+   "name": "Lipid metabolism: Glycerophospholipid (Cis-octadec-11-enoyl; Transport symport; +1)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-e_d13cd1.json",
+   "path": "iSBO_1134/Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-e_d13cd1.json",
+   "reactions": 111,
+   "nodes": 819,
    "combined": false,
    "canvas": false
   },
@@ -186,8 +186,8 @@
    "name": "Lipid metabolism: Glycerophospholipid (CDP-1,2-didodecanoylglycerol; +3)",
    "file": "Lipid_metabolism_Glycerophospholipid_CDP-1_2-didodeca_add800.json",
    "path": "iSBO_1134/Lipid_metabolism_Glycerophospholipid_CDP-1_2-didodeca_add800.json",
-   "reactions": 101,
-   "nodes": 793,
+   "reactions": 104,
+   "nodes": 826,
    "combined": false,
    "canvas": false
   },
@@ -201,20 +201,20 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Cysteine; 4 hydroxyphenylacetate catabolism; Histidine; Other amino acid",
-   "file": "Amino_acid_metabolism_Cysteine_4_hydroxyphenylacetate_d9f692.json",
-   "path": "iSBO_1134/Amino_acid_metabolism_Cysteine_4_hydroxyphenylacetate_d9f692.json",
-   "reactions": 48,
-   "nodes": 333,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Energy metabolism",
    "file": "Energy_metabolism.json",
    "path": "iSBO_1134/Energy_metabolism.json",
    "reactions": 46,
-   "nodes": 292,
+   "nodes": 283,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Cysteine; 4 hydroxyphenylacetate catabolism; Histidine",
+   "file": "Amino_acid_metabolism_Cysteine_4_hydroxyphenylacetate_6dc118.json",
+   "path": "iSBO_1134/Amino_acid_metabolism_Cysteine_4_hydroxyphenylacetate_6dc118.json",
+   "reactions": 43,
+   "nodes": 298,
    "combined": false,
    "canvas": false
   },

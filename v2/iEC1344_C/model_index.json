@@ -7,7 +7,7 @@
    "file": "iEC1344_C_Canvas.json",
    "path": "iEC1344_C/iEC1344_C_Canvas.json",
    "reactions": 2726,
-   "nodes": 18895,
+   "nodes": 18655,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Amino_acid_metabolism_Phenylalanine_tyrosine_and_tryp_9dbf6d.json",
    "path": "iEC1344_C/Amino_acid_metabolism_Phenylalanine_tyrosine_and_tryp_9dbf6d.json",
    "reactions": 120,
-   "nodes": 919,
+   "nodes": 964,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +25,7 @@
    "file": "Carbohydrate_metabolism_Pyruvate_Biosynthesis_of_vari_df2065.json",
    "path": "iEC1344_C/Carbohydrate_metabolism_Pyruvate_Biosynthesis_of_vari_df2065.json",
    "reactions": 120,
-   "nodes": 1005,
+   "nodes": 1013,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Energy_metabolism_Nitrogen_Other_energy.json",
    "path": "iEC1344_C/Energy_metabolism_Nitrogen_Other_energy.json",
    "reactions": 120,
-   "nodes": 1050,
+   "nodes": 1004,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Transport_and_exchange_Acetate_transport.json",
    "path": "iEC1344_C/Transport_and_exchange_Acetate_transport.json",
    "reactions": 120,
-   "nodes": 688,
+   "nodes": 684,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
    "path": "iEC1344_C/Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
    "reactions": 120,
-   "nodes": 567,
+   "nodes": 550,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
    "path": "iEC1344_C/Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 493,
    "combined": false,
    "canvas": false
   },
@@ -79,7 +79,7 @@
    "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
    "path": "iEC1344_C/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
    "reactions": 119,
-   "nodes": 960,
+   "nodes": 939,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +88,7 @@
    "file": "Transport_and_exchange_Acyl-sn-glycero_phosphoethanol_49fef6.json",
    "path": "iEC1344_C/Transport_and_exchange_Acyl-sn-glycero_phosphoethanol_49fef6.json",
    "reactions": 119,
-   "nodes": 870,
+   "nodes": 856,
    "combined": false,
    "canvas": false
   },
@@ -97,7 +97,7 @@
    "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_5dd48c.json",
    "path": "iEC1344_C/Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_5dd48c.json",
    "reactions": 118,
-   "nodes": 865,
+   "nodes": 851,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +115,7 @@
    "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_552a65.json",
    "path": "iEC1344_C/Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_552a65.json",
    "reactions": 118,
-   "nodes": 1100,
+   "nodes": 1099,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +124,7 @@
    "file": "Transport_and_exchange_Biomass_and_exchange_Iii_Secretion.json",
    "path": "iEC1344_C/Transport_and_exchange_Biomass_and_exchange_Iii_Secretion.json",
    "reactions": 117,
-   "nodes": 1044,
+   "nodes": 1070,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Carbohydrate_metabolism_C5-Branched_dibasic_acid.json",
    "path": "iEC1344_C/Carbohydrate_metabolism_C5-Branched_dibasic_acid.json",
    "reactions": 116,
-   "nodes": 965,
+   "nodes": 832,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "path": "iEC1344_C/Lipid_metabolism_Biosynthesis_of_unsaturated_fatty_acids.json",
    "reactions": 116,
-   "nodes": 828,
+   "nodes": 815,
    "combined": false,
    "canvas": false
   },
@@ -151,16 +151,7 @@
    "file": "Transport_and_exchange_Alpha-d-mannosyl_d-glycerate_t_116f9f.json",
    "path": "iEC1344_C/Transport_and_exchange_Alpha-d-mannosyl_d-glycerate_t_116f9f.json",
    "reactions": 116,
-   "nodes": 836,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Glutathione; Lysine biosynthesis; Valine, leucine and isoleucine degradation; +7 more",
-   "file": "Amino_acid_metabolism_Glutathione_Lysine_biosynthesis_39a1f3.json",
-   "path": "iEC1344_C/Amino_acid_metabolism_Glutathione_Lysine_biosynthesis_39a1f3.json",
-   "reactions": 115,
-   "nodes": 816,
+   "nodes": 761,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +160,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
    "path": "iEC1344_C/Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
    "reactions": 115,
-   "nodes": 828,
+   "nodes": 822,
    "combined": false,
    "canvas": false
   },
@@ -183,11 +174,20 @@
    "canvas": false
   },
   {
+   "name": "Amino acid metabolism: Glutathione; Lysine biosynthesis; Valine, leucine and isoleucine biosynthesis; +7 more",
+   "file": "Amino_acid_metabolism_Glutathione_Lysine_biosynthesis_125add.json",
+   "path": "iEC1344_C/Amino_acid_metabolism_Glutathione_Lysine_biosynthesis_125add.json",
+   "reactions": 114,
+   "nodes": 804,
+   "combined": false,
+   "canvas": false
+  },
+  {
    "name": "Nucleotide metabolism: Purine",
    "file": "Nucleotide_metabolism_Purine.json",
    "path": "iEC1344_C/Nucleotide_metabolism_Purine.json",
    "reactions": 114,
-   "nodes": 1303,
+   "nodes": 1247,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +205,7 @@
    "file": "Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "path": "iEC1344_C/Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "reactions": 95,
-   "nodes": 737,
+   "nodes": 718,
    "combined": false,
    "canvas": false
   },
@@ -222,8 +222,8 @@
    "name": "Transport and exchange: Guanine dinucleotide synthase; Ornithine Putrescine",
    "file": "Transport_and_exchange_Guanine_dinucleotide_synthase_808963.json",
    "path": "iEC1344_C/Transport_and_exchange_Guanine_dinucleotide_synthase_808963.json",
-   "reactions": 26,
-   "nodes": 185,
+   "reactions": 27,
+   "nodes": 193,
    "combined": false,
    "canvas": false
   },

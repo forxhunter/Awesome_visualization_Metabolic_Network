@@ -7,16 +7,25 @@
    "file": "iUMNK88_1353_Canvas.json",
    "path": "iUMNK88_1353/iUMNK88_1353_Canvas.json",
    "reactions": 2777,
-   "nodes": 19200,
+   "nodes": 19059,
    "combined": true,
    "canvas": true
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; +1 more",
+   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
+   "path": "iUMNK88_1353/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_939199.json",
+   "reactions": 120,
+   "nodes": 1052,
+   "combined": false,
+   "canvas": false
   },
   {
    "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (Iii; cofactors and vitamins)",
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_360186.json",
    "path": "iUMNK88_1353/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_360186.json",
    "reactions": 120,
-   "nodes": 812,
+   "nodes": 813,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +34,7 @@
    "file": "Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "path": "iUMNK88_1353/Nucleotide_metabolism_Nucleotide_Salvage_Pathway.json",
    "reactions": 120,
-   "nodes": 1067,
+   "nodes": 1066,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +43,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "path": "iUMNK88_1353/Transport_and_exchange_Extracellular_exchange_Xanthosine.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 481,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +52,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iUMNK88_1353/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 487,
    "combined": false,
    "canvas": false
   },
@@ -52,14 +61,14 @@
    "file": "Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
    "path": "iUMNK88_1353/Transport_and_exchange_Extracellular_exchange_sugars_ae000b.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 481,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Transport, Inner Membrane; Transport; Exchange; Transport Inner Membrane; +1 more",
-   "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_e4ad20.json",
-   "path": "iUMNK88_1353/Transport_and_exchange_Transport_Inner_Membrane_Trans_e4ad20.json",
+   "name": "Transport and exchange: Transport, Inner Membrane; Transport; Exchange; Transport Inner Membrane",
+   "file": "Transport_and_exchange_Transport_Inner_Membrane_Trans_55fc6b.json",
+   "path": "iUMNK88_1353/Transport_and_exchange_Transport_Inner_Membrane_Trans_55fc6b.json",
    "reactions": 120,
    "nodes": 824,
    "combined": false,
@@ -75,20 +84,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Arginine and Proline; Glycine and Serine; tRNA Charging",
-   "file": "Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_d079aa.json",
-   "path": "iUMNK88_1353/Amino_acid_metabolism_Arginine_and_Proline_Glycine_an_d079aa.json",
-   "reactions": 119,
-   "nodes": 965,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Cofactor and vitamin metabolism: Cofactor and Prosthetic Group Biosynthesis (cofactors and vitamins)",
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_63d23e.json",
    "path": "iUMNK88_1353/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_63d23e.json",
    "reactions": 119,
-   "nodes": 883,
+   "nodes": 872,
    "combined": false,
    "canvas": false
   },
@@ -97,16 +97,7 @@
    "file": "Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_597602.json",
    "path": "iUMNK88_1353/Glycan_metabolism_Cell_Envelope_Biosynthesis_Acyl-car_597602.json",
    "reactions": 119,
-   "nodes": 1234,
-   "combined": false,
-   "canvas": false
-  },
-  {
-   "name": "Amino acid metabolism: Tyrosine, Tryptophan, and Phenylalanine; Threonine and Lysine; Cysteine; +2 more",
-   "file": "Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_d6f70b.json",
-   "path": "iUMNK88_1353/Amino_acid_metabolism_Tyrosine_Tryptophan_and_Phenyla_d6f70b.json",
-   "reactions": 118,
-   "nodes": 827,
+   "nodes": 1167,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +106,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
    "path": "iUMNK88_1353/Carbohydrate_metabolism_Alternate_Carbon_Inosine_suga_b85497.json",
    "reactions": 118,
-   "nodes": 710,
+   "nodes": 738,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +115,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e80dae.json",
    "path": "iUMNK88_1353/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_e80dae.json",
    "reactions": 118,
-   "nodes": 968,
+   "nodes": 851,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +124,16 @@
    "file": "Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_155552.json",
    "path": "iUMNK88_1353/Glycan_metabolism_Lipopolysaccharide_Biosynthesis_Rec_155552.json",
    "reactions": 117,
-   "nodes": 783,
+   "nodes": 775,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: tRNA Charging; Threonine and Lysine; Cysteine; Methionine; +1 more",
+   "file": "Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_86c62a.json",
+   "path": "iUMNK88_1353/Amino_acid_metabolism_tRNA_Charging_Threonine_and_Lys_86c62a.json",
+   "reactions": 116,
+   "nodes": 901,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
    "path": "iUMNK88_1353/Carbohydrate_metabolism_Alternate_Carbon_sugars_and_o_810384.json",
    "reactions": 116,
-   "nodes": 833,
+   "nodes": 827,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-enoyl_3.json",
    "path": "iUMNK88_1353/Lipid_metabolism_Glycerophospholipid_Cis-octadec-11-enoyl_3.json",
    "reactions": 114,
-   "nodes": 906,
+   "nodes": 921,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Carbohydrate_metabolism_Alternate_Carbon_Lps_core_Tau_bb92ed.json",
    "path": "iUMNK88_1353/Carbohydrate_metabolism_Alternate_Carbon_Lps_core_Tau_bb92ed.json",
    "reactions": 113,
-   "nodes": 811,
+   "nodes": 769,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Glutathione_Phos_34c29d.json",
    "path": "iUMNK88_1353/Lipid_metabolism_Glycerophospholipid_Glutathione_Phos_34c29d.json",
    "reactions": 107,
-   "nodes": 796,
+   "nodes": 803,
    "combined": false,
    "canvas": false
   },
@@ -178,7 +178,7 @@
    "file": "Carbohydrate_metabolism_Pyruvate_Citric_Acid_Cycle_Me_91ddce.json",
    "path": "iUMNK88_1353/Carbohydrate_metabolism_Pyruvate_Citric_Acid_Cycle_Me_91ddce.json",
    "reactions": 104,
-   "nodes": 798,
+   "nodes": 832,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Glycerol_1.json",
    "path": "iUMNK88_1353/Lipid_metabolism_Glycerophospholipid_Glycerol_1.json",
    "reactions": 99,
-   "nodes": 712,
+   "nodes": 701,
    "combined": false,
    "canvas": false
   },
@@ -196,16 +196,16 @@
    "file": "Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_T_551398.json",
    "path": "iUMNK88_1353/Lipid_metabolism_Membrane_Lipid_Glycerophospholipid_T_551398.json",
    "reactions": 95,
-   "nodes": 681,
+   "nodes": 673,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Biomass and exchange; Intracellular demand",
-   "file": "Transport_and_exchange_Biomass_and_exchange_Intracell_56f0d2.json",
-   "path": "iUMNK88_1353/Transport_and_exchange_Biomass_and_exchange_Intracell_56f0d2.json",
-   "reactions": 78,
-   "nodes": 684,
+   "name": "Transport and exchange: Biomass and exchange; Intracellular demand; Other transport and exchange",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Intracell_c85144.json",
+   "path": "iUMNK88_1353/Transport_and_exchange_Biomass_and_exchange_Intracell_c85144.json",
+   "reactions": 79,
+   "nodes": 695,
    "combined": false,
    "canvas": false
   },
@@ -223,7 +223,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_034c2e.json",
    "path": "iUMNK88_1353/Cofactor_and_vitamin_metabolism_Cofactor_and_Prosthet_034c2e.json",
    "reactions": 53,
-   "nodes": 409,
+   "nodes": 425,
    "combined": false,
    "canvas": false
   },
@@ -241,7 +241,7 @@
    "file": "Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_ebf2ba.json",
    "path": "iUMNK88_1353/Amino_acid_metabolism_Alanine_and_Aspartate_Histidine_ebf2ba.json",
    "reactions": 45,
-   "nodes": 350,
+   "nodes": 333,
    "combined": false,
    "canvas": false
   },

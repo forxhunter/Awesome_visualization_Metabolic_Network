@@ -7,7 +7,7 @@
    "file": "iEC1368_DH5a_Canvas.json",
    "path": "iEC1368_DH5a/iEC1368_DH5a_Canvas.json",
    "reactions": 2779,
-   "nodes": 19231,
+   "nodes": 19385,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_796b22.json",
    "path": "iEC1368_DH5a/Amino_acid_metabolism_Glycine_serine_and_threonine_Cy_796b22.json",
    "reactions": 120,
-   "nodes": 882,
+   "nodes": 884,
    "combined": false,
    "canvas": false
   },
@@ -34,7 +34,7 @@
    "file": "Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
    "path": "iEC1368_DH5a/Cofactor_and_vitamin_metabolism_Porphyrin_Ubiquinone_a32b15.json",
    "reactions": 120,
-   "nodes": 831,
+   "nodes": 837,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Energy_metabolism_Nitrogen.json",
    "path": "iEC1368_DH5a/Energy_metabolism_Nitrogen.json",
    "reactions": 120,
-   "nodes": 1004,
+   "nodes": 1045,
    "combined": false,
    "canvas": false
   },
@@ -52,7 +52,7 @@
    "file": "Transport_and_exchange_Acetate_transport.json",
    "path": "iEC1368_DH5a/Transport_and_exchange_Acetate_transport.json",
    "reactions": 120,
-   "nodes": 689,
+   "nodes": 685,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
    "path": "iEC1368_DH5a/Transport_and_exchange_Extracellular_exchange_Zinc_Cr_5ef915.json",
    "reactions": 120,
-   "nodes": 553,
+   "nodes": 550,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
    "path": "iEC1368_DH5a/Transport_and_exchange_Extracellular_exchange_nucleot_fad5d6.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 493,
    "combined": false,
    "canvas": false
   },
@@ -84,20 +84,11 @@
    "canvas": false
   },
   {
-   "name": "Amino acid metabolism: Phenylalanine, tyrosine and tryptophan biosynthesis; Arginine and proline; +4 more",
-   "file": "Amino_acid_metabolism_Phenylalanine_tyrosine_and_tryp_9dbf6d.json",
-   "path": "iEC1368_DH5a/Amino_acid_metabolism_Phenylalanine_tyrosine_and_tryp_9dbf6d.json",
-   "reactions": 119,
-   "nodes": 976,
-   "combined": false,
-   "canvas": false
-  },
-  {
    "name": "Carbohydrate metabolism: Pentose and glucuronate interconversions; Glycolysis / Gluconeogenesis; +1 more",
    "file": "Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
    "path": "iEC1368_DH5a/Carbohydrate_metabolism_Pentose_and_glucuronate_inter_0198aa.json",
    "reactions": 119,
-   "nodes": 1175,
+   "nodes": 1165,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +97,7 @@
    "file": "Lipid_metabolism_Glycerophospholipid_Fatty_acid_degradation.json",
    "path": "iEC1368_DH5a/Lipid_metabolism_Glycerophospholipid_Fatty_acid_degradation.json",
    "reactions": 119,
-   "nodes": 796,
+   "nodes": 763,
    "combined": false,
    "canvas": false
   },
@@ -115,7 +106,7 @@
    "file": "Transport_and_exchange_Acyltransferase_Lysophospholip_aece4a.json",
    "path": "iEC1368_DH5a/Transport_and_exchange_Acyltransferase_Lysophospholip_aece4a.json",
    "reactions": 119,
-   "nodes": 975,
+   "nodes": 987,
    "combined": false,
    "canvas": false
   },
@@ -124,7 +115,16 @@
    "file": "Transport_and_exchange_Biomass_and_exchange_Alpha-d-m_f1a1f4.json",
    "path": "iEC1368_DH5a/Transport_and_exchange_Biomass_and_exchange_Alpha-d-m_f1a1f4.json",
    "reactions": 119,
-   "nodes": 1052,
+   "nodes": 1033,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Phenylalanine, tyrosine and tryptophan biosynthesis; Arginine and proline; +4 more",
+   "file": "Amino_acid_metabolism_Phenylalanine_tyrosine_and_tryp_9dbf6d.json",
+   "path": "iEC1368_DH5a/Amino_acid_metabolism_Phenylalanine_tyrosine_and_tryp_9dbf6d.json",
+   "reactions": 118,
+   "nodes": 958,
    "combined": false,
    "canvas": false
   },
@@ -133,7 +133,7 @@
    "file": "Nucleotide_metabolism_Purine.json",
    "path": "iEC1368_DH5a/Nucleotide_metabolism_Purine.json",
    "reactions": 118,
-   "nodes": 1367,
+   "nodes": 1371,
    "combined": false,
    "canvas": false
   },
@@ -142,7 +142,7 @@
    "file": "Transport_and_exchange_Acyltransferase_Lysophospholip_312431.json",
    "path": "iEC1368_DH5a/Transport_and_exchange_Acyltransferase_Lysophospholip_312431.json",
    "reactions": 118,
-   "nodes": 884,
+   "nodes": 888,
    "combined": false,
    "canvas": false
   },
@@ -151,7 +151,7 @@
    "file": "Amino_acid_metabolism_Glutathione_Valine_leucine_and_01b4b3.json",
    "path": "iEC1368_DH5a/Amino_acid_metabolism_Glutathione_Valine_leucine_and_01b4b3.json",
    "reactions": 117,
-   "nodes": 814,
+   "nodes": 813,
    "combined": false,
    "canvas": false
   },
@@ -160,7 +160,7 @@
    "file": "Transport_and_exchange_Aminopenicillanic_acid_transpo_b0e595.json",
    "path": "iEC1368_DH5a/Transport_and_exchange_Aminopenicillanic_acid_transpo_b0e595.json",
    "reactions": 117,
-   "nodes": 726,
+   "nodes": 713,
    "combined": false,
    "canvas": false
   },
@@ -169,7 +169,7 @@
    "file": "Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_b52f67.json",
    "path": "iEC1368_DH5a/Carbohydrate_metabolism_Amino_sugar_and_nucleotide_su_b52f67.json",
    "reactions": 116,
-   "nodes": 911,
+   "nodes": 906,
    "combined": false,
    "canvas": false
   },
@@ -177,8 +177,8 @@
    "name": "Transport and exchange: Iii Secretion; Dimethyl sulfide transport; Ornithine Putrescine; +2 more",
    "file": "Transport_and_exchange_Iii_Secretion_Dimethyl_sulfide_87cbdc.json",
    "path": "iEC1368_DH5a/Transport_and_exchange_Iii_Secretion_Dimethyl_sulfide_87cbdc.json",
-   "reactions": 112,
-   "nodes": 837,
+   "reactions": 113,
+   "nodes": 821,
    "combined": false,
    "canvas": false
   },
@@ -187,7 +187,7 @@
    "file": "Lipid_metabolism_Core_oligosaccharide_lipid_transport.json",
    "path": "iEC1368_DH5a/Lipid_metabolism_Core_oligosaccharide_lipid_transport.json",
    "reactions": 110,
-   "nodes": 891,
+   "nodes": 879,
    "combined": false,
    "canvas": false
   },
@@ -196,7 +196,7 @@
    "file": "Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
    "path": "iEC1368_DH5a/Lipid_metabolism_Fatty_acid_biosynthesis_Fatty_acid_e_4375a3.json",
    "reactions": 102,
-   "nodes": 981,
+   "nodes": 972,
    "combined": false,
    "canvas": false
   },
@@ -205,7 +205,7 @@
    "file": "Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "path": "iEC1368_DH5a/Nucleotide_metabolism_Pyrimidine_Ribonucleoside-triph_a6058b.json",
    "reactions": 97,
-   "nodes": 864,
+   "nodes": 858,
    "combined": false,
    "canvas": false
   },
@@ -214,7 +214,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iEC1368_DH5a/Glycan_metabolism.json",
    "reactions": 66,
-   "nodes": 430,
+   "nodes": 428,
    "combined": false,
    "canvas": false
   },
@@ -250,7 +250,7 @@
    "file": "Carbohydrate_metabolism_Inositol_phosphate_D-galactos_bb9dc4.json",
    "path": "iEC1368_DH5a/Carbohydrate_metabolism_Inositol_phosphate_D-galactos_bb9dc4.json",
    "reactions": 22,
-   "nodes": 152,
+   "nodes": 151,
    "combined": false,
    "canvas": false
   },

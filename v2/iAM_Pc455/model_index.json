@@ -7,7 +7,7 @@
    "file": "iAM_Pc455_Canvas.json",
    "path": "iAM_Pc455/iAM_Pc455_Canvas.json",
    "reactions": 1074,
-   "nodes": 7448,
+   "nodes": 7254,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
    "path": "iAM_Pc455/Lipid_metabolism_Diacylglycerol_plasmodium_transport.json",
    "reactions": 120,
-   "nodes": 1107,
+   "nodes": 1146,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +25,7 @@
    "file": "Lipid_metabolism_Phosphatidyl.json",
    "path": "iAM_Pc455/Lipid_metabolism_Phosphatidyl.json",
    "reactions": 120,
-   "nodes": 909,
+   "nodes": 915,
    "combined": false,
    "canvas": false
   },
@@ -34,16 +34,16 @@
    "file": "Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
    "path": "iAM_Pc455/Amino_acid_metabolism_Phenylalanine_Cysteine_and_meth_0f4ee6.json",
    "reactions": 119,
-   "nodes": 850,
+   "nodes": 813,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Apicoplast",
-   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
-   "path": "iAM_Pc455/Transport_and_exchange_Extracellular_exchange_Biomass_1d926e.json",
+   "name": "Transport and exchange: Extracellular exchange; Biomass and exchange; Pyruvate",
+   "file": "Transport_and_exchange_Extracellular_exchange_Biomass_220449.json",
+   "path": "iAM_Pc455/Transport_and_exchange_Extracellular_exchange_Biomass_220449.json",
    "reactions": 119,
-   "nodes": 622,
+   "nodes": 630,
    "combined": false,
    "canvas": false
   },
@@ -52,16 +52,16 @@
    "file": "Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
    "path": "iAM_Pc455/Cofactor_and_vitamin_metabolism_Nicotinamide_adenine_cb4d10.json",
    "reactions": 117,
-   "nodes": 712,
+   "nodes": 719,
    "combined": false,
    "canvas": false
   },
   {
-   "name": "Transport and exchange: Acyl-carrier-protein; Dagpf; Intracellular demand; Pyruvate; +1 more",
-   "file": "Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_cdfe1b.json",
-   "path": "iAM_Pc455/Transport_and_exchange_Acyl-carrier-protein_Dagpf_Int_cdfe1b.json",
-   "reactions": 103,
-   "nodes": 616,
+   "name": "Transport and exchange: Acyl-carrier-protein; Dagpf; Apicoplast; Intracellular demand; +1 more",
+   "file": "Transport_and_exchange_Acyl-carrier-protein_Dagpf_Api_cbf7db.json",
+   "path": "iAM_Pc455/Transport_and_exchange_Acyl-carrier-protein_Dagpf_Api_cbf7db.json",
+   "reactions": 106,
+   "nodes": 633,
    "combined": false,
    "canvas": false
   },
@@ -78,8 +78,8 @@
    "name": "Carbohydrate metabolism",
    "file": "Carbohydrate_metabolism.json",
    "path": "iAM_Pc455/Carbohydrate_metabolism.json",
-   "reactions": 88,
-   "nodes": 580,
+   "reactions": 87,
+   "nodes": 570,
    "combined": false,
    "canvas": false
   },
@@ -87,8 +87,8 @@
    "name": "Nucleotide metabolism",
    "file": "Nucleotide_metabolism.json",
    "path": "iAM_Pc455/Nucleotide_metabolism.json",
-   "reactions": 84,
-   "nodes": 569,
+   "reactions": 82,
+   "nodes": 523,
    "combined": false,
    "canvas": false
   },
@@ -106,7 +106,7 @@
    "file": "Glycan_metabolism.json",
    "path": "iAM_Pc455/Glycan_metabolism.json",
    "reactions": 21,
-   "nodes": 232,
+   "nodes": 161,
    "combined": false,
    "canvas": false
   },

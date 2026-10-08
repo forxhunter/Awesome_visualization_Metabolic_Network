@@ -7,7 +7,7 @@
    "file": "iCN900_Canvas.json",
    "path": "iCN900/iCN900_Canvas.json",
    "reactions": 1229,
-   "nodes": 9059,
+   "nodes": 9062,
    "combined": true,
    "canvas": true
   },
@@ -16,7 +16,7 @@
    "file": "Transport_and_exchange_Biomass_and_exchange_ATP-drive_ab6b2d.json",
    "path": "iCN900/Transport_and_exchange_Biomass_and_exchange_ATP-drive_ab6b2d.json",
    "reactions": 120,
-   "nodes": 907,
+   "nodes": 906,
    "combined": false,
    "canvas": false
   },
@@ -25,7 +25,7 @@
    "file": "Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "path": "iCN900/Transport_and_exchange_Extracellular_exchange_Zinc.json",
    "reactions": 120,
-   "nodes": 480,
+   "nodes": 492,
    "combined": false,
    "canvas": false
   },
@@ -43,7 +43,7 @@
    "file": "Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Fr_a1eb34.json",
    "path": "iCN900/Carbohydrate_metabolism_Glycolysis_Gluconeogenesis_Fr_a1eb34.json",
    "reactions": 118,
-   "nodes": 1279,
+   "nodes": 1259,
    "combined": false,
    "canvas": false
   },
@@ -61,7 +61,7 @@
    "file": "Amino_acid_metabolism_Cysteine_and_methionine_Alanine_964079.json",
    "path": "iCN900/Amino_acid_metabolism_Cysteine_and_methionine_Alanine_964079.json",
    "reactions": 116,
-   "nodes": 973,
+   "nodes": 966,
    "combined": false,
    "canvas": false
   },
@@ -70,7 +70,7 @@
    "file": "Lipid_metabolism.json",
    "path": "iCN900/Lipid_metabolism.json",
    "reactions": 116,
-   "nodes": 1512,
+   "nodes": 1521,
    "combined": false,
    "canvas": false
   },
@@ -88,7 +88,7 @@
    "file": "Carbohydrate_metabolism_Pentose_phosphate_pathway_Ami_fedaa0.json",
    "path": "iCN900/Carbohydrate_metabolism_Pentose_phosphate_pathway_Ami_fedaa0.json",
    "reactions": 79,
-   "nodes": 685,
+   "nodes": 682,
    "combined": false,
    "canvas": false
   },
