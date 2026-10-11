@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-10-08",
+ "generated": "2026-10-11",
  "base_url": "https://raw.githubusercontent.com/forxhunter/Awesome_visualization_Metabolic_Network/main/v2/",
  "models": [
   {
@@ -32,6 +32,16 @@
    "species": "Salmonella enterica",
    "common_name": "Salmonella",
    "search": "stm_v1_0 salmonella enterica subsp. enterica serovar typhimurium str. lt2 salmonella enterica salmonella"
+  },
+  {
+   "id": "Yeast9",
+   "index": "Yeast9/model_index.json",
+   "map_count": 44,
+   "reactions": 4105,
+   "organism": "Saccharomyces cerevisiae S288C",
+   "species": "Saccharomyces cerevisiae",
+   "common_name": "baker's yeast",
+   "search": "yeast9 saccharomyces cerevisiae s288c saccharomyces cerevisiae baker's yeast"
   },
   {
    "id": "e_coli_core",
@@ -1084,5 +1094,5 @@
    "search": "ic_1306 escherichia coli cft073 escherichia coli e. coli"
   }
  ],
- "map_count": 2870
+ "map_count": 2914
 }

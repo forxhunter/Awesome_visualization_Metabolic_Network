@@ -1,0 +1,402 @@
+{
+ "schema": 1,
+ "id": "Yeast9",
+ "maps": [
+  {
+   "name": "Yeast9 - Saccharomyces cerevisiae (baker's yeast)",
+   "file": "Yeast9_Canvas.json",
+   "path": "Yeast9/Yeast9_Canvas.json",
+   "reactions": 4105,
+   "nodes": 29227,
+   "combined": true,
+   "canvas": true
+  },
+  {
+   "name": "Carbohydrate metabolism: Inositol phosphate (Phosphatidylinositol kinase; +2); Pyruvate; Methylglyoxal",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_Phosphatid_a95bb9.json",
+   "path": "Yeast9/Carbohydrate_metabolism_Inositol_phosphate_Phosphatid_a95bb9.json",
+   "reactions": 120,
+   "nodes": 763,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Mlcl acyltransferase)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Mlcl_acyltransferase.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerophospholipid_Mlcl_acyltransferase.json",
+   "reactions": 120,
+   "nodes": 1570,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Transport membrane-golgi; Mlcl acyltransferase; +1)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Transport_membra_416d29.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerophospholipid_Transport_membra_416d29.json",
+   "reactions": 120,
+   "nodes": 831,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism: SLIME reaction (Cardiolipin slime rxn; Cytoplasm slime rxn; +4); +1 more",
+   "file": "Other_metabolism_SLIME_reaction_Cardiolipin_slime_rxn_9cf76c.json",
+   "path": "Yeast9/Other_metabolism_SLIME_reaction_Cardiolipin_slime_rxn_9cf76c.json",
+   "reactions": 120,
+   "nodes": 1093,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Exchange reaction (amino acids and peptides)",
+   "file": "Transport_and_exchange_Exchange_reaction_amino_acids_74e597.json",
+   "path": "Yeast9/Transport_and_exchange_Exchange_reaction_amino_acids_74e597.json",
+   "reactions": 120,
+   "nodes": 481,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Exchange reaction (lipids / nucleotides and nucleosides)",
+   "file": "Transport_and_exchange_Exchange_reaction_lipids_nucle_079ad7.json",
+   "path": "Yeast9/Transport_and_exchange_Exchange_reaction_lipids_nucle_079ad7.json",
+   "reactions": 120,
+   "nodes": 488,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport [c, erm]; Exchange reaction (urea); +1 more",
+   "file": "Transport_and_exchange_Transport_c_erm_Exchange_react_5a270a.json",
+   "path": "Yeast9/Transport_and_exchange_Transport_c_erm_Exchange_react_5a270a.json",
+   "reactions": 120,
+   "nodes": 615,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport [c, p]; Transport [c, n]",
+   "file": "Transport_and_exchange_Transport_c_p_Transport_c_n.json",
+   "path": "Yeast9/Transport_and_exchange_Transport_c_p_Transport_c_n.json",
+   "reactions": 120,
+   "nodes": 690,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport [c, v]; Transport [c, m] (UTP)",
+   "file": "Transport_and_exchange_Transport_c_v_Transport_c_m_UTP.json",
+   "path": "Yeast9/Transport_and_exchange_Transport_c_v_Transport_c_m_UTP.json",
+   "reactions": 120,
+   "nodes": 696,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport [ce, erm]; Transport [er, g]; Transport [c, vm]",
+   "file": "Transport_and_exchange_Transport_ce_erm_Transport_er_eafb72.json",
+   "path": "Yeast9/Transport_and_exchange_Transport_ce_erm_Transport_er_eafb72.json",
+   "reactions": 120,
+   "nodes": 606,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Arginine and proline; Glycine, serine and threonine; +2 more",
+   "file": "Amino_acid_metabolism_Arginine_and_proline_Glycine_se_a36240.json",
+   "path": "Yeast9/Amino_acid_metabolism_Arginine_and_proline_Glycine_se_a36240.json",
+   "reactions": 119,
+   "nodes": 850,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: Porphyrin and chlorophyll; Folate biosynthesis; Thiamine; +4 more",
+   "file": "Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_385cf3.json",
+   "path": "Yeast9/Cofactor_and_vitamin_metabolism_Porphyrin_and_chlorop_385cf3.json",
+   "reactions": 119,
+   "nodes": 827,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Mlcl acyltransferase; O-phosphoethanolamine); +1 more",
+   "file": "Lipid_metabolism_Glycerophospholipid_Mlcl_acyltransfe_382a6f.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerophospholipid_Mlcl_acyltransfe_382a6f.json",
+   "reactions": 119,
+   "nodes": 1128,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Phospholipase cell envelope; +2)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Phospholipase_ce_7b1d38.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerophospholipid_Phospholipase_ce_7b1d38.json",
+   "reactions": 119,
+   "nodes": 742,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Alanine, aspartate and glutamate; Arginine biosynthesis; Glutathione; Tryptophan; +3 more",
+   "file": "Amino_acid_metabolism_Alanine_aspartate_and_glutamate_47fb75.json",
+   "path": "Yeast9/Amino_acid_metabolism_Alanine_aspartate_and_glutamate_47fb75.json",
+   "reactions": 118,
+   "nodes": 834,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Biomass and exchange; Transport [c, ce]; Other transport and exchange",
+   "file": "Transport_and_exchange_Biomass_and_exchange_Transport_30ffbc.json",
+   "path": "Yeast9/Transport_and_exchange_Biomass_and_exchange_Transport_30ffbc.json",
+   "reactions": 118,
+   "nodes": 750,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Complex alcohol; Transport [c, e]; Transport [c, g]; Growth; Transport [erm, n]; +1 more",
+   "file": "Transport_and_exchange_Complex_alcohol_Transport_c_e_cdd1ed.json",
+   "path": "Yeast9/Transport_and_exchange_Complex_alcohol_Transport_c_e_cdd1ed.json",
+   "reactions": 118,
+   "nodes": 743,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Cysteine and methionine; tRNA; +1 more",
+   "file": "Amino_acid_metabolism_Cysteine_and_methionine_tRNA_1_more.json",
+   "path": "Yeast9/Amino_acid_metabolism_Cysteine_and_methionine_tRNA_1_more.json",
+   "reactions": 117,
+   "nodes": 893,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Inositol phosphate (Phosphatase cytoplasm; myo-inositol; +1); Other carbohydrate",
+   "file": "Carbohydrate_metabolism_Inositol_phosphate_Phosphatas_dbf6ad.json",
+   "path": "Yeast9/Carbohydrate_metabolism_Inositol_phosphate_Phosphatas_dbf6ad.json",
+   "reactions": 117,
+   "nodes": 776,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Mlcl acyltransferase; Methyltransferase)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Mlcl_acyltransfe_3575f2.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerophospholipid_Mlcl_acyltransfe_3575f2.json",
+   "reactions": 117,
+   "nodes": 1119,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid ester pathway; Fatty acid biosynthesis",
+   "file": "Lipid_metabolism_Fatty_acid_ester_pathway_Fatty_acid_34ea6c.json",
+   "path": "Yeast9/Lipid_metabolism_Fatty_acid_ester_pathway_Fatty_acid_34ea6c.json",
+   "reactions": 116,
+   "nodes": 850,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerophospholipid (Vacuolar; Mlcl acyltransferase)",
+   "file": "Lipid_metabolism_Glycerophospholipid_Vacuolar_Mlcl_ac_d8291e.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerophospholipid_Vacuolar_Mlcl_ac_d8291e.json",
+   "reactions": 116,
+   "nodes": 814,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Glycolysis / gluconeogenesis; Citrate cycle (TCA cycle); Starch and sucrose; +1 more",
+   "file": "Carbohydrate_metabolism_Glycolysis_gluconeogenesis_Ci_3e0a3c.json",
+   "path": "Yeast9/Carbohydrate_metabolism_Glycolysis_gluconeogenesis_Ci_3e0a3c.json",
+   "reactions": 114,
+   "nodes": 899,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism: Sphingoglycolipid (Inositolphosphotransferase mipc-d; Mipc synthase; +3)",
+   "file": "Other_metabolism_Sphingoglycolipid_Inositolphosphotra_1de005.json",
+   "path": "Yeast9/Other_metabolism_Sphingoglycolipid_Inositolphosphotra_1de005.json",
+   "reactions": 114,
+   "nodes": 603,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerolipid (phosphatidate; Glycerol Phosphate); +1 more",
+   "file": "Lipid_metabolism_Glycerolipid_phosphatidate_Glycerol_6d4546.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerolipid_phosphatidate_Glycerol_6d4546.json",
+   "reactions": 113,
+   "nodes": 1129,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerolipid (Diacylglycerol acyltransferase)",
+   "file": "Lipid_metabolism_Glycerolipid_Diacylglycerol_acyltransferase.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerolipid_Diacylglycerol_acyltransferase.json",
+   "reactions": 112,
+   "nodes": 1159,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerolipid (Transport membrane-lipid particle; +1)",
+   "file": "Lipid_metabolism_Glycerolipid_Transport_membrane-lipi_8fc60d.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerolipid_Transport_membrane-lipi_8fc60d.json",
+   "reactions": 110,
+   "nodes": 620,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Purine; Cyclic nucleotide",
+   "file": "Nucleotide_metabolism_Purine_Cyclic_nucleotide.json",
+   "path": "Yeast9/Nucleotide_metabolism_Purine_Cyclic_nucleotide.json",
+   "reactions": 97,
+   "nodes": 855,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Carbohydrate metabolism: Alternate carbon; Fructose and mannose; Pentose and glucuronate interconversions; +4 more",
+   "file": "Carbohydrate_metabolism_Alternate_carbon_Fructose_and_58b842.json",
+   "path": "Yeast9/Carbohydrate_metabolism_Alternate_carbon_Fructose_and_58b842.json",
+   "reactions": 93,
+   "nodes": 615,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerolipid (Triglyceride slime rxn; +1)",
+   "file": "Lipid_metabolism_Glycerolipid_Triglyceride_slime_rxn_1.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerolipid_Triglyceride_slime_rxn_1.json",
+   "reactions": 93,
+   "nodes": 913,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Glycerolipid (Lipase lipid particle)",
+   "file": "Lipid_metabolism_Glycerolipid_Lipase_lipid_particle.json",
+   "path": "Yeast9/Lipid_metabolism_Glycerolipid_Lipase_lipid_particle.json",
+   "reactions": 92,
+   "nodes": 743,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Sphingolipid",
+   "file": "Lipid_metabolism_Sphingolipid.json",
+   "path": "Yeast9/Lipid_metabolism_Sphingolipid.json",
+   "reactions": 92,
+   "nodes": 752,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Steroid biosynthesis; Biosynthesis of unsaturated fatty acids",
+   "file": "Lipid_metabolism_Steroid_biosynthesis_Biosynthesis_of_a9a584.json",
+   "path": "Yeast9/Lipid_metabolism_Steroid_biosynthesis_Biosynthesis_of_a9a584.json",
+   "reactions": 90,
+   "nodes": 804,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Lipid metabolism: Fatty acid degradation",
+   "file": "Lipid_metabolism_Fatty_acid_degradation.json",
+   "path": "Yeast9/Lipid_metabolism_Fatty_acid_degradation.json",
+   "reactions": 84,
+   "nodes": 531,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Nucleotide metabolism: Pyrimidine",
+   "file": "Nucleotide_metabolism_Pyrimidine.json",
+   "path": "Yeast9/Nucleotide_metabolism_Pyrimidine.json",
+   "reactions": 71,
+   "nodes": 487,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Other metabolism: SLIME reaction (Phosphorylceramide slime rxn; +5)",
+   "file": "Other_metabolism_SLIME_reaction_Phosphorylceramide_sl_42d442.json",
+   "path": "Yeast9/Other_metabolism_SLIME_reaction_Phosphorylceramide_sl_42d442.json",
+   "reactions": 50,
+   "nodes": 407,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Energy metabolism",
+   "file": "Energy_metabolism.json",
+   "path": "Yeast9/Energy_metabolism.json",
+   "reactions": 38,
+   "nodes": 236,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Terpenoid and polyketide metabolism",
+   "file": "Terpenoid_and_polyketide_metabolism.json",
+   "path": "Yeast9/Terpenoid_and_polyketide_metabolism.json",
+   "reactions": 37,
+   "nodes": 258,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Cofactor and vitamin metabolism: One carbon pool by folate; Vitamin b6; Biotin",
+   "file": "Cofactor_and_vitamin_metabolism_One_carbon_pool_by_fo_2da046.json",
+   "path": "Yeast9/Cofactor_and_vitamin_metabolism_One_carbon_pool_by_fo_2da046.json",
+   "reactions": 36,
+   "nodes": 304,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Glycan metabolism",
+   "file": "Glycan_metabolism.json",
+   "path": "Yeast9/Glycan_metabolism.json",
+   "reactions": 34,
+   "nodes": 237,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Transport and exchange: Transport [c, gm]; Transport [p, m]",
+   "file": "Transport_and_exchange_Transport_c_gm_Transport_p_m.json",
+   "path": "Yeast9/Transport_and_exchange_Transport_c_gm_Transport_p_m.json",
+   "reactions": 12,
+   "nodes": 66,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Amino acid metabolism: Lysine",
+   "file": "Amino_acid_metabolism_Lysine.json",
+   "path": "Yeast9/Amino_acid_metabolism_Lysine.json",
+   "reactions": 7,
+   "nodes": 46,
+   "combined": false,
+   "canvas": false
+  },
+  {
+   "name": "Unassigned clusters",
+   "file": "Unassigned_clusters.json",
+   "path": "Yeast9/Unassigned_clusters.json",
+   "reactions": 3,
+   "nodes": 18,
+   "combined": false,
+   "canvas": false
+  }
+ ]
+}

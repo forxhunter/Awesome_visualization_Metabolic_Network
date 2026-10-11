@@ -6,6 +6,11 @@ on one canvas** — 251,405 of BiGG's 251,424 reactions, as Escher JSON and as S
 current generation, in [`v2/`](v2/), and it is what the repository's default index lists. The
 previous generation, v1, is still here unchanged; see [v1](#v1-the-previous-generation) below.
 
+v2 also carries one model that is not in BiGG: **Yeast9**, the consensus *Saccharomyces
+cerevisiae* model ([yeast-GEM](https://github.com/SysBioChalmers/yeast-GEM) v9.1.1), in
+[`v2/Yeast9/`](v2/Yeast9/) — 43 pathway maps and a whole-model canvas, 4,105 reactions, drawn
+from its SBML with the same pipeline. The BiGG figures above do not include it.
+
 Every map in this repository was produced by **MetaCarto**, a layout engine that draws a
 metabolic network the way a curator would rather than the way a force-directed algorithm does.
 The code is open at [forxhunter/MetaCarto](https://github.com/forxhunter/MetaCarto) (release

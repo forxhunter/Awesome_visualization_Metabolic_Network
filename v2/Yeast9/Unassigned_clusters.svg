@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-344.3 -197.5 1159.6 1284.9" width="1160" height="1285">
+<rect x="-344.3" y="-197.5" width="1159.6" height="1284.9" fill="#ffffff"/>
+<g stroke-linecap="round" fill="none">
+<line x1="140.0" y1="100.0" x2="140.0" y2="194.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="140.0" y1="194.0" x2="140.0" y2="230.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="140.0" y1="230.0" x2="140.0" y2="266.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="140.0" y1="266.0" x2="140.0" y2="360.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M140.0 266.0 C140.0 356.7 89.3 373.1 -12.2 315.4" stroke="#9aa6b2" stroke-width="3.0"/>
+<line x1="420.0" y1="100.0" x2="420.0" y2="194.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="420.0" y1="194.0" x2="420.0" y2="230.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="420.0" y1="230.0" x2="420.0" y2="266.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="420.0" y1="266.0" x2="420.0" y2="360.0" stroke="#9aa6b2" stroke-width="3.0"/>
+<path d="M420.0 266.0 C420.0 356.7 470.7 373.1 572.2 315.4" stroke="#9aa6b2" stroke-width="3.0"/>
+<line x1="140.0" y1="560.0" x2="140.0" y2="654.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="140.0" y1="654.0" x2="140.0" y2="690.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="140.0" y1="690.0" x2="140.0" y2="726.0" stroke="#2f3b47" stroke-width="6.0"/>
+<line x1="140.0" y1="726.0" x2="140.0" y2="820.0" stroke="#2f3b47" stroke-width="6.0"/>
+<path d="M140.0 726.0 C140.0 816.7 89.3 833.1 -12.2 775.4" stroke="#9aa6b2" stroke-width="3.0"/>
+</g><g>
+<path d="M140.0 344.0 L124.0 298.0 L156.0 298.0 Z" fill="#9aa6b2"/>
+<path d="M1.7 323.4 L49.6 332.2 L33.8 360.0 Z" fill="#9aa6b2"/>
+<path d="M420.0 344.0 L404.0 298.0 L436.0 298.0 Z" fill="#9aa6b2"/>
+<path d="M558.3 323.4 L526.2 360.0 L510.4 332.2 Z" fill="#9aa6b2"/>
+<path d="M140.0 790.0 L124.0 744.0 L156.0 744.0 Z" fill="#2f3b47"/>
+<path d="M1.7 783.4 L49.6 792.2 L33.8 820.0 Z" fill="#9aa6b2"/>
+<circle cx="420.0" cy="360.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="140.0" cy="360.0" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="140.0" cy="100.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="420.0" cy="100.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="140.0" cy="560.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="140.0" cy="820.0" r="30.0" fill="#e8833a" stroke="#2f3b47" stroke-width="2"/>
+<circle cx="140.0" cy="230.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="140.0" cy="194.0" r="6.0" fill="#7f8c99"/>
+<circle cx="140.0" cy="266.0" r="6.0" fill="#7f8c99"/>
+<circle cx="-12.2" cy="315.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="420.0" cy="230.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="420.0" cy="194.0" r="6.0" fill="#7f8c99"/>
+<circle cx="420.0" cy="266.0" r="6.0" fill="#7f8c99"/>
+<circle cx="572.2" cy="315.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+<circle cx="140.0" cy="690.0" r="11.0" fill="#3a7bd5"/>
+<circle cx="140.0" cy="654.0" r="6.0" fill="#7f8c99"/>
+<circle cx="140.0" cy="726.0" r="6.0" fill="#7f8c99"/>
+<circle cx="-12.2" cy="775.4" r="16.0" fill="#c8d2dc" stroke="#6b7885" stroke-width="2"/>
+</g>
+<g font-family="Helvetica,Arial,sans-serif">
+<text x="304.9" y="360.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">h2o2[c]</text>
+<text x="174.7" y="360.0" font-size="19.8" fill="#6b7885" dominant-baseline="middle">h2o2[m]</text>
+<text x="174.7" y="100.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">superoxide[m]</text>
+<text x="454.7" y="100.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">superoxide[c]</text>
+<text x="174.7" y="560.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">8-oxo-dGTP</text>
+<text x="174.7" y="820.0" font-size="19.8" fill="#1c252e" dominant-baseline="middle">8-oxo-dGMP</text>
+<text x="-104.3" y="315.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2[m]</text>
+<text x="606.8" y="315.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">o2[c]</text>
+<text x="-81.3" y="775.4" font-size="19.8" fill="#6b7885" dominant-baseline="middle">ppi</text>
+<text x="177.8" y="230.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">r_4190</text>
+<text x="457.8" y="230.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">r_4270</text>
+<text x="177.8" y="690.0" font-size="27.0" fill="#2b5fa8" dominant-baseline="middle">r_4279</text>
+<text x="-194.3" y="1.2" font-size="78.0" fill="#a83a6e" dominant-baseline="middle">Unassigned clusters</text>
+<text x="-194.3" y="922.4" font-size="24.0" fill="#a83a6e" dominant-baseline="middle">Created by Tianyu Wu (GitHub: forxhunter)</text>
+</g>
+</svg>
